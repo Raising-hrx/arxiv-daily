@@ -1,7 +1,31 @@
 # arxiv-daily
- Automated deployment @ 2023-05-02 20:30:46
+ Automated deployment @ 2023-05-02 20:55:52
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-01**|**Automated Paper Screening for Clinical Reviews Using Large Language Models**|Eddie Guo et.al.|[2305.00844v1](http://arxiv.org/abs/2305.00844v1)|null|
+|**2023-04-30**|**How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model**|Michael Hanna et.al.|[2305.00586v1](http://arxiv.org/abs/2305.00586v1)|null|
+|**2023-04-29**|**A Cognitive Account of the Puzzle of Ideography**|Xerxes D. Arsiwalla et.al.|[2305.00296v1](http://arxiv.org/abs/2305.00296v1)|null|
+|**2023-04-28**|**HausaNLP at SemEval-2023 Task 10: Transfer Learning, Synthetic Data and Side-Information for Multi-Level Sexism Classification**|Saminu Mohammad Aliyu et.al.|[2305.00076v1](http://arxiv.org/abs/2305.00076v1)|null|
+|**2023-04-28**|**Explainable Verbal Reasoner Plus (EVR+): A Natural Language Reasoning Framework that Supports Diverse Compositional Reasoning**|Zhengzhong Liang et.al.|[2305.00061v1](http://arxiv.org/abs/2305.00061v1)|[link](https://github.com/zhengzhongliang/explainableverbalreasonerplus)|
+|**2023-04-28**|**Interpreting Vision and Language Generative Models with Semantic Visual Priors**|Michele Cafagna et.al.|[2304.14986v1](http://arxiv.org/abs/2304.14986v1)|null|
+|**2023-04-27**|**Understanding Shared Speech-Text Representations**|Gary Wang et.al.|[2304.14514v1](http://arxiv.org/abs/2304.14514v1)|null|
+|**2023-04-26**|**Transferring Procedural Knowledge across Commonsense Tasks**|Yifan Jiang et.al.|[2304.13867v1](http://arxiv.org/abs/2304.13867v1)|null|
+|**2023-04-26**|**ChartSumm: A Comprehensive Benchmark for Automatic Chart Summarization of Long and Short Summaries**|Raian Rahman et.al.|[2304.13620v2](http://arxiv.org/abs/2304.13620v2)|null|
+|**2023-04-25**|**Towards Explainable and Safe Conversational Agents for Mental Health: A Survey**|Surjodeep Sarkar et.al.|[2304.13191v1](http://arxiv.org/abs/2304.13191v1)|null|
+|**2023-04-25**|**Answering Questions by Meta-Reasoning over Multiple Chains of Thought**|Ori Yoran et.al.|[2304.13007v1](http://arxiv.org/abs/2304.13007v1)|[link](https://github.com/oriyor/reasoning-on-cots)|
+|**2023-04-25**|**Explain like I am BM25: Interpreting a Dense Model's Ranked-List with a Sparse Approximation**|Michael Llordes et.al.|[2304.12631v1](http://arxiv.org/abs/2304.12631v1)|[link](https://github.com/micllordes/elibm25)|
+|**2023-04-24**|**Understanding and Predicting Human Label Variation in Natural Language Inference through Explanation**|Nan-Jiang Jiang et.al.|[2304.12443v1](http://arxiv.org/abs/2304.12443v1)|null|
+|**2023-04-24**|**TIGTEC : Token Importance Guided TExt Counterfactuals**|Milan Bhan et.al.|[2304.12425v1](http://arxiv.org/abs/2304.12425v1)|null|
+|**2023-04-24**|**Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by Identifying Important Nodes with Bridgeness**|Hogun Park et.al.|[2304.12036v2](http://arxiv.org/abs/2304.12036v2)|null|
+|**2023-04-23**|**Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness**|Bo Li et.al.|[2304.11633v1](http://arxiv.org/abs/2304.11633v1)|[link](https://github.com/pkuserc/chatgpt_for_ie)|
+|**2023-04-22**|**Recurrent Neural Networks and Long Short-Term Memory Networks: Tutorial and Survey**|Benyamin Ghojogh et.al.|[2304.11461v1](http://arxiv.org/abs/2304.11461v1)|null|
+|**2023-04-22**|**A bounded rationality account of dependency length minimization in Hindi**|Sidharth Ranjan et.al.|[2304.11410v1](http://arxiv.org/abs/2304.11410v1)|null|
 
 ## Question Answering
 
@@ -48,30 +72,6 @@
 |**2023-04-23**|**IslamicPCQA: A Dataset for Persian Multi-hop Complex Question Answering in Islamic Text Resources**|Arash Ghafouri et.al.|[2304.11664v1](http://arxiv.org/abs/2304.11664v1)|null|
 |**2023-04-23**|**Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models**|Jiashuo Sun et.al.|[2304.11657v1](http://arxiv.org/abs/2304.11657v1)|[link](https://github.com/gasolsun36/iter-cot)|
 |**2023-04-23**|**Divide and Prompt: Chain of Thought Prompting for Text-to-SQL**|Xiping Liu et.al.|[2304.11556v1](http://arxiv.org/abs/2304.11556v1)|null|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-05-01**|**Automated Paper Screening for Clinical Reviews Using Large Language Models**|Eddie Guo et.al.|[2305.00844v1](http://arxiv.org/abs/2305.00844v1)|null|
-|**2023-04-30**|**How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model**|Michael Hanna et.al.|[2305.00586v1](http://arxiv.org/abs/2305.00586v1)|null|
-|**2023-04-29**|**A Cognitive Account of the Puzzle of Ideography**|Xerxes D. Arsiwalla et.al.|[2305.00296v1](http://arxiv.org/abs/2305.00296v1)|null|
-|**2023-04-28**|**HausaNLP at SemEval-2023 Task 10: Transfer Learning, Synthetic Data and Side-Information for Multi-Level Sexism Classification**|Saminu Mohammad Aliyu et.al.|[2305.00076v1](http://arxiv.org/abs/2305.00076v1)|null|
-|**2023-04-28**|**Explainable Verbal Reasoner Plus (EVR+): A Natural Language Reasoning Framework that Supports Diverse Compositional Reasoning**|Zhengzhong Liang et.al.|[2305.00061v1](http://arxiv.org/abs/2305.00061v1)|[link](https://github.com/zhengzhongliang/explainableverbalreasonerplus)|
-|**2023-04-28**|**Interpreting Vision and Language Generative Models with Semantic Visual Priors**|Michele Cafagna et.al.|[2304.14986v1](http://arxiv.org/abs/2304.14986v1)|null|
-|**2023-04-27**|**Understanding Shared Speech-Text Representations**|Gary Wang et.al.|[2304.14514v1](http://arxiv.org/abs/2304.14514v1)|null|
-|**2023-04-26**|**Transferring Procedural Knowledge across Commonsense Tasks**|Yifan Jiang et.al.|[2304.13867v1](http://arxiv.org/abs/2304.13867v1)|null|
-|**2023-04-26**|**ChartSumm: A Comprehensive Benchmark for Automatic Chart Summarization of Long and Short Summaries**|Raian Rahman et.al.|[2304.13620v2](http://arxiv.org/abs/2304.13620v2)|null|
-|**2023-04-25**|**Towards Explainable and Safe Conversational Agents for Mental Health: A Survey**|Surjodeep Sarkar et.al.|[2304.13191v1](http://arxiv.org/abs/2304.13191v1)|null|
-|**2023-04-25**|**Answering Questions by Meta-Reasoning over Multiple Chains of Thought**|Ori Yoran et.al.|[2304.13007v1](http://arxiv.org/abs/2304.13007v1)|[link](https://github.com/oriyor/reasoning-on-cots)|
-|**2023-04-25**|**Explain like I am BM25: Interpreting a Dense Model's Ranked-List with a Sparse Approximation**|Michael Llordes et.al.|[2304.12631v1](http://arxiv.org/abs/2304.12631v1)|[link](https://github.com/micllordes/elibm25)|
-|**2023-04-24**|**Understanding and Predicting Human Label Variation in Natural Language Inference through Explanation**|Nan-Jiang Jiang et.al.|[2304.12443v1](http://arxiv.org/abs/2304.12443v1)|null|
-|**2023-04-24**|**TIGTEC : Token Importance Guided TExt Counterfactuals**|Milan Bhan et.al.|[2304.12425v1](http://arxiv.org/abs/2304.12425v1)|null|
-|**2023-04-24**|**Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by Identifying Important Nodes with Bridgeness**|Hogun Park et.al.|[2304.12036v2](http://arxiv.org/abs/2304.12036v2)|null|
-|**2023-04-23**|**Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness**|Bo Li et.al.|[2304.11633v1](http://arxiv.org/abs/2304.11633v1)|[link](https://github.com/pkuserc/chatgpt_for_ie)|
-|**2023-04-22**|**Recurrent Neural Networks and Long Short-Term Memory Networks: Tutorial and Survey**|Benyamin Ghojogh et.al.|[2304.11461v1](http://arxiv.org/abs/2304.11461v1)|null|
-|**2023-04-22**|**A bounded rationality account of dependency length minimization in Hindi**|Sidharth Ranjan et.al.|[2304.11410v1](http://arxiv.org/abs/2304.11410v1)|null|
 
 ## Reasoning
 
