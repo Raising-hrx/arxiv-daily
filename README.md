@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-05-13 09:12:44
+ Automated deployment @ 2023-05-13 20:27:14
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -43,7 +43,7 @@
 |**2023-05-11**|**AfriQA: Cross-lingual Open-Retrieval Question Answering for African Languages**|Odunayo Ogundepo et.al.|[2305.06897v1](http://arxiv.org/abs/2305.06897v1)|[link](https://github.com/masakhane-io/afriqa)|
 |**2023-05-11**|**WebCPM: Interactive Web Search for Chinese Long-form Question Answering**|Yujia Qin et.al.|[2305.06849v1](http://arxiv.org/abs/2305.06849v1)|[link](https://github.com/thunlp/webcpm)|
 |**2023-05-11**|**Think Twice: Measuring the Efficiency of Eliminating Prediction Shortcuts of Question Answering Models**|Lukáš Mikula et.al.|[2305.06841v1](http://arxiv.org/abs/2305.06841v1)|null|
-|**2023-05-11**|**THUIR@COLIEE 2023: More Parameters and Legal Knowledge for Legal Case Entailment**|Haitao Li et.al.|[2305.06817v1](http://arxiv.org/abs/2305.06817v1)|[link](https://github.com/cshaitao/thuir-coliee2023)|
+|**2023-05-11**|**THUIR@COLIEE 2023: More Parameters and Legal Knowledge for Legal Case Entailment**|Haitao Li et.al.|[2305.06817v1](http://arxiv.org/abs/2305.06817v1)|[link](https://github.com/lihaitao18375278/THUIR-COLIEE2023)|
 |**2023-05-11**|**INGENIOUS: Using Informative Data Subsets for Efficient Pre-Training of Large Language Models**|H S V N S Kowndinya Renduchintala et.al.|[2305.06677v1](http://arxiv.org/abs/2305.06677v1)|null|
 |**2023-05-11**|**QURG: Question Rewriting Guided Context-Dependent Text-to-SQL Semantic Parsing**|Linzheng Chai et.al.|[2305.06655v1](http://arxiv.org/abs/2305.06655v1)|null|
 |**2023-05-11**|**When the Majority is Wrong: Leveraging Annotator Disagreement for Subjective Tasks**|Eve Fleisig et.al.|[2305.06626v1](http://arxiv.org/abs/2305.06626v1)|null|
