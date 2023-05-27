@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-05-27 09:16:58
+ Automated deployment @ 2023-05-27 20:27:33
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -110,7 +110,7 @@
 |**2023-05-24**|**Interpretable by Design Visual Question Answering**|Xingyu Fu et.al.|[2305.14882v1](http://arxiv.org/abs/2305.14882v1)|null|
 |**2023-05-24**|**ClusterLLM: Large Language Models as a Guide for Text Clustering**|Yuwei Zhang et.al.|[2305.14871v1](http://arxiv.org/abs/2305.14871v1)|null|
 |**2023-05-24**|**CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering**|Weiqi Wang et.al.|[2305.14869v1](http://arxiv.org/abs/2305.14869v1)|[link](https://github.com/hkust-knowcomp/car)|
-|**2023-05-24**|**Large Language Models are In-Context Semantic Reasoners rather than Symbolic Reasoners**|Xiaojuan Tang et.al.|[2305.14825v1](http://arxiv.org/abs/2305.14825v1)|null|
+|**2023-05-24**|**Large Language Models are In-Context Semantic Reasoners rather than Symbolic Reasoners**|Xiaojuan Tang et.al.|[2305.14825v1](http://arxiv.org/abs/2305.14825v1)|[link](https://github.com/xiaojuantang/icsr)|
 |**2023-05-24**|**Mitigating Temporal Misalignment by Discarding Outdated Facts**|Michael J. Q. Zhang et.al.|[2305.14824v1](http://arxiv.org/abs/2305.14824v1)|[link](https://github.com/mikejqzhang/mitigating_misalignment)|
 |**2023-05-24**|**Machine Reading Comprehension using Case-based Reasoning**|Dung Thai et.al.|[2305.14815v1](http://arxiv.org/abs/2305.14815v1)|null|
 |**2023-05-24**|**MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions**|Zexuan Zhong et.al.|[2305.14795v1](http://arxiv.org/abs/2305.14795v1)|null|
@@ -175,7 +175,7 @@
 |**2023-05-23**|**Asking Clarification Questions to Handle Ambiguity in Open-Domain QA**|Dongryeol Lee et.al.|[2305.13808v1](http://arxiv.org/abs/2305.13808v1)|null|
 |**2023-05-23**|**Counterspeeches up my sleeve! Intent Distribution Learning and Persistent Fusion for Intent-Conditioned Counterspeech Generation**|Rishabh Gupta et.al.|[2305.13776v1](http://arxiv.org/abs/2305.13776v1)|[link](https://github.com/lcs2-iiitd/quarc-counterspeech)|
 |**2023-05-23**|**i-Code Studio: A Configurable and Composable Framework for Integrative AI**|Yuwei Fang et.al.|[2305.13738v1](http://arxiv.org/abs/2305.13738v1)|null|
-|**2023-05-23**|**Self-Critique Prompting with Large Language Models for Inductive Instructions**|Rui Wang et.al.|[2305.13733v1](http://arxiv.org/abs/2305.13733v1)|null|
+|**2023-05-23**|**Self-Critique Prompting with Large Language Models for Inductive Instructions**|Rui Wang et.al.|[2305.13733v1](http://arxiv.org/abs/2305.13733v1)|[link](https://github.com/devoallen/indust)|
 |**2023-05-23**|**Continual Dialogue State Tracking via Example-Guided Question Answering**|Hyundong Cho et.al.|[2305.13721v1](http://arxiv.org/abs/2305.13721v1)|null|
 |**2023-05-23**|**Knowledge of Knowledge: Exploring Known-Unknowns Uncertainty with Large Language Models**|Alfonso Amayuelas et.al.|[2305.13712v1](http://arxiv.org/abs/2305.13712v1)|null|
 |**2023-05-23**|**MemeCap: A Dataset for Captioning and Interpreting Memes**|EunJeong Hwang et.al.|[2305.13703v1](http://arxiv.org/abs/2305.13703v1)|[link](https://github.com/eujhwang/meme-cap)|
@@ -232,7 +232,7 @@
 |**2023-05-24**|**Interpretable by Design Visual Question Answering**|Xingyu Fu et.al.|[2305.14882v1](http://arxiv.org/abs/2305.14882v1)|null|
 |**2023-05-24**|**ByteSized32: A Corpus and Challenge Task for Generating Task-Specific World Models Expressed as Text Games**|Ruoyao Wang et.al.|[2305.14879v1](http://arxiv.org/abs/2305.14879v1)|[link](https://github.com/cognitiveailab/bytesized32)|
 |**2023-05-24**|**CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering**|Weiqi Wang et.al.|[2305.14869v1](http://arxiv.org/abs/2305.14869v1)|[link](https://github.com/hkust-knowcomp/car)|
-|**2023-05-24**|**Large Language Models are In-Context Semantic Reasoners rather than Symbolic Reasoners**|Xiaojuan Tang et.al.|[2305.14825v1](http://arxiv.org/abs/2305.14825v1)|null|
+|**2023-05-24**|**Large Language Models are In-Context Semantic Reasoners rather than Symbolic Reasoners**|Xiaojuan Tang et.al.|[2305.14825v1](http://arxiv.org/abs/2305.14825v1)|[link](https://github.com/xiaojuantang/icsr)|
 |**2023-05-24**|**Machine Reading Comprehension using Case-based Reasoning**|Dung Thai et.al.|[2305.14815v1](http://arxiv.org/abs/2305.14815v1)|null|
 |**2023-05-24**|**Large Language Models as Counterfactual Generator: Strengths and Weaknesses**|Yongqi Li et.al.|[2305.14791v1](http://arxiv.org/abs/2305.14791v1)|null|
 |**2023-05-24**|**ChatGPT and Simple Linguistic Inferences: Blind Spots and Blinds**|Victoria Basmov et.al.|[2305.14785v1](http://arxiv.org/abs/2305.14785v1)|null|
@@ -343,7 +343,7 @@
 |**2023-05-18**|**Comparing Machines and Children: Using Developmental Psychology Experiments to Assess the Strengths and Weaknesses of LaMDA Responses**|Eliza Kosoy et.al.|[2305.11243v1](http://arxiv.org/abs/2305.11243v1)|null|
 |**2023-05-18**|**Silver Syntax Pre-training for Cross-Domain Relation Extraction**|Elisa Bassignana et.al.|[2305.11016v1](http://arxiv.org/abs/2305.11016v1)|[link](https://github.com/mainlp/syntax-pre-training-for-re)|
 |**2023-05-18**|**Think Outside the Code: Brainstorming Boosts Large Language Models in Code Generation**|Xin-Ye Li et.al.|[2305.10679v1](http://arxiv.org/abs/2305.10679v1)|null|
-|**2023-05-18**|**Language Models Meet World Models: Embodied Experiences Enhance Language Models**|Jiannan Xiang et.al.|[2305.10626v2](http://arxiv.org/abs/2305.10626v2)|null|
+|**2023-05-18**|**Language Models Meet World Models: Embodied Experiences Enhance Language Models**|Jiannan Xiang et.al.|[2305.10626v2](http://arxiv.org/abs/2305.10626v2)|[link](https://github.com/szxiangjn/world-model-for-language-model)|
 |**2023-05-17**|**Tree of Thoughts: Deliberate Problem Solving with Large Language Models**|Shunyu Yao et.al.|[2305.10601v1](http://arxiv.org/abs/2305.10601v1)|[link](https://github.com/ysymyth/tree-of-thought-llm)|
 |**2023-05-17**|**From chocolate bunny to chocolate crocodile: Do Language Models Understand Noun Compounds?**|Jordan Coil et.al.|[2305.10568v2](http://arxiv.org/abs/2305.10568v2)|null|
 |**2023-05-17**|**Incorporating Attribution Importance for Improving Faithfulness Metrics**|Zhixue Zhao et.al.|[2305.10496v1](http://arxiv.org/abs/2305.10496v1)|[link](https://github.com/casszhao/softfaith)|
