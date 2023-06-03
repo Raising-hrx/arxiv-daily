@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-03 09:28:08
+ Automated deployment @ 2023-06-03 20:28:19
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -38,7 +38,7 @@
 |**2023-05-28**|**RuSentNE-2023: Evaluating Entity-Oriented Sentiment Analysis on Russian News Texts**|Anton Golubev et.al.|[2305.17679v1](http://arxiv.org/abs/2305.17679v1)|null|
 |**2023-05-28**|**Decoding the Underlying Meaning of Multimodal Hateful Memes**|Ming Shan Hee et.al.|[2305.17678v1](http://arxiv.org/abs/2305.17678v1)|[link](https://github.com/social-ai-studio/hatred)|
 |**2023-05-27**|**Unsupervised Selective Rationalization with Noise Injection**|Adam Storek et.al.|[2305.17534v1](http://arxiv.org/abs/2305.17534v1)|[link](https://github.com/adamstorek/noise_injection)|
-|**2023-05-27**|**What indeed can GPT models do in chemistry? A comprehensive benchmark on eight tasks**|Taicheng Guo et.al.|[2305.18365v1](http://arxiv.org/abs/2305.18365v1)|null|
+|**2023-05-27**|**What indeed can GPT models do in chemistry? A comprehensive benchmark on eight tasks**|Taicheng Guo et.al.|[2305.18365v1](http://arxiv.org/abs/2305.18365v1)|[link](https://github.com/chemfoundationmodels/chemllmbench)|
 |**2023-05-27**|**Understanding Emotion Valence is a Joint Deep Learning Task**|Gabriel Roccabruna et.al.|[2305.17422v1](http://arxiv.org/abs/2305.17422v1)|null|
 |**2023-05-27**|**DNA-GPT: Divergent N-Gram Analysis for Training-Free Detection of GPT-Generated Text**|Xianjun Yang et.al.|[2305.17359v1](http://arxiv.org/abs/2305.17359v1)|[link](https://github.com/xianjun-yang/dna-gpt)|
 |**2023-05-27**|**Why Does Zero-Shot Cross-Lingual Generation Fail? An Explanation and a Solution**|Tianjian Li et.al.|[2305.17325v1](http://arxiv.org/abs/2305.17325v1)|null|
@@ -94,7 +94,7 @@
 |**2023-05-28**|**Large Language Models, scientific knowledge and factuality: A systematic analysis in antibiotic discovery**|Magdalena Wysocka et.al.|[2305.17819v1](http://arxiv.org/abs/2305.17819v1)|null|
 |**2023-05-28**|**Conformal Prediction with Large Language Models for Multi-Choice Question Answering**|Bhawesh Kumar et.al.|[2305.18404v2](http://arxiv.org/abs/2305.18404v2)|[link](https://github.com/bhaweshiitk/conformalllm)|
 |**2023-05-28**|**Breaking Language Barriers with a LEAP: Learning Strategies for Polyglot LLMs**|Akshay Nambi et.al.|[2305.17740v1](http://arxiv.org/abs/2305.17740v1)|null|
-|**2023-05-28**|**SQuARe: A Large-Scale Dataset of Sensitive Questions and Acceptable Responses Created Through Human-Machine Collaboration**|Hwaran Lee et.al.|[2305.17696v1](http://arxiv.org/abs/2305.17696v1)|null|
+|**2023-05-28**|**SQuARe: A Large-Scale Dataset of Sensitive Questions and Acceptable Responses Created Through Human-Machine Collaboration**|Hwaran Lee et.al.|[2305.17696v1](http://arxiv.org/abs/2305.17696v1)|[link](https://github.com/naver-ai/korean-safety-benchmarks)|
 |**2023-05-28**|**Emergent Modularity in Pre-trained Transformers**|Zhengyan Zhang et.al.|[2305.18390v1](http://arxiv.org/abs/2305.18390v1)|[link](https://github.com/thunlp/modularity-analysis)|
 |**2023-05-28**|**HaVQA: A Dataset for Visual Question Answering and Multimodal Research in Hausa Language**|Shantipriya Parida et.al.|[2305.17690v1](http://arxiv.org/abs/2305.17690v1)|null|
 |**2023-05-28**|**RuSentNE-2023: Evaluating Entity-Oriented Sentiment Analysis on Russian News Texts**|Anton Golubev et.al.|[2305.17679v1](http://arxiv.org/abs/2305.17679v1)|null|
@@ -123,12 +123,12 @@
 |**2023-06-01**|**MEWL: Few-shot multimodal word learning with referential uncertainty**|Guangyuan Jiang et.al.|[2306.00503v1](http://arxiv.org/abs/2306.00503v1)|null|
 |**2023-06-01**|**Developing and Building Ontologies in Cyber Security**|Muhammad Shoaib Farooq et.al.|[2306.00377v1](http://arxiv.org/abs/2306.00377v1)|null|
 |**2023-05-31**|**Using Visual Cropping to Enhance Fine-Detail Question Answering of BLIP-Family Models**|Jiarui Zhang et.al.|[2306.00228v1](http://arxiv.org/abs/2306.00228v1)|null|
-|**2023-05-31**|**Decision-Oriented Dialogue for Human-AI Collaboration**|Jessy Lin et.al.|[2305.20076v2](http://arxiv.org/abs/2305.20076v2)|null|
+|**2023-05-31**|**Decision-Oriented Dialogue for Human-AI Collaboration**|Jessy Lin et.al.|[2305.20076v2](http://arxiv.org/abs/2305.20076v2)|[link](https://github.com/jlin816/dialop)|
 |**2023-05-31**|**Let's Verify Step by Step**|Hunter Lightman et.al.|[2305.20050v1](http://arxiv.org/abs/2305.20050v1)|[link](https://github.com/openai/prm800k)|
 |**2023-05-31**|**AQE: Argument Quadruplet Extraction via a Quad-Tagging Augmented Generative Approach**|Jia Guo et.al.|[2305.19902v1](http://arxiv.org/abs/2305.19902v1)|[link](https://github.com/guojiapub/quadtag)|
 |**2023-05-31**|**How Does Pretraining Improve Discourse-Aware Translation?**|Zhihong Huang et.al.|[2305.19847v1](http://arxiv.org/abs/2305.19847v1)|null|
 |**2023-05-31**|**What does the Failure to Reason with "Respectively" in Zero/Few-Shot Settings Tell Us about Language Models?**|Ruixiang Cui et.al.|[2305.19597v1](http://arxiv.org/abs/2305.19597v1)|null|
-|**2023-05-31**|**Large Language Models Are Not Abstract Reasoners**|Gaël Gendron et.al.|[2305.19555v1](http://arxiv.org/abs/2305.19555v1)|null|
+|**2023-05-31**|**Large Language Models Are Not Abstract Reasoners**|Gaël Gendron et.al.|[2305.19555v1](http://arxiv.org/abs/2305.19555v1)|[link](https://github.com/strong-ai-lab/logical-and-abstract-reasoning)|
 |**2023-05-31**|**Towards Flow Graph Prediction of Open-Domain Procedural Texts**|Keisuke Shirai et.al.|[2305.19497v1](http://arxiv.org/abs/2305.19497v1)|null|
 |**2023-05-31**|**PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning**|Faeze Brahman et.al.|[2305.19472v1](http://arxiv.org/abs/2305.19472v1)|null|
 |**2023-05-31**|**The Impact of Positional Encoding on Length Generalization in Transformers**|Amirhossein Kazemnejad et.al.|[2305.19466v1](http://arxiv.org/abs/2305.19466v1)|[link](https://github.com/mcgill-nlp/length-generalization)|
