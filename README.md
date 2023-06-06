@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-06 09:36:44
+ Automated deployment @ 2023-06-06 20:31:10
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,7 +8,13 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-06-02**|**Unsupervised Extractive Summarization of Emotion Triggers**|Tiberiu Sosea et.al.|[2306.01444v1](http://arxiv.org/abs/2306.01444v1)|null|
+|**2023-06-05**|**Benchmarking Large Language Models on CMExam -- A Comprehensive Chinese Medical Exam Dataset**|Junling Liu et.al.|[2306.03030v1](http://arxiv.org/abs/2306.03030v1)|null|
+|**2023-06-05**|**KNOW How to Make Up Your Mind! Adversarially Detecting and Alleviating Inconsistencies in Natural Language Explanations**|Myeongjun Jang et.al.|[2306.02980v1](http://arxiv.org/abs/2306.02980v1)|null|
+|**2023-06-05**|**DecompX: Explaining Transformers Decisions by Propagating Token Decomposition**|Ali Modarressi et.al.|[2306.02873v1](http://arxiv.org/abs/2306.02873v1)|[link](https://github.com/mohsenfayyaz/decompx)|
+|**2023-06-05**|**Orca: Progressive Learning from Complex Explanation Traces of GPT-4**|Subhabrata Mukherjee et.al.|[2306.02707v1](http://arxiv.org/abs/2306.02707v1)|null|
+|**2023-06-05**|**What Makes Entities Similar? A Similarity Flooding Perspective for Multi-sourced Knowledge Graph Embeddings**|Zequn Sun et.al.|[2306.02622v1](http://arxiv.org/abs/2306.02622v1)|[link](https://github.com/nju-websoft/unify-ea-sf)|
+|**2023-06-03**|**COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements**|Xuhui Zhou et.al.|[2306.01985v1](http://arxiv.org/abs/2306.01985v1)|null|
+|**2023-06-02**|**Unsupervised Extractive Summarization of Emotion Triggers**|Tiberiu Sosea et.al.|[2306.01444v1](http://arxiv.org/abs/2306.01444v1)|[link](https://github.com/tsosea2/covidet-ext)|
 |**2023-06-02**|**Interpretable and Explainable Logical Policies via Neurally Guided Symbolic Abstraction**|Quentin Delfosse et.al.|[2306.01439v1](http://arxiv.org/abs/2306.01439v1)|null|
 |**2023-06-01**|**Examining the Causal Effect of First Names on Language Models: The Case of Social Commonsense Reasoning**|Sullam Jeoung et.al.|[2306.01117v1](http://arxiv.org/abs/2306.01117v1)|[link](https://github.com/sullamij/causal-first-names)|
 |**2023-06-01**|**TopEx: Topic-based Explanations for Model Comparison**|Shreya Havaldar et.al.|[2306.00976v2](http://arxiv.org/abs/2306.00976v2)|null|
@@ -30,26 +36,30 @@
 |**2023-05-30**|**Explaining Hate Speech Classification with Model Agnostic Methods**|Durgesh Nandini et.al.|[2306.00021v1](http://arxiv.org/abs/2306.00021v1)|null|
 |**2023-05-30**|**Concise Answers to Complex Questions: Summarization of Long-form Answers**|Abhilash Potluri et.al.|[2305.19271v1](http://arxiv.org/abs/2305.19271v1)|[link](https://github.com/acpotluri/lfqa_summary)|
 |**2023-05-30**|**Towards Explainable and Language-Agnostic LLMs: Symbolic Reverse Engineering of Language at Scale**|Walid S. Saba et.al.|[2306.00017v1](http://arxiv.org/abs/2306.00017v1)|null|
-|**2023-05-30**|**LonXplain: Lonesomeness as a Consequence of Mental Disturbance in Reddit Posts**|Muskan Garg et.al.|[2305.18736v1](http://arxiv.org/abs/2305.18736v1)|null|
-|**2023-05-30**|**An Annotated Dataset for Explainable Interpersonal Risk Factors of Mental Disturbance in Social Media Posts**|Muskan Garg et.al.|[2305.18727v1](http://arxiv.org/abs/2305.18727v1)|[link](https://github.com/drmuskangarg/irf)|
-|**2023-05-29**|**Exploiting Explainability to Design Adversarial Attacks and Evaluate Attack Resilience in Hate-Speech Detection Models**|Pranath Reddy Kumbam et.al.|[2305.18585v1](http://arxiv.org/abs/2305.18585v1)|null|
-|**2023-05-29**|**Faithfulness Tests for Natural Language Explanations**|Pepa Atanasova et.al.|[2305.18029v1](http://arxiv.org/abs/2305.18029v1)|[link](https://github.com/copenlu/nle_faithfulness)|
-|**2023-05-29**|**Can We Trust Explainable AI Methods on ASR? An Evaluation on Phoneme Recognition**|Xiaoliang Wu et.al.|[2305.18011v1](http://arxiv.org/abs/2305.18011v1)|null|
-|**2023-05-29**|**minOffense: Inter-Agreement Hate Terms for Stable Rules, Concepts, Transitivities, and Lattices**|Animesh Chaturvedi et.al.|[2305.17984v1](http://arxiv.org/abs/2305.17984v1)|null|
-|**2023-05-28**|**Understanding Breast Cancer Survival: Using Causality and Language Models on Multi-omics Data**|Mugariya Farooq et.al.|[2305.18410v1](http://arxiv.org/abs/2305.18410v1)|null|
-|**2023-05-28**|**Learning a Structural Causal Model for Intuition Reasoning in Conversation**|Hang Chen et.al.|[2305.17727v1](http://arxiv.org/abs/2305.17727v1)|null|
-|**2023-05-28**|**Evaluating GPT-3 Generated Explanations for Hateful Content Moderation**|Han Wang et.al.|[2305.17680v1](http://arxiv.org/abs/2305.17680v1)|[link](https://github.com/social-ai-studio/gpt3-hateeval)|
-|**2023-05-28**|**RuSentNE-2023: Evaluating Entity-Oriented Sentiment Analysis on Russian News Texts**|Anton Golubev et.al.|[2305.17679v1](http://arxiv.org/abs/2305.17679v1)|null|
-|**2023-05-28**|**Decoding the Underlying Meaning of Multimodal Hateful Memes**|Ming Shan Hee et.al.|[2305.17678v1](http://arxiv.org/abs/2305.17678v1)|[link](https://github.com/social-ai-studio/hatred)|
-|**2023-05-27**|**Unsupervised Selective Rationalization with Noise Injection**|Adam Storek et.al.|[2305.17534v1](http://arxiv.org/abs/2305.17534v1)|[link](https://github.com/adamstorek/noise_injection)|
-|**2023-05-27**|**What indeed can GPT models do in chemistry? A comprehensive benchmark on eight tasks**|Taicheng Guo et.al.|[2305.18365v1](http://arxiv.org/abs/2305.18365v1)|[link](https://github.com/chemfoundationmodels/chemllmbench)|
-|**2023-05-27**|**Understanding Emotion Valence is a Joint Deep Learning Task**|Gabriel Roccabruna et.al.|[2305.17422v1](http://arxiv.org/abs/2305.17422v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-05**|**Benchmarking Large Language Models on CMExam -- A Comprehensive Chinese Medical Exam Dataset**|Junling Liu et.al.|[2306.03030v1](http://arxiv.org/abs/2306.03030v1)|null|
+|**2023-06-05**|**PokemonChat: Auditing ChatGPT for Pokémon Universe Knowledge**|Laura Cabello et.al.|[2306.03024v1](http://arxiv.org/abs/2306.03024v1)|null|
+|**2023-06-05**|**Gen-IR @ SIGIR 2023: The First Workshop on Generative Information Retrieval**|Gabriel Bénédict et.al.|[2306.02887v1](http://arxiv.org/abs/2306.02887v1)|null|
+|**2023-06-05**|**Exploring the Relationship between Alignment and Cross-lingual Transfer in Multilingual Transformers**|Félix Gaschi et.al.|[2306.02790v1](http://arxiv.org/abs/2306.02790v1)|[link](https://github.com/posos-tech/multilingual-alignment-and-transfer)|
+|**2023-06-05**|**Identifying the style by a qualified reader on a short fragment of generated poetry**|Boris Orekhov et.al.|[2306.02771v1](http://arxiv.org/abs/2306.02771v1)|null|
+|**2023-06-05**|**Do-GOOD: Towards Distribution Shift Evaluation for Pre-Trained Visual Document Understanding Models**|Jiabang He et.al.|[2306.02623v1](http://arxiv.org/abs/2306.02623v1)|[link](https://github.com/maehcm/do-good)|
+|**2023-06-05**|**Evaluation of AI Chatbots for Patient-Specific EHR Questions**|Alaleh Hamidi et.al.|[2306.02549v1](http://arxiv.org/abs/2306.02549v1)|null|
+|**2023-06-04**|**Evaluating and Improving Tool-Augmented Computation-Intensive Math Reasoning**|Beichen Zhang et.al.|[2306.02408v1](http://arxiv.org/abs/2306.02408v1)|[link](https://github.com/rucaibox/carp)|
+|**2023-06-04**|**bgGLUE: A Bulgarian General Language Understanding Evaluation Benchmark**|Momchil Hardalov et.al.|[2306.02349v1](http://arxiv.org/abs/2306.02349v1)|null|
+|**2023-06-04**|**A Mathematical Abstraction for Balancing the Trade-off Between Creativity and Reality in Large Language Models**|Ritwik Sinha et.al.|[2306.02295v1](http://arxiv.org/abs/2306.02295v1)|null|
+|**2023-06-03**|**SpeechGen: Unlocking the Generative Power of Speech Language Models with Prompts**|Haibin Wu et.al.|[2306.02207v1](http://arxiv.org/abs/2306.02207v1)|null|
+|**2023-06-03**|**Question-Context Alignment and Answer-Context Dependencies for Effective Answer Sentence Selection**|Minh Van Nguyen et.al.|[2306.02196v1](http://arxiv.org/abs/2306.02196v1)|null|
+|**2023-06-03**|**Stubborn Lexical Bias in Data and Models**|Sofia Serrano et.al.|[2306.02190v1](http://arxiv.org/abs/2306.02190v1)|null|
+|**2023-06-03**|**Extending an Event-type Ontology: Adding Verbs and Classes Using Fine-tuned LLMs Suggestions**|Jana Straková et.al.|[2306.02130v1](http://arxiv.org/abs/2306.02130v1)|[link](https://github.com/strakova/synsemclass_ml)|
+|**2023-06-03**|**Table and Image Generation for Investigating Knowledge of Entities in Pre-trained Vision and Language Models**|Hidetaka Kamigaito et.al.|[2306.02115v1](http://arxiv.org/abs/2306.02115v1)|[link](https://github.com/kamigaito/wikitig)|
+|**2023-06-03**|**A Conditional Generative Chatbot using Transformer Model**|Nura Esfandiari et.al.|[2306.02074v1](http://arxiv.org/abs/2306.02074v1)|null|
+|**2023-06-03**|**Conflicts, Villains, Resolutions: Towards models of Narrative Media Framing**|Lea Frermann et.al.|[2306.02052v1](http://arxiv.org/abs/2306.02052v1)|[link](https://github.com/phenixace/narrative-framing)|
+|**2023-06-03**|**A Comprehensive Survey on Deep Learning for Relation Extraction: Recent Advances and New Frontiers**|Zhao Xiaoyan et.al.|[2306.02051v1](http://arxiv.org/abs/2306.02051v1)|null|
 |**2023-06-02**|**Learning Multi-step Reasoning from Arithmetic Task**|Tianduo Wang et.al.|[2306.01707v1](http://arxiv.org/abs/2306.01707v1)|[link](https://github.com/TianduoWang/MsAT)|
 |**2023-06-02**|**Fine-Grained Human Feedback Gives Better Rewards for Language Model Training**|Zeqiu Wu et.al.|[2306.01693v1](http://arxiv.org/abs/2306.01693v1)|null|
 |**2023-06-02**|**Data-Efficient French Language Modeling with CamemBERTa**|Wissam Antoun et.al.|[2306.01497v1](http://arxiv.org/abs/2306.01497v1)|null|
@@ -80,33 +90,28 @@
 |**2023-05-31**|**Unveiling Cross Modality Bias in Visual Question Answering: A Causal View with Possible Worlds VQA**|Ali Vosoughi et.al.|[2305.19664v1](http://arxiv.org/abs/2305.19664v1)|null|
 |**2023-05-31**|**Ethical Considerations for Machine Translation of Indigenous Languages: Giving a Voice to the Speakers**|Manuel Mager et.al.|[2305.19474v1](http://arxiv.org/abs/2305.19474v1)|null|
 |**2023-05-30**|**GPT4GEO: How a Language Model Sees the World's Geography**|Jonathan Roberts et.al.|[2306.00020v1](http://arxiv.org/abs/2306.00020v1)|null|
-|**2023-05-30**|**Concise Answers to Complex Questions: Summarization of Long-form Answers**|Abhilash Potluri et.al.|[2305.19271v1](http://arxiv.org/abs/2305.19271v1)|[link](https://github.com/acpotluri/lfqa_summary)|
-|**2023-05-30**|**A Tale of Two Laws of Semantic Change: Predicting Synonym Changes with Distributional Semantic Models**|Bastien Liétard et.al.|[2305.19143v1](http://arxiv.org/abs/2305.19143v1)|null|
-|**2023-05-30**|**Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints**|Jiaxin Bai et.al.|[2305.19068v1](http://arxiv.org/abs/2305.19068v1)|null|
-|**2023-05-30**|**Cross Encoding as Augmentation: Towards Effective Educational Text Classification**|Hyun Seung Lee et.al.|[2305.18977v2](http://arxiv.org/abs/2305.18977v2)|null|
-|**2023-05-30**|**Chatbots put to the test in math and logic problems: A preliminary comparison and assessment of ChatGPT-3.5, ChatGPT-4, and Google Bard**|Vagelis Plevris et.al.|[2305.18618v1](http://arxiv.org/abs/2305.18618v1)|null|
-|**2023-05-30**|**Generate then Select: Open-ended Visual Question Answering Guided by World Knowledge**|Xingyu Fu et.al.|[2305.18842v1](http://arxiv.org/abs/2305.18842v1)|null|
-|**2023-05-30**|**Graph Reasoning for Question Answering with Triplet Retrieval**|Shiyang Li et.al.|[2305.18742v1](http://arxiv.org/abs/2305.18742v1)|null|
-|**2023-05-30**|**Grokking of Hierarchical Structure in Vanilla Transformers**|Shikhar Murty et.al.|[2305.18741v1](http://arxiv.org/abs/2305.18741v1)|null|
-|**2023-05-30**|**KEYword based Sampling (KEYS) for Large Language Models**|Jyothir S V et.al.|[2305.18679v2](http://arxiv.org/abs/2305.18679v2)|null|
-|**2023-05-29**|**Faith and Fate: Limits of Transformers on Compositionality**|Nouha Dziri et.al.|[2305.18654v2](http://arxiv.org/abs/2305.18654v2)|null|
-|**2023-05-29**|**Enhanced Chart Understanding in Vision and Language Task via Cross-modal Pre-training on Plot Table Pairs**|Mingyang Zhou et.al.|[2305.18641v1](http://arxiv.org/abs/2305.18641v1)|null|
-|**2023-05-29**|**Short Answer Grading Using One-shot Prompting and Text Similarity Scoring Model**|Su-Youn Yoon et.al.|[2305.18638v1](http://arxiv.org/abs/2305.18638v1)|null|
-|**2023-05-29**|**PaLI-X: On Scaling up a Multilingual Vision and Language Model**|Xi Chen et.al.|[2305.18565v1](http://arxiv.org/abs/2305.18565v1)|null|
-|**2023-05-29**|**A Critical Evaluation of Evaluations for Long-form Question Answering**|Fangyuan Xu et.al.|[2305.18201v1](http://arxiv.org/abs/2305.18201v1)|[link](https://github.com/carriex/lfqa_eval)|
-|**2023-05-29**|**Leveraging Training Data in Few-Shot Prompting for Numerical Reasoning**|Zhanming Jie et.al.|[2305.18170v1](http://arxiv.org/abs/2305.18170v1)|[link](https://github.com/allanj/dynamic-pal)|
-|**2023-05-29**|**Do Large Language Models Know What They Don't Know?**|Zhangyue Yin et.al.|[2305.18153v2](http://arxiv.org/abs/2305.18153v2)|null|
-|**2023-05-29**|**GripRank: Bridging the Gap between Retrieval and Generation via the Generative Knowledge Improved Passage Ranking**|Jiaqi Bai et.al.|[2305.18144v1](http://arxiv.org/abs/2305.18144v1)|null|
-|**2023-05-29**|**A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets**|Md Tahmid Rahman Laskar et.al.|[2305.18486v2](http://arxiv.org/abs/2305.18486v2)|null|
-|**2023-05-29**|**Faithfulness Tests for Natural Language Explanations**|Pepa Atanasova et.al.|[2305.18029v1](http://arxiv.org/abs/2305.18029v1)|[link](https://github.com/copenlu/nle_faithfulness)|
-|**2023-05-29**|**Taming AI Bots: Controllability of Neural States in Large Language Models**|Stefano Soatto et.al.|[2305.18449v1](http://arxiv.org/abs/2305.18449v1)|null|
-|**2023-05-28**|**Large Language Models, scientific knowledge and factuality: A systematic analysis in antibiotic discovery**|Magdalena Wysocka et.al.|[2305.17819v1](http://arxiv.org/abs/2305.17819v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-05**|**Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction**|Rose E. Wang et.al.|[2306.03090v1](http://arxiv.org/abs/2306.03090v1)|[link](https://github.com/rosewang2008/zero-shot-teacher-feedback)|
+|**2023-06-05**|**Benchmarking Large Language Models on CMExam -- A Comprehensive Chinese Medical Exam Dataset**|Junling Liu et.al.|[2306.03030v1](http://arxiv.org/abs/2306.03030v1)|null|
+|**2023-06-05**|**PokemonChat: Auditing ChatGPT for Pokémon Universe Knowledge**|Laura Cabello et.al.|[2306.03024v1](http://arxiv.org/abs/2306.03024v1)|null|
+|**2023-06-05**|**Which Argumentative Aspects of Hate Speech in Social Media can be reliably identified?**|Damián Furman et.al.|[2306.02978v1](http://arxiv.org/abs/2306.02978v1)|[link](https://github.com/asohmo/asohmo-dataset)|
+|**2023-06-05**|**Improving Conversational Recommendation Systems via Counterfactual Data Simulation**|Xiaolei Wang et.al.|[2306.02842v1](http://arxiv.org/abs/2306.02842v1)|[link](https://github.com/rucaibox/cfcrs)|
+|**2023-06-05**|**UNIDECOR: A Unified Deception Corpus for Cross-Corpus Deception Detection**|Aswathy Velutharambath et.al.|[2306.02827v1](http://arxiv.org/abs/2306.02827v1)|[link](https://bitbucket.org/aswathyve/unifieddeceptioncorpus)|
+|**2023-06-05**|**MCTS: A Multi-Reference Chinese Text Simplification Dataset**|Ruining Chong et.al.|[2306.02796v1](http://arxiv.org/abs/2306.02796v1)|[link](https://github.com/blcuicall/mcts)|
+|**2023-06-05**|**Orca: Progressive Learning from Complex Explanation Traces of GPT-4**|Subhabrata Mukherjee et.al.|[2306.02707v1](http://arxiv.org/abs/2306.02707v1)|null|
+|**2023-06-05**|**A Study of Situational Reasoning for Traffic Understanding**|Jiarui Zhang et.al.|[2306.02520v1](http://arxiv.org/abs/2306.02520v1)|null|
+|**2023-06-04**|**Modeling Cross-Cultural Pragmatic Inference with Codenames Duet**|Omar Shaikh et.al.|[2306.02475v1](http://arxiv.org/abs/2306.02475v1)|null|
+|**2023-06-04**|**Evaluating and Improving Tool-Augmented Computation-Intensive Math Reasoning**|Beichen Zhang et.al.|[2306.02408v1](http://arxiv.org/abs/2306.02408v1)|[link](https://github.com/rucaibox/carp)|
+|**2023-06-04**|**Commonsense Knowledge Transfer for Pre-trained Language Models**|Wangchunshu Zhou et.al.|[2306.02388v1](http://arxiv.org/abs/2306.02388v1)|null|
+|**2023-06-04**|**bgGLUE: A Bulgarian General Language Understanding Evaluation Benchmark**|Momchil Hardalov et.al.|[2306.02349v1](http://arxiv.org/abs/2306.02349v1)|null|
+|**2023-06-04**|**Probing Physical Reasoning with Counter-Commonsense Context**|Kazushi Kondo et.al.|[2306.02258v1](http://arxiv.org/abs/2306.02258v1)|null|
+|**2023-06-03**|**COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements**|Xuhui Zhou et.al.|[2306.01985v1](http://arxiv.org/abs/2306.01985v1)|null|
+|**2023-06-02**|**VisualGPTScore: Visio-Linguistic Reasoning with Multimodal Generative Pre-Training Scores**|Zhiqiu Lin et.al.|[2306.01879v1](http://arxiv.org/abs/2306.01879v1)|null|
 |**2023-06-02**|**Learning Multi-step Reasoning from Arithmetic Task**|Tianduo Wang et.al.|[2306.01707v1](http://arxiv.org/abs/2306.01707v1)|[link](https://github.com/TianduoWang/MsAT)|
 |**2023-06-02**|**Knowledge Graph Reasoning over Entities and Numerical Values**|Jiaxin Bai et.al.|[2306.01399v1](http://arxiv.org/abs/2306.01399v1)|[link](https://github.com/hkust-knowcomp/nrn)|
 |**2023-06-02**|**THiFLY Research at SemEval-2023 Task 7: A Multi-granularity System for CTR-based Textual Entailment and Evidence Retrieval**|Yuxuan Zhou et.al.|[2306.01245v1](http://arxiv.org/abs/2306.01245v1)|[link](https://github.com/thumlp/nli4ct)|
@@ -134,7 +139,7 @@
 |**2023-05-31**|**Towards Flow Graph Prediction of Open-Domain Procedural Texts**|Keisuke Shirai et.al.|[2305.19497v1](http://arxiv.org/abs/2305.19497v1)|null|
 |**2023-05-31**|**PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning**|Faeze Brahman et.al.|[2305.19472v1](http://arxiv.org/abs/2305.19472v1)|null|
 |**2023-05-31**|**The Impact of Positional Encoding on Length Generalization in Transformers**|Amirhossein Kazemnejad et.al.|[2305.19466v1](http://arxiv.org/abs/2305.19466v1)|[link](https://github.com/mcgill-nlp/length-generalization)|
-|**2023-05-30**|**ScoNe: Benchmarking Negation Reasoning in Language Models With Fine-Tuning and In-Context Learning**|Jingyuan Selena She et.al.|[2305.19426v1](http://arxiv.org/abs/2305.19426v1)|null|
+|**2023-05-30**|**ScoNe: Benchmarking Negation Reasoning in Language Models With Fine-Tuning and In-Context Learning**|Jingyuan Selena She et.al.|[2305.19426v1](http://arxiv.org/abs/2305.19426v1)|[link](https://github.com/selenashe/scone)|
 |**2023-05-30**|**GPT4GEO: How a Language Model Sees the World's Geography**|Jonathan Roberts et.al.|[2306.00020v1](http://arxiv.org/abs/2306.00020v1)|null|
 |**2023-05-30**|**Less Likely Brainstorming: Using Language Models to Generate Alternative Hypotheses**|Liyan Tang et.al.|[2305.19339v1](http://arxiv.org/abs/2305.19339v1)|null|
 |**2023-05-30**|**The Magic of IF: Investigating Causal Reasoning Abilities in Large Language Models of Code**|Xiao Liu et.al.|[2305.19213v1](http://arxiv.org/abs/2305.19213v1)|[link](https://github.com/xxxiaol/magic-if)|
@@ -176,6 +181,7 @@
 |**2023-05-26**|**NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models**|Gengze Zhou et.al.|[2305.16986v2](http://arxiv.org/abs/2305.16986v2)|null|
 |**2023-05-26**|**MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting**|Tatsuro Inaba et.al.|[2305.16896v1](http://arxiv.org/abs/2305.16896v1)|[link](https://github.com/inabatatsuro/multitool-cot)|
 |**2023-05-26**|**Randomized Positional Encodings Boost Length Generalization of Transformers**|Anian Ruoss et.al.|[2305.16843v1](http://arxiv.org/abs/2305.16843v1)|null|
+|**2023-05-26**|**Distinguishing Human Generated Text From ChatGPT Generated Text Using Machine Learning**|Niful Islam et.al.|[2306.01761v1](http://arxiv.org/abs/2306.01761v1)|null|
 |**2023-05-26**|**Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning**|Xiaoming Shi et.al.|[2305.16646v1](http://arxiv.org/abs/2305.16646v1)|[link](https://github.com/ilampard/ep_llm)|
 |**2023-05-26**|**Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models**|Yao Yao et.al.|[2305.16582v1](http://arxiv.org/abs/2305.16582v1)|null|
 |**2023-05-26**|**Nichelle and Nancy: The Influence of Demographic Attributes and Tokenization Length on First Name Biases**|Haozhe An et.al.|[2305.16577v1](http://arxiv.org/abs/2305.16577v1)|null|
@@ -193,7 +199,7 @@
 |**2023-05-24**|**Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation**|Yuan Yang et.al.|[2305.15541v1](http://arxiv.org/abs/2305.15541v1)|[link](https://github.com/gblackout/logicllama)|
 |**2023-05-24**|**Lexinvariant Language Models**|Qian Huang et.al.|[2305.16349v1](http://arxiv.org/abs/2305.16349v1)|null|
 |**2023-05-24**|**Large Language Models for User Interest Journeys**|Konstantina Christakopoulou et.al.|[2305.15498v1](http://arxiv.org/abs/2305.15498v1)|null|
-|**2023-05-24**|**Towards Revealing the Mystery behind Chain of Thought: a Theoretical Perspective**|Guhao Feng et.al.|[2305.15408v2](http://arxiv.org/abs/2305.15408v2)|null|
+|**2023-05-24**|**Towards Revealing the Mystery behind Chain of Thought: a Theoretical Perspective**|Guhao Feng et.al.|[2305.15408v2](http://arxiv.org/abs/2305.15408v2)|[link](https://github.com/guyuntian/CoT_benchmark)|
 |**2023-05-24**|**ASPER: Answer Set Programming Enhanced Neural Network Models for Joint Entity-Relation Extraction**|Trung Hoang Le et.al.|[2305.15374v1](http://arxiv.org/abs/2305.15374v1)|null|
 |**2023-05-24**|**Gorilla: Large Language Model Connected with Massive APIs**|Shishir G. Patil et.al.|[2305.15334v1](http://arxiv.org/abs/2305.15334v1)|[link](https://github.com/ShishirPatil/gorilla)|
 |**2023-05-24**|**Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy**|Zhihong Shao et.al.|[2305.15294v1](http://arxiv.org/abs/2305.15294v1)|null|
@@ -243,30 +249,9 @@
 |**2023-05-24**|**Abductive Commonsense Reasoning Exploiting Mutually Exclusive Explanations**|Wenting Zhao et.al.|[2305.14618v1](http://arxiv.org/abs/2305.14618v1)|null|
 |**2023-05-24**|**COMET-M: Reasoning about Multiple Events in Complex Sentences**|Sahithya Ravi et.al.|[2305.14617v1](http://arxiv.org/abs/2305.14617v1)|null|
 |**2023-05-24**|**Selectively Answering Ambiguous Questions**|Jeremy R. Cole et.al.|[2305.14613v1](http://arxiv.org/abs/2305.14613v1)|null|
-|**2023-05-24**|**OpenPI2.0: An Improved Dataset for Entity Tracking in Texts**|Li Zhang et.al.|[2305.14603v1](http://arxiv.org/abs/2305.14603v1)|null|
+|**2023-05-24**|**OpenPI2.0: An Improved Dataset for Entity Tracking in Texts**|Li Zhang et.al.|[2305.14603v1](http://arxiv.org/abs/2305.14603v1)|[link](https://github.com/allenai/openpi-dataset)|
 |**2023-05-23**|**Few-shot Unified Question Answering: Tuning Models or Prompts?**|Srijan Bansal et.al.|[2305.14569v1](http://arxiv.org/abs/2305.14569v1)|null|
 |**2023-05-23**|**PEARL: Prompting Large Language Models to Plan and Execute Actions Over Long Documents**|Simeng Sun et.al.|[2305.14564v1](http://arxiv.org/abs/2305.14564v1)|null|
 |**2023-05-23**|**LLMs as Factual Reasoners: Insights from Existing Benchmarks and Beyond**|Philippe Laban et.al.|[2305.14540v1](http://arxiv.org/abs/2305.14540v1)|[link](https://github.com/salesforce/factualnlg)|
 |**2023-05-23**|**MathDial: A Dialogue Tutoring Dataset with Rich Pedagogical Properties Grounded in Math Reasoning Problems**|Jakub Macina et.al.|[2305.14536v1](http://arxiv.org/abs/2305.14536v1)|[link](https://github.com/eth-nlped/mathdial)|
 |**2023-05-23**|**Deduction under Perturbed Evidence: Probing Student Simulation Capabilities of Large Language Models**|Shashank Sonkar et.al.|[2305.14507v1](http://arxiv.org/abs/2305.14507v1)|null|
-|**2023-05-23**|**Self-Polish: Enhance Reasoning in Large Language Models via Problem Refinement**|Zhiheng Xi et.al.|[2305.14497v1](http://arxiv.org/abs/2305.14497v1)|[link](https://github.com/woooodyy/self-polish)|
-|**2023-05-23**|**Sociocultural Norm Similarities and Differences via Situational Alignment and Explainable Textual Entailment**|Sky CH-Wang et.al.|[2305.14492v1](http://arxiv.org/abs/2305.14492v1)|[link](https://github.com/asaakyan/socnormnli)|
-|**2023-05-23**|**Language Model Self-improvement by Reinforcement Learning Contemplation**|Jing-Cheng Pang et.al.|[2305.14483v1](http://arxiv.org/abs/2305.14483v1)|null|
-|**2023-05-23**|**BAND: Biomedical Alert News Dataset**|Zihao Fu et.al.|[2305.14480v1](http://arxiv.org/abs/2305.14480v1)|null|
-|**2023-05-23**|**Pre-training Language Models for Comparative Reasoning**|Mengxia Yu et.al.|[2305.14457v1](http://arxiv.org/abs/2305.14457v1)|null|
-|**2023-05-23**|**Image Manipulation via Multi-Hop Instructions -- A New Dataset and Weakly-Supervised Neuro-Symbolic Approach**|Harman Singh et.al.|[2305.14410v1](http://arxiv.org/abs/2305.14410v1)|null|
-|**2023-05-23**|**Anchor Prediction: Automatic Refinement of Internet Links**|Nelson F. Liu et.al.|[2305.14337v2](http://arxiv.org/abs/2305.14337v2)|null|
-|**2023-05-23**|**Automatic Model Selection with Large Language Models for Reasoning**|Xu Zhao et.al.|[2305.14333v1](http://arxiv.org/abs/2305.14333v1)|[link](https://github.com/xuzhao0/model-selection-reasoning)|
-|**2023-05-23**|**What Else Do I Need to Know? The Effect of Background Information on Users' Reliance on AI Systems**|Navita Goyal et.al.|[2305.14331v1](http://arxiv.org/abs/2305.14331v1)|null|
-|**2023-05-23**|**TalkUp: A Novel Dataset Paving the Way for Understanding Empowering Language**|Lucille Njoo et.al.|[2305.14326v1](http://arxiv.org/abs/2305.14326v1)|[link](https://github.com/chan0park/talkup)|
-|**2023-05-23**|**Improving Factuality and Reasoning in Language Models through Multiagent Debate**|Yilun Du et.al.|[2305.14325v1](http://arxiv.org/abs/2305.14325v1)|[link](https://github.com/composable-models/llm_multiagent_debate)|
-|**2023-05-23**|**ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models**|Zhipeng Chen et.al.|[2305.14323v2](http://arxiv.org/abs/2305.14323v2)|[link](https://github.com/rucaibox/chatcot)|
-|**2023-05-23**|**CREATOR: Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation**|Cheng Qian et.al.|[2305.14318v1](http://arxiv.org/abs/2305.14318v1)|null|
-|**2023-05-23**|**QTSumm: A New Benchmark for Query-Focused Table Summarization**|Yilun Zhao et.al.|[2305.14303v1](http://arxiv.org/abs/2305.14303v1)|[link](https://github.com/yilunzhao/qtsumm)|
-|**2023-05-23**|**LLM-powered Data Augmentation for Enhanced Crosslingual Performance**|Chenxi Whitehouse et.al.|[2305.14288v1](http://arxiv.org/abs/2305.14288v1)|[link](https://github.com/mbzuai-nlp/gen-X)|
-|**2023-05-23**|**Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs**|Angelica Chen et.al.|[2305.14279v1](http://arxiv.org/abs/2305.14279v1)|null|
-|**2023-05-23**|**Language Models with Rationality**|Nora Kassner et.al.|[2305.14250v1](http://arxiv.org/abs/2305.14250v1)|null|
-|**2023-05-23**|**HOP, UNION, GENERATE: Explainable Multi-hop Reasoning without Rationale Supervision**|Wenting Zhao et.al.|[2305.14237v1](http://arxiv.org/abs/2305.14237v1)|null|
-|**2023-05-23**|**Question Answering as Programming for Solving Time-Sensitive Questions**|Xinyu Zhu et.al.|[2305.14221v1](http://arxiv.org/abs/2305.14221v1)|[link](https://github.com/microsoft/ContextualSP)|
-|**2023-05-23**|**Exploring Chain-of-Thought Style Prompting for Text-to-SQL**|Chang-You Tai et.al.|[2305.14215v1](http://arxiv.org/abs/2305.14215v1)|null|
-|**2023-05-23**|**Towards Graph-hop Retrieval and Reasoning in Complex Question Answering over Textual Database**|Minjun Zhu et.al.|[2305.14211v1](http://arxiv.org/abs/2305.14211v1)|null|
