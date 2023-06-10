@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-10 09:23:25
+ Automated deployment @ 2023-06-10 20:26:43
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -39,7 +39,7 @@
 |**2023-06-08**|**Utterance Emotion Dynamics in Children's Poems: Emotional Changes Across Age**|Daniela Teodorescu et.al.|[2306.05387v1](http://arxiv.org/abs/2306.05387v1)|null|
 |**2023-06-08**|**Are fairness metric scores enough to assess discrimination biases in machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|
 |**2023-06-08**|**ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases**|Qiaoyu Tang et.al.|[2306.05301v1](http://arxiv.org/abs/2306.05301v1)|null|
-|**2023-06-08**|**M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models**|Wenxuan Zhang et.al.|[2306.05179v1](http://arxiv.org/abs/2306.05179v1)|null|
+|**2023-06-08**|**M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models**|Wenxuan Zhang et.al.|[2306.05179v1](http://arxiv.org/abs/2306.05179v1)|[link](https://github.com/damo-nlp-sg/m3exam)|
 |**2023-06-08**|**On Search Strategies for Document-Level Neural Machine Translation**|Christian Herold et.al.|[2306.05116v1](http://arxiv.org/abs/2306.05116v1)|null|
 |**2023-06-08**|**covLLM: Large Language Models for COVID-19 Biomedical Literature**|Yousuf A. Khan et.al.|[2306.04926v1](http://arxiv.org/abs/2306.04926v1)|null|
 |**2023-06-08**|**Expanding Scope: Adapting English Adversarial Attacks to Chinese**|Hanyu Liu et.al.|[2306.04874v1](http://arxiv.org/abs/2306.04874v1)|null|
