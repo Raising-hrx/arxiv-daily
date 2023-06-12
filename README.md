@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-12 09:37:41
+ Automated deployment @ 2023-06-12 20:29:33
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,11 +8,16 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-09**|**HiTZ@Antidote: Argumentation-driven Explainable Artificial Intelligence for Digital Medicine**|Rodrigo Agerri et.al.|[2306.06029v1](http://arxiv.org/abs/2306.06029v1)|null|
+|**2023-06-09**|**Language Models Can Learn Exceptions to Syntactic Rules**|Cara Su-Yi Leong et.al.|[2306.05969v1](http://arxiv.org/abs/2306.05969v1)|null|
+|**2023-06-09**|**Exploring the Responses of Large Language Models to Beginner Programmers' Help Requests**|Arto Hellas et.al.|[2306.05715v1](http://arxiv.org/abs/2306.05715v1)|null|
+|**2023-06-09**|**Judging LLM-as-a-judge with MT-Bench and Chatbot Arena**|Lianmin Zheng et.al.|[2306.05685v1](http://arxiv.org/abs/2306.05685v1)|null|
 |**2023-06-08**|**Closing the Loop: Testing ChatGPT to Generate Model Explanations to Improve Human Labelling of Sponsored Content on Social Media**|Thales Bertaglia et.al.|[2306.05115v1](http://arxiv.org/abs/2306.05115v1)|[link](https://github.com/thalesbertaglia/chatgpt-explanations-sponsored-content)|
 |**2023-06-08**|**LCT-1 at SemEval-2023 Task 10: Pre-training and Multi-task Learning for Sexism Detection and Classification**|Konstantin Chernyshev et.al.|[2306.05075v1](http://arxiv.org/abs/2306.05075v1)|[link](https://github.com/lct-rug-2022/edos-2023)|
 |**2023-06-07**|**The HCI Aspects of Public Deployment of Research Chatbots: A User Study, Design Recommendations, and Open Challenges**|Morteza Behrooz et.al.|[2306.04765v1](http://arxiv.org/abs/2306.04765v1)|null|
 |**2023-06-07**|**Using Large Language Model Annotations for Valid Downstream Statistical Inference in Social Science: Design-Based Semi-Supervised Learning**|Naoki Egami et.al.|[2306.04746v1](http://arxiv.org/abs/2306.04746v1)|null|
 |**2023-06-07**|**ChatGPT is fun, but it is not funny! Humor is still challenging Large Language Models**|Sophie Jentzsch et.al.|[2306.04563v1](http://arxiv.org/abs/2306.04563v1)|[link](https://github.com/dlr-sc/jokegpt-wassa23)|
+|**2023-06-07**|**Check Me If You Can: Detecting ChatGPT-Generated Academic Writing using CheckGPT**|Zeyan Liu et.al.|[2306.05524v1](http://arxiv.org/abs/2306.05524v1)|null|
 |**2023-06-07**|**From the One, Judge of the Whole: Typed Entailment Graph Construction with Predicate Generation**|Zhibin Chen et.al.|[2306.04170v1](http://arxiv.org/abs/2306.04170v1)|[link](https://github.com/zacharychenpk/tp-egg)|
 |**2023-06-06**|**Sentiment Analysis in Finance: From Transformers Back to eXplainable Lexicons (XLex)**|Maryan Rizinski et.al.|[2306.03997v1](http://arxiv.org/abs/2306.03997v1)|null|
 |**2023-06-06**|**CL-UZH at SemEval-2023 Task 10: Sexism Detection through Incremental Fine-Tuning and Multi-Task Learning with Label Descriptions**|Janis Goldzycher et.al.|[2306.03907v1](http://arxiv.org/abs/2306.03907v1)|null|
@@ -24,18 +29,23 @@
 |**2023-06-05**|**DecompX: Explaining Transformers Decisions by Propagating Token Decomposition**|Ali Modarressi et.al.|[2306.02873v1](http://arxiv.org/abs/2306.02873v1)|[link](https://github.com/mohsenfayyaz/decompx)|
 |**2023-06-05**|**Orca: Progressive Learning from Complex Explanation Traces of GPT-4**|Subhabrata Mukherjee et.al.|[2306.02707v1](http://arxiv.org/abs/2306.02707v1)|null|
 |**2023-06-05**|**What Makes Entities Similar? A Similarity Flooding Perspective for Multi-sourced Knowledge Graph Embeddings**|Zequn Sun et.al.|[2306.02622v1](http://arxiv.org/abs/2306.02622v1)|[link](https://github.com/nju-websoft/unify-ea-sf)|
+|**2023-06-03**|**Word-Level Explanations for Analyzing Bias in Text-to-Image Models**|Alexander Lin et.al.|[2306.05500v1](http://arxiv.org/abs/2306.05500v1)|null|
 |**2023-06-03**|**Unsupervised Human Activity Recognition through Two-stage Prompting with ChatGPT**|Qingxin Xia et.al.|[2306.02140v1](http://arxiv.org/abs/2306.02140v1)|null|
 |**2023-06-03**|**COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements**|Xuhui Zhou et.al.|[2306.01985v2](http://arxiv.org/abs/2306.01985v2)|null|
-|**2023-06-02**|**Unsupervised Extractive Summarization of Emotion Triggers**|Tiberiu Sosea et.al.|[2306.01444v1](http://arxiv.org/abs/2306.01444v1)|[link](https://github.com/tsosea2/covidet-ext)|
-|**2023-06-02**|**Interpretable and Explainable Logical Policies via Neurally Guided Symbolic Abstraction**|Quentin Delfosse et.al.|[2306.01439v1](http://arxiv.org/abs/2306.01439v1)|null|
-|**2023-06-01**|**Examining the Causal Effect of First Names on Language Models: The Case of Social Commonsense Reasoning**|Sullam Jeoung et.al.|[2306.01117v1](http://arxiv.org/abs/2306.01117v1)|[link](https://github.com/sullamij/causal-first-names)|
-|**2023-06-01**|**TopEx: Topic-based Explanations for Model Comparison**|Shreya Havaldar et.al.|[2306.00976v2](http://arxiv.org/abs/2306.00976v2)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-09**|**Trapping LLM Hallucinations Using Tagged Context Prompts**|Philip Feldman et.al.|[2306.06085v1](http://arxiv.org/abs/2306.06085v1)|null|
+|**2023-06-09**|**Language Models Can Learn Exceptions to Syntactic Rules**|Cara Su-Yi Leong et.al.|[2306.05969v1](http://arxiv.org/abs/2306.05969v1)|null|
+|**2023-06-09**|**Towards the Exploitation of LLM-based Chatbot for Providing Legal Support to Palestinian Cooperatives**|Rabee Qasem et.al.|[2306.05827v1](http://arxiv.org/abs/2306.05827v1)|null|
+|**2023-06-09**|**Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation**|Zhouhong Gu et.al.|[2306.05783v1](http://arxiv.org/abs/2306.05783v1)|[link](https://github.com/mikegu721/xiezhibenchmark)|
+|**2023-06-09**|**Exploring the Responses of Large Language Models to Beginner Programmers' Help Requests**|Arto Hellas et.al.|[2306.05715v1](http://arxiv.org/abs/2306.05715v1)|null|
+|**2023-06-09**|**Judging LLM-as-a-judge with MT-Bench and Chatbot Arena**|Lianmin Zheng et.al.|[2306.05685v1](http://arxiv.org/abs/2306.05685v1)|null|
+|**2023-06-09**|**Privacy Aware Question-Answering System for Online Mental Health Risk Assessment**|Prateek Chhikara et.al.|[2306.05652v1](http://arxiv.org/abs/2306.05652v1)|null|
+|**2023-06-08**|**LOST: A Mental Health Dataset of Low Self-esteem in Reddit Posts**|Muskan Garg et.al.|[2306.05596v1](http://arxiv.org/abs/2306.05596v1)|null|
 |**2023-06-08**|**Modular Visual Question Answering via Code Generation**|Sanjay Subramanian et.al.|[2306.05392v1](http://arxiv.org/abs/2306.05392v1)|[link](https://github.com/sanjayss34/codevqa)|
 |**2023-06-08**|**Utterance Emotion Dynamics in Children's Poems: Emotional Changes Across Age**|Daniela Teodorescu et.al.|[2306.05387v1](http://arxiv.org/abs/2306.05387v1)|null|
 |**2023-06-08**|**Are fairness metric scores enough to assess discrimination biases in machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|
@@ -80,23 +90,14 @@
 |**2023-06-05**|**Evaluation of AI Chatbots for Patient-Specific EHR Questions**|Alaleh Hamidi et.al.|[2306.02549v1](http://arxiv.org/abs/2306.02549v1)|null|
 |**2023-06-04**|**Evaluating and Improving Tool-Augmented Computation-Intensive Math Reasoning**|Beichen Zhang et.al.|[2306.02408v1](http://arxiv.org/abs/2306.02408v1)|[link](https://github.com/rucaibox/carp)|
 |**2023-06-04**|**bgGLUE: A Bulgarian General Language Understanding Evaluation Benchmark**|Momchil Hardalov et.al.|[2306.02349v2](http://arxiv.org/abs/2306.02349v2)|[link](https://github.com/bgglue/bgglue.github.io)|
-|**2023-06-04**|**A Mathematical Abstraction for Balancing the Trade-off Between Creativity and Reality in Large Language Models**|Ritwik Sinha et.al.|[2306.02295v1](http://arxiv.org/abs/2306.02295v1)|null|
-|**2023-06-03**|**SpeechGen: Unlocking the Generative Power of Speech Language Models with Prompts**|Haibin Wu et.al.|[2306.02207v1](http://arxiv.org/abs/2306.02207v1)|null|
-|**2023-06-03**|**Question-Context Alignment and Answer-Context Dependencies for Effective Answer Sentence Selection**|Minh Van Nguyen et.al.|[2306.02196v1](http://arxiv.org/abs/2306.02196v1)|null|
-|**2023-06-03**|**Stubborn Lexical Bias in Data and Models**|Sofia Serrano et.al.|[2306.02190v1](http://arxiv.org/abs/2306.02190v1)|null|
-|**2023-06-03**|**Extending an Event-type Ontology: Adding Verbs and Classes Using Fine-tuned LLMs Suggestions**|Jana Straková et.al.|[2306.02130v1](http://arxiv.org/abs/2306.02130v1)|[link](https://github.com/strakova/synsemclass_ml)|
-|**2023-06-03**|**Table and Image Generation for Investigating Knowledge of Entities in Pre-trained Vision and Language Models**|Hidetaka Kamigaito et.al.|[2306.02115v1](http://arxiv.org/abs/2306.02115v1)|[link](https://github.com/kamigaito/wikitig)|
-|**2023-06-03**|**A Conditional Generative Chatbot using Transformer Model**|Nura Esfandiari et.al.|[2306.02074v1](http://arxiv.org/abs/2306.02074v1)|null|
-|**2023-06-03**|**Conflicts, Villains, Resolutions: Towards models of Narrative Media Framing**|Lea Frermann et.al.|[2306.02052v1](http://arxiv.org/abs/2306.02052v1)|[link](https://github.com/phenixace/narrative-framing)|
-|**2023-06-03**|**A Comprehensive Survey on Deep Learning for Relation Extraction: Recent Advances and New Frontiers**|Xiaoyan Zhao et.al.|[2306.02051v2](http://arxiv.org/abs/2306.02051v2)|null|
-|**2023-06-02**|**Learning Multi-Step Reasoning by Solving Arithmetic Tasks**|Tianduo Wang et.al.|[2306.01707v3](http://arxiv.org/abs/2306.01707v3)|[link](https://github.com/TianduoWang/MsAT)|
-|**2023-06-02**|**Fine-Grained Human Feedback Gives Better Rewards for Language Model Training**|Zeqiu Wu et.al.|[2306.01693v1](http://arxiv.org/abs/2306.01693v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-09**|**Can Large Language Models Infer Causation from Correlation?**|Zhijing Jin et.al.|[2306.05836v1](http://arxiv.org/abs/2306.05836v1)|[link](https://github.com/causalnlp/corr2cause)|
+|**2023-06-09**|**Judging LLM-as-a-judge with MT-Bench and Chatbot Arena**|Lianmin Zheng et.al.|[2306.05685v1](http://arxiv.org/abs/2306.05685v1)|null|
 |**2023-06-08**|**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**|Bo Li et.al.|[2306.05425v1](http://arxiv.org/abs/2306.05425v1)|[link](https://github.com/luodian/otter)|
 |**2023-06-08**|**CUED at ProbSum 2023: Hierarchical Ensemble of Summarization Models**|Potsawee Manakul et.al.|[2306.05317v1](http://arxiv.org/abs/2306.05317v1)|null|
 |**2023-06-08**|**Are fairness metric scores enough to assess discrimination biases in machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|
@@ -243,9 +244,3 @@
 |**2023-05-24**|**Understanding Arithmetic Reasoning in Language Models using Causal Mediation Analysis**|Alessandro Stolfo et.al.|[2305.15054v1](http://arxiv.org/abs/2305.15054v1)|null|
 |**2023-05-24**|**SETI: Systematicity Evaluation of Textual Inference**|Xiyan Fu et.al.|[2305.15045v1](http://arxiv.org/abs/2305.15045v1)|null|
 |**2023-05-24**|**Calc-X: Enriching Arithmetical Chain-of-Thoughts Datasets by Interaction with Symbolic Systems**|Marek Kadlčík et.al.|[2305.15017v1](http://arxiv.org/abs/2305.15017v1)|null|
-|**2023-05-24**|**Unlocking Temporal Question Answering for Large Language Models Using Code Execution**|Xingxuan Li et.al.|[2305.15014v1](http://arxiv.org/abs/2305.15014v1)|[link](https://github.com/damo-nlp-sg/mvcr)|
-|**2023-05-24**|**The Art of SOCRATIC QUESTIONING: Zero-shot Multimodal Reasoning with Recursive Thinking and Self-Questioning**|Jingyuan Qi et.al.|[2305.14999v1](http://arxiv.org/abs/2305.14999v1)|null|
-|**2023-05-24**|**Leveraging LLMs for KPIs Retrieval from Hybrid Long-Document: A Comprehensive Framework and Dataset**|Chongjian Yue et.al.|[2305.16344v1](http://arxiv.org/abs/2305.16344v1)|null|
-|**2023-05-24**|**Reasoning with Language Model is Planning with World Model**|Shibo Hao et.al.|[2305.14992v1](http://arxiv.org/abs/2305.14992v1)|null|
-|**2023-05-24**|**IdealGPT: Iteratively Decomposing Vision and Language Reasoning via Large Language Models**|Haoxuan You et.al.|[2305.14985v1](http://arxiv.org/abs/2305.14985v1)|[link](https://github.com/hxyou/idealgpt)|
-|**2023-05-24**|**Getting Sick After Seeing a Doctor? Diagnosing and Mitigating Knowledge Conflicts in Event Temporal Reasoning**|Tianqing Fang et.al.|[2305.14970v1](http://arxiv.org/abs/2305.14970v1)|null|
