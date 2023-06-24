@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-24 09:40:20
+ Automated deployment @ 2023-06-24 20:31:38
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -73,10 +73,10 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-06-22**|**Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs**|Miao Xiong et.al.|[2306.13063v1](http://arxiv.org/abs/2306.13063v1)|null|
 |**2023-06-22**|**Towards Explainable Evaluation Metrics for Machine Translation**|Christoph Leiter et.al.|[2306.13041v1](http://arxiv.org/abs/2306.13041v1)|null|
-|**2023-06-22**|**From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought**|Lionel Wong et.al.|[2306.12672v1](http://arxiv.org/abs/2306.12672v1)|null|
-|**2023-06-21**|**ARIES: A Corpus of Scientific Paper Edits Made in Response to Peer Reviews**|Mike D'Arcy et.al.|[2306.12587v1](http://arxiv.org/abs/2306.12587v1)|null|
+|**2023-06-22**|**From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought**|Lionel Wong et.al.|[2306.12672v1](http://arxiv.org/abs/2306.12672v1)|[link](https://github.com/gabegrand/world-models)|
+|**2023-06-21**|**ARIES: A Corpus of Scientific Paper Edits Made in Response to Peer Reviews**|Mike D'Arcy et.al.|[2306.12587v1](http://arxiv.org/abs/2306.12587v1)|[link](https://github.com/allenai/aries)|
 |**2023-06-21**|**Evaluating Large Language Models with NeuBAROCO: Syllogistic Reasoning Ability and Human-like Biases**|Risako Ando et.al.|[2306.12567v1](http://arxiv.org/abs/2306.12567v1)|null|
-|**2023-06-21**|**SituatedGen: Incorporating Geographical and Temporal Contexts into Generative Commonsense Reasoning**|Yunxiang Zhang et.al.|[2306.12552v1](http://arxiv.org/abs/2306.12552v1)|null|
+|**2023-06-21**|**SituatedGen: Incorporating Geographical and Temporal Contexts into Generative Commonsense Reasoning**|Yunxiang Zhang et.al.|[2306.12552v1](http://arxiv.org/abs/2306.12552v1)|[link](https://github.com/yunx-z/situated_gen)|
 |**2023-06-21**|**VisoGender: A dataset for benchmarking gender bias in image-text pronoun resolution**|Siobhan Mackenzie Hall et.al.|[2306.12424v1](http://arxiv.org/abs/2306.12424v1)|[link](https://github.com/oxai/visogender)|
 |**2023-06-21**|**Solving and Generating NPR Sunday Puzzles with Large Language Models**|Jingmiao Zhao et.al.|[2306.12255v1](http://arxiv.org/abs/2306.12255v1)|[link](https://github.com/wellesley-easel-lab/puzzleqa)|
 |**2023-06-21**|**Investigating Pre-trained Language Models on Cross-Domain Datasets, a Step Closer to General AI**|Mohamad Ballout et.al.|[2306.12205v1](http://arxiv.org/abs/2306.12205v1)|null|
