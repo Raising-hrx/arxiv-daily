@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-25 09:52:29
+ Automated deployment @ 2023-06-25 20:33:15
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -62,7 +62,7 @@
 |**2023-06-15**|**Learning by Analogy: Diverse Questions Generation in Math Word Problem**|Zihao Zhou et.al.|[2306.09064v1](http://arxiv.org/abs/2306.09064v1)|[link](https://github.com/zhouzihao501/diversemwp)|
 |**2023-06-15**|**DiPlomat: A Dialogue Dataset for Situated Pragmatic Reasoning**|Hengli Li et.al.|[2306.09030v2](http://arxiv.org/abs/2306.09030v2)|null|
 |**2023-06-15**|**Voting Booklet Bias: Stance Detection in Swiss Federal Communication**|Eric Egli et.al.|[2306.08999v1](http://arxiv.org/abs/2306.08999v1)|[link](https://github.com/zurichnlp/voting-booklet-bias)|
-|**2023-06-15**|**Exploring the MIT Mathematics and EECS Curriculum Using Large Language Models**|Sarah J. Zhang et.al.|[2306.08997v1](http://arxiv.org/abs/2306.08997v1)|[link](https://github.com/idrori/mitq)|
+|**2023-06-15**|**Exploring the MIT Mathematics and EECS Curriculum Using Large Language Models**|Sarah J. Zhang et.al.|[2306.08997v1](http://arxiv.org/abs/2306.08997v1)|null|
 |**2023-06-15**|**Towards Benchmarking and Improving the Temporal Reasoning Capability of Large Language Models**|Qingyu Tan et.al.|[2306.08952v1](http://arxiv.org/abs/2306.08952v1)|null|
 |**2023-06-15**|**Document Entity Retrieval with Massive and Noisy Pre-training**|Lijun Yu et.al.|[2306.08937v1](http://arxiv.org/abs/2306.08937v1)|null|
 
