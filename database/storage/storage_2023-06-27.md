@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-27 09:43:38
+ Automated deployment @ 2023-06-27 20:35:05
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,23 +8,35 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-25**|**Towards Trustworthy Explanation: On Causal Rationalization**|Wenbo Zhang et.al.|[2306.14115v1](http://arxiv.org/abs/2306.14115v1)|[link](https://github.com/onepounchman/causal-retionalization)|
+|**2023-06-24**|**Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks**|Zeming Wei et.al.|[2306.14040v1](http://arxiv.org/abs/2306.14040v1)|null|
 |**2023-06-22**|**Towards Explainable Evaluation Metrics for Machine Translation**|Christoph Leiter et.al.|[2306.13041v1](http://arxiv.org/abs/2306.13041v1)|null|
 |**2023-06-21**|**Opening the Black Box: Analyzing Attention Weights and Hidden States in Pre-trained Language Models for Non-language Tasks**|Mohamad Ballout et.al.|[2306.12198v1](http://arxiv.org/abs/2306.12198v1)|[link](https://github.com/balloutai/attention-analysis)|
 |**2023-06-21**|**Sample Attackability in Natural Language Adversarial Attacks**|Vyas Raina et.al.|[2306.12043v1](http://arxiv.org/abs/2306.12043v1)|[link](https://github.com/rainavyas/nlp_attackability)|
 |**2023-06-20**|**FAIR: A Causal Framework for Accurately Inferring Judgments Reversals**|Minghua He et.al.|[2306.11585v1](http://arxiv.org/abs/2306.11585v1)|null|
 |**2023-06-20**|**The Ecological Fallacy in Annotation: Modelling Human Label Variation goes beyond Sociodemographics**|Matthias Orlikowski et.al.|[2306.11559v1](http://arxiv.org/abs/2306.11559v1)|[link](https://github.com/morlikowski/ecological-fallacy)|
 |**2023-06-19**|**Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting**|Xinli Yu et.al.|[2306.11025v1](http://arxiv.org/abs/2306.11025v1)|null|
-|**2023-06-16**|**Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation From Deductive, Inductive and Abductive Views**|Fangzhi Xu et.al.|[2306.09841v1](http://arxiv.org/abs/2306.09841v1)|null|
-|**2023-06-16**|**Process Knowledge-infused Learning for Clinician-friendly Explanations**|Kaushik Roy et.al.|[2306.09824v1](http://arxiv.org/abs/2306.09824v1)|null|
-|**2023-06-15**|**Thrilled by Your Progress! Large Language Models (GPT-4) No Longer Struggle to Pass Assessments in Higher Education Programming Courses**|Jaromir Savelka et.al.|[2306.10073v1](http://arxiv.org/abs/2306.10073v1)|null|
-|**2023-06-15**|**Explaining Legal Concepts with Augmented Large Language Models (GPT-4)**|Jaromir Savelka et.al.|[2306.09525v2](http://arxiv.org/abs/2306.09525v2)|null|
-|**2023-06-15**|**Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind**|Swarnadeep Saha et.al.|[2306.09299v1](http://arxiv.org/abs/2306.09299v1)|[link](https://github.com/swarnahub/explanationintervention)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899v1](http://arxiv.org/abs/2306.14899v1)|[link](https://github.com/jingkang50/funqa)|
+|**2023-06-26**|**MotionGPT: Human Motion as a Foreign Language**|Biao Jiang et.al.|[2306.14795v1](http://arxiv.org/abs/2306.14795v1)|[link](https://github.com/openmotionlab/motiongpt)|
+|**2023-06-26**|**Exploring the Robustness of Large Language Models for Solving Programming Problems**|Atsushi Shirafuji et.al.|[2306.14583v1](http://arxiv.org/abs/2306.14583v1)|null|
+|**2023-06-26**|**Aligning Large Multi-Modal Model with Robust Instruction Tuning**|Fuxiao Liu et.al.|[2306.14565v1](http://arxiv.org/abs/2306.14565v1)|[link](https://github.com/FuxiaoLiu/LRV-Instruction)|
+|**2023-06-26**|**Fauno: The Italian Large Language Model that will leave you senza parole!**|Andrea Bacciu et.al.|[2306.14457v1](http://arxiv.org/abs/2306.14457v1)|[link](https://github.com/rstless-research/fauno-italian-llm)|
+|**2023-06-26**|**Synthetic Alone: Exploring the Dark Side of Synthetic Data for Grammatical Error Correction**|Chanjun Park et.al.|[2306.14377v1](http://arxiv.org/abs/2306.14377v1)|null|
+|**2023-06-25**|**RobuT: A Systematic Study of Table QA Robustness Against Human-Annotated Adversarial Perturbations**|Yilun Zhao et.al.|[2306.14321v1](http://arxiv.org/abs/2306.14321v1)|[link](https://github.com/yilunzhao/robut)|
+|**2023-06-25**|**Addressing Cold Start Problem for End-to-end Automatic Speech Scoring**|Jungbae Park et.al.|[2306.14310v1](http://arxiv.org/abs/2306.14310v1)|null|
+|**2023-06-25**|**Let's Do a Thought Experiment: Using Counterfactuals to Improve Moral Reasoning**|Xiao Ma et.al.|[2306.14308v1](http://arxiv.org/abs/2306.14308v1)|null|
+|**2023-06-25**|**Visual Question Answering in Remote Sensing with Cross-Attention and Multimodal Information Bottleneck**|Jayesh Songara et.al.|[2306.14264v1](http://arxiv.org/abs/2306.14264v1)|null|
+|**2023-06-25**|**Unveiling the Potential of Sentiment: Can Large Language Models Predict Chinese Stock Price Movements?**|Haohan Zhang et.al.|[2306.14222v1](http://arxiv.org/abs/2306.14222v1)|null|
+|**2023-06-25**|**Low-Rank Prune-And-Factorize for Language Model Compression**|Siyu Ren et.al.|[2306.14152v1](http://arxiv.org/abs/2306.14152v1)|null|
+|**2023-06-25**|**SciMRC: Multi-perspective Scientific Machine Reading Comprehension**|Xiao Zhang et.al.|[2306.14149v1](http://arxiv.org/abs/2306.14149v1)|null|
+|**2023-06-24**|**Estimating the Causal Effect of Early ArXiving on Paper Acceptance**|Yanai Elazar et.al.|[2306.13891v1](http://arxiv.org/abs/2306.13891v1)|null|
+|**2023-06-23**|**The CHiME-7 DASR Challenge: Distant Meeting Transcription with Multiple Devices in Diverse Scenarios**|Samuele Cornell et.al.|[2306.13734v1](http://arxiv.org/abs/2306.13734v1)|null|
 |**2023-06-23**|**ToolQA: A Dataset for LLM Question Answering with External Tools**|Yuchen Zhuang et.al.|[2306.13304v1](http://arxiv.org/abs/2306.13304v1)|[link](https://github.com/night-chen/toolqa)|
 |**2023-06-22**|**CamChoice: A Corpus of Multiple Choice Questions and Candidate Response Distributions**|Adian Liusie et.al.|[2306.13047v1](http://arxiv.org/abs/2306.13047v1)|null|
 |**2023-06-22**|**Apolitical Intelligence? Auditing Delphi's responses on controversial political issues in the US**|Jonathan H. Rystrøm et.al.|[2306.13000v1](http://arxiv.org/abs/2306.13000v1)|null|
@@ -45,23 +57,21 @@
 |**2023-06-19**|**Frequency effects in Linear Discriminative Learning**|Maria Heitmeier et.al.|[2306.11044v1](http://arxiv.org/abs/2306.11044v1)|null|
 |**2023-06-19**|**Multilingual Few-Shot Learning via Language Model Retrieval**|Genta Indra Winata et.al.|[2306.10964v1](http://arxiv.org/abs/2306.10964v1)|null|
 |**2023-06-19**|**Path to Medical AGI: Unify Domain-specific Medical LLMs with the Lowest Cost**|Juexiao Zhou et.al.|[2306.10765v1](http://arxiv.org/abs/2306.10765v1)|[link](https://github.com/joshuachou2018/medagi)|
-|**2023-06-18**|**Evolutionary Verbalizer Search for Prompt-based Few Shot Text Classification**|Tongtao Ling et.al.|[2306.10514v1](http://arxiv.org/abs/2306.10514v1)|[link](https://github.com/rickltt/evs)|
-|**2023-06-18**|**Efficiently Measuring the Cognitive Ability of LLMs: An Adaptive Testing Perspective**|Yan Zhuang et.al.|[2306.10512v1](http://arxiv.org/abs/2306.10512v1)|[link](https://github.com/bigdata-ustc/edudata)|
-|**2023-06-17**|**Persian Semantic Role Labeling Using Transfer Learning and BERT-Based Models**|Saeideh Niksirat Aghdam et.al.|[2306.10339v1](http://arxiv.org/abs/2306.10339v1)|null|
-|**2023-06-16**|**Conformal Language Modeling**|Victor Quach et.al.|[2306.10193v1](http://arxiv.org/abs/2306.10193v1)|null|
-|**2023-06-16**|**Investigating Prompting Techniques for Zero- and Few-Shot Visual Question Answering**|Rabiul Awal et.al.|[2306.09996v1](http://arxiv.org/abs/2306.09996v1)|null|
-|**2023-06-16**|**ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation**|Guangyu Wang et.al.|[2306.09968v1](http://arxiv.org/abs/2306.09968v1)|null|
-|**2023-06-16**|**Learning to Summarize and Answer Questions about a Virtual Robot's Past Actions**|Chad DeChant et.al.|[2306.09922v1](http://arxiv.org/abs/2306.09922v1)|null|
-|**2023-06-16**|**Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation From Deductive, Inductive and Abductive Views**|Fangzhi Xu et.al.|[2306.09841v1](http://arxiv.org/abs/2306.09841v1)|null|
-|**2023-06-16**|**Pushing the Limits of ChatGPT on NLP Tasks**|Xiaofei Sun et.al.|[2306.09719v1](http://arxiv.org/abs/2306.09719v1)|null|
-|**2023-06-15**|**Thrilled by Your Progress! Large Language Models (GPT-4) No Longer Struggle to Pass Assessments in Higher Education Programming Courses**|Jaromir Savelka et.al.|[2306.10073v1](http://arxiv.org/abs/2306.10073v1)|null|
-|**2023-06-15**|**Opportunities and Challenges for ChatGPT and Large Language Models in Biomedicine and Health**|Shubo Tian et.al.|[2306.10070v1](http://arxiv.org/abs/2306.10070v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899v1](http://arxiv.org/abs/2306.14899v1)|[link](https://github.com/jingkang50/funqa)|
+|**2023-06-26**|**How About Kind of Generating Hedges using End-to-End Neural Models?**|Alafate Abulimiti et.al.|[2306.14696v1](http://arxiv.org/abs/2306.14696v1)|[link](https://github.com/neuromaancer/hedge_generation)|
+|**2023-06-26**|**Knowledge Graph-Augmented Korean Generative Commonsense Reasoning**|Dahyun Jung et.al.|[2306.14470v1](http://arxiv.org/abs/2306.14470v1)|null|
+|**2023-06-25**|**Let's Do a Thought Experiment: Using Counterfactuals to Improve Moral Reasoning**|Xiao Ma et.al.|[2306.14308v1](http://arxiv.org/abs/2306.14308v1)|null|
+|**2023-06-25**|**Sentence-level Event Detection without Triggers via Prompt Learning and Machine Reading Comprehension**|Tongtao Ling et.al.|[2306.14176v1](http://arxiv.org/abs/2306.14176v1)|null|
+|**2023-06-25**|**Chain-of-Thought Prompt Distillation for Multimodal Named Entity and Multimodal Relation Extraction**|Feng Chen et.al.|[2306.14122v1](http://arxiv.org/abs/2306.14122v1)|null|
+|**2023-06-24**|**Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step**|Liunian Harold Li et.al.|[2306.14050v1](http://arxiv.org/abs/2306.14050v1)|null|
+|**2023-06-24**|**Emotion Flip Reasoning in Multiparty Conversations**|Shivani Kumar et.al.|[2306.13959v1](http://arxiv.org/abs/2306.13959v1)|null|
+|**2023-06-24**|**Math Word Problem Solving by Generating Linguistic Variants of Problem Statements**|Syed Rifat Raiyan et.al.|[2306.13899v1](http://arxiv.org/abs/2306.13899v1)|null|
 |**2023-06-23**|**GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models**|Rishabh Agarwal et.al.|[2306.13649v1](http://arxiv.org/abs/2306.13649v1)|null|
 |**2023-06-23**|**A Survey on Multimodal Large Language Models**|Shukang Yin et.al.|[2306.13549v1](http://arxiv.org/abs/2306.13549v1)|[link](https://github.com/bradyfu/awesome-multimodal-large-language-models)|
 |**2023-06-23**|**ToolQA: A Dataset for LLM Question Answering with External Tools**|Yuchen Zhuang et.al.|[2306.13304v1](http://arxiv.org/abs/2306.13304v1)|[link](https://github.com/night-chen/toolqa)|
@@ -190,14 +200,3 @@
 |**2023-05-31**|**AQE: Argument Quadruplet Extraction via a Quad-Tagging Augmented Generative Approach**|Jia Guo et.al.|[2305.19902v1](http://arxiv.org/abs/2305.19902v1)|[link](https://github.com/guojiapub/quadtag)|
 |**2023-05-31**|**How Does Pretraining Improve Discourse-Aware Translation?**|Zhihong Huang et.al.|[2305.19847v1](http://arxiv.org/abs/2305.19847v1)|null|
 |**2023-05-31**|**What does the Failure to Reason with "Respectively" in Zero/Few-Shot Settings Tell Us about Language Models?**|Ruixiang Cui et.al.|[2305.19597v1](http://arxiv.org/abs/2305.19597v1)|null|
-|**2023-05-31**|**Large Language Models Are Not Abstract Reasoners**|Gaël Gendron et.al.|[2305.19555v1](http://arxiv.org/abs/2305.19555v1)|[link](https://github.com/strong-ai-lab/logical-and-abstract-reasoning)|
-|**2023-05-31**|**Towards Flow Graph Prediction of Open-Domain Procedural Texts**|Keisuke Shirai et.al.|[2305.19497v1](http://arxiv.org/abs/2305.19497v1)|null|
-|**2023-05-31**|**PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning**|Faeze Brahman et.al.|[2305.19472v1](http://arxiv.org/abs/2305.19472v1)|null|
-|**2023-05-31**|**The Impact of Positional Encoding on Length Generalization in Transformers**|Amirhossein Kazemnejad et.al.|[2305.19466v1](http://arxiv.org/abs/2305.19466v1)|[link](https://github.com/mcgill-nlp/length-generalization)|
-|**2023-05-30**|**ScoNe: Benchmarking Negation Reasoning in Language Models With Fine-Tuning and In-Context Learning**|Jingyuan Selena She et.al.|[2305.19426v1](http://arxiv.org/abs/2305.19426v1)|[link](https://github.com/selenashe/scone)|
-|**2023-05-30**|**GPT4GEO: How a Language Model Sees the World's Geography**|Jonathan Roberts et.al.|[2306.00020v1](http://arxiv.org/abs/2306.00020v1)|null|
-|**2023-05-30**|**Less Likely Brainstorming: Using Language Models to Generate Alternative Hypotheses**|Liyan Tang et.al.|[2305.19339v1](http://arxiv.org/abs/2305.19339v1)|null|
-|**2023-05-30**|**The Magic of IF: Investigating Causal Reasoning Abilities in Large Language Models of Code**|Xiao Liu et.al.|[2305.19213v1](http://arxiv.org/abs/2305.19213v1)|[link](https://github.com/xxxiaol/magic-if)|
-|**2023-05-30**|**Strategic Reasoning with Language Models**|Kanishk Gandhi et.al.|[2305.19165v1](http://arxiv.org/abs/2305.19165v1)|null|
-|**2023-05-30**|**Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate**|Tian Liang et.al.|[2305.19118v1](http://arxiv.org/abs/2305.19118v1)|[link](https://github.com/skytliang/multi-agents-debate)|
-|**2023-05-30**|**Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints**|Jiaxin Bai et.al.|[2305.19068v1](http://arxiv.org/abs/2305.19068v1)|null|
