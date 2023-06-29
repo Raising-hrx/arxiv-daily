@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-29 09:38:39
+ Automated deployment @ 2023-06-29 20:33:55
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -14,14 +14,15 @@
 |**2023-06-22**|**Towards Explainable Evaluation Metrics for Machine Translation**|Christoph Leiter et.al.|[2306.13041v1](http://arxiv.org/abs/2306.13041v1)|null|
 |**2023-06-21**|**Opening the Black Box: Analyzing Attention Weights and Hidden States in Pre-trained Language Models for Non-language Tasks**|Mohamad Ballout et.al.|[2306.12198v1](http://arxiv.org/abs/2306.12198v1)|[link](https://github.com/balloutai/attention-analysis)|
 |**2023-06-21**|**Sample Attackability in Natural Language Adversarial Attacks**|Vyas Raina et.al.|[2306.12043v1](http://arxiv.org/abs/2306.12043v1)|[link](https://github.com/rainavyas/nlp_attackability)|
-|**2023-06-20**|**FAIR: A Causal Framework for Accurately Inferring Judgments Reversals**|Minghua He et.al.|[2306.11585v1](http://arxiv.org/abs/2306.11585v1)|null|
-|**2023-06-20**|**The Ecological Fallacy in Annotation: Modelling Human Label Variation goes beyond Sociodemographics**|Matthias Orlikowski et.al.|[2306.11559v1](http://arxiv.org/abs/2306.11559v1)|[link](https://github.com/morlikowski/ecological-fallacy)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-28**|**Towards Measuring the Representation of Subjective Global Opinions in Language Models**|Esin Durmus et.al.|[2306.16388v1](http://arxiv.org/abs/2306.16388v1)|null|
+|**2023-06-28**|**CBBQ: A Chinese Bias Benchmark Dataset Curated with Human-AI Collaboration for Large Language Models**|Yufei Huang et.al.|[2306.16244v1](http://arxiv.org/abs/2306.16244v1)|[link](https://github.com/yfhuangxxxx/cbbq)|
+|**2023-06-28**|**Is ChatGPT a Biomedical Expert? -- Exploring the Zero-Shot Performance of Current GPT Models in Biomedical Tasks**|Samy Ateia et.al.|[2306.16108v1](http://arxiv.org/abs/2306.16108v1)|null|
 |**2023-06-26**|**Pretraining task diversity and the emergence of non-Bayesian in-context learning for regression**|Allan Raventós et.al.|[2306.15063v1](http://arxiv.org/abs/2306.15063v1)|[link](https://github.com/mansheej/icl-task-diversity)|
 |**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899v1](http://arxiv.org/abs/2306.14899v1)|[link](https://github.com/jingkang50/funqa)|
 |**2023-06-26**|**Are aligned neural networks adversarially aligned?**|Nicholas Carlini et.al.|[2306.15447v1](http://arxiv.org/abs/2306.15447v1)|null|
@@ -41,6 +42,7 @@
 |**2023-06-24**|**Estimating the Causal Effect of Early ArXiving on Paper Acceptance**|Yanai Elazar et.al.|[2306.13891v1](http://arxiv.org/abs/2306.13891v1)|null|
 |**2023-06-23**|**LLM-Assisted Content Analysis: Using Large Language Models to Support Deductive Coding**|Robert Chew et.al.|[2306.14924v1](http://arxiv.org/abs/2306.14924v1)|null|
 |**2023-06-23**|**The CHiME-7 DASR Challenge: Distant Meeting Transcription with Multiple Devices in Diverse Scenarios**|Samuele Cornell et.al.|[2306.13734v1](http://arxiv.org/abs/2306.13734v1)|null|
+|**2023-06-23**|**ChatGPT may excel in States Medical Licensing Examination but falters in basic Linear Algebra**|Eli Bagno et.al.|[2306.16282v1](http://arxiv.org/abs/2306.16282v1)|null|
 |**2023-06-23**|**ToolQA: A Dataset for LLM Question Answering with External Tools**|Yuchen Zhuang et.al.|[2306.13304v1](http://arxiv.org/abs/2306.13304v1)|[link](https://github.com/night-chen/toolqa)|
 |**2023-06-22**|**CamChoice: A Corpus of Multiple Choice Questions and Candidate Response Distributions**|Adian Liusie et.al.|[2306.13047v1](http://arxiv.org/abs/2306.13047v1)|null|
 |**2023-06-22**|**Apolitical Intelligence? Auditing Delphi's responses on controversial political issues in the US**|Jonathan H. Rystrøm et.al.|[2306.13000v1](http://arxiv.org/abs/2306.13000v1)|null|
@@ -49,16 +51,13 @@
 |**2023-06-22**|**On the Robustness of Generative Retrieval Models: An Out-of-Distribution Perspective**|Yu-An Liu et.al.|[2306.12756v1](http://arxiv.org/abs/2306.12756v1)|null|
 |**2023-06-21**|**Misinformation as Information Pollution**|Ashkan Kazemi et.al.|[2306.12466v1](http://arxiv.org/abs/2306.12466v1)|null|
 |**2023-06-21**|**Testing of Detection Tools for AI-Generated Text**|Debora Weber-Wulff et.al.|[2306.15666v1](http://arxiv.org/abs/2306.15666v1)|null|
-|**2023-06-21**|**Solving and Generating NPR Sunday Puzzles with Large Language Models**|Jingmiao Zhao et.al.|[2306.12255v1](http://arxiv.org/abs/2306.12255v1)|[link](https://github.com/wellesley-easel-lab/puzzleqa)|
-|**2023-06-21**|**Feature Interactions Reveal Linguistic Structure in Language Models**|Jaap Jumelet et.al.|[2306.12181v1](http://arxiv.org/abs/2306.12181v1)|[link](https://github.com/jumelet/fidam-eval)|
-|**2023-06-21**|**Towards Enriched Controllability for Educational Question Generation**|Bernardo Leite et.al.|[2306.14917v1](http://arxiv.org/abs/2306.14917v1)|[link](https://github.com/bernardoleite/question-generation-control)|
-|**2023-06-20**|**CATS: A Pragmatic Chinese Answer-to-Sequence Dataset with Large Scale and High Quality**|Liang Li et.al.|[2306.11477v1](http://arxiv.org/abs/2306.11477v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-28**|**Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language**|William Berrios et.al.|[2306.16410v1](http://arxiv.org/abs/2306.16410v1)|null|
 |**2023-06-27**|**Using Large Language Models to Provide Explanatory Feedback to Human Tutors**|Jionghao Lin et.al.|[2306.15498v1](http://arxiv.org/abs/2306.15498v1)|null|
 |**2023-06-27**|**Phase Space Analysis of Cardiac Spectra**|Onder Pekcan et.al.|[2306.15425v1](http://arxiv.org/abs/2306.15425v1)|null|
 |**2023-06-27**|**IDOL: Indicator-oriented Logic Pre-training for Logical Reasoning**|Zihang Xu et.al.|[2306.15273v1](http://arxiv.org/abs/2306.15273v1)|[link](https://github.com/GeekDream-x/IDOL)|
@@ -194,5 +193,3 @@
 |**2023-06-01**|**Enhancing Programming eTextbooks with ChatGPT Generated Counterfactual-Thinking-Inspired Questions**|Arun Balajiee Lekshmi Narayanan et.al.|[2306.00551v2](http://arxiv.org/abs/2306.00551v2)|null|
 |**2023-06-01**|**Chain-Of-Thought Prompting Under Streaming Batch: A Case Study**|Yuxin Tang et.al.|[2306.00550v1](http://arxiv.org/abs/2306.00550v1)|null|
 |**2023-06-01**|**MEWL: Few-shot multimodal word learning with referential uncertainty**|Guangyuan Jiang et.al.|[2306.00503v1](http://arxiv.org/abs/2306.00503v1)|[link](https://github.com/jianggy/mewl)|
-|**2023-06-01**|**Developing and Building Ontologies in Cyber Security**|Muhammad Shoaib Farooq et.al.|[2306.00377v1](http://arxiv.org/abs/2306.00377v1)|null|
-|**2023-05-31**|**Using Visual Cropping to Enhance Fine-Detail Question Answering of BLIP-Family Models**|Jiarui Zhang et.al.|[2306.00228v1](http://arxiv.org/abs/2306.00228v1)|null|
