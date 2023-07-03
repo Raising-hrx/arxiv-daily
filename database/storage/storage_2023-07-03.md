@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-03 09:42:17
+ Automated deployment @ 2023-07-03 20:36:40
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,17 +8,18 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-30**|**Harnessing LLMs in Curricular Design: Using GPT-4 to Support Authoring of Learning Objectives**|Pragnya Sridhar et.al.|[2306.17459v1](http://arxiv.org/abs/2306.17459v1)|null|
 |**2023-06-29**|**Multi-source Semantic Graph-based Multimodal Sarcasm Explanation Generation**|Liqiang Jing et.al.|[2306.16650v1](http://arxiv.org/abs/2306.16650v1)|[link](https://github.com/liqiangjing/team)|
 |**2023-06-27**|**Using Large Language Models to Provide Explanatory Feedback to Human Tutors**|Jionghao Lin et.al.|[2306.15498v1](http://arxiv.org/abs/2306.15498v1)|null|
 |**2023-06-25**|**Towards Trustworthy Explanation: On Causal Rationalization**|Wenbo Zhang et.al.|[2306.14115v1](http://arxiv.org/abs/2306.14115v1)|[link](https://github.com/onepounchman/causal-retionalization)|
 |**2023-06-24**|**Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks**|Zeming Wei et.al.|[2306.14040v1](http://arxiv.org/abs/2306.14040v1)|null|
-|**2023-06-22**|**Towards Explainable Evaluation Metrics for Machine Translation**|Christoph Leiter et.al.|[2306.13041v1](http://arxiv.org/abs/2306.13041v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-30**|**Meta-Reasoning: Semantics-Symbol Deconstruction For Large Language Models**|Yiming Wang et.al.|[2306.17820v1](http://arxiv.org/abs/2306.17820v1)|null|
 |**2023-06-29**|**LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding**|Yanzhe Zhang et.al.|[2306.17107v1](http://arxiv.org/abs/2306.17107v1)|null|
 |**2023-06-29**|**DialoGPS: Dialogue Path Sampling in Continuous Semantic Space for Data Augmentation in Multi-Turn Conversations**|Ang Lv et.al.|[2306.16770v1](http://arxiv.org/abs/2306.16770v1)|null|
 |**2023-06-29**|**Unified Language Representation for Question Answering over Text, Tables, and Images**|Bowen Yu et.al.|[2306.16762v1](http://arxiv.org/abs/2306.16762v1)|null|
@@ -46,16 +47,15 @@
 |**2023-06-25**|**Low-Rank Prune-And-Factorize for Language Model Compression**|Siyu Ren et.al.|[2306.14152v1](http://arxiv.org/abs/2306.14152v1)|null|
 |**2023-06-25**|**SciMRC: Multi-perspective Scientific Machine Reading Comprehension**|Xiao Zhang et.al.|[2306.14149v1](http://arxiv.org/abs/2306.14149v1)|null|
 |**2023-06-24**|**Estimating the Causal Effect of Early ArXiving on Paper Acceptance**|Yanai Elazar et.al.|[2306.13891v1](http://arxiv.org/abs/2306.13891v1)|null|
-|**2023-06-23**|**LLM-Assisted Content Analysis: Using Large Language Models to Support Deductive Coding**|Robert Chew et.al.|[2306.14924v1](http://arxiv.org/abs/2306.14924v1)|null|
-|**2023-06-23**|**The CHiME-7 DASR Challenge: Distant Meeting Transcription with Multiple Devices in Diverse Scenarios**|Samuele Cornell et.al.|[2306.13734v1](http://arxiv.org/abs/2306.13734v1)|null|
-|**2023-06-23**|**ChatGPT may excel in States Medical Licensing Examination but falters in basic Linear Algebra**|Eli Bagno et.al.|[2306.16282v1](http://arxiv.org/abs/2306.16282v1)|null|
-|**2023-06-23**|**ToolQA: A Dataset for LLM Question Answering with External Tools**|Yuchen Zhuang et.al.|[2306.13304v1](http://arxiv.org/abs/2306.13304v1)|[link](https://github.com/night-chen/toolqa)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-30**|**Statler: State-Maintaining Language Models for Embodied Reasoning**|Takuma Yoneda et.al.|[2306.17840v1](http://arxiv.org/abs/2306.17840v1)|null|
+|**2023-06-30**|**Meta-Reasoning: Semantics-Symbol Deconstruction For Large Language Models**|Yiming Wang et.al.|[2306.17820v1](http://arxiv.org/abs/2306.17820v1)|null|
+|**2023-06-30**|**Stay on topic with Classifier-Free Guidance**|Guillaume Sanchez et.al.|[2306.17806v1](http://arxiv.org/abs/2306.17806v1)|null|
 |**2023-06-29**|**Generative AI for Programming Education: Benchmarking ChatGPT, GPT-4, and Human Tutors**|Tung Phung et.al.|[2306.17156v2](http://arxiv.org/abs/2306.17156v2)|null|
 |**2023-06-29**|**LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding**|Yanzhe Zhang et.al.|[2306.17107v1](http://arxiv.org/abs/2306.17107v1)|null|
 |**2023-06-29**|**Exploring & Exploiting High-Order Graph Structure for Sparse Knowledge Graph Completion**|Tao He et.al.|[2306.17034v1](http://arxiv.org/abs/2306.17034v1)|null|
@@ -187,8 +187,3 @@
 |**2023-06-02**|**VisualGPTScore: Visio-Linguistic Reasoning with Multimodal Generative Pre-Training Scores**|Zhiqiu Lin et.al.|[2306.01879v1](http://arxiv.org/abs/2306.01879v1)|null|
 |**2023-06-02**|**Learning Multi-Step Reasoning by Solving Arithmetic Tasks**|Tianduo Wang et.al.|[2306.01707v3](http://arxiv.org/abs/2306.01707v3)|[link](https://github.com/TianduoWang/MsAT)|
 |**2023-06-02**|**Knowledge Graph Reasoning over Entities and Numerical Values**|Jiaxin Bai et.al.|[2306.01399v1](http://arxiv.org/abs/2306.01399v1)|[link](https://github.com/hkust-knowcomp/nrn)|
-|**2023-06-02**|**ChatGPT is a Remarkable Tool -- For Experts**|Amos Azaria et.al.|[2306.03102v1](http://arxiv.org/abs/2306.03102v1)|null|
-|**2023-06-02**|**THiFLY Research at SemEval-2023 Task 7: A Multi-granularity System for CTR-based Textual Entailment and Evidence Retrieval**|Yuxuan Zhou et.al.|[2306.01245v1](http://arxiv.org/abs/2306.01245v1)|[link](https://github.com/thumlp/nli4ct)|
-|**2023-06-01**|**Learning When to Speak: Latency and Quality Trade-offs for Simultaneous Speech-to-Speech Translation with Offline Models**|Liam Dugan et.al.|[2306.01201v1](http://arxiv.org/abs/2306.01201v1)|[link](https://github.com/liamdugan/speech-to-speech)|
-|**2023-06-01**|**Evaluating the Capabilities of Multi-modal Reasoning Models with Synthetic Task Data**|Nathan Vaska et.al.|[2306.01144v1](http://arxiv.org/abs/2306.01144v1)|null|
-|**2023-06-01**|**Learning Transformer Programs**|Dan Friedman et.al.|[2306.01128v1](http://arxiv.org/abs/2306.01128v1)|[link](https://github.com/princeton-nlp/transformerprograms)|
