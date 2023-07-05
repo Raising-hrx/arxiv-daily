@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-05 09:40:51
+ Automated deployment @ 2023-07-05 20:37:39
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -10,17 +10,25 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-06-30**|**Harnessing LLMs in Curricular Design: Using GPT-4 to Support Authoring of Learning Objectives**|Pragnya Sridhar et.al.|[2306.17459v1](http://arxiv.org/abs/2306.17459v1)|null|
 |**2023-06-29**|**Multi-source Semantic Graph-based Multimodal Sarcasm Explanation Generation**|Liqiang Jing et.al.|[2306.16650v1](http://arxiv.org/abs/2306.16650v1)|[link](https://github.com/liqiangjing/team)|
+|**2023-06-29**|**Seeing in Words: Learning to Classify through Language Bottlenecks**|Khalid Saifullah et.al.|[2307.00028v1](http://arxiv.org/abs/2307.00028v1)|null|
 |**2023-06-27**|**Using Large Language Models to Provide Explanatory Feedback to Human Tutors**|Jionghao Lin et.al.|[2306.15498v1](http://arxiv.org/abs/2306.15498v1)|null|
-|**2023-06-25**|**Towards Trustworthy Explanation: On Causal Rationalization**|Wenbo Zhang et.al.|[2306.14115v1](http://arxiv.org/abs/2306.14115v1)|[link](https://github.com/onepounchman/causal-retionalization)|
-|**2023-06-24**|**Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks**|Zeming Wei et.al.|[2306.14040v1](http://arxiv.org/abs/2306.14040v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-03**|**Exploring the In-context Learning Ability of Large Language Model for Biomedical Concept Linking**|Qinyong Wang et.al.|[2307.01137v1](http://arxiv.org/abs/2307.01137v1)|null|
+|**2023-07-03**|**Analyzing Multiple-Choice Reading and Listening Comprehension Tests**|Vatsal Raina et.al.|[2307.01076v1](http://arxiv.org/abs/2307.01076v1)|null|
+|**2023-07-03**|**Challenges in Domain-Specific Abstractive Summarization and How to Overcome them**|Anum Afzal et.al.|[2307.00963v1](http://arxiv.org/abs/2307.00963v1)|null|
+|**2023-07-03**|**VOLTA: Diverse and Controllable Question-Answer Pair Generation with Variational Mutual Information Maximizing Autoencoder**|Yueen Ma et.al.|[2307.00852v1](http://arxiv.org/abs/2307.00852v1)|null|
+|**2023-07-02**|**Make Text Unlearnable: Exploiting Effective Patterns to Protect Personal Data**|Xinzhe Li et.al.|[2307.00456v1](http://arxiv.org/abs/2307.00456v1)|[link](https://github.com/xinzhel/unlearnable_texts)|
+|**2023-07-01**|**BatGPT: A Bidirectional Autoregessive Talker from Generative Pre-trained Transformer**|Zuchao Li et.al.|[2307.00360v1](http://arxiv.org/abs/2307.00360v1)|null|
+|**2023-07-01**|**Single Sequence Prediction over Reasoning Graphs for Multi-hop QA**|Gowtham Ramesh et.al.|[2307.00335v1](http://arxiv.org/abs/2307.00335v1)|null|
+|**2023-07-01**|**How far is Language Model from 100% Few-shot Named Entity Recognition in Medical Domain**|Mingchen Li et.al.|[2307.00186v1](http://arxiv.org/abs/2307.00186v1)|null|
+|**2023-06-30**|**Still No Lie Detector for Language Models: Probing Empirical and Conceptual Roadblocks**|B. A. Levinstein et.al.|[2307.00175v1](http://arxiv.org/abs/2307.00175v1)|null|
 |**2023-06-30**|**Meta-Reasoning: Semantics-Symbol Deconstruction For Large Language Models**|Yiming Wang et.al.|[2306.17820v1](http://arxiv.org/abs/2306.17820v1)|null|
-|**2023-06-29**|**LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding**|Yanzhe Zhang et.al.|[2306.17107v1](http://arxiv.org/abs/2306.17107v1)|null|
+|**2023-06-29**|**LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding**|Yanzhe Zhang et.al.|[2306.17107v1](http://arxiv.org/abs/2306.17107v1)|[link](https://github.com/SALT-NLP/LLaVAR)|
 |**2023-06-29**|**DialoGPS: Dialogue Path Sampling in Continuous Semantic Space for Data Augmentation in Multi-Turn Conversations**|Ang Lv et.al.|[2306.16770v1](http://arxiv.org/abs/2306.16770v1)|null|
 |**2023-06-29**|**Unified Language Representation for Question Answering over Text, Tables, and Images**|Bowen Yu et.al.|[2306.16762v1](http://arxiv.org/abs/2306.16762v1)|null|
 |**2023-06-29**|**ZeroGen: Zero-shot Multimodal Controllable Text Generation with Multiple Oracles**|Haoqin Tu et.al.|[2306.16649v1](http://arxiv.org/abs/2306.16649v1)|null|
@@ -32,32 +40,24 @@
 |**2023-06-28**|**Is ChatGPT a Biomedical Expert? -- Exploring the Zero-Shot Performance of Current GPT Models in Biomedical Tasks**|Samy Ateia et.al.|[2306.16108v1](http://arxiv.org/abs/2306.16108v1)|[link](https://github.com/samyateia/bioasq)|
 |**2023-06-26**|**Pretraining task diversity and the emergence of non-Bayesian in-context learning for regression**|Allan Raventós et.al.|[2306.15063v1](http://arxiv.org/abs/2306.15063v1)|[link](https://github.com/mansheej/icl-task-diversity)|
 |**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899v1](http://arxiv.org/abs/2306.14899v1)|[link](https://github.com/jingkang50/funqa)|
-|**2023-06-26**|**Are aligned neural networks adversarially aligned?**|Nicholas Carlini et.al.|[2306.15447v1](http://arxiv.org/abs/2306.15447v1)|null|
-|**2023-06-26**|**MotionGPT: Human Motion as a Foreign Language**|Biao Jiang et.al.|[2306.14795v1](http://arxiv.org/abs/2306.14795v1)|[link](https://github.com/openmotionlab/motiongpt)|
-|**2023-06-26**|**Integrating Bidirectional Long Short-Term Memory with Subword Embedding for Authorship Attribution**|Abiodun Modupe et.al.|[2306.14933v1](http://arxiv.org/abs/2306.14933v1)|null|
-|**2023-06-26**|**Exploring the Robustness of Large Language Models for Solving Programming Problems**|Atsushi Shirafuji et.al.|[2306.14583v1](http://arxiv.org/abs/2306.14583v1)|null|
-|**2023-06-26**|**Aligning Large Multi-Modal Model with Robust Instruction Tuning**|Fuxiao Liu et.al.|[2306.14565v1](http://arxiv.org/abs/2306.14565v1)|[link](https://github.com/FuxiaoLiu/LRV-Instruction)|
-|**2023-06-26**|**Fauno: The Italian Large Language Model that will leave you senza parole!**|Andrea Bacciu et.al.|[2306.14457v1](http://arxiv.org/abs/2306.14457v1)|[link](https://github.com/rstless-research/fauno-italian-llm)|
-|**2023-06-26**|**Synthetic Alone: Exploring the Dark Side of Synthetic Data for Grammatical Error Correction**|Chanjun Park et.al.|[2306.14377v1](http://arxiv.org/abs/2306.14377v1)|null|
-|**2023-06-25**|**RobuT: A Systematic Study of Table QA Robustness Against Human-Annotated Adversarial Perturbations**|Yilun Zhao et.al.|[2306.14321v1](http://arxiv.org/abs/2306.14321v1)|[link](https://github.com/yilunzhao/robut)|
-|**2023-06-25**|**Addressing Cold Start Problem for End-to-end Automatic Speech Scoring**|Jungbae Park et.al.|[2306.14310v1](http://arxiv.org/abs/2306.14310v1)|null|
-|**2023-06-25**|**Let's Do a Thought Experiment: Using Counterfactuals to Improve Moral Reasoning**|Xiao Ma et.al.|[2306.14308v1](http://arxiv.org/abs/2306.14308v1)|null|
-|**2023-06-25**|**Visual Question Answering in Remote Sensing with Cross-Attention and Multimodal Information Bottleneck**|Jayesh Songara et.al.|[2306.14264v1](http://arxiv.org/abs/2306.14264v1)|null|
-|**2023-06-25**|**Unveiling the Potential of Sentiment: Can Large Language Models Predict Chinese Stock Price Movements?**|Haohan Zhang et.al.|[2306.14222v1](http://arxiv.org/abs/2306.14222v1)|null|
-|**2023-06-25**|**Low-Rank Prune-And-Factorize for Language Model Compression**|Siyu Ren et.al.|[2306.14152v1](http://arxiv.org/abs/2306.14152v1)|null|
-|**2023-06-25**|**SciMRC: Multi-perspective Scientific Machine Reading Comprehension**|Xiao Zhang et.al.|[2306.14149v1](http://arxiv.org/abs/2306.14149v1)|null|
-|**2023-06-24**|**Estimating the Causal Effect of Early ArXiving on Paper Acceptance**|Yanai Elazar et.al.|[2306.13891v1](http://arxiv.org/abs/2306.13891v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-03**|**UniFine: A Unified and Fine-grained Approach for Zero-shot Vision-Language Understanding**|Rui Sun et.al.|[2307.00862v1](http://arxiv.org/abs/2307.00862v1)|null|
+|**2023-07-03**|**Evaluating Shutdown Avoidance of Language Models in Textual Scenarios**|Teun van der Weij et.al.|[2307.00787v1](http://arxiv.org/abs/2307.00787v1)|null|
+|**2023-07-02**|**HeGeL: A Novel Dataset for Geo-Location from Hebrew Text**|Tzuf Paz-Argaman et.al.|[2307.00509v1](http://arxiv.org/abs/2307.00509v1)|null|
+|**2023-07-02**|**A Dual-Stream Recurrence-Attention Network with Global-Local Awareness for Emotion Recognition in Textual Dialogue**|Jiang Li et.al.|[2307.00449v1](http://arxiv.org/abs/2307.00449v1)|null|
+|**2023-07-01**|**Single Sequence Prediction over Reasoning Graphs for Multi-hop QA**|Gowtham Ramesh et.al.|[2307.00335v1](http://arxiv.org/abs/2307.00335v1)|null|
+|**2023-07-01**|**How far is Language Model from 100% Few-shot Named Entity Recognition in Medical Domain**|Mingchen Li et.al.|[2307.00186v1](http://arxiv.org/abs/2307.00186v1)|null|
+|**2023-06-30**|**Still No Lie Detector for Language Models: Probing Empirical and Conceptual Roadblocks**|B. A. Levinstein et.al.|[2307.00175v1](http://arxiv.org/abs/2307.00175v1)|null|
 |**2023-06-30**|**Statler: State-Maintaining Language Models for Embodied Reasoning**|Takuma Yoneda et.al.|[2306.17840v2](http://arxiv.org/abs/2306.17840v2)|null|
 |**2023-06-30**|**Meta-Reasoning: Semantics-Symbol Deconstruction For Large Language Models**|Yiming Wang et.al.|[2306.17820v1](http://arxiv.org/abs/2306.17820v1)|null|
 |**2023-06-30**|**Stay on topic with Classifier-Free Guidance**|Guillaume Sanchez et.al.|[2306.17806v1](http://arxiv.org/abs/2306.17806v1)|null|
 |**2023-06-29**|**Generative AI for Programming Education: Benchmarking ChatGPT, GPT-4, and Human Tutors**|Tung Phung et.al.|[2306.17156v2](http://arxiv.org/abs/2306.17156v2)|null|
-|**2023-06-29**|**LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding**|Yanzhe Zhang et.al.|[2306.17107v1](http://arxiv.org/abs/2306.17107v1)|null|
+|**2023-06-29**|**LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding**|Yanzhe Zhang et.al.|[2306.17107v1](http://arxiv.org/abs/2306.17107v1)|[link](https://github.com/SALT-NLP/LLaVAR)|
 |**2023-06-29**|**Exploring & Exploiting High-Order Graph Structure for Sparse Knowledge Graph Completion**|Tao He et.al.|[2306.17034v1](http://arxiv.org/abs/2306.17034v1)|null|
 |**2023-06-29**|**UMASS_BioNLP at MEDIQA-Chat 2023: Can LLMs generate high-quality synthetic note-oriented doctor-patient conversations?**|Junda Wang et.al.|[2306.16931v1](http://arxiv.org/abs/2306.16931v1)|null|
 |**2023-06-29**|**Stop Pre-Training: Adapt Visual-Language Models to Unseen Languages**|Yasmine Karoui et.al.|[2306.16774v1](http://arxiv.org/abs/2306.16774v1)|null|
@@ -147,7 +147,7 @@
 |**2023-06-09**|**Large Language Model Is Semi-Parametric Reinforcement Learning Agent**|Danyang Zhang et.al.|[2306.07929v1](http://arxiv.org/abs/2306.07929v1)|null|
 |**2023-06-09**|**Judging LLM-as-a-judge with MT-Bench and Chatbot Arena**|Lianmin Zheng et.al.|[2306.05685v1](http://arxiv.org/abs/2306.05685v1)|[link](https://github.com/lm-sys/fastchat)|
 |**2023-06-08**|**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**|Bo Li et.al.|[2306.05425v1](http://arxiv.org/abs/2306.05425v1)|[link](https://github.com/luodian/otter)|
-|**2023-06-08**|**CUED at ProbSum 2023: Hierarchical Ensemble of Summarization Models**|Potsawee Manakul et.al.|[2306.05317v1](http://arxiv.org/abs/2306.05317v1)|null|
+|**2023-06-08**|**CUED at ProbSum 2023: Hierarchical Ensemble of Summarization Models**|Potsawee Manakul et.al.|[2306.05317v1](http://arxiv.org/abs/2306.05317v1)|[link](https://github.com/potsawee/hierarchical_ensemble_summ)|
 |**2023-06-08**|**Are fairness metric scores enough to assess discrimination biases in machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|
 |**2023-06-08**|**Interpretable Medical Diagnostics with Structured Data Extraction by Large Language Models**|Aleksa Bisercic et.al.|[2306.05052v1](http://arxiv.org/abs/2306.05052v1)|null|
 |**2023-06-08**|**T3L: Translate-and-Test Transfer Learning for Cross-Lingual Text Classification**|Inigo Jauregi Unanue et.al.|[2306.04996v1](http://arxiv.org/abs/2306.04996v1)|[link](https://github.com/inigo-jauregi/t3l)|
@@ -181,9 +181,3 @@
 |**2023-06-04**|**Modeling Cross-Cultural Pragmatic Inference with Codenames Duet**|Omar Shaikh et.al.|[2306.02475v1](http://arxiv.org/abs/2306.02475v1)|[link](https://github.com/salt-nlp/codenames)|
 |**2023-06-04**|**Evaluating and Improving Tool-Augmented Computation-Intensive Math Reasoning**|Beichen Zhang et.al.|[2306.02408v1](http://arxiv.org/abs/2306.02408v1)|[link](https://github.com/rucaibox/carp)|
 |**2023-06-04**|**Commonsense Knowledge Transfer for Pre-trained Language Models**|Wangchunshu Zhou et.al.|[2306.02388v1](http://arxiv.org/abs/2306.02388v1)|null|
-|**2023-06-04**|**bgGLUE: A Bulgarian General Language Understanding Evaluation Benchmark**|Momchil Hardalov et.al.|[2306.02349v2](http://arxiv.org/abs/2306.02349v2)|[link](https://github.com/bgglue/bgglue.github.io)|
-|**2023-06-04**|**Probing Physical Reasoning with Counter-Commonsense Context**|Kazushi Kondo et.al.|[2306.02258v1](http://arxiv.org/abs/2306.02258v1)|null|
-|**2023-06-03**|**COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements**|Xuhui Zhou et.al.|[2306.01985v2](http://arxiv.org/abs/2306.01985v2)|null|
-|**2023-06-02**|**VisualGPTScore: Visio-Linguistic Reasoning with Multimodal Generative Pre-Training Scores**|Zhiqiu Lin et.al.|[2306.01879v1](http://arxiv.org/abs/2306.01879v1)|null|
-|**2023-06-02**|**Learning Multi-Step Reasoning by Solving Arithmetic Tasks**|Tianduo Wang et.al.|[2306.01707v3](http://arxiv.org/abs/2306.01707v3)|[link](https://github.com/TianduoWang/MsAT)|
-|**2023-06-02**|**Knowledge Graph Reasoning over Entities and Numerical Values**|Jiaxin Bai et.al.|[2306.01399v1](http://arxiv.org/abs/2306.01399v1)|[link](https://github.com/hkust-knowcomp/nrn)|
