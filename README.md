@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-10 09:42:21
+ Automated deployment @ 2023-07-10 20:34:53
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-07**|**Testing the Predictions of Surprisal Theory in 11 Languages**|Ethan Gotlieb Wilcox et.al.|[2307.03667v1](http://arxiv.org/abs/2307.03667v1)|null|
 |**2023-07-06**|**The Relationship Between Speech Features Changes When You Get Depressed: Feature Correlations for Improving Speed and Performance of Depression Detection**|Fuxiang Tao et.al.|[2307.02892v2](http://arxiv.org/abs/2307.02892v2)|null|
 |**2023-07-06**|**Contrast Is All You Need**|Burak Kilic et.al.|[2307.02882v1](http://arxiv.org/abs/2307.02882v1)|null|
 |**2023-07-06**|**VerifAI: Verified Generative AI**|Nan Tang et.al.|[2307.02796v1](http://arxiv.org/abs/2307.02796v1)|null|
@@ -18,13 +19,15 @@
 |**2023-07-04**|**Concept-Based Explanations to Test for False Causal Relationships Learned by Abusive Language Classifiers**|Isar Nejadgholi et.al.|[2307.01900v1](http://arxiv.org/abs/2307.01900v1)|[link](https://github.com/isarnejad/global-sufficiency)|
 |**2023-06-30**|**Counterfactual Collaborative Reasoning**|Jianchao Ji et.al.|[2307.00165v1](http://arxiv.org/abs/2307.00165v1)|null|
 |**2023-06-30**|**Harnessing LLMs in Curricular Design: Using GPT-4 to Support Authoring of Learning Objectives**|Pragnya Sridhar et.al.|[2306.17459v1](http://arxiv.org/abs/2306.17459v1)|null|
-|**2023-06-29**|**Multi-source Semantic Graph-based Multimodal Sarcasm Explanation Generation**|Liqiang Jing et.al.|[2306.16650v1](http://arxiv.org/abs/2306.16650v1)|[link](https://github.com/liqiangjing/team)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-07**|**On the Efficacy of Sampling Adapters**|Clara Meister et.al.|[2307.03749v1](http://arxiv.org/abs/2307.03749v1)|null|
+|**2023-07-06**|**Covering Uncommon Ground: Gap-Focused Question Generation for Answer Assessment**|Roni Rabin et.al.|[2307.03319v1](http://arxiv.org/abs/2307.03319v1)|null|
+|**2023-07-06**|**Vision Language Transformers: A Survey**|Clayton Fields et.al.|[2307.03254v1](http://arxiv.org/abs/2307.03254v1)|null|
 |**2023-07-06**|**Lost in the Middle: How Language Models Use Long Contexts**|Nelson F. Liu et.al.|[2307.03172v1](http://arxiv.org/abs/2307.03172v1)|null|
 |**2023-07-06**|**VisKoP: Visual Knowledge oriented Programming for Interactive Knowledge Base Question Answering**|Zijun Yao et.al.|[2307.03130v1](http://arxiv.org/abs/2307.03130v1)|null|
 |**2023-07-06**|**KoRC: Knowledge oriented Reading Comprehension Benchmark for Deep Text Understanding**|Zijun Yao et.al.|[2307.03115v1](http://arxiv.org/abs/2307.03115v1)|[link](https://github.com/thu-keg/korc)|
@@ -54,9 +57,6 @@
 |**2023-07-01**|**How far is Language Model from 100% Few-shot Named Entity Recognition in Medical Domain**|Mingchen Li et.al.|[2307.00186v1](http://arxiv.org/abs/2307.00186v1)|[link](https://github.com/toneli/rt-retrieving-and-thinking)|
 |**2023-06-30**|**Still No Lie Detector for Language Models: Probing Empirical and Conceptual Roadblocks**|B. A. Levinstein et.al.|[2307.00175v1](http://arxiv.org/abs/2307.00175v1)|[link](https://github.com/balevinstein/probes)|
 |**2023-06-30**|**Meta-Reasoning: Semantics-Symbol Deconstruction For Large Language Models**|Yiming Wang et.al.|[2306.17820v1](http://arxiv.org/abs/2306.17820v1)|null|
-|**2023-06-29**|**LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding**|Yanzhe Zhang et.al.|[2306.17107v1](http://arxiv.org/abs/2306.17107v1)|[link](https://github.com/SALT-NLP/LLaVAR)|
-|**2023-06-29**|**DialoGPS: Dialogue Path Sampling in Continuous Semantic Space for Data Augmentation in Multi-Turn Conversations**|Ang Lv et.al.|[2306.16770v1](http://arxiv.org/abs/2306.16770v1)|null|
-|**2023-06-29**|**Unified Language Representation for Question Answering over Text, Tables, and Images**|Bowen Yu et.al.|[2306.16762v1](http://arxiv.org/abs/2306.16762v1)|null|
 
 ## Reasoning
 
@@ -197,4 +197,3 @@
 |**2023-06-06**|**ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory**|Chenxu Hu et.al.|[2306.03901v2](http://arxiv.org/abs/2306.03901v2)|null|
 |**2023-06-06**|**Deductive Verification of Chain-of-Thought Reasoning**|Zhan Ling et.al.|[2306.03872v2](http://arxiv.org/abs/2306.03872v2)|[link](https://github.com/lz1oceani/verify_cot)|
 |**2023-06-06**|**Iterative Translation Refinement with Large Language Models**|Pinzhen Chen et.al.|[2306.03856v1](http://arxiv.org/abs/2306.03856v1)|null|
-|**2023-06-06**|**Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models**|Fobo Shi et.al.|[2306.03799v1](http://arxiv.org/abs/2306.03799v1)|null|
