@@ -1,11 +1,11 @@
 # arxiv-daily
- Automated deployment @ 2023-07-12 20:35:35
+ Automated deployment @ 2023-07-12 21:04:56
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
-## Explanation
+## Question Answering
 
-### Explanation
+### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 
@@ -15,8 +15,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 
-## Question Answering
+## Explanation
 
-### QA
+### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
