@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-13 09:44:54
+ Automated deployment @ 2023-07-13 20:35:57
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -29,13 +29,17 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-12**|**MMBench: Is Your Multi-modal Model an All-around Player?**|Yuan Liu et.al.|[2307.06281v1](http://arxiv.org/abs/2307.06281v1)|[link](https://github.com/InternLM/opencompass)|
+|**2023-07-12**|**PolyLM: An Open Source Polyglot Large Language Model**|Xiangpeng Wei et.al.|[2307.06018v1](http://arxiv.org/abs/2307.06018v1)|null|
+|**2023-07-11**|**Towards Robust and Efficient Continual Language Learning**|Adam Fisch et.al.|[2307.05741v1](http://arxiv.org/abs/2307.05741v1)|null|
 |**2023-07-11**|**BLUEX: A benchmark based on Brazilian Leading Universities Entrance eXams**|Thales Sales Almeida et.al.|[2307.05410v1](http://arxiv.org/abs/2307.05410v1)|[link](https://github.com/portuguese-benchmark-datasets/bluex)|
 |**2023-07-11**|**Overview of BioASQ 2023: The eleventh BioASQ challenge on Large-Scale Biomedical Semantic Indexing and Question Answering**|Anastasios Nentidis et.al.|[2307.05131v1](http://arxiv.org/abs/2307.05131v1)|null|
 |**2023-07-11**|**Beyond the Obvious: Evaluating the Reasoning Ability In Real-life Scenarios of Language Models on Life Scapes Reasoning Benchmark~(LSR-Benchmark)**|Zhouhong Gu et.al.|[2307.05113v1](http://arxiv.org/abs/2307.05113v1)|null|
 |**2023-07-11**|**Towards Understanding In-Context Learning with Contrastive Demonstrations and Saliency Maps**|Zongxia Li et.al.|[2307.05052v1](http://arxiv.org/abs/2307.05052v1)|[link](https://github.com/paihengxu/xicl)|
 |**2023-07-10**|**BeaverTails: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset**|Jiaming Ji et.al.|[2307.04657v1](http://arxiv.org/abs/2307.04657v1)|null|
 |**2023-07-10**|**Unmasking the giant: A comprehensive evaluation of ChatGPT's proficiency in coding algorithms and data structures**|Sayed Erfan Arefin et.al.|[2307.05360v1](http://arxiv.org/abs/2307.05360v1)|null|
-|**2023-07-09**|**SAS Video-QA: Self-Adaptive Sampling for Efficient Video Question-Answering**|Wei Han et.al.|[2307.04192v1](http://arxiv.org/abs/2307.04192v1)|null|
+|**2023-07-10**|**Event Extraction as Question Generation and Answering**|Di Lu et.al.|[2307.05567v1](http://arxiv.org/abs/2307.05567v1)|null|
+|**2023-07-09**|**SAS Video-QA: Self-Adaptive Sampling for Efficient Video Question-Answering**|Wei Han et.al.|[2307.04192v1](http://arxiv.org/abs/2307.04192v1)|[link](https://github.com/declare-lab/sas-vqa)|
 |**2023-07-08**|**Bidirectional Attention as a Mixture of Continuous Word Experts**|Kevin Christian Wibisono et.al.|[2307.04057v1](http://arxiv.org/abs/2307.04057v1)|[link](https://github.com/yixinw-lab/attention-uai)|
 |**2023-07-08**|**Answering Ambiguous Questions via Iterative Prompting**|Weiwei Sun et.al.|[2307.03897v1](http://arxiv.org/abs/2307.03897v1)|[link](https://github.com/sunnweiwei/ambigprompt)|
 |**2023-07-08**|**Large Language Models for Supply Chain Optimization**|Beibin Li et.al.|[2307.03875v1](http://arxiv.org/abs/2307.03875v1)|null|
@@ -62,16 +66,16 @@
 |**2023-07-05**|**Evade ChatGPT Detectors via A Single Space**|Shuyang Cai et.al.|[2307.02599v1](http://arxiv.org/abs/2307.02599v1)|null|
 |**2023-07-05**|**Won't Get Fooled Again: Answering Questions with False Premises**|Shengding Hu et.al.|[2307.02394v1](http://arxiv.org/abs/2307.02394v1)|[link](https://github.com/thunlp/falseqa)|
 |**2023-07-05**|**Utilizing ChatGPT Generated Data to Retrieve Depression Symptoms from Social Media**|Ana-Maria Bucur et.al.|[2307.02313v2](http://arxiv.org/abs/2307.02313v2)|null|
-|**2023-07-05**|**Do predictability factors towards signing avatars hold across cultures?**|Abdelhadi Soudi et.al.|[2307.02103v1](http://arxiv.org/abs/2307.02103v1)|null|
-|**2023-07-04**|**CARE-MI: Chinese Benchmark for Misinformation Evaluation in Maternity and Infant Care**|Tong Xiang et.al.|[2307.01458v1](http://arxiv.org/abs/2307.01458v1)|[link](https://github.com/meetyou-ai-lab/care-mi)|
-|**2023-07-04**|**Modeling Tag Prediction based on Question Tagging Behavior Analysis of CommunityQA Platform Users**|Kuntal Kumar Pal et.al.|[2307.01420v1](http://arxiv.org/abs/2307.01420v1)|null|
-|**2023-07-03**|**Shifting Attention to Relevance: Towards the Uncertainty Estimation of Large Language Models**|Jinhao Duan et.al.|[2307.01379v1](http://arxiv.org/abs/2307.01379v1)|[link](https://github.com/jinhaoduan/shifting-attention-to-relevance)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-12**|**MMBench: Is Your Multi-modal Model an All-around Player?**|Yuan Liu et.al.|[2307.06281v1](http://arxiv.org/abs/2307.06281v1)|[link](https://github.com/InternLM/opencompass)|
+|**2023-07-12**|**VELMA: Verbalization Embodiment of LLM Agents for Vision and Language Navigation in Street View**|Raphael Schumann et.al.|[2307.06082v1](http://arxiv.org/abs/2307.06082v1)|null|
+|**2023-07-12**|**PolyLM: An Open Source Polyglot Large Language Model**|Xiangpeng Wei et.al.|[2307.06018v1](http://arxiv.org/abs/2307.06018v1)|null|
+|**2023-07-12**|**VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models**|Wenlong Huang et.al.|[2307.05973v1](http://arxiv.org/abs/2307.05973v1)|null|
 |**2023-07-11**|**BLUEX: A benchmark based on Brazilian Leading Universities Entrance eXams**|Thales Sales Almeida et.al.|[2307.05410v1](http://arxiv.org/abs/2307.05410v1)|[link](https://github.com/portuguese-benchmark-datasets/bluex)|
 |**2023-07-11**|**Explaining Competitive-Level Programming Solutions using LLMs**|Jierui Li et.al.|[2307.05337v1](http://arxiv.org/abs/2307.05337v1)|null|
 |**2023-07-11**|**Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**|Zhenhailong Wang et.al.|[2307.05300v1](http://arxiv.org/abs/2307.05300v1)|[link](https://github.com/mikewangwzhl/solo-performance-prompting)|
@@ -111,7 +115,7 @@
 |**2023-06-29**|**LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding**|Yanzhe Zhang et.al.|[2306.17107v1](http://arxiv.org/abs/2306.17107v1)|[link](https://github.com/SALT-NLP/LLaVAR)|
 |**2023-06-29**|**Exploring & Exploiting High-Order Graph Structure for Sparse Knowledge Graph Completion**|Tao He et.al.|[2306.17034v1](http://arxiv.org/abs/2306.17034v1)|null|
 |**2023-06-29**|**UMASS_BioNLP at MEDIQA-Chat 2023: Can LLMs generate high-quality synthetic note-oriented doctor-patient conversations?**|Junda Wang et.al.|[2306.16931v1](http://arxiv.org/abs/2306.16931v1)|null|
-|**2023-06-29**|**Stop Pre-Training: Adapt Visual-Language Models to Unseen Languages**|Yasmine Karoui et.al.|[2306.16774v1](http://arxiv.org/abs/2306.16774v1)|null|
+|**2023-06-29**|**Stop Pre-Training: Adapt Visual-Language Models to Unseen Languages**|Yasmine Karoui et.al.|[2306.16774v1](http://arxiv.org/abs/2306.16774v1)|[link](https://github.com/yasminekaroui/clicotea)|
 |**2023-06-29**|**Unified Language Representation for Question Answering over Text, Tables, and Images**|Bowen Yu et.al.|[2306.16762v1](http://arxiv.org/abs/2306.16762v1)|null|
 |**2023-06-29**|**Multi-source Semantic Graph-based Multimodal Sarcasm Explanation Generation**|Liqiang Jing et.al.|[2306.16650v1](http://arxiv.org/abs/2306.16650v1)|[link](https://github.com/liqiangjing/team)|
 |**2023-06-29**|**CMATH: Can Your Language Model Pass Chinese Elementary School Math Test?**|Tianwen Wei et.al.|[2306.16636v1](http://arxiv.org/abs/2306.16636v1)|null|
@@ -197,8 +201,3 @@
 |**2023-06-09**|**Can Large Language Models Infer Causation from Correlation?**|Zhijing Jin et.al.|[2306.05836v1](http://arxiv.org/abs/2306.05836v1)|[link](https://github.com/causalnlp/corr2cause)|
 |**2023-06-09**|**Large Language Model Is Semi-Parametric Reinforcement Learning Agent**|Danyang Zhang et.al.|[2306.07929v1](http://arxiv.org/abs/2306.07929v1)|null|
 |**2023-06-09**|**Judging LLM-as-a-judge with MT-Bench and Chatbot Arena**|Lianmin Zheng et.al.|[2306.05685v2](http://arxiv.org/abs/2306.05685v2)|[link](https://github.com/lm-sys/fastchat)|
-|**2023-06-08**|**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**|Bo Li et.al.|[2306.05425v1](http://arxiv.org/abs/2306.05425v1)|[link](https://github.com/luodian/otter)|
-|**2023-06-08**|**CUED at ProbSum 2023: Hierarchical Ensemble of Summarization Models**|Potsawee Manakul et.al.|[2306.05317v1](http://arxiv.org/abs/2306.05317v1)|[link](https://github.com/potsawee/hierarchical_ensemble_summ)|
-|**2023-06-08**|**Are fairness metric scores enough to assess discrimination biases in machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|
-|**2023-06-08**|**Interpretable Medical Diagnostics with Structured Data Extraction by Large Language Models**|Aleksa Bisercic et.al.|[2306.05052v1](http://arxiv.org/abs/2306.05052v1)|null|
-|**2023-06-08**|**T3L: Translate-and-Test Transfer Learning for Cross-Lingual Text Classification**|Inigo Jauregi Unanue et.al.|[2306.04996v1](http://arxiv.org/abs/2306.04996v1)|[link](https://github.com/inigo-jauregi/t3l)|
