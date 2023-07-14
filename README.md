@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-14 09:44:27
+ Automated deployment @ 2023-07-14 20:34:10
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,30 +8,34 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-13**|**Negated Complementary Commonsense using Large Language Models**|Navid Rezaei et.al.|[2307.06794v1](http://arxiv.org/abs/2307.06794v1)|null|
 |**2023-07-11**|**Explaining Competitive-Level Programming Solutions using LLMs**|Jierui Li et.al.|[2307.05337v1](http://arxiv.org/abs/2307.05337v1)|null|
 |**2023-07-11**|**Towards Understanding In-Context Learning with Contrastive Demonstrations and Saliency Maps**|Zongxia Li et.al.|[2307.05052v1](http://arxiv.org/abs/2307.05052v1)|[link](https://github.com/paihengxu/xicl)|
 |**2023-07-11**|**Synthetic Dataset for Evaluating Complex Compositional Knowledge for Natural Language Inference**|Sushma Anand Akoju et.al.|[2307.05034v2](http://arxiv.org/abs/2307.05034v2)|[link](https://github.com/sushmaakoju/natural-logic)|
 |**2023-07-10**|**On the Computational Modeling of Meaning: Embodied Cognition Intertwined with Emotion**|Casey Kennington et.al.|[2307.04518v2](http://arxiv.org/abs/2307.04518v2)|null|
 |**2023-07-09**|**Automated Essay Scoring in Argumentative Writing: DeBERTeachingAssistant**|Yann Hicke et.al.|[2307.04276v1](http://arxiv.org/abs/2307.04276v1)|null|
 |**2023-07-08**|**Is ChatGPT a Good Personality Recognizer? A Preliminary Study**|Yu Ji et.al.|[2307.03952v1](http://arxiv.org/abs/2307.03952v1)|null|
+|**2023-07-08**|**Large Language Models for Supply Chain Optimization**|Beibin Li et.al.|[2307.03875v2](http://arxiv.org/abs/2307.03875v2)|null|
 |**2023-07-07**|**Testing the Predictions of Surprisal Theory in 11 Languages**|Ethan Gotlieb Wilcox et.al.|[2307.03667v2](http://arxiv.org/abs/2307.03667v2)|null|
 |**2023-07-06**|**The Relationship Between Speech Features Changes When You Get Depressed: Feature Correlations for Improving Speed and Performance of Depression Detection**|Fuxiang Tao et.al.|[2307.02892v2](http://arxiv.org/abs/2307.02892v2)|null|
 |**2023-07-06**|**Contrast Is All You Need**|Burak Kilic et.al.|[2307.02882v1](http://arxiv.org/abs/2307.02882v1)|null|
 |**2023-07-06**|**VerifAI: Verified Generative AI**|Nan Tang et.al.|[2307.02796v1](http://arxiv.org/abs/2307.02796v1)|null|
 |**2023-07-06**|**Dense Retrieval Adaptation using Target Domain Description**|Helia Hashemi et.al.|[2307.02740v1](http://arxiv.org/abs/2307.02740v1)|null|
 |**2023-07-05**|**Evade ChatGPT Detectors via A Single Space**|Shuyang Cai et.al.|[2307.02599v1](http://arxiv.org/abs/2307.02599v1)|null|
-|**2023-07-05**|**Won't Get Fooled Again: Answering Questions with False Premises**|Shengding Hu et.al.|[2307.02394v1](http://arxiv.org/abs/2307.02394v1)|[link](https://github.com/thunlp/falseqa)|
-|**2023-07-05**|**Generative Job Recommendations with Large Language Model**|Zhi Zheng et.al.|[2307.02157v1](http://arxiv.org/abs/2307.02157v1)|null|
-|**2023-07-04**|**Concept-Based Explanations to Test for False Causal Relationships Learned by Abusive Language Classifiers**|Isar Nejadgholi et.al.|[2307.01900v1](http://arxiv.org/abs/2307.01900v1)|[link](https://github.com/isarnejad/global-sufficiency)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-13**|**DRAGON: A Dialogue-Based Robot for Assistive Navigation with Visual Language Grounding**|Shuijing Liu et.al.|[2307.06924v1](http://arxiv.org/abs/2307.06924v1)|null|
+|**2023-07-13**|**DecompEval: Evaluating Generated Texts as Unsupervised Decomposed Question Answering**|Pei Ke et.al.|[2307.06869v1](http://arxiv.org/abs/2307.06869v1)|null|
+|**2023-07-13**|**Negated Complementary Commonsense using Large Language Models**|Navid Rezaei et.al.|[2307.06794v1](http://arxiv.org/abs/2307.06794v1)|null|
+|**2023-07-13**|**Intent-calibrated Self-training for Answer Selection in Open-domain Dialogues**|Wentao Deng et.al.|[2307.06703v1](http://arxiv.org/abs/2307.06703v1)|null|
 |**2023-07-12**|**MMBench: Is Your Multi-modal Model an All-around Player?**|Yuan Liu et.al.|[2307.06281v1](http://arxiv.org/abs/2307.06281v1)|[link](https://github.com/InternLM/opencompass)|
 |**2023-07-12**|**PolyLM: An Open Source Polyglot Large Language Model**|Xiangpeng Wei et.al.|[2307.06018v1](http://arxiv.org/abs/2307.06018v1)|null|
 |**2023-07-11**|**Towards Robust and Efficient Continual Language Learning**|Adam Fisch et.al.|[2307.05741v1](http://arxiv.org/abs/2307.05741v1)|null|
+|**2023-07-11**|**Self-consistency for open-ended generations**|Siddhartha Jain et.al.|[2307.06857v1](http://arxiv.org/abs/2307.06857v1)|null|
 |**2023-07-11**|**BLUEX: A benchmark based on Brazilian Leading Universities Entrance eXams**|Thales Sales Almeida et.al.|[2307.05410v1](http://arxiv.org/abs/2307.05410v1)|[link](https://github.com/portuguese-benchmark-datasets/bluex)|
 |**2023-07-11**|**Overview of BioASQ 2023: The eleventh BioASQ challenge on Large-Scale Biomedical Semantic Indexing and Question Answering**|Anastasios Nentidis et.al.|[2307.05131v1](http://arxiv.org/abs/2307.05131v1)|null|
 |**2023-07-11**|**Beyond the Obvious: Evaluating the Reasoning Ability In Real-life Scenarios of Language Models on Life Scapes Reasoning Benchmark~(LSR-Benchmark)**|Zhouhong Gu et.al.|[2307.05113v1](http://arxiv.org/abs/2307.05113v1)|null|
@@ -59,19 +63,13 @@
 |**2023-07-06**|**NatLogAttack: A Framework for Attacking Natural Language Inference Models with Natural Logic**|Zi'ou Zheng et.al.|[2307.02849v1](http://arxiv.org/abs/2307.02849v1)|null|
 |**2023-07-06**|**Read, Look or Listen? What's Needed for Solving a Multimodal Dataset**|Netta Madvil et.al.|[2307.04532v1](http://arxiv.org/abs/2307.04532v1)|null|
 |**2023-07-06**|**Generative Zero-Shot Prompt Learning for Cross-Domain Slot Filling with Inverse Prompting**|Xuefeng Li et.al.|[2307.02830v1](http://arxiv.org/abs/2307.02830v1)|null|
-|**2023-07-06**|**PRD: Peer Rank and Discussion Improve Large Language Model based Evaluations**|Ruosen Li et.al.|[2307.02762v1](http://arxiv.org/abs/2307.02762v1)|null|
-|**2023-07-06**|**Exploring Linguistic Style Matching in Online Communities: The Role of Social Context and Conversation Dynamics**|Aparna Ananthasubramaniam et.al.|[2307.02758v1](http://arxiv.org/abs/2307.02758v1)|null|
-|**2023-07-06**|**RecallM: An Architecture for Temporal Context Understanding and Question Answering**|Brandon Kynoch et.al.|[2307.02738v2](http://arxiv.org/abs/2307.02738v2)|[link](https://github.com/cisco-open/DeepVision/tree/main/recallm)|
-|**2023-07-06**|**Text Alignment Is An Efficient Unified Model for Massive NLP Tasks**|Yuheng Zha et.al.|[2307.02729v1](http://arxiv.org/abs/2307.02729v1)|null|
-|**2023-07-05**|**Evade ChatGPT Detectors via A Single Space**|Shuyang Cai et.al.|[2307.02599v1](http://arxiv.org/abs/2307.02599v1)|null|
-|**2023-07-05**|**Won't Get Fooled Again: Answering Questions with False Premises**|Shengding Hu et.al.|[2307.02394v1](http://arxiv.org/abs/2307.02394v1)|[link](https://github.com/thunlp/falseqa)|
-|**2023-07-05**|**Utilizing ChatGPT Generated Data to Retrieve Depression Symptoms from Social Media**|Ana-Maria Bucur et.al.|[2307.02313v2](http://arxiv.org/abs/2307.02313v2)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-13**|**Negated Complementary Commonsense using Large Language Models**|Navid Rezaei et.al.|[2307.06794v1](http://arxiv.org/abs/2307.06794v1)|null|
 |**2023-07-12**|**MMBench: Is Your Multi-modal Model an All-around Player?**|Yuan Liu et.al.|[2307.06281v1](http://arxiv.org/abs/2307.06281v1)|[link](https://github.com/InternLM/opencompass)|
 |**2023-07-12**|**VELMA: Verbalization Embodiment of LLM Agents for Vision and Language Navigation in Street View**|Raphael Schumann et.al.|[2307.06082v1](http://arxiv.org/abs/2307.06082v1)|null|
 |**2023-07-12**|**PolyLM: An Open Source Polyglot Large Language Model**|Xiangpeng Wei et.al.|[2307.06018v1](http://arxiv.org/abs/2307.06018v1)|null|
@@ -99,6 +97,7 @@
 |**2023-07-04**|**Insert-expansions for Tool-enabled Conversational Agents**|Andreas Göldi et.al.|[2307.01644v1](http://arxiv.org/abs/2307.01644v1)|null|
 |**2023-07-04**|**Chain of Thought Prompting Elicits Knowledge Augmentation**|Dingjun Wu et.al.|[2307.01640v1](http://arxiv.org/abs/2307.01640v1)|null|
 |**2023-07-04**|**Learning to Prompt in the Classroom to Understand AI Limits: A pilot study**|Emily Theophilou et.al.|[2307.01540v1](http://arxiv.org/abs/2307.01540v1)|null|
+|**2023-07-04**|**Garbage in, garbage out: Zero-shot detection of crime using Large Language Models**|Anj Simmons et.al.|[2307.06844v1](http://arxiv.org/abs/2307.06844v1)|null|
 |**2023-07-03**|**UniFine: A Unified and Fine-grained Approach for Zero-shot Vision-Language Understanding**|Rui Sun et.al.|[2307.00862v1](http://arxiv.org/abs/2307.00862v1)|[link](https://github.com/threesr/unifine)|
 |**2023-07-03**|**Evaluating Shutdown Avoidance of Language Models in Textual Scenarios**|Teun van der Weij et.al.|[2307.00787v1](http://arxiv.org/abs/2307.00787v1)|[link](https://github.com/teunvdweij/gpt-shutdownability)|
 |**2023-07-02**|**HeGeL: A Novel Dataset for Geo-Location from Hebrew Text**|Tzuf Paz-Argaman et.al.|[2307.00509v1](http://arxiv.org/abs/2307.00509v1)|[link](https://github.com/onlplab/hegel)|
@@ -199,5 +198,3 @@
 |**2023-06-10**|**Human-in-the-Loop through Chain-of-Thought**|Zefan Cai et.al.|[2306.07932v2](http://arxiv.org/abs/2306.07932v2)|null|
 |**2023-06-10**|**Investigating the Effectiveness of ChatGPT in Mathematical Reasoning and Problem Solving: Evidence from the Vietnamese National High School Graduation Examination**|Xuan-Quy Dao et.al.|[2306.06331v2](http://arxiv.org/abs/2306.06331v2)|null|
 |**2023-06-09**|**Can Large Language Models Infer Causation from Correlation?**|Zhijing Jin et.al.|[2306.05836v1](http://arxiv.org/abs/2306.05836v1)|[link](https://github.com/causalnlp/corr2cause)|
-|**2023-06-09**|**Large Language Model Is Semi-Parametric Reinforcement Learning Agent**|Danyang Zhang et.al.|[2306.07929v1](http://arxiv.org/abs/2306.07929v1)|null|
-|**2023-06-09**|**Judging LLM-as-a-judge with MT-Bench and Chatbot Arena**|Lianmin Zheng et.al.|[2306.05685v2](http://arxiv.org/abs/2306.05685v2)|[link](https://github.com/lm-sys/fastchat)|
