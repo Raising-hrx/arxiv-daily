@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-15 09:42:59
+ Automated deployment @ 2023-07-15 20:31:17
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,7 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-07-13**|**Negated Complementary Commonsense using Large Language Models**|Navid Rezaei et.al.|[2307.06794v1](http://arxiv.org/abs/2307.06794v1)|null|
+|**2023-07-13**|**Negated Complementary Commonsense using Large Language Models**|Navid Rezaei et.al.|[2307.06794v1](http://arxiv.org/abs/2307.06794v1)|[link](https://github.com/navidre/negated_complementary_commonsense)|
 |**2023-07-11**|**Explaining Competitive-Level Programming Solutions using LLMs**|Jierui Li et.al.|[2307.05337v1](http://arxiv.org/abs/2307.05337v1)|null|
 |**2023-07-11**|**Towards Understanding In-Context Learning with Contrastive Demonstrations and Saliency Maps**|Zongxia Li et.al.|[2307.05052v1](http://arxiv.org/abs/2307.05052v1)|[link](https://github.com/paihengxu/xicl)|
 |**2023-07-11**|**Synthetic Dataset for Evaluating Complex Compositional Knowledge for Natural Language Inference**|Sushma Anand Akoju et.al.|[2307.05034v2](http://arxiv.org/abs/2307.05034v2)|[link](https://github.com/sushmaakoju/natural-logic)|
@@ -29,8 +29,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-07-13**|**DRAGON: A Dialogue-Based Robot for Assistive Navigation with Visual Language Grounding**|Shuijing Liu et.al.|[2307.06924v1](http://arxiv.org/abs/2307.06924v1)|null|
-|**2023-07-13**|**DecompEval: Evaluating Generated Texts as Unsupervised Decomposed Question Answering**|Pei Ke et.al.|[2307.06869v1](http://arxiv.org/abs/2307.06869v1)|null|
-|**2023-07-13**|**Negated Complementary Commonsense using Large Language Models**|Navid Rezaei et.al.|[2307.06794v1](http://arxiv.org/abs/2307.06794v1)|null|
+|**2023-07-13**|**DecompEval: Evaluating Generated Texts as Unsupervised Decomposed Question Answering**|Pei Ke et.al.|[2307.06869v1](http://arxiv.org/abs/2307.06869v1)|[link](https://github.com/kepei1106/decompeval)|
+|**2023-07-13**|**Negated Complementary Commonsense using Large Language Models**|Navid Rezaei et.al.|[2307.06794v1](http://arxiv.org/abs/2307.06794v1)|[link](https://github.com/navidre/negated_complementary_commonsense)|
 |**2023-07-13**|**Intent-calibrated Self-training for Answer Selection in Open-domain Dialogues**|Wentao Deng et.al.|[2307.06703v1](http://arxiv.org/abs/2307.06703v1)|null|
 |**2023-07-12**|**MMBench: Is Your Multi-modal Model an All-around Player?**|Yuan Liu et.al.|[2307.06281v1](http://arxiv.org/abs/2307.06281v1)|[link](https://github.com/InternLM/opencompass)|
 |**2023-07-12**|**PolyLM: An Open Source Polyglot Large Language Model**|Xiangpeng Wei et.al.|[2307.06018v1](http://arxiv.org/abs/2307.06018v1)|null|
@@ -69,7 +69,7 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-07-13**|**Negated Complementary Commonsense using Large Language Models**|Navid Rezaei et.al.|[2307.06794v1](http://arxiv.org/abs/2307.06794v1)|null|
+|**2023-07-13**|**Negated Complementary Commonsense using Large Language Models**|Navid Rezaei et.al.|[2307.06794v1](http://arxiv.org/abs/2307.06794v1)|[link](https://github.com/navidre/negated_complementary_commonsense)|
 |**2023-07-12**|**MMBench: Is Your Multi-modal Model an All-around Player?**|Yuan Liu et.al.|[2307.06281v1](http://arxiv.org/abs/2307.06281v1)|[link](https://github.com/InternLM/opencompass)|
 |**2023-07-12**|**VELMA: Verbalization Embodiment of LLM Agents for Vision and Language Navigation in Street View**|Raphael Schumann et.al.|[2307.06082v1](http://arxiv.org/abs/2307.06082v1)|null|
 |**2023-07-12**|**PolyLM: An Open Source Polyglot Large Language Model**|Xiangpeng Wei et.al.|[2307.06018v1](http://arxiv.org/abs/2307.06018v1)|null|
@@ -97,7 +97,7 @@
 |**2023-07-04**|**Insert-expansions for Tool-enabled Conversational Agents**|Andreas Göldi et.al.|[2307.01644v1](http://arxiv.org/abs/2307.01644v1)|null|
 |**2023-07-04**|**Chain of Thought Prompting Elicits Knowledge Augmentation**|Dingjun Wu et.al.|[2307.01640v1](http://arxiv.org/abs/2307.01640v1)|null|
 |**2023-07-04**|**Learning to Prompt in the Classroom to Understand AI Limits: A pilot study**|Emily Theophilou et.al.|[2307.01540v1](http://arxiv.org/abs/2307.01540v1)|null|
-|**2023-07-04**|**Garbage in, garbage out: Zero-shot detection of crime using Large Language Models**|Anj Simmons et.al.|[2307.06844v1](http://arxiv.org/abs/2307.06844v1)|null|
+|**2023-07-04**|**Garbage in, garbage out: Zero-shot detection of crime using Large Language Models**|Anj Simmons et.al.|[2307.06844v1](http://arxiv.org/abs/2307.06844v1)|[link](https://github.com/anjsimmo/zero-shot-crime-detection)|
 |**2023-07-03**|**UniFine: A Unified and Fine-grained Approach for Zero-shot Vision-Language Understanding**|Rui Sun et.al.|[2307.00862v1](http://arxiv.org/abs/2307.00862v1)|[link](https://github.com/threesr/unifine)|
 |**2023-07-03**|**Evaluating Shutdown Avoidance of Language Models in Textual Scenarios**|Teun van der Weij et.al.|[2307.00787v1](http://arxiv.org/abs/2307.00787v1)|[link](https://github.com/teunvdweij/gpt-shutdownability)|
 |**2023-07-02**|**HeGeL: A Novel Dataset for Geo-Location from Hebrew Text**|Tzuf Paz-Argaman et.al.|[2307.00509v1](http://arxiv.org/abs/2307.00509v1)|[link](https://github.com/onlplab/hegel)|
