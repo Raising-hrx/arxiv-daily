@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-17 09:47:25
+ Automated deployment @ 2023-07-17 20:36:27
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-14**|**Hybrid moderation in the newsroom: Recommending featured posts to content moderators**|Cedric Waterschoot et.al.|[2307.07317v1](http://arxiv.org/abs/2307.07317v1)|null|
 |**2023-07-13**|**Negated Complementary Commonsense using Large Language Models**|Navid Rezaei et.al.|[2307.06794v1](http://arxiv.org/abs/2307.06794v1)|[link](https://github.com/navidre/negated_complementary_commonsense)|
 |**2023-07-11**|**Explaining Competitive-Level Programming Solutions using LLMs**|Jierui Li et.al.|[2307.05337v1](http://arxiv.org/abs/2307.05337v1)|null|
 |**2023-07-11**|**Towards Understanding In-Context Learning with Contrastive Demonstrations and Saliency Maps**|Zongxia Li et.al.|[2307.05052v1](http://arxiv.org/abs/2307.05052v1)|[link](https://github.com/paihengxu/xicl)|
@@ -19,15 +20,15 @@
 |**2023-07-07**|**Testing the Predictions of Surprisal Theory in 11 Languages**|Ethan Gotlieb Wilcox et.al.|[2307.03667v2](http://arxiv.org/abs/2307.03667v2)|null|
 |**2023-07-06**|**The Relationship Between Speech Features Changes When You Get Depressed: Feature Correlations for Improving Speed and Performance of Depression Detection**|Fuxiang Tao et.al.|[2307.02892v2](http://arxiv.org/abs/2307.02892v2)|null|
 |**2023-07-06**|**Contrast Is All You Need**|Burak Kilic et.al.|[2307.02882v1](http://arxiv.org/abs/2307.02882v1)|null|
-|**2023-07-06**|**VerifAI: Verified Generative AI**|Nan Tang et.al.|[2307.02796v1](http://arxiv.org/abs/2307.02796v1)|null|
-|**2023-07-06**|**Dense Retrieval Adaptation using Target Domain Description**|Helia Hashemi et.al.|[2307.02740v1](http://arxiv.org/abs/2307.02740v1)|null|
-|**2023-07-05**|**Evade ChatGPT Detectors via A Single Space**|Shuyang Cai et.al.|[2307.02599v1](http://arxiv.org/abs/2307.02599v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-14**|**A scoping review on multimodal deep learning in biomedical images and texts**|Zhaoyi Sun et.al.|[2307.07362v1](http://arxiv.org/abs/2307.07362v1)|null|
+|**2023-07-14**|**Towards dialect-inclusive recognition in a low-resource language: are balanced corpora the answer?**|Liam Lonergan et.al.|[2307.07295v1](http://arxiv.org/abs/2307.07295v1)|null|
+|**2023-07-13**|**MegaWika: Millions of reports and their sources across 50 diverse languages**|Samuel Barham et.al.|[2307.07049v1](http://arxiv.org/abs/2307.07049v1)|null|
 |**2023-07-13**|**DRAGON: A Dialogue-Based Robot for Assistive Navigation with Visual Language Grounding**|Shuijing Liu et.al.|[2307.06924v1](http://arxiv.org/abs/2307.06924v1)|null|
 |**2023-07-13**|**DecompEval: Evaluating Generated Texts as Unsupervised Decomposed Question Answering**|Pei Ke et.al.|[2307.06869v1](http://arxiv.org/abs/2307.06869v1)|[link](https://github.com/kepei1106/decompeval)|
 |**2023-07-13**|**Negated Complementary Commonsense using Large Language Models**|Navid Rezaei et.al.|[2307.06794v1](http://arxiv.org/abs/2307.06794v1)|[link](https://github.com/navidre/negated_complementary_commonsense)|
@@ -45,6 +46,7 @@
 |**2023-07-10**|**Event Extraction as Question Generation and Answering**|Di Lu et.al.|[2307.05567v1](http://arxiv.org/abs/2307.05567v1)|null|
 |**2023-07-09**|**SAS Video-QA: Self-Adaptive Sampling for Efficient Video Question-Answering**|Wei Han et.al.|[2307.04192v1](http://arxiv.org/abs/2307.04192v1)|[link](https://github.com/declare-lab/sas-vqa)|
 |**2023-07-08**|**Bidirectional Attention as a Mixture of Continuous Word Experts**|Kevin Christian Wibisono et.al.|[2307.04057v1](http://arxiv.org/abs/2307.04057v1)|[link](https://github.com/yixinw-lab/attention-uai)|
+|**2023-07-08**|**Can LLMs be Good Financial Advisors?: An Initial Study in Personal Decision Making for Optimized Outcomes**|Kausik Lakkaraju et.al.|[2307.07422v1](http://arxiv.org/abs/2307.07422v1)|null|
 |**2023-07-08**|**Answering Ambiguous Questions via Iterative Prompting**|Weiwei Sun et.al.|[2307.03897v1](http://arxiv.org/abs/2307.03897v1)|[link](https://github.com/sunnweiwei/ambigprompt)|
 |**2023-07-08**|**Large Language Models for Supply Chain Optimization**|Beibin Li et.al.|[2307.03875v2](http://arxiv.org/abs/2307.03875v2)|null|
 |**2023-07-07**|**Linguistic representations for fewer-shot relation extraction across domains**|Sireesh Gururaja et.al.|[2307.03823v1](http://arxiv.org/abs/2307.03823v1)|null|
@@ -54,21 +56,15 @@
 |**2023-07-06**|**Covering Uncommon Ground: Gap-Focused Question Generation for Answer Assessment**|Roni Rabin et.al.|[2307.03319v1](http://arxiv.org/abs/2307.03319v1)|null|
 |**2023-07-06**|**Vision Language Transformers: A Survey**|Clayton Fields et.al.|[2307.03254v1](http://arxiv.org/abs/2307.03254v1)|null|
 |**2023-07-06**|**Lost in the Middle: How Language Models Use Long Contexts**|Nelson F. Liu et.al.|[2307.03172v1](http://arxiv.org/abs/2307.03172v1)|null|
-|**2023-07-06**|**VisKoP: Visual Knowledge oriented Programming for Interactive Knowledge Base Question Answering**|Zijun Yao et.al.|[2307.03130v1](http://arxiv.org/abs/2307.03130v1)|null|
-|**2023-07-06**|**KoRC: Knowledge oriented Reading Comprehension Benchmark for Deep Text Understanding**|Zijun Yao et.al.|[2307.03115v1](http://arxiv.org/abs/2307.03115v1)|[link](https://github.com/thu-keg/korc)|
-|**2023-07-06**|**A Survey on Evaluation of Large Language Models**|Yupeng Chang et.al.|[2307.03109v4](http://arxiv.org/abs/2307.03109v4)|[link](https://github.com/mlgroupjlu/llm-eval-survey)|
-|**2023-07-06**|**Improving Retrieval-Augmented Large Language Models via Data Importance Learning**|Xiaozhong Lyu et.al.|[2307.03027v1](http://arxiv.org/abs/2307.03027v1)|[link](https://github.com/amsterdata/ragbooster)|
-|**2023-07-06**|**Style Over Substance: Evaluation Biases for Large Language Models**|Minghao Wu et.al.|[2307.03025v1](http://arxiv.org/abs/2307.03025v1)|null|
-|**2023-07-06**|**CORE-GPT: Combining Open Access research and large language models for credible, trustworthy question answering**|David Pride et.al.|[2307.04683v1](http://arxiv.org/abs/2307.04683v1)|[link](https://github.com/oacore/core-gpt-evaluation)|
-|**2023-07-06**|**NatLogAttack: A Framework for Attacking Natural Language Inference Models with Natural Logic**|Zi'ou Zheng et.al.|[2307.02849v1](http://arxiv.org/abs/2307.02849v1)|null|
-|**2023-07-06**|**Read, Look or Listen? What's Needed for Solving a Multimodal Dataset**|Netta Madvil et.al.|[2307.04532v1](http://arxiv.org/abs/2307.04532v1)|null|
-|**2023-07-06**|**Generative Zero-Shot Prompt Learning for Cross-Domain Slot Filling with Inverse Prompting**|Xuefeng Li et.al.|[2307.02830v1](http://arxiv.org/abs/2307.02830v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-14**|**Drive Like a Human: Rethinking Autonomous Driving with Large Language Models**|Daocheng Fu et.al.|[2307.07162v1](http://arxiv.org/abs/2307.07162v1)|[link](https://github.com/PJLab-ADG/driveLikeAHuman)|
+|**2023-07-14**|**Do not Mask Randomly: Effective Domain-adaptive Pre-training by Masking In-domain Keywords**|Shahriar Golchin et.al.|[2307.07160v1](http://arxiv.org/abs/2307.07160v1)|null|
+|**2023-07-14**|**MMSD2.0: Towards a Reliable Multi-modal Sarcasm Detection System**|Libo Qin et.al.|[2307.07135v1](http://arxiv.org/abs/2307.07135v1)|[link](https://github.com/joeying1019/mmsd2.0)|
 |**2023-07-13**|**Negated Complementary Commonsense using Large Language Models**|Navid Rezaei et.al.|[2307.06794v1](http://arxiv.org/abs/2307.06794v1)|[link](https://github.com/navidre/negated_complementary_commonsense)|
 |**2023-07-12**|**MMBench: Is Your Multi-modal Model an All-around Player?**|Yuan Liu et.al.|[2307.06281v1](http://arxiv.org/abs/2307.06281v1)|[link](https://github.com/InternLM/opencompass)|
 |**2023-07-12**|**VELMA: Verbalization Embodiment of LLM Agents for Vision and Language Navigation in Street View**|Raphael Schumann et.al.|[2307.06082v1](http://arxiv.org/abs/2307.06082v1)|null|
@@ -197,4 +193,3 @@
 |**2023-06-10**|**Boosting Language Models Reasoning with Chain-of-Knowledge Prompting**|Jianing Wang et.al.|[2306.06427v1](http://arxiv.org/abs/2306.06427v1)|null|
 |**2023-06-10**|**Human-in-the-Loop through Chain-of-Thought**|Zefan Cai et.al.|[2306.07932v2](http://arxiv.org/abs/2306.07932v2)|null|
 |**2023-06-10**|**Investigating the Effectiveness of ChatGPT in Mathematical Reasoning and Problem Solving: Evidence from the Vietnamese National High School Graduation Examination**|Xuan-Quy Dao et.al.|[2306.06331v2](http://arxiv.org/abs/2306.06331v2)|null|
-|**2023-06-09**|**Can Large Language Models Infer Causation from Correlation?**|Zhijing Jin et.al.|[2306.05836v1](http://arxiv.org/abs/2306.05836v1)|[link](https://github.com/causalnlp/corr2cause)|
