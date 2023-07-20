@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-20 09:19:20
+ Automated deployment @ 2023-07-20 20:31:47
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -16,15 +16,13 @@
 |**2023-07-15**|**AspectCSE: Sentence Embeddings for Aspect-based Semantic Textual Similarity using Contrastive Learning and Structured Knowledge**|Tim Schopf et.al.|[2307.07851v1](http://arxiv.org/abs/2307.07851v1)|null|
 |**2023-07-14**|**Hybrid moderation in the newsroom: Recommending featured posts to content moderators**|Cedric Waterschoot et.al.|[2307.07317v1](http://arxiv.org/abs/2307.07317v1)|null|
 |**2023-07-13**|**Negated Complementary Commonsense using Large Language Models**|Navid Rezaei et.al.|[2307.06794v1](http://arxiv.org/abs/2307.06794v1)|[link](https://github.com/navidre/negated_complementary_commonsense)|
-|**2023-07-11**|**Explaining Competitive-Level Programming Solutions using LLMs**|Jierui Li et.al.|[2307.05337v1](http://arxiv.org/abs/2307.05337v1)|null|
-|**2023-07-11**|**Towards Understanding In-Context Learning with Contrastive Demonstrations and Saliency Maps**|Zongxia Li et.al.|[2307.05052v1](http://arxiv.org/abs/2307.05052v1)|[link](https://github.com/paihengxu/xicl)|
-|**2023-07-11**|**Synthetic Dataset for Evaluating Complex Compositional Knowledge for Natural Language Inference**|Sushma Anand Akoju et.al.|[2307.05034v2](http://arxiv.org/abs/2307.05034v2)|[link](https://github.com/sushmaakoju/natural-logic)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-19**|**DAPrompt: Deterministic Assumption Prompt Learning for Event Causality Identification**|Wei Xiang et.al.|[2307.09813v1](http://arxiv.org/abs/2307.09813v1)|null|
 |**2023-07-18**|**Let's ViCE! Mimicking Human Cognitive Behavior in Image Generation Evaluation**|Federico Betti et.al.|[2307.09416v2](http://arxiv.org/abs/2307.09416v2)|null|
 |**2023-07-18**|**UniTabE: Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data**|Yazheng Yang et.al.|[2307.09249v1](http://arxiv.org/abs/2307.09249v1)|null|
 |**2023-07-18**|**How is ChatGPT's behavior changing over time?**|Lingjiao Chen et.al.|[2307.09009v1](http://arxiv.org/abs/2307.09009v1)|[link](https://github.com/lchen001/llmdrift)|
@@ -47,6 +45,7 @@
 |**2023-07-14**|**QontSum: On Contrasting Salient Content for Query-focused Summarization**|Sajad Sotudeh et.al.|[2307.07586v1](http://arxiv.org/abs/2307.07586v1)|null|
 |**2023-07-14**|**A scoping review on multimodal deep learning in biomedical images and texts**|Zhaoyi Sun et.al.|[2307.07362v1](http://arxiv.org/abs/2307.07362v1)|null|
 |**2023-07-14**|**Towards dialect-inclusive recognition in a low-resource language: are balanced corpora the answer?**|Liam Lonergan et.al.|[2307.07295v1](http://arxiv.org/abs/2307.07295v1)|null|
+|**2023-07-14**|**Understanding Multi-Turn Toxic Behaviors in Open-Domain Chatbots**|Bocheng Chen et.al.|[2307.09579v1](http://arxiv.org/abs/2307.09579v1)|null|
 |**2023-07-13**|**MegaWika: Millions of reports and their sources across 50 diverse languages**|Samuel Barham et.al.|[2307.07049v1](http://arxiv.org/abs/2307.07049v1)|null|
 |**2023-07-13**|**DRAGON: A Dialogue-Based Robot for Assistive Navigation with Visual Language Grounding**|Shuijing Liu et.al.|[2307.06924v1](http://arxiv.org/abs/2307.06924v1)|null|
 |**2023-07-13**|**DecompEval: Evaluating Generated Texts as Unsupervised Decomposed Question Answering**|Pei Ke et.al.|[2307.06869v1](http://arxiv.org/abs/2307.06869v1)|[link](https://github.com/kepei1106/decompeval)|
@@ -54,15 +53,15 @@
 |**2023-07-13**|**Intent-calibrated Self-training for Answer Selection in Open-domain Dialogues**|Wentao Deng et.al.|[2307.06703v1](http://arxiv.org/abs/2307.06703v1)|null|
 |**2023-07-12**|**MMBench: Is Your Multi-modal Model an All-around Player?**|Yuan Liu et.al.|[2307.06281v1](http://arxiv.org/abs/2307.06281v1)|[link](https://github.com/InternLM/opencompass)|
 |**2023-07-12**|**PolyLM: An Open Source Polyglot Large Language Model**|Xiangpeng Wei et.al.|[2307.06018v1](http://arxiv.org/abs/2307.06018v1)|null|
-|**2023-07-11**|**Towards Robust and Efficient Continual Language Learning**|Adam Fisch et.al.|[2307.05741v1](http://arxiv.org/abs/2307.05741v1)|null|
-|**2023-07-11**|**Self-consistency for open-ended generations**|Siddhartha Jain et.al.|[2307.06857v1](http://arxiv.org/abs/2307.06857v1)|null|
-|**2023-07-11**|**BLUEX: A benchmark based on Brazilian Leading Universities Entrance eXams**|Thales Sales Almeida et.al.|[2307.05410v1](http://arxiv.org/abs/2307.05410v1)|[link](https://github.com/portuguese-benchmark-datasets/bluex)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-19**|**Generating Mathematical Derivations with Large Language Models**|Jordan Meadows et.al.|[2307.09998v1](http://arxiv.org/abs/2307.09998v1)|null|
+|**2023-07-19**|**Large Language Models can accomplish Business Process Management Tasks**|Michael Grohs et.al.|[2307.09923v1](http://arxiv.org/abs/2307.09923v1)|null|
+|**2023-07-19**|**CValues: Measuring the Values of Chinese Large Language Models from Safety to Responsibility**|Guohai Xu et.al.|[2307.09705v1](http://arxiv.org/abs/2307.09705v1)|[link](https://github.com/x-plug/cvalues)|
 |**2023-07-18**|**Exploring acceptance of autonomous vehicle policies using KeyBERT and SNA: Targeting engineering students**|Jinwoo Ha et.al.|[2307.09014v1](http://arxiv.org/abs/2307.09014v1)|null|
 |**2023-07-18**|**How is ChatGPT's behavior changing over time?**|Lingjiao Chen et.al.|[2307.09009v1](http://arxiv.org/abs/2307.09009v1)|[link](https://github.com/lchen001/llmdrift)|
 |**2023-07-18**|**Large Language Models Perform Diagnostic Reasoning**|Cheng-Kuang Wu et.al.|[2307.08922v1](http://arxiv.org/abs/2307.08922v1)|null|
@@ -185,10 +184,3 @@
 |**2023-06-15**|**Towards Benchmarking and Improving the Temporal Reasoning Capability of Large Language Models**|Qingyu Tan et.al.|[2306.08952v2](http://arxiv.org/abs/2306.08952v2)|[link](https://github.com/damo-nlp-sg/tempreason)|
 |**2023-06-15**|**Interleaving Pre-Trained Language Models and Large Language Models for Zero-Shot NL2SQL Generation**|Zihui Gu et.al.|[2306.08891v1](http://arxiv.org/abs/2306.08891v1)|[link](https://github.com/ruc-datalab/zeronl2sql)|
 |**2023-06-15**|**Pragmatic Inference with a CLIP Listener for Contrastive Captioning**|Jiefu Ou et.al.|[2306.08818v1](http://arxiv.org/abs/2306.08818v1)|[link](https://github.com/jefferyo/prag_clip_contra_caption)|
-|**2023-06-14**|**Revealing the structure of language model capabilities**|Ryan Burnell et.al.|[2306.10062v1](http://arxiv.org/abs/2306.10062v1)|[link](https://github.com/ryanburnell/revealing-llm-capabilities)|
-|**2023-06-14**|**Unifying Large Language Models and Knowledge Graphs: A Roadmap**|Shirui Pan et.al.|[2306.08302v2](http://arxiv.org/abs/2306.08302v2)|null|
-|**2023-06-14**|**Language models are not naysayers: An analysis of language models on negation benchmarks**|Thinh Hung Truong et.al.|[2306.08189v1](http://arxiv.org/abs/2306.08189v1)|[link](https://github.com/joey234/llm-neg-bench)|
-|**2023-06-13**|**AVIS: Autonomous Visual Information Seeking with Large Language Models**|Ziniu Hu et.al.|[2306.08129v1](http://arxiv.org/abs/2306.08129v1)|null|
-|**2023-06-13**|**FLamE: Few-shot Learning from Natural Language Explanations**|Yangqiaoyu Zhou et.al.|[2306.08042v1](http://arxiv.org/abs/2306.08042v1)|null|
-|**2023-06-13**|**BoardgameQA: A Dataset for Natural Language Reasoning with Contradictory Information**|Mehran Kazemi et.al.|[2306.07934v1](http://arxiv.org/abs/2306.07934v1)|null|
-|**2023-06-13**|**GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Speech Emotion Recognition**|Yu Pan et.al.|[2306.07848v5](http://arxiv.org/abs/2306.07848v5)|null|
