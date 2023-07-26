@@ -1,24 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2023-07-26 20:54:58
+ Automated deployment @ 2023-07-26 21:16:50
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-07-24**|**Explaining Math Word Problem Solvers**|Abby Newcomb et.al.|[2307.13128v1](http://arxiv.org/abs/2307.13128v1)|null|
-|**2023-07-24**|**The potential of LLMs for coding with low-resource and domain-specific programming languages**|Artur Tarassow et.al.|[2307.13018v1](http://arxiv.org/abs/2307.13018v1)|null|
-|**2023-07-24**|**Rule By Example: Harnessing Logical Rules for Explainable Hate Speech Detection**|Christopher Clarke et.al.|[2307.12935v1](http://arxiv.org/abs/2307.12935v1)|[link](https://github.com/chrisisking/rule-by-example)|
-|**2023-07-23**|**CommonsenseVIS: Visualizing and Understanding Commonsense Reasoning Capabilities of Natural Language Models**|Xingbo Wang et.al.|[2307.12382v1](http://arxiv.org/abs/2307.12382v1)|null|
-|**2023-07-22**|**Explainable Topic-Enhanced Argument Mining from Heterogeneous Sources**|Jiasheng Si et.al.|[2307.12131v1](http://arxiv.org/abs/2307.12131v1)|null|
-|**2023-07-21**|**OxfordTVG-HIC: Can Machine Make Humorous Captions from Images?**|Runjia Li et.al.|[2307.11636v1](http://arxiv.org/abs/2307.11636v1)|null|
-|**2023-07-21**|**Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect ChatGPT-Generated Text**|Lingyi Yang et.al.|[2307.11380v1](http://arxiv.org/abs/2307.11380v1)|[link](https://github.com/clement1290/chatgpt-detection-pr-hppt)|
-|**2023-07-21**|**CohortGPT: An Enhanced GPT for Participant Recruitment in Clinical Study**|Zihan Guan et.al.|[2307.11346v1](http://arxiv.org/abs/2307.11346v1)|null|
-|**2023-07-20**|**FigCaps-HF: A Figure-to-Caption Generative Framework and Benchmark with Human Feedback**|Ashish Singh et.al.|[2307.10867v1](http://arxiv.org/abs/2307.10867v1)|[link](https://github.com/figcapshf/figcapshf)|
-|**2023-07-20**|**Layer-wise Representation Fusion for Compositional Generalization**|Yafang Zheng et.al.|[2307.10799v1](http://arxiv.org/abs/2307.10799v1)|null|
-|**2023-07-18**|**Zero-shot Query Reformulation for Conversational Search**|Dayu Yang et.al.|[2307.09384v1](http://arxiv.org/abs/2307.09384v1)|[link](https://github.com/dayuyang1999/zeqr)|
 
 ## Question Answering
 
@@ -49,6 +32,23 @@
 |**2023-07-18**|**Teach model to answer questions after comprehending the document**|Ruiqing Sun et.al.|[2307.08931v1](http://arxiv.org/abs/2307.08931v1)|null|
 |**2023-07-17**|**A mixed policy to improve performance of language models on math problems**|Gang Chen et.al.|[2307.08767v1](http://arxiv.org/abs/2307.08767v1)|[link](https://github.com/vividitytech/math_lm_rl)|
 |**2023-07-17**|**Do Models Explain Themselves? Counterfactual Simulatability of Natural Language Explanations**|Yanda Chen et.al.|[2307.08678v1](http://arxiv.org/abs/2307.08678v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-07-24**|**Explaining Math Word Problem Solvers**|Abby Newcomb et.al.|[2307.13128v1](http://arxiv.org/abs/2307.13128v1)|null|
+|**2023-07-24**|**The potential of LLMs for coding with low-resource and domain-specific programming languages**|Artur Tarassow et.al.|[2307.13018v1](http://arxiv.org/abs/2307.13018v1)|null|
+|**2023-07-24**|**Rule By Example: Harnessing Logical Rules for Explainable Hate Speech Detection**|Christopher Clarke et.al.|[2307.12935v1](http://arxiv.org/abs/2307.12935v1)|[link](https://github.com/chrisisking/rule-by-example)|
+|**2023-07-23**|**CommonsenseVIS: Visualizing and Understanding Commonsense Reasoning Capabilities of Natural Language Models**|Xingbo Wang et.al.|[2307.12382v1](http://arxiv.org/abs/2307.12382v1)|null|
+|**2023-07-22**|**Explainable Topic-Enhanced Argument Mining from Heterogeneous Sources**|Jiasheng Si et.al.|[2307.12131v1](http://arxiv.org/abs/2307.12131v1)|null|
+|**2023-07-21**|**OxfordTVG-HIC: Can Machine Make Humorous Captions from Images?**|Runjia Li et.al.|[2307.11636v1](http://arxiv.org/abs/2307.11636v1)|null|
+|**2023-07-21**|**Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect ChatGPT-Generated Text**|Lingyi Yang et.al.|[2307.11380v1](http://arxiv.org/abs/2307.11380v1)|[link](https://github.com/clement1290/chatgpt-detection-pr-hppt)|
+|**2023-07-21**|**CohortGPT: An Enhanced GPT for Participant Recruitment in Clinical Study**|Zihan Guan et.al.|[2307.11346v1](http://arxiv.org/abs/2307.11346v1)|null|
+|**2023-07-20**|**FigCaps-HF: A Figure-to-Caption Generative Framework and Benchmark with Human Feedback**|Ashish Singh et.al.|[2307.10867v1](http://arxiv.org/abs/2307.10867v1)|[link](https://github.com/figcapshf/figcapshf)|
+|**2023-07-20**|**Layer-wise Representation Fusion for Compositional Generalization**|Yafang Zheng et.al.|[2307.10799v1](http://arxiv.org/abs/2307.10799v1)|null|
+|**2023-07-18**|**Zero-shot Query Reformulation for Conversational Search**|Dayu Yang et.al.|[2307.09384v1](http://arxiv.org/abs/2307.09384v1)|[link](https://github.com/dayuyang1999/zeqr)|
 
 ## Reasoning
 
