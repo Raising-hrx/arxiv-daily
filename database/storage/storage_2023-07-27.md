@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-27 09:11:36
+ Automated deployment @ 2023-07-27 20:30:21
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-26**|**Affective Natural Language Generation of Event Descriptions through Fine-grained Appraisal Conditions**|Yarik Menchaca Resendiz et.al.|[2307.14004v1](http://arxiv.org/abs/2307.14004v1)|null|
 |**2023-07-24**|**Explaining Math Word Problem Solvers**|Abby Newcomb et.al.|[2307.13128v1](http://arxiv.org/abs/2307.13128v1)|null|
 |**2023-07-24**|**The potential of LLMs for coding with low-resource and domain-specific programming languages**|Artur Tarassow et.al.|[2307.13018v1](http://arxiv.org/abs/2307.13018v1)|null|
 |**2023-07-24**|**Rule By Example: Harnessing Logical Rules for Explainable Hate Speech Detection**|Christopher Clarke et.al.|[2307.12935v1](http://arxiv.org/abs/2307.12935v1)|[link](https://github.com/chrisisking/rule-by-example)|
@@ -18,13 +19,16 @@
 |**2023-07-21**|**CohortGPT: An Enhanced GPT for Participant Recruitment in Clinical Study**|Zihan Guan et.al.|[2307.11346v1](http://arxiv.org/abs/2307.11346v1)|null|
 |**2023-07-20**|**FigCaps-HF: A Figure-to-Caption Generative Framework and Benchmark with Human Feedback**|Ashish Singh et.al.|[2307.10867v1](http://arxiv.org/abs/2307.10867v1)|[link](https://github.com/figcapshf/figcapshf)|
 |**2023-07-20**|**Layer-wise Representation Fusion for Compositional Generalization**|Yafang Zheng et.al.|[2307.10799v1](http://arxiv.org/abs/2307.10799v1)|null|
-|**2023-07-18**|**Zero-shot Query Reformulation for Conversational Search**|Dayu Yang et.al.|[2307.09384v1](http://arxiv.org/abs/2307.09384v1)|[link](https://github.com/dayuyang1999/zeqr)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-26**|**Towards Generalist Biomedical AI**|Tao Tu et.al.|[2307.14334v1](http://arxiv.org/abs/2307.14334v1)|null|
+|**2023-07-26**|**Evaluating the Moral Beliefs Encoded in LLMs**|Nino Scherrer et.al.|[2307.14324v1](http://arxiv.org/abs/2307.14324v1)|[link](https://github.com/ninodimontalcino/moralchoice)|
+|**2023-07-26**|**LOIS: Looking Out of Instance Semantics for Visual Question Answering**|Siyu Zhang et.al.|[2307.14142v1](http://arxiv.org/abs/2307.14142v1)|null|
+|**2023-07-25**|**Is GPT a Computational Model of Emotion? Detailed Analysis**|Ala N. Tak et.al.|[2307.13779v1](http://arxiv.org/abs/2307.13779v1)|null|
 |**2023-07-25**|**Contributions to the Improvement of Question Answering Systems in the Biomedical Domain**|Mourad Sarrouti et.al.|[2307.13631v1](http://arxiv.org/abs/2307.13631v1)|null|
 |**2023-07-25**|**GPT-3 Models are Few-Shot Financial Reasoners**|Raul Salles de Padua et.al.|[2307.13617v2](http://arxiv.org/abs/2307.13617v2)|null|
 |**2023-07-25**|**Analyzing Chain-of-Thought Prompting in Large Language Models via Gradient-based Feature Attributions**|Skyler Wu et.al.|[2307.13339v1](http://arxiv.org/abs/2307.13339v1)|null|
@@ -45,16 +49,16 @@
 |**2023-07-19**|**DAPrompt: Deterministic Assumption Prompt Learning for Event Causality Identification**|Wei Xiang et.al.|[2307.09813v1](http://arxiv.org/abs/2307.09813v1)|null|
 |**2023-07-18**|**Let's ViCE! Mimicking Human Cognitive Behavior in Image Generation Evaluation**|Federico Betti et.al.|[2307.09416v2](http://arxiv.org/abs/2307.09416v2)|null|
 |**2023-07-18**|**UniTabE: Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data**|Yazheng Yang et.al.|[2307.09249v1](http://arxiv.org/abs/2307.09249v1)|null|
-|**2023-07-18**|**How is ChatGPT's behavior changing over time?**|Lingjiao Chen et.al.|[2307.09009v1](http://arxiv.org/abs/2307.09009v1)|[link](https://github.com/lchen001/llmdrift)|
-|**2023-07-18**|**Teach model to answer questions after comprehending the document**|Ruiqing Sun et.al.|[2307.08931v1](http://arxiv.org/abs/2307.08931v1)|null|
-|**2023-07-17**|**A mixed policy to improve performance of language models on math problems**|Gang Chen et.al.|[2307.08767v1](http://arxiv.org/abs/2307.08767v1)|[link](https://github.com/vividitytech/math_lm_rl)|
-|**2023-07-17**|**Do Models Explain Themselves? Counterfactual Simulatability of Natural Language Explanations**|Yanda Chen et.al.|[2307.08678v1](http://arxiv.org/abs/2307.08678v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-26**|**Towards Generalist Biomedical AI**|Tao Tu et.al.|[2307.14334v1](http://arxiv.org/abs/2307.14334v1)|null|
+|**2023-07-26**|**LOIS: Looking Out of Instance Semantics for Visual Question Answering**|Siyu Zhang et.al.|[2307.14142v1](http://arxiv.org/abs/2307.14142v1)|null|
+|**2023-07-25**|**WebArena: A Realistic Web Environment for Building Autonomous Agents**|Shuyan Zhou et.al.|[2307.13854v1](http://arxiv.org/abs/2307.13854v1)|null|
+|**2023-07-25**|**Is GPT a Computational Model of Emotion? Detailed Analysis**|Ala N. Tak et.al.|[2307.13779v1](http://arxiv.org/abs/2307.13779v1)|null|
 |**2023-07-25**|**ARB: Advanced Reasoning Benchmark for Large Language Models**|Tomohiro Sawada et.al.|[2307.13692v1](http://arxiv.org/abs/2307.13692v1)|null|
 |**2023-07-25**|**A Comprehensive Evaluation and Analysis Study for Chinese Spelling Check**|Xunjian Yin et.al.|[2307.13655v1](http://arxiv.org/abs/2307.13655v1)|null|
 |**2023-07-25**|**GPT-3 Models are Few-Shot Financial Reasoners**|Raul Salles de Padua et.al.|[2307.13617v2](http://arxiv.org/abs/2307.13617v2)|null|
@@ -83,6 +87,7 @@
 |**2023-07-17**|**Do Models Explain Themselves? Counterfactual Simulatability of Natural Language Explanations**|Yanda Chen et.al.|[2307.08678v1](http://arxiv.org/abs/2307.08678v1)|null|
 |**2023-07-17**|**Legal Syllogism Prompting: Teaching Large Language Models for Legal Judgment Prediction**|Cong Jiang et.al.|[2307.08321v1](http://arxiv.org/abs/2307.08321v1)|null|
 |**2023-07-17**|**ChatGPT is Good but Bing Chat is Better for Vietnamese Students**|Xuan-Quy Dao et.al.|[2307.08272v2](http://arxiv.org/abs/2307.08272v2)|null|
+|**2023-07-17**|**Measuring Faithfulness in Chain-of-Thought Reasoning**|Tamera Lanham et.al.|[2307.13702v1](http://arxiv.org/abs/2307.13702v1)|null|
 |**2023-07-17**|**Question Decomposition Improves the Faithfulness of Model-Generated Reasoning**|Ansh Radhakrishnan et.al.|[2307.11768v2](http://arxiv.org/abs/2307.11768v2)|[link](https://github.com/anthropics/decompositionfaithfulnesspaper)|
 |**2023-07-16**|**Do Emergent Abilities Exist in Quantized Large Language Models: An Empirical Study**|Peiyu Liu et.al.|[2307.08072v2](http://arxiv.org/abs/2307.08072v2)|[link](https://github.com/rucaibox/quantizedempirical)|
 |**2023-07-16**|**MinT: Boosting Generalization in Mathematical Reasoning via Multi-View Fine-Tuning**|Zhenwen Liang et.al.|[2307.07951v1](http://arxiv.org/abs/2307.07951v1)|null|
@@ -177,10 +182,3 @@
 |**2023-06-21**|**Utilizing Natural Language Processing for Automated Assessment of Classroom Discussion**|Nhat Tran et.al.|[2306.14918v1](http://arxiv.org/abs/2306.14918v1)|null|
 |**2023-06-21**|**Understanding Social Reasoning in Language Models with Language Models**|Kanishk Gandhi et.al.|[2306.15448v1](http://arxiv.org/abs/2306.15448v1)|null|
 |**2023-06-21**|**Solving and Generating NPR Sunday Puzzles with Large Language Models**|Jingmiao Zhao et.al.|[2306.12255v1](http://arxiv.org/abs/2306.12255v1)|[link](https://github.com/wellesley-easel-lab/puzzleqa)|
-|**2023-06-21**|**Investigating Pre-trained Language Models on Cross-Domain Datasets, a Step Closer to General AI**|Mohamad Ballout et.al.|[2306.12205v1](http://arxiv.org/abs/2306.12205v1)|null|
-|**2023-06-21**|**Which Spurious Correlations Impact Reasoning in NLI Models? A Visual Interactive Diagnosis through Data-Constrained Counterfactuals**|Robin Chan et.al.|[2306.12146v1](http://arxiv.org/abs/2306.12146v1)|null|
-|**2023-06-21**|**Modeling Hierarchical Reasoning Chains by Linking Discourse Units and Key Phrases for Reading Comprehension**|Jialin Chen et.al.|[2306.12069v1](http://arxiv.org/abs/2306.12069v1)|[link](https://github.com/cather-chen/logical-reasoning-graph)|
-|**2023-06-20**|**DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models**|Boxin Wang et.al.|[2306.11698v1](http://arxiv.org/abs/2306.11698v1)|null|
-|**2023-06-20**|**ChatGPT is not Enough: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling**|Linyao Yang et.al.|[2306.11489v1](http://arxiv.org/abs/2306.11489v1)|null|
-|**2023-06-20**|**Blackbird language matrices (BLM), a new task for rule-like generalization in neural networks: Motivations and Formal Specifications**|Paola Merlo et.al.|[2306.11444v1](http://arxiv.org/abs/2306.11444v1)|null|
-|**2023-06-20**|**Did the Models Understand Documents? Benchmarking Models for Language Understanding in Document-Level Relation Extraction**|Haotian Chen et.al.|[2306.11386v1](http://arxiv.org/abs/2306.11386v1)|[link](https://github.com/hytn/docred-hwe)|
