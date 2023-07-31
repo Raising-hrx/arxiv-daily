@@ -1,7 +1,25 @@
 # arxiv-daily
- Automated deployment @ 2023-07-31 20:58:15
+ Automated deployment @ 2023-07-31 21:23:43
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-07-28**|**When to generate hedges in peer-tutoring interactions**|Alafate Abulimiti et.al.|[2307.15582v1](http://arxiv.org/abs/2307.15582v1)|[link](https://github.com/neuromaancer/hedge_prediction)|
+|**2023-07-28**|**Teach Me How to Improve My Argumentation Skills: A Survey on Feedback in Argumentation**|Camélia Guerraoui et.al.|[2307.15341v1](http://arxiv.org/abs/2307.15341v1)|null|
+|**2023-07-28**|**Tutorials on Stance Detection using Pre-trained Language Models: Fine-tuning BERT and Prompting Large Language Models**|Yun-Shiuan Chuang et.al.|[2307.15331v1](http://arxiv.org/abs/2307.15331v1)|null|
+|**2023-07-27**|**Matching Patients to Clinical Trials with Large Language Models**|Qiao Jin et.al.|[2307.15051v2](http://arxiv.org/abs/2307.15051v2)|null|
+|**2023-07-26**|**Affective Natural Language Generation of Event Descriptions through Fine-grained Appraisal Conditions**|Yarik Menchaca Resendiz et.al.|[2307.14004v1](http://arxiv.org/abs/2307.14004v1)|null|
+|**2023-07-24**|**Explaining Math Word Problem Solvers**|Abby Newcomb et.al.|[2307.13128v1](http://arxiv.org/abs/2307.13128v1)|null|
+|**2023-07-24**|**The potential of LLMs for coding with low-resource and domain-specific programming languages**|Artur Tarassow et.al.|[2307.13018v1](http://arxiv.org/abs/2307.13018v1)|null|
+|**2023-07-24**|**Rule By Example: Harnessing Logical Rules for Explainable Hate Speech Detection**|Christopher Clarke et.al.|[2307.12935v1](http://arxiv.org/abs/2307.12935v1)|[link](https://github.com/chrisisking/rule-by-example)|
+|**2023-07-23**|**CommonsenseVIS: Visualizing and Understanding Commonsense Reasoning Capabilities of Natural Language Models**|Xingbo Wang et.al.|[2307.12382v1](http://arxiv.org/abs/2307.12382v1)|null|
+|**2023-07-22**|**Explainable Topic-Enhanced Argument Mining from Heterogeneous Sources**|Jiasheng Si et.al.|[2307.12131v1](http://arxiv.org/abs/2307.12131v1)|null|
+|**2023-07-21**|**OxfordTVG-HIC: Can Machine Make Humorous Captions from Images?**|Runjia Li et.al.|[2307.11636v1](http://arxiv.org/abs/2307.11636v1)|null|
+|**2023-07-21**|**Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect ChatGPT-Generated Text**|Lingyi Yang et.al.|[2307.11380v1](http://arxiv.org/abs/2307.11380v1)|[link](https://github.com/clement1290/chatgpt-detection-pr-hppt)|
 
 ## Question Answering
 
@@ -34,24 +52,6 @@
 |**2023-07-21**|**Generator-Retriever-Generator: A Novel Approach to Open-domain Question Answering**|Abdelrahman Abdallah et.al.|[2307.11278v1](http://arxiv.org/abs/2307.11278v1)|null|
 |**2023-07-20**|**UMLS-KGI-BERT: Data-Centric Knowledge Integration in Transformers for Biomedical Entity Recognition**|Aidan Mannion et.al.|[2307.11170v1](http://arxiv.org/abs/2307.11170v1)|null|
 |**2023-07-20**|**Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation**|Ruiyang Ren et.al.|[2307.11019v2](http://arxiv.org/abs/2307.11019v2)|[link](https://github.com/rucaibox/llm-knowledge-boundary)|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-07-28**|**When to generate hedges in peer-tutoring interactions**|Alafate Abulimiti et.al.|[2307.15582v1](http://arxiv.org/abs/2307.15582v1)|[link](https://github.com/neuromaancer/hedge_prediction)|
-|**2023-07-28**|**Teach Me How to Improve My Argumentation Skills: A Survey on Feedback in Argumentation**|Camélia Guerraoui et.al.|[2307.15341v1](http://arxiv.org/abs/2307.15341v1)|null|
-|**2023-07-28**|**Tutorials on Stance Detection using Pre-trained Language Models: Fine-tuning BERT and Prompting Large Language Models**|Yun-Shiuan Chuang et.al.|[2307.15331v1](http://arxiv.org/abs/2307.15331v1)|null|
-|**2023-07-27**|**Matching Patients to Clinical Trials with Large Language Models**|Qiao Jin et.al.|[2307.15051v2](http://arxiv.org/abs/2307.15051v2)|null|
-|**2023-07-26**|**Affective Natural Language Generation of Event Descriptions through Fine-grained Appraisal Conditions**|Yarik Menchaca Resendiz et.al.|[2307.14004v1](http://arxiv.org/abs/2307.14004v1)|null|
-|**2023-07-24**|**Explaining Math Word Problem Solvers**|Abby Newcomb et.al.|[2307.13128v1](http://arxiv.org/abs/2307.13128v1)|null|
-|**2023-07-24**|**The potential of LLMs for coding with low-resource and domain-specific programming languages**|Artur Tarassow et.al.|[2307.13018v1](http://arxiv.org/abs/2307.13018v1)|null|
-|**2023-07-24**|**Rule By Example: Harnessing Logical Rules for Explainable Hate Speech Detection**|Christopher Clarke et.al.|[2307.12935v1](http://arxiv.org/abs/2307.12935v1)|[link](https://github.com/chrisisking/rule-by-example)|
-|**2023-07-23**|**CommonsenseVIS: Visualizing and Understanding Commonsense Reasoning Capabilities of Natural Language Models**|Xingbo Wang et.al.|[2307.12382v1](http://arxiv.org/abs/2307.12382v1)|null|
-|**2023-07-22**|**Explainable Topic-Enhanced Argument Mining from Heterogeneous Sources**|Jiasheng Si et.al.|[2307.12131v1](http://arxiv.org/abs/2307.12131v1)|null|
-|**2023-07-21**|**OxfordTVG-HIC: Can Machine Make Humorous Captions from Images?**|Runjia Li et.al.|[2307.11636v1](http://arxiv.org/abs/2307.11636v1)|null|
-|**2023-07-21**|**Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect ChatGPT-Generated Text**|Lingyi Yang et.al.|[2307.11380v1](http://arxiv.org/abs/2307.11380v1)|[link](https://github.com/clement1290/chatgpt-detection-pr-hppt)|
 
 ## Reasoning
 
