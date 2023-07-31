@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-31 09:16:26
+ Automated deployment @ 2023-07-31 20:32:02
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,9 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-28**|**When to generate hedges in peer-tutoring interactions**|Alafate Abulimiti et.al.|[2307.15582v1](http://arxiv.org/abs/2307.15582v1)|[link](https://github.com/neuromaancer/hedge_prediction)|
+|**2023-07-28**|**Teach Me How to Improve My Argumentation Skills: A Survey on Feedback in Argumentation**|Camélia Guerraoui et.al.|[2307.15341v1](http://arxiv.org/abs/2307.15341v1)|null|
+|**2023-07-28**|**Tutorials on Stance Detection using Pre-trained Language Models: Fine-tuning BERT and Prompting Large Language Models**|Yun-Shiuan Chuang et.al.|[2307.15331v1](http://arxiv.org/abs/2307.15331v1)|null|
 |**2023-07-27**|**Matching Patients to Clinical Trials with Large Language Models**|Qiao Jin et.al.|[2307.15051v2](http://arxiv.org/abs/2307.15051v2)|null|
 |**2023-07-26**|**Affective Natural Language Generation of Event Descriptions through Fine-grained Appraisal Conditions**|Yarik Menchaca Resendiz et.al.|[2307.14004v1](http://arxiv.org/abs/2307.14004v1)|null|
 |**2023-07-24**|**Explaining Math Word Problem Solvers**|Abby Newcomb et.al.|[2307.13128v1](http://arxiv.org/abs/2307.13128v1)|null|
@@ -17,15 +20,16 @@
 |**2023-07-22**|**Explainable Topic-Enhanced Argument Mining from Heterogeneous Sources**|Jiasheng Si et.al.|[2307.12131v1](http://arxiv.org/abs/2307.12131v1)|null|
 |**2023-07-21**|**OxfordTVG-HIC: Can Machine Make Humorous Captions from Images?**|Runjia Li et.al.|[2307.11636v1](http://arxiv.org/abs/2307.11636v1)|null|
 |**2023-07-21**|**Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect ChatGPT-Generated Text**|Lingyi Yang et.al.|[2307.11380v1](http://arxiv.org/abs/2307.11380v1)|[link](https://github.com/clement1290/chatgpt-detection-pr-hppt)|
-|**2023-07-21**|**CohortGPT: An Enhanced GPT for Participant Recruitment in Clinical Study**|Zihan Guan et.al.|[2307.11346v1](http://arxiv.org/abs/2307.11346v1)|null|
-|**2023-07-20**|**FigCaps-HF: A Figure-to-Caption Generative Framework and Benchmark with Human Feedback**|Ashish Singh et.al.|[2307.10867v1](http://arxiv.org/abs/2307.10867v1)|[link](https://github.com/figcapshf/figcapshf)|
-|**2023-07-20**|**Layer-wise Representation Fusion for Compositional Generalization**|Yafang Zheng et.al.|[2307.10799v1](http://arxiv.org/abs/2307.10799v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-28**|**Uncertainty in Natural Language Generation: From Theory to Applications**|Joris Baan et.al.|[2307.15703v1](http://arxiv.org/abs/2307.15703v1)|null|
+|**2023-07-28**|**Multilingual Tourist Assistance using ChatGPT: Comparing Capabilities in Hindi, Telugu, and Kannada**|Sanjana Kolar et.al.|[2307.15376v1](http://arxiv.org/abs/2307.15376v1)|null|
+|**2023-07-28**|**Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding**|Xuefei Ning et.al.|[2307.15337v1](http://arxiv.org/abs/2307.15337v1)|null|
+|**2023-07-28**|**BARTPhoBEiT: Pre-trained Sequence-to-Sequence and Image Transformers Models for Vietnamese Visual Question Answering**|Khiem Vinh Tran et.al.|[2307.15335v1](http://arxiv.org/abs/2307.15335v1)|null|
 |**2023-07-27**|**Universal and Transferable Adversarial Attacks on Aligned Language Models**|Andy Zou et.al.|[2307.15043v1](http://arxiv.org/abs/2307.15043v1)|[link](https://github.com/llm-attacks/llm-attacks)|
 |**2023-07-27**|**SuperCLUE: A Comprehensive Chinese Large Language Model Benchmark**|Liang Xu et.al.|[2307.15020v1](http://arxiv.org/abs/2307.15020v1)|null|
 |**2023-07-27**|**What Makes a Good Paraphrase: Do Automated Evaluations Work?**|Anna Moskvina et.al.|[2307.14818v1](http://arxiv.org/abs/2307.14818v1)|null|
@@ -48,14 +52,13 @@
 |**2023-07-21**|**Generator-Retriever-Generator: A Novel Approach to Open-domain Question Answering**|Abdelrahman Abdallah et.al.|[2307.11278v1](http://arxiv.org/abs/2307.11278v1)|null|
 |**2023-07-20**|**UMLS-KGI-BERT: Data-Centric Knowledge Integration in Transformers for Biomedical Entity Recognition**|Aidan Mannion et.al.|[2307.11170v1](http://arxiv.org/abs/2307.11170v1)|null|
 |**2023-07-20**|**Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation**|Ruiyang Ren et.al.|[2307.11019v2](http://arxiv.org/abs/2307.11019v2)|[link](https://github.com/rucaibox/llm-knowledge-boundary)|
-|**2023-07-20**|**SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models**|Xiaoxuan Wang et.al.|[2307.10635v1](http://arxiv.org/abs/2307.10635v1)|[link](https://github.com/mandyyyyii/scibench)|
-|**2023-07-20**|**IvyGPT: InteractiVe Chinese pathwaY language model in medical domain**|Rongsheng Wang et.al.|[2307.10512v1](http://arxiv.org/abs/2307.10512v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-28**|**Med-HALT: Medical Domain Hallucination Test for Large Language Models**|Logesh Kumar Umapathi et.al.|[2307.15343v1](http://arxiv.org/abs/2307.15343v1)|null|
 |**2023-07-26**|**Towards Generalist Biomedical AI**|Tao Tu et.al.|[2307.14334v1](http://arxiv.org/abs/2307.14334v1)|null|
 |**2023-07-26**|**LOIS: Looking Out of Instance Semantics for Visual Question Answering**|Siyu Zhang et.al.|[2307.14142v1](http://arxiv.org/abs/2307.14142v1)|null|
 |**2023-07-25**|**WebArena: A Realistic Web Environment for Building Autonomous Agents**|Shuyan Zhou et.al.|[2307.13854v1](http://arxiv.org/abs/2307.13854v1)|null|
@@ -175,6 +178,3 @@
 |**2023-06-22**|**DiversiGATE: A Comprehensive Framework for Reliable Large Language Models**|Shima Imani et.al.|[2306.13230v2](http://arxiv.org/abs/2306.13230v2)|null|
 |**2023-06-22**|**Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs**|Miao Xiong et.al.|[2306.13063v1](http://arxiv.org/abs/2306.13063v1)|null|
 |**2023-06-22**|**Towards Explainable Evaluation Metrics for Machine Translation**|Christoph Leiter et.al.|[2306.13041v1](http://arxiv.org/abs/2306.13041v1)|null|
-|**2023-06-22**|**From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought**|Lionel Wong et.al.|[2306.12672v2](http://arxiv.org/abs/2306.12672v2)|[link](https://github.com/gabegrand/world-models)|
-|**2023-06-21**|**ARIES: A Corpus of Scientific Paper Edits Made in Response to Peer Reviews**|Mike D'Arcy et.al.|[2306.12587v1](http://arxiv.org/abs/2306.12587v1)|[link](https://github.com/allenai/aries)|
-|**2023-06-21**|**Evaluating Large Language Models with NeuBAROCO: Syllogistic Reasoning Ability and Human-like Biases**|Risako Ando et.al.|[2306.12567v1](http://arxiv.org/abs/2306.12567v1)|null|
