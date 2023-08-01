@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-01 09:22:42
+ Automated deployment @ 2023-08-01 20:30:10
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,10 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-31**|**HAGRID: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution**|Ehsan Kamalloo et.al.|[2307.16883v1](http://arxiv.org/abs/2307.16883v1)|[link](https://github.com/project-miracl/hagrid)|
+|**2023-07-31**|**When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities**|Jin Chen et.al.|[2307.16376v1](http://arxiv.org/abs/2307.16376v1)|null|
+|**2023-07-29**|**A Theory for Emergence of Complex Skills in Language Models**|Sanjeev Arora et.al.|[2307.15936v1](http://arxiv.org/abs/2307.15936v1)|null|
+|**2023-07-28**|**Context-VQA: Towards Context-Aware and Purposeful Visual Question Answering**|Nandita Naik et.al.|[2307.15745v1](http://arxiv.org/abs/2307.15745v1)|null|
 |**2023-07-28**|**When to generate hedges in peer-tutoring interactions**|Alafate Abulimiti et.al.|[2307.15582v1](http://arxiv.org/abs/2307.15582v1)|[link](https://github.com/neuromaancer/hedge_prediction)|
 |**2023-07-28**|**Teach Me How to Improve My Argumentation Skills: A Survey on Feedback in Argumentation**|Camélia Guerraoui et.al.|[2307.15341v1](http://arxiv.org/abs/2307.15341v1)|null|
 |**2023-07-28**|**Tutorials on Stance Detection using Pre-trained Language Models: Fine-tuning BERT and Prompting Large Language Models**|Yun-Shiuan Chuang et.al.|[2307.15331v1](http://arxiv.org/abs/2307.15331v1)|null|
@@ -17,15 +21,27 @@
 |**2023-07-24**|**The potential of LLMs for coding with low-resource and domain-specific programming languages**|Artur Tarassow et.al.|[2307.13018v1](http://arxiv.org/abs/2307.13018v1)|null|
 |**2023-07-24**|**Rule By Example: Harnessing Logical Rules for Explainable Hate Speech Detection**|Christopher Clarke et.al.|[2307.12935v1](http://arxiv.org/abs/2307.12935v1)|[link](https://github.com/chrisisking/rule-by-example)|
 |**2023-07-23**|**CommonsenseVIS: Visualizing and Understanding Commonsense Reasoning Capabilities of Natural Language Models**|Xingbo Wang et.al.|[2307.12382v1](http://arxiv.org/abs/2307.12382v1)|null|
-|**2023-07-22**|**Explainable Topic-Enhanced Argument Mining from Heterogeneous Sources**|Jiasheng Si et.al.|[2307.12131v1](http://arxiv.org/abs/2307.12131v1)|null|
-|**2023-07-21**|**OxfordTVG-HIC: Can Machine Make Humorous Captions from Images?**|Runjia Li et.al.|[2307.11636v1](http://arxiv.org/abs/2307.11636v1)|null|
-|**2023-07-21**|**Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect ChatGPT-Generated Text**|Lingyi Yang et.al.|[2307.11380v1](http://arxiv.org/abs/2307.11380v1)|[link](https://github.com/clement1290/chatgpt-detection-pr-hppt)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-31**|**Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering**|Vaibhav Adlakha et.al.|[2307.16877v1](http://arxiv.org/abs/2307.16877v1)|null|
+|**2023-07-31**|**KoBBQ: Korean Bias Benchmark for Question Answering**|Jiho Jin et.al.|[2307.16778v1](http://arxiv.org/abs/2307.16778v1)|null|
+|**2023-07-31**|**AsdKB: A Chinese Knowledge Base for the Early Screening and Diagnosis of Autism Spectrum Disorder**|Tianxing Wu et.al.|[2307.16773v1](http://arxiv.org/abs/2307.16773v1)|null|
+|**2023-07-31**|**No that's not what I meant: Handling Third Position Repair in Conversational Question Answering**|Vevake Balaraman et.al.|[2307.16689v1](http://arxiv.org/abs/2307.16689v1)|null|
+|**2023-07-30**|**Distractor generation for multiple-choice questions with predictive prompting and large language models**|Semere Kiros Bitew et.al.|[2307.16338v1](http://arxiv.org/abs/2307.16338v1)|[link](https://github.com/semerekiros/distractgpt)|
+|**2023-07-30**|**Text Analysis Using Deep Neural Networks in Digital Humanities and Information Science**|Omri Suissa et.al.|[2307.16217v1](http://arxiv.org/abs/2307.16217v1)|null|
+|**2023-07-30**|**Question Answering with Deep Neural Networks for Semi-Structured Heterogeneous Genealogical Knowledge Graphs**|Omri Suissa et.al.|[2307.16214v1](http://arxiv.org/abs/2307.16214v1)|[link](https://github.com/omrivm/uncle-bert)|
+|**2023-07-30**|**Around the GLOBE: Numerical Aggregation Question-Answering on Heterogeneous Genealogical Knowledge Graphs with Deep Neural Networks**|Omri Suissa et.al.|[2307.16208v1](http://arxiv.org/abs/2307.16208v1)|null|
+|**2023-07-30**|**Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models**|Keyu Pan et.al.|[2307.16180v1](http://arxiv.org/abs/2307.16180v1)|[link](https://github.com/harderthenharder/transformers_tasks)|
+|**2023-07-30**|**SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension**|Bohao Li et.al.|[2307.16125v1](http://arxiv.org/abs/2307.16125v1)|[link](https://github.com/ailab-cvc/seed-bench)|
+|**2023-07-29**|**Okapi: Instruction-tuned Large Language Models in Multiple Languages with Reinforcement Learning from Human Feedback**|Viet Dac Lai et.al.|[2307.16039v1](http://arxiv.org/abs/2307.16039v1)|null|
+|**2023-07-29**|**Marrying Dialogue Systems with Data Visualization: Interactive Data Visualization Generation from Natural Language Conversations**|Yuanfeng Song et.al.|[2307.16013v1](http://arxiv.org/abs/2307.16013v1)|null|
+|**2023-07-28**|**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**|Anthony Brohan et.al.|[2307.15818v1](http://arxiv.org/abs/2307.15818v1)|null|
+|**2023-07-28**|**CHATREPORT: Democratizing Sustainability Disclosure Analysis through LLM-based Tools**|Jingwei Ni et.al.|[2307.15770v1](http://arxiv.org/abs/2307.15770v1)|null|
+|**2023-07-28**|**Context-VQA: Towards Context-Aware and Purposeful Visual Question Answering**|Nandita Naik et.al.|[2307.15745v1](http://arxiv.org/abs/2307.15745v1)|null|
 |**2023-07-28**|**Uncertainty in Natural Language Generation: From Theory to Applications**|Joris Baan et.al.|[2307.15703v1](http://arxiv.org/abs/2307.15703v1)|null|
 |**2023-07-28**|**Multilingual Tourist Assistance using ChatGPT: Comparing Capabilities in Hindi, Telugu, and Kannada**|Sanjana Kolar et.al.|[2307.15376v1](http://arxiv.org/abs/2307.15376v1)|null|
 |**2023-07-28**|**Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding**|Xuefei Ning et.al.|[2307.15337v1](http://arxiv.org/abs/2307.15337v1)|null|
@@ -40,24 +56,25 @@
 |**2023-07-25**|**Contributions to the Improvement of Question Answering Systems in the Biomedical Domain**|Mourad Sarrouti et.al.|[2307.13631v1](http://arxiv.org/abs/2307.13631v1)|null|
 |**2023-07-25**|**GPT-3 Models are Few-Shot Financial Reasoners**|Raul Salles de Padua et.al.|[2307.13617v2](http://arxiv.org/abs/2307.13617v2)|null|
 |**2023-07-25**|**Analyzing Chain-of-Thought Prompting in Large Language Models via Gradient-based Feature Attributions**|Skyler Wu et.al.|[2307.13339v1](http://arxiv.org/abs/2307.13339v1)|null|
+|**2023-07-24**|**Improving Primary Healthcare Workflow Using Extreme Summarization of Scientific Literature Based on Generative AI**|Gregor Stiglic et.al.|[2307.15715v1](http://arxiv.org/abs/2307.15715v1)|null|
 |**2023-07-24**|**Explaining Math Word Problem Solvers**|Abby Newcomb et.al.|[2307.13128v1](http://arxiv.org/abs/2307.13128v1)|null|
+|**2023-07-24**|**Comparative Analysis of Drug-GPT and ChatGPT LLMs for Healthcare Insights: Evaluating Accuracy and Relevance in Patient and HCP Contexts**|Giorgos Lysandrou et.al.|[2307.16850v1](http://arxiv.org/abs/2307.16850v1)|null|
 |**2023-07-24**|**3D-LLM: Injecting the 3D World into Large Language Models**|Yining Hong et.al.|[2307.12981v1](http://arxiv.org/abs/2307.12981v1)|null|
 |**2023-07-24**|**Investigating the Existence of "Secret Language'' in Language Models**|Yimu Wang et.al.|[2307.12507v1](http://arxiv.org/abs/2307.12507v1)|null|
-|**2023-07-23**|**CommonsenseVIS: Visualizing and Understanding Commonsense Reasoning Capabilities of Natural Language Models**|Xingbo Wang et.al.|[2307.12382v1](http://arxiv.org/abs/2307.12382v1)|null|
-|**2023-07-22**|**A Zero-shot and Few-shot Study of Instruction-Finetuned Large Language Models Applied to Clinical and Biomedical Tasks**|Yanis Labrak et.al.|[2307.12114v1](http://arxiv.org/abs/2307.12114v1)|null|
-|**2023-07-22**|**Revisiting Distillation for Continual Learning on Visual Question Localized-Answering in Robotic Surgery**|Long Bai et.al.|[2307.12045v1](http://arxiv.org/abs/2307.12045v1)|[link](https://github.com/longbai1006/cs-vqla)|
-|**2023-07-22**|**Psy-LLM: Scaling up Global Mental Health Psychological Services with AI-based Large Language Models**|Tin Lai et.al.|[2307.11991v1](http://arxiv.org/abs/2307.11991v1)|null|
-|**2023-07-21**|**MythQA: Query-Based Large-Scale Check-Worthy Claim Detection through Multi-Answer Open-Domain Question Answering**|Yang Bai et.al.|[2307.11848v1](http://arxiv.org/abs/2307.11848v1)|[link](https://github.com/tonyby/myth-qa)|
-|**2023-07-21**|**Prompting Large Language Models with Speech Recognition Abilities**|Yassir Fathullah et.al.|[2307.11795v1](http://arxiv.org/abs/2307.11795v1)|null|
-|**2023-07-21**|**Generator-Retriever-Generator: A Novel Approach to Open-domain Question Answering**|Abdelrahman Abdallah et.al.|[2307.11278v1](http://arxiv.org/abs/2307.11278v1)|null|
-|**2023-07-20**|**UMLS-KGI-BERT: Data-Centric Knowledge Integration in Transformers for Biomedical Entity Recognition**|Aidan Mannion et.al.|[2307.11170v1](http://arxiv.org/abs/2307.11170v1)|null|
-|**2023-07-20**|**Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation**|Ruiyang Ren et.al.|[2307.11019v2](http://arxiv.org/abs/2307.11019v2)|[link](https://github.com/rucaibox/llm-knowledge-boundary)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-31**|**Virtual Prompt Injection for Instruction-Tuned Large Language Models**|Jun Yan et.al.|[2307.16888v1](http://arxiv.org/abs/2307.16888v1)|null|
+|**2023-07-31**|**ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**|Yujia Qin et.al.|[2307.16789v1](http://arxiv.org/abs/2307.16789v1)|[link](https://github.com/openbmb/toolbench)|
+|**2023-07-31**|**Lexically-Accelerated Dense Retrieval**|Hrishikesh Kulkarni et.al.|[2307.16779v1](http://arxiv.org/abs/2307.16779v1)|null|
+|**2023-07-31**|**Deception Abilities Emerged in Large Language Models**|Thilo Hagendorff et.al.|[2307.16513v1](http://arxiv.org/abs/2307.16513v1)|null|
+|**2023-07-31**|**Bridging the Gap: Exploring the Capabilities of Bridge-Architectures for Complex Visual Reasoning Tasks**|Kousik Rajesh et.al.|[2307.16395v1](http://arxiv.org/abs/2307.16395v1)|null|
+|**2023-07-31**|**When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities**|Jin Chen et.al.|[2307.16376v1](http://arxiv.org/abs/2307.16376v1)|null|
+|**2023-07-29**|**RoCar: A Relationship Network-based Evaluation Method to Large Language Models**|Ming Wang et.al.|[2307.15997v1](http://arxiv.org/abs/2307.15997v1)|null|
+|**2023-07-28**|**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**|Anthony Brohan et.al.|[2307.15818v1](http://arxiv.org/abs/2307.15818v1)|null|
 |**2023-07-28**|**Med-HALT: Medical Domain Hallucination Test for Large Language Models**|Logesh Kumar Umapathi et.al.|[2307.15343v1](http://arxiv.org/abs/2307.15343v1)|null|
 |**2023-07-26**|**Towards Generalist Biomedical AI**|Tao Tu et.al.|[2307.14334v1](http://arxiv.org/abs/2307.14334v1)|null|
 |**2023-07-26**|**LOIS: Looking Out of Instance Semantics for Visual Question Answering**|Siyu Zhang et.al.|[2307.14142v1](http://arxiv.org/abs/2307.14142v1)|null|
@@ -171,10 +188,3 @@
 |**2023-06-24**|**Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step**|Liunian Harold Li et.al.|[2306.14050v1](http://arxiv.org/abs/2306.14050v1)|null|
 |**2023-06-24**|**Emotion Flip Reasoning in Multiparty Conversations**|Shivani Kumar et.al.|[2306.13959v1](http://arxiv.org/abs/2306.13959v1)|null|
 |**2023-06-24**|**Math Word Problem Solving by Generating Linguistic Variants of Problem Statements**|Syed Rifat Raiyan et.al.|[2306.13899v1](http://arxiv.org/abs/2306.13899v1)|null|
-|**2023-06-23**|**LLM-Assisted Content Analysis: Using Large Language Models to Support Deductive Coding**|Robert Chew et.al.|[2306.14924v1](http://arxiv.org/abs/2306.14924v1)|null|
-|**2023-06-23**|**GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models**|Rishabh Agarwal et.al.|[2306.13649v1](http://arxiv.org/abs/2306.13649v1)|null|
-|**2023-06-23**|**A Survey on Multimodal Large Language Models**|Shukang Yin et.al.|[2306.13549v1](http://arxiv.org/abs/2306.13549v1)|[link](https://github.com/bradyfu/awesome-multimodal-large-language-models)|
-|**2023-06-23**|**ToolQA: A Dataset for LLM Question Answering with External Tools**|Yuchen Zhuang et.al.|[2306.13304v1](http://arxiv.org/abs/2306.13304v1)|[link](https://github.com/night-chen/toolqa)|
-|**2023-06-22**|**DiversiGATE: A Comprehensive Framework for Reliable Large Language Models**|Shima Imani et.al.|[2306.13230v2](http://arxiv.org/abs/2306.13230v2)|null|
-|**2023-06-22**|**Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs**|Miao Xiong et.al.|[2306.13063v1](http://arxiv.org/abs/2306.13063v1)|null|
-|**2023-06-22**|**Towards Explainable Evaluation Metrics for Machine Translation**|Christoph Leiter et.al.|[2306.13041v1](http://arxiv.org/abs/2306.13041v1)|null|
