@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-03 09:13:40
+ Automated deployment @ 2023-08-03 20:30:14
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-02**|**Exploring the psychology of GPT-4's Moral and Legal Reasoning**|Guilherme F. C. F. Almeida et.al.|[2308.01264v1](http://arxiv.org/abs/2308.01264v1)|null|
 |**2023-08-01**|**Fountain -- an intelligent contextual assistant combining knowledge representation and language models for manufacturing risk identification**|Saurabh Kumar et.al.|[2308.00364v1](http://arxiv.org/abs/2308.00364v1)|null|
 |**2023-08-01**|**LimeAttack: Local Explainable Method for Textual Hard-Label Adversarial Attack**|Hai Zhu et.al.|[2308.00319v1](http://arxiv.org/abs/2308.00319v1)|null|
 |**2023-07-31**|**Generative Models as a Complex Systems Science: How can we make sense of large language model behavior?**|Ari Holtzman et.al.|[2308.00189v1](http://arxiv.org/abs/2308.00189v1)|null|
@@ -21,13 +22,16 @@
 |**2023-07-28**|**Reasoning before Responding: Integrating Commonsense-based Causality Explanation for Empathetic Response Generation**|Yahui Fu et.al.|[2308.00085v1](http://arxiv.org/abs/2308.00085v1)|null|
 |**2023-07-27**|**Matching Patients to Clinical Trials with Large Language Models**|Qiao Jin et.al.|[2307.15051v2](http://arxiv.org/abs/2307.15051v2)|null|
 |**2023-07-26**|**Affective Natural Language Generation of Event Descriptions through Fine-grained Appraisal Conditions**|Yarik Menchaca Resendiz et.al.|[2307.14004v1](http://arxiv.org/abs/2307.14004v1)|null|
-|**2023-07-24**|**Explaining Math Word Problem Solvers**|Abby Newcomb et.al.|[2307.13128v1](http://arxiv.org/abs/2307.13128v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-02**|**More Context, Less Distraction: Visual Classification by Inferring and Conditioning on Contextual Attributes**|Bang An et.al.|[2308.01313v1](http://arxiv.org/abs/2308.01313v1)|[link](https://github.com/umd-huang-lab/perceptionclip)|
+|**2023-08-02**|**Leveraging Few-Shot Data Augmentation and Waterfall Prompting for Response Generation**|Lea Krause et.al.|[2308.01080v1](http://arxiv.org/abs/2308.01080v1)|null|
+|**2023-08-02**|**Teaching Smaller Language Models To Generalise To Unseen Compositional Questions**|Tim Hartill et.al.|[2308.00946v1](http://arxiv.org/abs/2308.00946v1)|null|
+|**2023-08-01**|**GRDD: A Dataset for Greek Dialectal NLP**|Stergios Chatzikyriakidis et.al.|[2308.00802v1](http://arxiv.org/abs/2308.00802v1)|[link](https://github.com/stergioscha/greek_dialect_corpus)|
 |**2023-08-01**|**Retrieval Augmented Generation and Representative Vector Summarization for large unstructured textual data in Medical Education**|S. S. Manathunga et.al.|[2308.00479v1](http://arxiv.org/abs/2308.00479v1)|null|
 |**2023-08-01**|**SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning**|Ning Miao et.al.|[2308.00436v2](http://arxiv.org/abs/2308.00436v2)|[link](https://github.com/ningmiao/selfcheck)|
 |**2023-08-01**|**Making the V in Text-VQA Matter**|Shamanthak Hegde et.al.|[2308.00295v1](http://arxiv.org/abs/2308.00295v1)|null|
@@ -60,16 +64,16 @@
 |**2023-07-26**|**LOIS: Looking Out of Instance Semantics for Visual Question Answering**|Siyu Zhang et.al.|[2307.14142v1](http://arxiv.org/abs/2307.14142v1)|null|
 |**2023-07-26**|**How User Language Affects Conflict Fatality Estimates in ChatGPT**|Daniel Kazenwadel et.al.|[2308.00072v1](http://arxiv.org/abs/2308.00072v1)|null|
 |**2023-07-25**|**Is GPT a Computational Model of Emotion? Detailed Analysis**|Ala N. Tak et.al.|[2307.13779v1](http://arxiv.org/abs/2307.13779v1)|null|
-|**2023-07-25**|**Contributions to the Improvement of Question Answering Systems in the Biomedical Domain**|Mourad Sarrouti et.al.|[2307.13631v1](http://arxiv.org/abs/2307.13631v1)|null|
-|**2023-07-25**|**GPT-3 Models are Few-Shot Financial Reasoners**|Raul Salles de Padua et.al.|[2307.13617v2](http://arxiv.org/abs/2307.13617v2)|null|
-|**2023-07-25**|**Analyzing Chain-of-Thought Prompting in Large Language Models via Gradient-based Feature Attributions**|Skyler Wu et.al.|[2307.13339v1](http://arxiv.org/abs/2307.13339v1)|null|
-|**2023-07-24**|**Improving Primary Healthcare Workflow Using Extreme Summarization of Scientific Literature Based on Generative AI**|Gregor Stiglic et.al.|[2307.15715v1](http://arxiv.org/abs/2307.15715v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-02**|**More Context, Less Distraction: Visual Classification by Inferring and Conditioning on Contextual Attributes**|Bang An et.al.|[2308.01313v1](http://arxiv.org/abs/2308.01313v1)|[link](https://github.com/umd-huang-lab/perceptionclip)|
+|**2023-08-02**|**Exploring the psychology of GPT-4's Moral and Legal Reasoning**|Guilherme F. C. F. Almeida et.al.|[2308.01264v1](http://arxiv.org/abs/2308.01264v1)|null|
+|**2023-08-02**|**Grounded Image Text Matching with Mismatched Relation Reasoning**|Yu Wu et.al.|[2308.01236v1](http://arxiv.org/abs/2308.01236v1)|null|
+|**2023-08-02**|**Teaching Smaller Language Models To Generalise To Unseen Compositional Questions**|Tim Hartill et.al.|[2308.00946v1](http://arxiv.org/abs/2308.00946v1)|null|
 |**2023-08-01**|**Structural Embeddings of Tools for Large Language Models**|Eren Unlu et.al.|[2308.00447v1](http://arxiv.org/abs/2308.00447v1)|null|
 |**2023-08-01**|**SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning**|Ning Miao et.al.|[2308.00436v2](http://arxiv.org/abs/2308.00436v2)|[link](https://github.com/ningmiao/selfcheck)|
 |**2023-08-01**|**Skills-in-Context Prompting: Unlocking Compositionality in Large Language Models**|Jiaao Chen et.al.|[2308.00304v1](http://arxiv.org/abs/2308.00304v1)|null|
@@ -186,7 +190,3 @@
 |**2023-06-29**|**Multi-source Semantic Graph-based Multimodal Sarcasm Explanation Generation**|Liqiang Jing et.al.|[2306.16650v1](http://arxiv.org/abs/2306.16650v1)|[link](https://github.com/liqiangjing/team)|
 |**2023-06-29**|**CMATH: Can Your Language Model Pass Chinese Elementary School Math Test?**|Tianwen Wei et.al.|[2306.16636v1](http://arxiv.org/abs/2306.16636v1)|null|
 |**2023-06-28**|**Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language**|William Berrios et.al.|[2306.16410v1](http://arxiv.org/abs/2306.16410v1)|[link](https://github.com/contextualai/lens)|
-|**2023-06-27**|**Using Large Language Models to Provide Explanatory Feedback to Human Tutors**|Jionghao Lin et.al.|[2306.15498v1](http://arxiv.org/abs/2306.15498v1)|null|
-|**2023-06-27**|**Phase Space Analysis of Cardiac Spectra**|Onder Pekcan et.al.|[2306.15425v1](http://arxiv.org/abs/2306.15425v1)|null|
-|**2023-06-27**|**IDOL: Indicator-oriented Logic Pre-training for Logical Reasoning**|Zihang Xu et.al.|[2306.15273v1](http://arxiv.org/abs/2306.15273v1)|[link](https://github.com/GeekDream-x/IDOL)|
-|**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899v1](http://arxiv.org/abs/2306.14899v1)|[link](https://github.com/jingkang50/funqa)|
