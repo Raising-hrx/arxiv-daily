@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-09 09:15:25
+ Automated deployment @ 2023-08-09 20:31:09
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -24,14 +24,18 @@
 |**2023-08-01**|**LimeAttack: Local Explainable Method for Textual Hard-Label Adversarial Attack**|Hai Zhu et.al.|[2308.00319v1](http://arxiv.org/abs/2308.00319v1)|null|
 |**2023-07-31**|**Generative Models as a Complex Systems Science: How can we make sense of large language model behavior?**|Ari Holtzman et.al.|[2308.00189v1](http://arxiv.org/abs/2308.00189v1)|null|
 |**2023-07-31**|**HAGRID: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution**|Ehsan Kamalloo et.al.|[2307.16883v1](http://arxiv.org/abs/2307.16883v1)|[link](https://github.com/project-miracl/hagrid)|
-|**2023-07-31**|**When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities**|Jin Chen et.al.|[2307.16376v1](http://arxiv.org/abs/2307.16376v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-07**|**KITLM: Domain-Specific Knowledge InTegration into Language Models for Question Answering**|Ankush Agarwal et.al.|[2308.03638v1](http://arxiv.org/abs/2308.03638v1)|null|
+|**2023-08-08**|**Towards an AI to Win Ghana's National Science and Maths Quiz**|George Boateng et.al.|[2308.04333v1](http://arxiv.org/abs/2308.04333v1)|[link](https://github.com/nsmq-ai/nsmqai)|
+|**2023-08-08**|**On Monotonic Aggregation for Open-domain QA**|Sang-eun Han et.al.|[2308.04176v1](http://arxiv.org/abs/2308.04176v1)|[link](https://github.com/yeonseokjeong/judge-specialist)|
+|**2023-08-08**|**Top K Relevant Passage Retrieval for Biomedical Question Answering**|Shashank Gupta et.al.|[2308.04028v1](http://arxiv.org/abs/2308.04028v1)|null|
+|**2023-08-07**|**Simple synthetic data reduces sycophancy in large language models**|Jerry Wei et.al.|[2308.03958v1](http://arxiv.org/abs/2308.03958v1)|[link](https://github.com/google/sycophancy-intervention)|
+|**2023-08-07**|**Trusting Language Models in Education**|Jogi Suda Neto et.al.|[2308.03866v1](http://arxiv.org/abs/2308.03866v1)|null|
+|**2023-08-07**|**KITLM: Domain-Specific Knowledge InTegration into Language Models for Question Answering**|Ankush Agarwal et.al.|[2308.03638v1](http://arxiv.org/abs/2308.03638v1)|[link](https://github.com/sakharamg/kitlm)|
 |**2023-08-07**|**WIKITIDE: A Wikipedia-Based Timestamped Definition Pairs Dataset**|Hsuvas Borkakoty et.al.|[2308.03582v1](http://arxiv.org/abs/2308.03582v1)|null|
 |**2023-08-07**|**Towards Controllable Natural Language Inference through Lexical Inference Types**|Yingji Zhang et.al.|[2308.03581v1](http://arxiv.org/abs/2308.03581v1)|null|
 |**2023-08-07**|**Mondrian: Prompt Abstraction Attack Against Large Language Models for Cheaper API Pricing**|Wai Man Si et.al.|[2308.03558v1](http://arxiv.org/abs/2308.03558v1)|null|
@@ -61,22 +65,15 @@
 |**2023-08-01**|**Retrieval Augmented Generation and Representative Vector Summarization for large unstructured textual data in Medical Education**|S. S. Manathunga et.al.|[2308.00479v1](http://arxiv.org/abs/2308.00479v1)|[link](https://github.com/ssm123ssm/docgpt-pharm)|
 |**2023-08-01**|**SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning**|Ning Miao et.al.|[2308.00436v2](http://arxiv.org/abs/2308.00436v2)|[link](https://github.com/ningmiao/selfcheck)|
 |**2023-08-01**|**Making the V in Text-VQA Matter**|Shamanthak Hegde et.al.|[2308.00295v1](http://arxiv.org/abs/2308.00295v1)|null|
-|**2023-07-31**|**Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering**|Vaibhav Adlakha et.al.|[2307.16877v1](http://arxiv.org/abs/2307.16877v1)|[link](https://github.com/mcgill-nlp/instruct-qa)|
-|**2023-07-31**|**KoBBQ: Korean Bias Benchmark for Question Answering**|Jiho Jin et.al.|[2307.16778v1](http://arxiv.org/abs/2307.16778v1)|null|
-|**2023-07-31**|**AsdKB: A Chinese Knowledge Base for the Early Screening and Diagnosis of Autism Spectrum Disorder**|Tianxing Wu et.al.|[2307.16773v2](http://arxiv.org/abs/2307.16773v2)|null|
-|**2023-07-31**|**No that's not what I meant: Handling Third Position Repair in Conversational Question Answering**|Vevake Balaraman et.al.|[2307.16689v1](http://arxiv.org/abs/2307.16689v1)|null|
-|**2023-07-31**|**Chatbot Application to Support Smart Agriculture in Thailand**|Paweena Suebsombut et.al.|[2308.02524v1](http://arxiv.org/abs/2308.02524v1)|null|
-|**2023-07-31**|**FinVis-GPT: A Multimodal Large Language Model for Financial Chart Analysis**|Ziao Wang et.al.|[2308.01430v1](http://arxiv.org/abs/2308.01430v1)|null|
-|**2023-07-31**|**A new mapping of technological interdependence**|A. Fronzetti Colladon et.al.|[2308.00014v1](http://arxiv.org/abs/2308.00014v1)|null|
-|**2023-07-30**|**Distractor generation for multiple-choice questions with predictive prompting and large language models**|Semere Kiros Bitew et.al.|[2307.16338v1](http://arxiv.org/abs/2307.16338v1)|[link](https://github.com/semerekiros/distractgpt)|
-|**2023-07-30**|**Text Analysis Using Deep Neural Networks in Digital Humanities and Information Science**|Omri Suissa et.al.|[2307.16217v1](http://arxiv.org/abs/2307.16217v1)|null|
-|**2023-07-30**|**Question Answering with Deep Neural Networks for Semi-Structured Heterogeneous Genealogical Knowledge Graphs**|Omri Suissa et.al.|[2307.16214v1](http://arxiv.org/abs/2307.16214v1)|[link](https://github.com/omrivm/uncle-bert)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-08**|**A Bi-directional Multi-hop Inference Model for Joint Dialog Sentiment Classification and Act Recognition**|Li Zheng et.al.|[2308.04424v1](http://arxiv.org/abs/2308.04424v1)|null|
+|**2023-08-08**|**CLASSLA-Stanza: The Next Step for Linguistic Processing of South Slavic Languages**|Luka Terčon et.al.|[2308.04255v1](http://arxiv.org/abs/2308.04255v1)|null|
+|**2023-08-07**|**Extracting detailed oncologic history and treatment plan from medical oncology notes with large language models**|Madhumita Sushil et.al.|[2308.03853v1](http://arxiv.org/abs/2308.03853v1)|[link](https://github.com/madhumitasushil/oncllmextraction)|
 |**2023-08-07**|**AgentBench: Evaluating LLMs as Agents**|Xiao Liu et.al.|[2308.03688v1](http://arxiv.org/abs/2308.03688v1)|[link](https://github.com/thudm/agentbench)|
 |**2023-08-07**|**Measuring Variety, Balance, and Disparity: An Analysis of Media Coverage of the 2021 German Federal Election**|Michael Färber et.al.|[2308.03531v1](http://arxiv.org/abs/2308.03531v1)|null|
 |**2023-08-07**|**RecycleGPT: An Autoregressive Language Model with Recyclable Module**|Yufan Jiang et.al.|[2308.03421v2](http://arxiv.org/abs/2308.03421v2)|null|
@@ -132,6 +129,7 @@
 |**2023-07-23**|**CommonsenseVIS: Visualizing and Understanding Commonsense Reasoning Capabilities of Natural Language Models**|Xingbo Wang et.al.|[2307.12382v1](http://arxiv.org/abs/2307.12382v1)|null|
 |**2023-07-22**|**Learning Vision-and-Language Navigation from YouTube Videos**|Kunyang Lin et.al.|[2307.11984v1](http://arxiv.org/abs/2307.11984v1)|[link](https://github.com/jeremylinky/youtube-vln)|
 |**2023-07-21**|**CARTIER: Cartographic lAnguage Reasoning Targeted at Instruction Execution for Robots**|Nikhil Kakodkar et.al.|[2307.11865v1](http://arxiv.org/abs/2307.11865v1)|null|
+|**2023-07-21**|**GPT-4 Can't Reason**|Konstantine Arkoudas et.al.|[2308.03762v1](http://arxiv.org/abs/2308.03762v1)|null|
 |**2023-07-21**|**Advancing Visual Grounding with Scene Knowledge: Benchmark and Method**|Zhihong Chen et.al.|[2307.11558v1](http://arxiv.org/abs/2307.11558v1)|[link](https://github.com/zhjohnchan/sk-vg)|
 |**2023-07-21**|**Making Pre-trained Language Models both Task-solvers and Self-calibrators**|Yangyi Chen et.al.|[2307.11316v1](http://arxiv.org/abs/2307.11316v1)|[link](https://github.com/yangyi-chen/lm-toast)|
 |**2023-07-20**|**LLM Cognitive Judgements Differ From Human**|Sotiris Lamprinidis et.al.|[2307.11787v1](http://arxiv.org/abs/2307.11787v1)|[link](https://github.com/sotlampr/llm-cognitive-judgements)|
@@ -194,11 +192,3 @@
 |**2023-07-05**|**Won't Get Fooled Again: Answering Questions with False Premises**|Shengding Hu et.al.|[2307.02394v1](http://arxiv.org/abs/2307.02394v1)|[link](https://github.com/thunlp/falseqa)|
 |**2023-07-05**|**SpaceNLI: Evaluating the Consistency of Predicting Inferences in Space**|Lasha Abzianidze et.al.|[2307.02269v1](http://arxiv.org/abs/2307.02269v1)|[link](https://github.com/kovvalsky/spacenli)|
 |**2023-07-05**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2307.02046v2](http://arxiv.org/abs/2307.02046v2)|null|
-|**2023-07-04**|**Insert-expansions for Tool-enabled Conversational Agents**|Andreas Göldi et.al.|[2307.01644v1](http://arxiv.org/abs/2307.01644v1)|null|
-|**2023-07-04**|**Chain of Thought Prompting Elicits Knowledge Augmentation**|Dingjun Wu et.al.|[2307.01640v1](http://arxiv.org/abs/2307.01640v1)|null|
-|**2023-07-04**|**Learning to Prompt in the Classroom to Understand AI Limits: A pilot study**|Emily Theophilou et.al.|[2307.01540v1](http://arxiv.org/abs/2307.01540v1)|null|
-|**2023-07-04**|**Garbage in, garbage out: Zero-shot detection of crime using Large Language Models**|Anj Simmons et.al.|[2307.06844v1](http://arxiv.org/abs/2307.06844v1)|[link](https://github.com/anjsimmo/zero-shot-crime-detection)|
-|**2023-07-03**|**UniFine: A Unified and Fine-grained Approach for Zero-shot Vision-Language Understanding**|Rui Sun et.al.|[2307.00862v1](http://arxiv.org/abs/2307.00862v1)|[link](https://github.com/threesr/unifine)|
-|**2023-07-03**|**Evaluating Shutdown Avoidance of Language Models in Textual Scenarios**|Teun van der Weij et.al.|[2307.00787v1](http://arxiv.org/abs/2307.00787v1)|[link](https://github.com/teunvdweij/gpt-shutdownability)|
-|**2023-07-02**|**HeGeL: A Novel Dataset for Geo-Location from Hebrew Text**|Tzuf Paz-Argaman et.al.|[2307.00509v1](http://arxiv.org/abs/2307.00509v1)|[link](https://github.com/onlplab/hegel)|
-|**2023-07-02**|**A Dual-Stream Recurrence-Attention Network with Global-Local Awareness for Emotion Recognition in Textual Dialogue**|Jiang Li et.al.|[2307.00449v1](http://arxiv.org/abs/2307.00449v1)|null|
