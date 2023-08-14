@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-14 09:02:29
+ Automated deployment @ 2023-08-14 20:28:05
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-11**|**A Large Language Model Enhanced Conversational Recommender System**|Yue Feng et.al.|[2308.06212v1](http://arxiv.org/abs/2308.06212v1)|null|
+|**2023-08-11**|**Tweet Sentiment Extraction using Viterbi Algorithm with Transfer Learning**|Zied Baklouti et.al.|[2308.05973v1](http://arxiv.org/abs/2308.05973v1)|null|
 |**2023-08-10**|**Developing an Informal-Formal Persian Corpus**|Vahide Tajalli et.al.|[2308.05336v1](http://arxiv.org/abs/2308.05336v1)|null|
 |**2023-08-07**|**Towards Controllable Natural Language Inference through Lexical Inference Types**|Yingji Zhang et.al.|[2308.03581v1](http://arxiv.org/abs/2308.03581v1)|null|
 |**2023-08-06**|**Why Linguistics Will Thrive in the 21st Century: A Reply to Piantadosi (2023)**|Jordan Kodner et.al.|[2308.03228v1](http://arxiv.org/abs/2308.03228v1)|null|
@@ -19,14 +21,15 @@
 |**2023-08-03**|**Reasoning in Large Language Models Through Symbolic Math Word Problems**|Vedant Gaur et.al.|[2308.01906v1](http://arxiv.org/abs/2308.01906v1)|null|
 |**2023-08-03**|**Is GPT-4 a reliable rater? Evaluating Consistency in GPT-4 Text Ratings**|Veronika Hackl et.al.|[2308.02575v1](http://arxiv.org/abs/2308.02575v1)|null|
 |**2023-08-03**|**Investigating Reinforcement Learning for Communication Strategies in a Task-Initiative Setting**|Baber Khalid et.al.|[2308.01479v1](http://arxiv.org/abs/2308.01479v1)|null|
-|**2023-08-02**|**Why Do We Need Neuro-symbolic AI to Model Pragmatic Analogies?**|Thilini Wijesiriwardene et.al.|[2308.01936v1](http://arxiv.org/abs/2308.01936v1)|null|
-|**2023-08-02**|**Exploring the psychology of GPT-4's Moral and Legal Reasoning**|Guilherme F. C. F. Almeida et.al.|[2308.01264v1](http://arxiv.org/abs/2308.01264v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-11**|**KETM:A Knowledge-Enhanced Text Matching method**|Kexin Jiang et.al.|[2308.06235v1](http://arxiv.org/abs/2308.06235v1)|[link](https://github.com/1094701018/ketm)|
+|**2023-08-11**|**Evidence of Human-Like Visual-Linguistic Integration in Multimodal Large Language Models During Predictive Language Processing**|Viktor Kewenig et.al.|[2308.06035v1](http://arxiv.org/abs/2308.06035v1)|null|
+|**2023-08-11**|**LittleMu: Deploying an Online Virtual Teaching Assistant via Heterogeneous Sources Integration and Chain of Teach Prompts**|Shangqing Tu et.al.|[2308.05935v1](http://arxiv.org/abs/2308.05935v1)|[link](https://github.com/thu-keg/vta)|
 |**2023-08-10**|**Do Language Models Refer?**|Matthew Mandelkern et.al.|[2308.05576v1](http://arxiv.org/abs/2308.05576v1)|null|
 |**2023-08-10**|**LLM As DBA**|Xuanhe Zhou et.al.|[2308.05481v2](http://arxiv.org/abs/2308.05481v2)|[link](https://github.com/tsinghuadatabasegroup/db-gpt)|
 |**2023-08-10**|**WeaverBird: Empowering Financial Decision-Making with Large Language Model, Knowledge Base, and Search Engine**|Siqiao Xue et.al.|[2308.05361v1](http://arxiv.org/abs/2308.05361v1)|null|
@@ -61,16 +64,18 @@
 |**2023-08-04**|**ChatGPT for GTFS: From Words to Information**|Saipraneeth Devunuri et.al.|[2308.02618v1](http://arxiv.org/abs/2308.02618v1)|[link](https://github.com/utel-uiuc/gtfs_llm)|
 |**2023-08-04**|**Learning to Select the Relevant History Turns in Conversational Question Answering**|Munazza Zaib et.al.|[2308.02294v1](http://arxiv.org/abs/2308.02294v1)|null|
 |**2023-08-03**|**Reasoning in Large Language Models Through Symbolic Math Word Problems**|Vedant Gaur et.al.|[2308.01906v1](http://arxiv.org/abs/2308.01906v1)|null|
-|**2023-08-03**|**Tag Prediction of Competitive Programming Problems using Deep Learning Techniques**|Taha Lokat et.al.|[2308.01863v1](http://arxiv.org/abs/2308.01863v1)|null|
-|**2023-08-03**|**Does Correction Remain An Problem For Large Language Models?**|Xiaowu Zhang et.al.|[2308.01776v1](http://arxiv.org/abs/2308.01776v1)|null|
-|**2023-08-03**|**Baby's CoThought: Leveraging Large Language Models for Enhanced Reasoning in Compact Models**|Zheyu Zhang et.al.|[2308.01684v1](http://arxiv.org/abs/2308.01684v1)|[link](https://github.com/oooranz/baby-cothought)|
-|**2023-08-03**|**Investigating Reinforcement Learning for Communication Strategies in a Task-Initiative Setting**|Baber Khalid et.al.|[2308.01479v1](http://arxiv.org/abs/2308.01479v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-11**|**KETM:A Knowledge-Enhanced Text Matching method**|Kexin Jiang et.al.|[2308.06235v1](http://arxiv.org/abs/2308.06235v1)|[link](https://github.com/1094701018/ketm)|
+|**2023-08-11**|**A Large Language Model Enhanced Conversational Recommender System**|Yue Feng et.al.|[2308.06212v1](http://arxiv.org/abs/2308.06212v1)|null|
+|**2023-08-11**|**Thinking Like an Expert:Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals**|Fanglong Yao et.al.|[2308.06207v1](http://arxiv.org/abs/2308.06207v1)|null|
+|**2023-08-11**|**Identification of the Relevance of Comments in Codes Using Bag of Words and Transformer Based Models**|Sruthi S et.al.|[2308.06144v1](http://arxiv.org/abs/2308.06144v1)|null|
+|**2023-08-11**|**Lip2Vec: Efficient and Robust Visual Speech Recognition via Latent-to-Latent Visual to Audio Representation Mapping**|Yasser Abdelaziz Dahou Djilali et.al.|[2308.06112v1](http://arxiv.org/abs/2308.06112v1)|null|
+|**2023-08-11**|**Large Language Models in Cryptocurrency Securities Cases: Can ChatGPT Replace Lawyers?**|Arianna Trozze et.al.|[2308.06032v1](http://arxiv.org/abs/2308.06032v1)|null|
 |**2023-08-10**|**Do Language Models Refer?**|Matthew Mandelkern et.al.|[2308.05576v1](http://arxiv.org/abs/2308.05576v1)|null|
 |**2023-08-10**|**LLM As DBA**|Xuanhe Zhou et.al.|[2308.05481v2](http://arxiv.org/abs/2308.05481v2)|[link](https://github.com/tsinghuadatabasegroup/db-gpt)|
 |**2023-08-10**|**Metacognitive Prompting Improves Understanding in Large Language Models**|Yuqing Wang et.al.|[2308.05342v1](http://arxiv.org/abs/2308.05342v1)|null|
@@ -187,6 +192,3 @@
 |**2023-07-11**|**Secrets of RLHF in Large Language Models Part I: PPO**|Rui Zheng et.al.|[2307.04964v2](http://arxiv.org/abs/2307.04964v2)|[link](https://github.com/openlmlab/moss-rlhf)|
 |**2023-07-10**|**Large Language Models as General Pattern Machines**|Suvir Mirchandani et.al.|[2307.04721v1](http://arxiv.org/abs/2307.04721v1)|null|
 |**2023-07-10**|**TIM: Teaching Large Language Models to Translate with Comparison**|Jiali Zeng et.al.|[2307.04408v1](http://arxiv.org/abs/2307.04408v1)|[link](https://github.com/lemon0830/tim)|
-|**2023-07-10**|**Learning to Generate Equitable Text in Dialogue from Biased Training Data**|Anthony Sicilia et.al.|[2307.04303v1](http://arxiv.org/abs/2307.04303v1)|[link](https://github.com/anthonysicilia/equitable-dialogue-acl2023)|
-|**2023-07-09**|**Disentangling Societal Inequality from Model Biases: Gender Inequality in Divorce Court Proceedings**|Sujan Dutta et.al.|[2307.10200v1](http://arxiv.org/abs/2307.10200v1)|null|
-|**2023-07-08**|**Is ChatGPT a Good Personality Recognizer? A Preliminary Study**|Yu Ji et.al.|[2307.03952v2](http://arxiv.org/abs/2307.03952v2)|null|
