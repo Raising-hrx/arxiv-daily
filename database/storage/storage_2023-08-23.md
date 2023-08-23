@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-23 20:52:13
+ Automated deployment @ 2023-08-23 21:10:04
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -34,7 +34,7 @@
 |**2023-08-21**|**LatEval: An Interactive LLMs Evaluation Benchmark with Incomplete Information from Lateral Thinking Puzzles**|Shulin Huang et.al.|[2308.10855v1](http://arxiv.org/abs/2308.10855v1)|null|
 |**2023-08-21**|**RaLLe: A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models**|Yasuto Hoshi et.al.|[2308.10633v1](http://arxiv.org/abs/2308.10633v1)|[link](https://github.com/yhoshi3/ralle)|
 |**2023-08-21**|**Exploring Equation as a Better Intermediate Meaning Representation for Numerical Reasoning**|Dingzirui Wang et.al.|[2308.10585v1](http://arxiv.org/abs/2308.10585v1)|null|
-|**2023-08-21**|**Large Language Model as a User Simulator**|Chuyi Kong et.al.|[2308.11534v1](http://arxiv.org/abs/2308.11534v1)|null|
+|**2023-08-21**|**Large Language Model as a User Simulator**|Chuyi Kong et.al.|[2308.11534v1](http://arxiv.org/abs/2308.11534v1)|[link](https://github.com/FreedomIntelligence/ReaLM)|
 |**2023-08-21**|**Using Large Language Models for Cybersecurity Capture-The-Flag Challenges and Certification Questions**|Wesley Tann et.al.|[2308.10443v1](http://arxiv.org/abs/2308.10443v1)|null|
 |**2023-08-21**|**Large Language Models on Wikipedia-Style Survey Generation: an Evaluation in NLP Concepts**|Fan Gao et.al.|[2308.10410v1](http://arxiv.org/abs/2308.10410v1)|null|
 |**2023-08-21**|**Simple Baselines for Interactive Video Retrieval with Questions and Answers**|Kaiqu Liang et.al.|[2308.10402v1](http://arxiv.org/abs/2308.10402v1)|[link](https://github.com/kevinliang888/ivr-qa-baselines)|
