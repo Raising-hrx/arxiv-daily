@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-24 09:02:09
+ Automated deployment @ 2023-08-24 20:27:55
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-23**|**Hybrid Retrieval and Multi-stage Text Ranking Solution at TREC 2022 Deep Learning Track**|Guangwei Xu et.al.|[2308.12039v1](http://arxiv.org/abs/2308.12039v1)|null|
 |**2023-08-21**|**Refashioning Emotion Recognition Modelling: The Advent of Generalised Large Models**|Zixing Zhang et.al.|[2308.11578v1](http://arxiv.org/abs/2308.11578v1)|null|
 |**2023-08-21**|**Age Recommendation from Texts and Sentences for Children**|Rashedur Rahman et.al.|[2308.10586v1](http://arxiv.org/abs/2308.10586v1)|null|
 |**2023-08-21**|**FairBench: A Four-Stage Automatic Framework for Detecting Stereotypes and Biases in Large Language Models**|Yanhong Bai et.al.|[2308.10397v1](http://arxiv.org/abs/2308.10397v1)|null|
@@ -18,13 +19,23 @@
 |**2023-08-19**|**Inductive-bias Learning: Generating Code Models with Large Language Model**|Toma Tanaka et.al.|[2308.09890v1](http://arxiv.org/abs/2308.09890v1)|[link](https://github.com/fuyu-quant/iblm)|
 |**2023-08-16**|**Self-Deception: Reverse Penetrating the Semantic Firewall of Large Language Models**|Zhenhua Wang et.al.|[2308.11521v1](http://arxiv.org/abs/2308.11521v1)|null|
 |**2023-08-16**|**Leveraging Explainable AI to Analyze Researchers' Aspect-Based Sentiment about ChatGPT**|Shilpa Lakhanpal et.al.|[2308.11001v1](http://arxiv.org/abs/2308.11001v1)|null|
-|**2023-08-14**|**OctoPack: Instruction Tuning Code Large Language Models**|Niklas Muennighoff et.al.|[2308.07124v1](http://arxiv.org/abs/2308.07124v1)|[link](https://github.com/bigcode-project/octopack)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-23**|**D4: Improving LLM Pretraining via Document De-Duplication and Diversification**|Kushal Tirumala et.al.|[2308.12284v1](http://arxiv.org/abs/2308.12284v1)|null|
+|**2023-08-23**|**The Challenges of Machine Learning for Trust and Safety: A Case Study on Misinformation Detection**|Madelyne Xiao et.al.|[2308.12215v1](http://arxiv.org/abs/2308.12215v1)|null|
+|**2023-08-23**|**Evaluation of Faithfulness Using the Longest Supported Subsequence**|Anirudh Mittal et.al.|[2308.12157v1](http://arxiv.org/abs/2308.12157v1)|null|
+|**2023-08-23**|**InstructionGPT-4: A 200-Instruction Paradigm for Fine-Tuning MiniGPT-4**|Lai Wei et.al.|[2308.12067v1](http://arxiv.org/abs/2308.12067v1)|null|
+|**2023-08-23**|**FlexKBQA: A Flexible LLM-Powered Framework for Few-Shot Knowledge Base Question Answering**|Zhenyu Li et.al.|[2308.12060v1](http://arxiv.org/abs/2308.12060v1)|[link](https://github.com/leezythu/flexkbqa)|
+|**2023-08-23**|**Prompt-Based Length Controlled Generation with Reinforcement Learning**|Renlong Jie et.al.|[2308.12030v1](http://arxiv.org/abs/2308.12030v1)|null|
+|**2023-08-23**|**Reranking Passages with Coarse-to-Fine Neural Retriever using List-Context Information**|Hongyin Zhu et.al.|[2308.12022v1](http://arxiv.org/abs/2308.12022v1)|null|
+|**2023-08-23**|**EVE: Efficient Vision-Language Pre-training with Masked Prediction and Modality-Aware MoE**|Junyi Chen et.al.|[2308.11971v1](http://arxiv.org/abs/2308.11971v1)|null|
+|**2023-08-23**|**Bridging the Gap: Deciphering Tabular Data Using Large Language Model**|Hengyuan Zhang et.al.|[2308.11891v1](http://arxiv.org/abs/2308.11891v1)|null|
+|**2023-08-22**|**Exploring the Effectiveness of GPT Models in Test-Taking: A Case Study of the Driver's License Knowledge Test**|Saba Rahimi et.al.|[2308.11827v1](http://arxiv.org/abs/2308.11827v1)|null|
+|**2023-08-22**|**Knowledge Graph Prompting for Multi-Document Question Answering**|Yu Wang et.al.|[2308.11730v1](http://arxiv.org/abs/2308.11730v1)|null|
 |**2023-08-22**|**Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions**|Pouya Pezeshkpour et.al.|[2308.11483v1](http://arxiv.org/abs/2308.11483v1)|null|
 |**2023-08-22**|**Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning**|Shansong Liu et.al.|[2308.11276v1](http://arxiv.org/abs/2308.11276v1)|null|
 |**2023-08-22**|**HopPG: Self-Iterative Program Generation for Multi-Hop Question Answering over Heterogeneous Knowledge**|Yingyao Wang et.al.|[2308.11257v1](http://arxiv.org/abs/2308.11257v1)|null|
@@ -63,24 +74,20 @@
 |**2023-08-17**|**MaScQA: A Question Answering Dataset for Investigating Materials Science Knowledge of Large Language Models**|Mohd Zaki et.al.|[2308.09115v1](http://arxiv.org/abs/2308.09115v1)|null|
 |**2023-08-17**|**MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models**|Yilin Wen et.al.|[2308.09729v2](http://arxiv.org/abs/2308.09729v2)|null|
 |**2023-08-17**|**Beam Retrieval: General End-to-End Retrieval for Multi-Hop Question Answering**|Jiahao Zhang et.al.|[2308.08973v1](http://arxiv.org/abs/2308.08973v1)|[link](https://github.com/canghongjian/beam_retriever)|
+|**2023-08-17**|**KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases**|Xintao Wang et.al.|[2308.11761v1](http://arxiv.org/abs/2308.11761v1)|null|
 |**2023-08-17**|**Linguistically-Informed Neural Architectures for Lexical, Syntactic and Semantic Tasks in Sanskrit**|Jivnesh Sandhan et.al.|[2308.08807v1](http://arxiv.org/abs/2308.08807v1)|null|
 |**2023-08-16**|**Answering Ambiguous Questions with a Database of Questions, Answers, and Revisions**|Haitian Sun et.al.|[2308.08661v1](http://arxiv.org/abs/2308.08661v1)|null|
 |**2023-08-16**|**Learning the meanings of function words from grounded language using a visual question answering model**|Eva Portelance et.al.|[2308.08628v1](http://arxiv.org/abs/2308.08628v1)|[link](https://github.com/evaportelance/vqa-function-word-learning)|
 |**2023-08-16**|**FootGPT : A Large Language Model Development Experiment on a Minimal Setting**|Eren Unlu et.al.|[2308.08610v1](http://arxiv.org/abs/2308.08610v1)|null|
-|**2023-08-16**|**Benchmarking Neural Network Generalization for Grammar Induction**|Nur Lan et.al.|[2308.08253v1](http://arxiv.org/abs/2308.08253v1)|[link](https://github.com/taucompling/bliss)|
-|**2023-08-16**|**MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation**|Junru Lu et.al.|[2308.08239v2](http://arxiv.org/abs/2308.08239v2)|[link](https://github.com/lujunru/memochat)|
-|**2023-08-16**|**Self-Deception: Reverse Penetrating the Semantic Firewall of Large Language Models**|Zhenhua Wang et.al.|[2308.11521v1](http://arxiv.org/abs/2308.11521v1)|null|
-|**2023-08-16**|**Leveraging Explainable AI to Analyze Researchers' Aspect-Based Sentiment about ChatGPT**|Shilpa Lakhanpal et.al.|[2308.11001v1](http://arxiv.org/abs/2308.11001v1)|null|
-|**2023-08-16**|**AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework**|Qingyun Wu et.al.|[2308.08155v1](http://arxiv.org/abs/2308.08155v1)|null|
-|**2023-08-15**|**DiagGPT: An LLM-based Chatbot with Automatic Topic Management for Task-Oriented Dialogue**|Lang Cao et.al.|[2308.08043v1](http://arxiv.org/abs/2308.08043v1)|null|
-|**2023-08-15**|**Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification**|Aojun Zhou et.al.|[2308.07921v1](http://arxiv.org/abs/2308.07921v1)|null|
-|**2023-08-15**|**Forward-Backward Reasoning in Large Language Models for Verification**|Weisen Jiang et.al.|[2308.07758v3](http://arxiv.org/abs/2308.07758v3)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-23**|**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**|Jiasheng Ye et.al.|[2308.12219v1](http://arxiv.org/abs/2308.12219v1)|[link](https://github.com/yegcjs/diffusionllm)|
+|**2023-08-23**|**FlexKBQA: A Flexible LLM-Powered Framework for Few-Shot Knowledge Base Question Answering**|Zhenyu Li et.al.|[2308.12060v1](http://arxiv.org/abs/2308.12060v1)|[link](https://github.com/leezythu/flexkbqa)|
+|**2023-08-23**|**EVE: Efficient Vision-Language Pre-training with Masked Prediction and Modality-Aware MoE**|Junyi Chen et.al.|[2308.11971v1](http://arxiv.org/abs/2308.11971v1)|null|
 |**2023-08-22**|**Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions**|Pouya Pezeshkpour et.al.|[2308.11483v1](http://arxiv.org/abs/2308.11483v1)|null|
 |**2023-08-22**|**HopPG: Self-Iterative Program Generation for Multi-Hop Question Answering over Heterogeneous Knowledge**|Yingyao Wang et.al.|[2308.11257v1](http://arxiv.org/abs/2308.11257v1)|null|
 |**2023-08-22**|**Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis**|Chang Liu et.al.|[2308.11224v1](http://arxiv.org/abs/2308.11224v1)|[link](https://github.com/ayame1006/llmtograph)|
@@ -201,7 +208,3 @@
 |**2023-07-24**|**Interpretable Stereotype Identification through Reasoning**|Jacob-Junqi Tian et.al.|[2308.00071v1](http://arxiv.org/abs/2308.00071v1)|null|
 |**2023-07-24**|**RRAML: Reinforced Retrieval Augmented Machine Learning**|Andrea Bacciu et.al.|[2307.12798v3](http://arxiv.org/abs/2307.12798v3)|null|
 |**2023-07-23**|**CommonsenseVIS: Visualizing and Understanding Commonsense Reasoning Capabilities of Natural Language Models**|Xingbo Wang et.al.|[2307.12382v1](http://arxiv.org/abs/2307.12382v1)|null|
-|**2023-07-22**|**Learning Vision-and-Language Navigation from YouTube Videos**|Kunyang Lin et.al.|[2307.11984v1](http://arxiv.org/abs/2307.11984v1)|[link](https://github.com/jeremylinky/youtube-vln)|
-|**2023-07-21**|**CARTIER: Cartographic lAnguage Reasoning Targeted at Instruction Execution for Robots**|Nikhil Kakodkar et.al.|[2307.11865v1](http://arxiv.org/abs/2307.11865v1)|null|
-|**2023-07-21**|**GPT-4 Can't Reason**|Konstantine Arkoudas et.al.|[2308.03762v2](http://arxiv.org/abs/2308.03762v2)|null|
-|**2023-07-21**|**Advancing Visual Grounding with Scene Knowledge: Benchmark and Method**|Zhihong Chen et.al.|[2307.11558v1](http://arxiv.org/abs/2307.11558v1)|[link](https://github.com/zhjohnchan/sk-vg)|
