@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-28 09:03:45
+ Automated deployment @ 2023-08-28 20:29:15
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -17,13 +17,17 @@
 |**2023-08-19**|**Causal Intersectionality and Dual Form of Gradient Descent for Multimodal Analysis: a Case Study on Hateful Memes**|Yosuke Miyanishi et.al.|[2308.11585v1](http://arxiv.org/abs/2308.11585v1)|null|
 |**2023-08-19**|**Tackling Vision Language Tasks Through Learning Inner Monologues**|Diji Yang et.al.|[2308.09970v1](http://arxiv.org/abs/2308.09970v1)|null|
 |**2023-08-19**|**Inductive-bias Learning: Generating Code Models with Large Language Model**|Toma Tanaka et.al.|[2308.09890v1](http://arxiv.org/abs/2308.09890v1)|[link](https://github.com/fuyu-quant/iblm)|
-|**2023-08-16**|**Self-Deception: Reverse Penetrating the Semantic Firewall of Large Language Models**|Zhenhua Wang et.al.|[2308.11521v2](http://arxiv.org/abs/2308.11521v2)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-25**|**The Poison of Alignment**|Aibek Bekbayev et.al.|[2308.13449v1](http://arxiv.org/abs/2308.13449v1)|null|
+|**2023-08-25**|**Knowledge-Driven CoT: Exploring Faithful Reasoning in LLMs for Knowledge-intensive Question Answering**|Keheng Wang et.al.|[2308.13259v1](http://arxiv.org/abs/2308.13259v1)|null|
+|**2023-08-25**|**LLM2KB: Constructing Knowledge Bases using instruction tuned context aware Large Language Models**|Anmol Nayak et.al.|[2308.13207v1](http://arxiv.org/abs/2308.13207v1)|[link](https://github.com/anmoln94/Team_LLM2KB_LM-KBC-2023)|
+|**2023-08-25**|**Measuring Spurious Correlation in Classification: 'Clever Hans' in Translationese**|Angana Borah et.al.|[2308.13170v1](http://arxiv.org/abs/2308.13170v1)|null|
+|**2023-08-25**|**SciEval: A Multi-Level Large Language Model Evaluation Benchmark for Scientific Research**|Liangtai Sun et.al.|[2308.13149v1](http://arxiv.org/abs/2308.13149v1)|[link](https://github.com/opendfm/bai-scieval)|
 |**2023-08-24**|**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**|Jinze Bai et.al.|[2308.12966v1](http://arxiv.org/abs/2308.12966v1)|[link](https://github.com/qwenlm/qwen-vl)|
 |**2023-08-23**|**D4: Improving LLM Pretraining via Document De-Duplication and Diversification**|Kushal Tirumala et.al.|[2308.12284v1](http://arxiv.org/abs/2308.12284v1)|null|
 |**2023-08-23**|**The Challenges of Machine Learning for Trust and Safety: A Case Study on Misinformation Detection**|Madelyne Xiao et.al.|[2308.12215v1](http://arxiv.org/abs/2308.12215v1)|[link](https://github.com/ramybaly/News-Media-Reliability)|
@@ -66,20 +70,16 @@
 |**2023-08-18**|**Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models**|Navid Rajabi et.al.|[2308.09778v1](http://arxiv.org/abs/2308.09778v1)|null|
 |**2023-08-18**|**Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment**|Rishabh Bhardwaj et.al.|[2308.09662v2](http://arxiv.org/abs/2308.09662v2)|[link](https://github.com/declare-lab/red-instruct)|
 |**2023-08-18**|**Tree-of-Mixed-Thought: Combining Fast and Slow Thinking for Multi-hop Visual Reasoning**|Pengbo Hu et.al.|[2308.09658v2](http://arxiv.org/abs/2308.09658v2)|null|
-|**2023-08-18**|**PUMGPT: A Large Vision-Language Model for Product Understanding**|Shuhui Wu et.al.|[2308.09568v1](http://arxiv.org/abs/2308.09568v1)|null|
-|**2023-08-18**|**Scope is all you need: Transforming LLMs for HPC Code**|Tal Kadosh et.al.|[2308.09440v1](http://arxiv.org/abs/2308.09440v1)|[link](https://github.com/scientific-computing-lab-nrcn/tokompiler)|
-|**2023-08-18**|**Accelerated materials language processing enabled by GPT**|Jaewoong Choi et.al.|[2308.09354v1](http://arxiv.org/abs/2308.09354v1)|null|
-|**2023-08-18**|**Differentiable Retrieval Augmentation via Generative Language Modeling for E-commerce Query Intent Classification**|Chenyu Zhao et.al.|[2308.09308v2](http://arxiv.org/abs/2308.09308v2)|null|
-|**2023-08-17**|**Semantic Consistency for Assuring Reliability of Large Language Models**|Harsh Raj et.al.|[2308.09138v1](http://arxiv.org/abs/2308.09138v1)|null|
-|**2023-08-17**|**EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding**|Karttikeya Mangalam et.al.|[2308.09126v1](http://arxiv.org/abs/2308.09126v1)|[link](https://github.com/egoschema/egoschema)|
-|**2023-08-17**|**MaScQA: A Question Answering Dataset for Investigating Materials Science Knowledge of Large Language Models**|Mohd Zaki et.al.|[2308.09115v1](http://arxiv.org/abs/2308.09115v1)|null|
-|**2023-08-17**|**MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models**|Yilin Wen et.al.|[2308.09729v2](http://arxiv.org/abs/2308.09729v2)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-25**|**ARTIST: ARTificial Intelligence for Simplified Text**|Lorenzo Corti et.al.|[2308.13458v1](http://arxiv.org/abs/2308.13458v1)|[link](https://github.com/delftcrowd/artist)|
+|**2023-08-25**|**The Poison of Alignment**|Aibek Bekbayev et.al.|[2308.13449v1](http://arxiv.org/abs/2308.13449v1)|null|
+|**2023-08-25**|**Knowledge-Driven CoT: Exploring Faithful Reasoning in LLMs for Knowledge-intensive Question Answering**|Keheng Wang et.al.|[2308.13259v1](http://arxiv.org/abs/2308.13259v1)|null|
+|**2023-08-24**|**Causal Parrots: Large Language Models May Talk Causality But Are Not Causal**|Matej Zečević et.al.|[2308.13067v1](http://arxiv.org/abs/2308.13067v1)|[link](https://github.com/moritzwillig/causalparrots)|
 |**2023-08-24**|**GPTEval: A Survey on Assessments of ChatGPT and GPT-4**|Rui Mao et.al.|[2308.12488v1](http://arxiv.org/abs/2308.12488v1)|null|
 |**2023-08-23**|**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**|Jiasheng Ye et.al.|[2308.12219v2](http://arxiv.org/abs/2308.12219v2)|[link](https://github.com/yegcjs/diffusionllm)|
 |**2023-08-23**|**FlexKBQA: A Flexible LLM-Powered Framework for Few-Shot Knowledge Base Question Answering**|Zhenyu Li et.al.|[2308.12060v1](http://arxiv.org/abs/2308.12060v1)|[link](https://github.com/leezythu/flexkbqa)|
@@ -200,5 +200,3 @@
 |**2023-07-25**|**A Comprehensive Evaluation and Analysis Study for Chinese Spelling Check**|Xunjian Yin et.al.|[2307.13655v1](http://arxiv.org/abs/2307.13655v1)|null|
 |**2023-07-25**|**GPT-3 Models are Few-Shot Financial Reasoners**|Raul Salles de Padua et.al.|[2307.13617v2](http://arxiv.org/abs/2307.13617v2)|null|
 |**2023-07-25**|**FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**|I-Chun Chern et.al.|[2307.13528v2](http://arxiv.org/abs/2307.13528v2)|[link](https://github.com/gair-nlp/factool)|
-|**2023-07-24**|**3D-LLM: Injecting the 3D World into Large Language Models**|Yining Hong et.al.|[2307.12981v1](http://arxiv.org/abs/2307.12981v1)|null|
-|**2023-07-24**|**Interpretable Stereotype Identification through Reasoning**|Jacob-Junqi Tian et.al.|[2308.00071v1](http://arxiv.org/abs/2308.00071v1)|null|
