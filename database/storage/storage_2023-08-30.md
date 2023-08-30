@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-30 09:03:20
+ Automated deployment @ 2023-08-30 20:28:25
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,22 +8,31 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-29**|**Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?**|Jingyan Zhou et.al.|[2308.15399v1](http://arxiv.org/abs/2308.15399v1)|null|
+|**2023-08-29**|**Historical patterns of rice farming explain modern-day language use in China and Japan more than modernization and urbanization**|Sharath Chandra Guntuku et.al.|[2308.15352v1](http://arxiv.org/abs/2308.15352v1)|null|
+|**2023-08-29**|**Shared Lexical Items as Triggers of Code Switching**|Shuly Wintner et.al.|[2308.15209v1](http://arxiv.org/abs/2308.15209v1)|[link](https://github.com/haifaclg/triggering)|
+|**2023-08-29**|**Benchmarking the Generation of Fact Checking Explanations**|Daniel Russo et.al.|[2308.15202v1](http://arxiv.org/abs/2308.15202v1)|[link](https://github.com/land-fbk/benchmark-gen-explanations)|
+|**2023-08-29**|**Sequential annotations for naturally-occurring HRI: first insights**|Lucien Tisserand et.al.|[2308.15097v1](http://arxiv.org/abs/2308.15097v1)|null|
+|**2023-08-29**|**Large language models converge toward human-like concept organization**|Mathias Lykke Gammelgaard et.al.|[2308.15047v1](http://arxiv.org/abs/2308.15047v1)|null|
+|**2023-08-28**|**Gender bias and stereotypes in Large Language Models**|Hadas Kotek et.al.|[2308.14921v1](http://arxiv.org/abs/2308.14921v1)|null|
+|**2023-08-28**|**Attention Visualizer Package: Revealing Word Importance for Deeper Insight into Encoder-Only Transformer Models**|Ala Alam Falaki et.al.|[2308.14850v1](http://arxiv.org/abs/2308.14850v1)|[link](https://github.com/alafalaki/attentionvisualizer)|
 |**2023-08-28**|**Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**|Yanjun Gao et.al.|[2308.14321v1](http://arxiv.org/abs/2308.14321v1)|null|
 |**2023-08-28**|**Goodhart's Law Applies to NLP's Explanation Benchmarks**|Jennifer Hsia et.al.|[2308.14272v1](http://arxiv.org/abs/2308.14272v1)|null|
 |**2023-08-27**|**Situated Natural Language Explanations**|Zining Zhu et.al.|[2308.14115v1](http://arxiv.org/abs/2308.14115v1)|null|
 |**2023-08-26**|**On Philomatics and Psychomatics for Combining Philosophy and Psychology with Mathematics**|Benyamin Ghojogh et.al.|[2308.13738v1](http://arxiv.org/abs/2308.13738v1)|null|
 |**2023-08-23**|**Hybrid Retrieval and Multi-stage Text Ranking Solution at TREC 2022 Deep Learning Track**|Guangwei Xu et.al.|[2308.12039v1](http://arxiv.org/abs/2308.12039v1)|null|
-|**2023-08-21**|**Refashioning Emotion Recognition Modelling: The Advent of Generalised Large Models**|Zixing Zhang et.al.|[2308.11578v1](http://arxiv.org/abs/2308.11578v1)|null|
-|**2023-08-21**|**Age Recommendation from Texts and Sentences for Children**|Rashedur Rahman et.al.|[2308.10586v1](http://arxiv.org/abs/2308.10586v1)|null|
-|**2023-08-21**|**FairBench: A Four-Stage Automatic Framework for Detecting Stereotypes and Biases in Large Language Models**|Yanhong Bai et.al.|[2308.10397v1](http://arxiv.org/abs/2308.10397v1)|null|
-|**2023-08-20**|**A Human-on-the-Loop Optimization Autoformalism Approach for Sustainability**|Ming Jin et.al.|[2308.10380v2](http://arxiv.org/abs/2308.10380v2)|null|
-|**2023-08-20**|**How Good Are Large Language Models at Out-of-Distribution Detection?**|Bo Liu et.al.|[2308.10261v2](http://arxiv.org/abs/2308.10261v2)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-29**|**Characterizing Learning Curves During Language Model Pre-Training: Learning, Forgetting, and Stability**|Tyler A. Chang et.al.|[2308.15419v1](http://arxiv.org/abs/2308.15419v1)|[link](https://github.com/tylerachang/lm-learning-curves)|
+|**2023-08-29**|**Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation**|Dawei Gao et.al.|[2308.15363v1](http://arxiv.org/abs/2308.15363v1)|null|
+|**2023-08-29**|**A Framework for Responsible Development of Automated Student Feedback with Generative AI**|Euan D Lindsay et.al.|[2308.15334v1](http://arxiv.org/abs/2308.15334v1)|null|
+|**2023-08-29**|**KGConv, a Conversational Corpus grounded in Wikidata**|Quentin Brabant et.al.|[2308.15298v1](http://arxiv.org/abs/2308.15298v1)|null|
+|**2023-08-29**|**PronounFlow: A Hybrid Approach for Calibrating Pronouns in Sentences**|Nicos Isaak et.al.|[2308.15235v1](http://arxiv.org/abs/2308.15235v1)|null|
+|**2023-08-29**|**Multi-party Goal Tracking with LLMs: Comparing Pre-training, Fine-tuning, and Prompt Engineering**|Angus Addlesee et.al.|[2308.15231v1](http://arxiv.org/abs/2308.15231v1)|null|
 |**2023-08-28**|**Challenges of GPT-3-based Conversational Agents for Healthcare**|Fabian Lechner et.al.|[2308.14641v2](http://arxiv.org/abs/2308.14641v2)|null|
 |**2023-08-28**|**AI in the Gray: Exploring Moderation Policies in Dialogic Large Language Models vs. Human Answers in Controversial Topics**|Vahid Ghafouri et.al.|[2308.14608v1](http://arxiv.org/abs/2308.14608v1)|[link](https://github.com/vahidthegreat/ai-in-the-gray)|
 |**2023-08-28**|**Spoken Language Intelligence of Large Language Models for Language Learning**|Linkai Peng et.al.|[2308.14536v1](http://arxiv.org/abs/2308.14536v1)|[link](https://github.com/vocaliodmiku/sli-ll)|
@@ -56,19 +65,20 @@
 |**2023-08-22**|**Exploring the Effectiveness of GPT Models in Test-Taking: A Case Study of the Driver's License Knowledge Test**|Saba Rahimi et.al.|[2308.11827v1](http://arxiv.org/abs/2308.11827v1)|null|
 |**2023-08-22**|**Knowledge Graph Prompting for Multi-Document Question Answering**|Yu Wang et.al.|[2308.11730v1](http://arxiv.org/abs/2308.11730v1)|null|
 |**2023-08-22**|**Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions**|Pouya Pezeshkpour et.al.|[2308.11483v1](http://arxiv.org/abs/2308.11483v1)|null|
-|**2023-08-22**|**Inferring gender from name: a large scale performance evaluation study**|Kriste Krstovski et.al.|[2308.12381v1](http://arxiv.org/abs/2308.12381v1)|null|
-|**2023-08-22**|**Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning**|Shansong Liu et.al.|[2308.11276v1](http://arxiv.org/abs/2308.11276v1)|[link](https://github.com/crypto-code/mu-llama)|
-|**2023-08-22**|**HopPG: Self-Iterative Program Generation for Multi-Hop Question Answering over Heterogeneous Knowledge**|Yingyao Wang et.al.|[2308.11257v1](http://arxiv.org/abs/2308.11257v1)|null|
-|**2023-08-22**|**Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis**|Chang Liu et.al.|[2308.11224v1](http://arxiv.org/abs/2308.11224v1)|[link](https://github.com/ayame1006/llmtograph)|
-|**2023-08-21**|**Using language models in the implicit automated assessment of mathematical short answer items**|Christopher Ormerod et.al.|[2308.11006v1](http://arxiv.org/abs/2308.11006v1)|null|
-|**2023-08-21**|**DocPrompt: Large-scale continue pretrain for zero-shot and few-shot document question answering**|Sijin Wu et.al.|[2308.10959v1](http://arxiv.org/abs/2308.10959v1)|null|
-|**2023-08-21**|**LatEval: An Interactive LLMs Evaluation Benchmark with Incomplete Information from Lateral Thinking Puzzles**|Shulin Huang et.al.|[2308.10855v1](http://arxiv.org/abs/2308.10855v1)|[link](https://github.com/thukelab/lateval)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-29**|**When Do Program-of-Thoughts Work for Reasoning?**|Zhen Bi et.al.|[2308.15452v1](http://arxiv.org/abs/2308.15452v1)|[link](https://github.com/zjunlp/easyinstruct)|
+|**2023-08-29**|**Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?**|Jingyan Zhou et.al.|[2308.15399v1](http://arxiv.org/abs/2308.15399v1)|null|
+|**2023-08-29**|**TaskLAMA: Probing the Complex Task Understanding of Language Models**|Quan Yuan et.al.|[2308.15299v1](http://arxiv.org/abs/2308.15299v1)|null|
+|**2023-08-29**|**PronounFlow: A Hybrid Approach for Calibrating Pronouns in Sentences**|Nicos Isaak et.al.|[2308.15235v1](http://arxiv.org/abs/2308.15235v1)|null|
+|**2023-08-29**|**Multi-party Goal Tracking with LLMs: Comparing Pre-training, Fine-tuning, and Prompt Engineering**|Angus Addlesee et.al.|[2308.15231v1](http://arxiv.org/abs/2308.15231v1)|null|
+|**2023-08-29**|**Large Language Models on the Chessboard: A Study on ChatGPT's Formal Language Comprehension and Complex Reasoning Skills**|Mu-Tien Kuo et.al.|[2308.15118v1](http://arxiv.org/abs/2308.15118v1)|null|
+|**2023-08-29**|**Large language models converge toward human-like concept organization**|Mathias Lykke Gammelgaard et.al.|[2308.15047v1](http://arxiv.org/abs/2308.15047v1)|null|
+|**2023-08-28**|**Gender bias and stereotypes in Large Language Models**|Hadas Kotek et.al.|[2308.14921v1](http://arxiv.org/abs/2308.14921v1)|null|
 |**2023-08-28**|**Spoken Language Intelligence of Large Language Models for Language Learning**|Linkai Peng et.al.|[2308.14536v1](http://arxiv.org/abs/2308.14536v1)|[link](https://github.com/vocaliodmiku/sli-ll)|
 |**2023-08-28**|**Bridging the KB-Text Gap: Leveraging Structured Knowledge-aware Pre-training for KBQA**|Guanting Dong et.al.|[2308.14436v1](http://arxiv.org/abs/2308.14436v1)|[link](https://github.com/dongguanting/skp-for-kbqa)|
 |**2023-08-28**|**Cognitive Effects in Large Language Models**|Jonathan Shaki et.al.|[2308.14337v1](http://arxiv.org/abs/2308.14337v1)|[link](https://github.com/gptbiases/results)|
@@ -188,6 +198,3 @@
 |**2023-07-29**|**RoCar: A Relationship Network-based Evaluation Method to Large Language Models**|Ming Wang et.al.|[2307.15997v1](http://arxiv.org/abs/2307.15997v1)|[link](https://github.com/neu-datamining/rocar)|
 |**2023-07-28**|**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**|Anthony Brohan et.al.|[2307.15818v1](http://arxiv.org/abs/2307.15818v1)|null|
 |**2023-07-28**|**Med-HALT: Medical Domain Hallucination Test for Large Language Models**|Logesh Kumar Umapathi et.al.|[2307.15343v1](http://arxiv.org/abs/2307.15343v1)|null|
-|**2023-07-28**|**Reasoning before Responding: Integrating Commonsense-based Causality Explanation for Empathetic Response Generation**|Yahui Fu et.al.|[2308.00085v1](http://arxiv.org/abs/2308.00085v1)|null|
-|**2023-07-28**|**An Overview Of Temporal Commonsense Reasoning and Acquisition**|Georg Wenzel et.al.|[2308.00002v1](http://arxiv.org/abs/2308.00002v1)|null|
-|**2023-07-26**|**Towards Generalist Biomedical AI**|Tao Tu et.al.|[2307.14334v1](http://arxiv.org/abs/2307.14334v1)|null|
