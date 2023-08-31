@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-31 09:03:46
+ Automated deployment @ 2023-08-31 20:28:25
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-30**|**Knowledge-grounded Natural Language Recommendation Explanation**|Anthony Colas et.al.|[2308.15813v1](http://arxiv.org/abs/2308.15813v1)|null|
+|**2023-08-30**|**Peering Through Preferences: Unraveling Feedback Acquisition for Aligning Large Language Models**|Hritik Bansal et.al.|[2308.15812v1](http://arxiv.org/abs/2308.15812v1)|[link](https://github.com/hritikbansal/sparse_feedback)|
 |**2023-08-29**|**Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?**|Jingyan Zhou et.al.|[2308.15399v1](http://arxiv.org/abs/2308.15399v1)|null|
 |**2023-08-29**|**Historical patterns of rice farming explain modern-day language use in China and Japan more than modernization and urbanization**|Sharath Chandra Guntuku et.al.|[2308.15352v1](http://arxiv.org/abs/2308.15352v1)|null|
 |**2023-08-29**|**Shared Lexical Items as Triggers of Code Switching**|Shuly Wintner et.al.|[2308.15209v1](http://arxiv.org/abs/2308.15209v1)|[link](https://github.com/haifaclg/triggering)|
@@ -27,6 +29,7 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-30**|**Quantifying Uncertainty in Answers from any Language Model via Intrinsic and Extrinsic Confidence Assessment**|Jiuhai Chen et.al.|[2308.16175v1](http://arxiv.org/abs/2308.16175v1)|null|
 |**2023-08-29**|**Characterizing Learning Curves During Language Model Pre-Training: Learning, Forgetting, and Stability**|Tyler A. Chang et.al.|[2308.15419v1](http://arxiv.org/abs/2308.15419v1)|[link](https://github.com/tylerachang/lm-learning-curves)|
 |**2023-08-29**|**Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation**|Dawei Gao et.al.|[2308.15363v1](http://arxiv.org/abs/2308.15363v1)|null|
 |**2023-08-29**|**A Framework for Responsible Development of Automated Student Feedback with Generative AI**|Euan D Lindsay et.al.|[2308.15334v1](http://arxiv.org/abs/2308.15334v1)|null|
@@ -53,24 +56,15 @@
 |**2023-08-25**|**SciEval: A Multi-Level Large Language Model Evaluation Benchmark for Scientific Research**|Liangtai Sun et.al.|[2308.13149v1](http://arxiv.org/abs/2308.13149v1)|[link](https://github.com/opendfm/bai-scieval)|
 |**2023-08-25**|**Large Language Models in Analyzing Crash Narratives -- A Comparative Study of ChatGPT, BARD and GPT-4**|Maroa Mumtarin et.al.|[2308.13563v1](http://arxiv.org/abs/2308.13563v1)|null|
 |**2023-08-24**|**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**|Jinze Bai et.al.|[2308.12966v1](http://arxiv.org/abs/2308.12966v1)|[link](https://github.com/qwenlm/qwen-vl)|
-|**2023-08-23**|**D4: Improving LLM Pretraining via Document De-Duplication and Diversification**|Kushal Tirumala et.al.|[2308.12284v1](http://arxiv.org/abs/2308.12284v1)|null|
-|**2023-08-23**|**The Challenges of Machine Learning for Trust and Safety: A Case Study on Misinformation Detection**|Madelyne Xiao et.al.|[2308.12215v1](http://arxiv.org/abs/2308.12215v1)|[link](https://github.com/ramybaly/News-Media-Reliability)|
-|**2023-08-23**|**Evaluation of Faithfulness Using the Longest Supported Subsequence**|Anirudh Mittal et.al.|[2308.12157v1](http://arxiv.org/abs/2308.12157v1)|null|
-|**2023-08-23**|**InstructionGPT-4: A 200-Instruction Paradigm for Fine-Tuning MiniGPT-4**|Lai Wei et.al.|[2308.12067v1](http://arxiv.org/abs/2308.12067v1)|null|
-|**2023-08-23**|**FlexKBQA: A Flexible LLM-Powered Framework for Few-Shot Knowledge Base Question Answering**|Zhenyu Li et.al.|[2308.12060v1](http://arxiv.org/abs/2308.12060v1)|[link](https://github.com/leezythu/flexkbqa)|
-|**2023-08-23**|**Prompt-Based Length Controlled Generation with Reinforcement Learning**|Renlong Jie et.al.|[2308.12030v1](http://arxiv.org/abs/2308.12030v1)|null|
-|**2023-08-23**|**Reranking Passages with Coarse-to-Fine Neural Retriever using List-Context Information**|Hongyin Zhu et.al.|[2308.12022v1](http://arxiv.org/abs/2308.12022v1)|null|
-|**2023-08-23**|**EVE: Efficient Vision-Language Pre-training with Masked Prediction and Modality-Aware MoE**|Junyi Chen et.al.|[2308.11971v1](http://arxiv.org/abs/2308.11971v1)|null|
-|**2023-08-23**|**Bridging the Gap: Deciphering Tabular Data Using Large Language Model**|Hengyuan Zhang et.al.|[2308.11891v2](http://arxiv.org/abs/2308.11891v2)|null|
-|**2023-08-22**|**Exploring the Effectiveness of GPT Models in Test-Taking: A Case Study of the Driver's License Knowledge Test**|Saba Rahimi et.al.|[2308.11827v1](http://arxiv.org/abs/2308.11827v1)|null|
-|**2023-08-22**|**Knowledge Graph Prompting for Multi-Document Question Answering**|Yu Wang et.al.|[2308.11730v1](http://arxiv.org/abs/2308.11730v1)|null|
-|**2023-08-22**|**Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions**|Pouya Pezeshkpour et.al.|[2308.11483v1](http://arxiv.org/abs/2308.11483v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-30**|**Jais and Jais-chat: Arabic-Centric Foundation and Instruction-Tuned Open Generative Large Language Models**|Neha Sengupta et.al.|[2308.16149v1](http://arxiv.org/abs/2308.16149v1)|null|
+|**2023-08-30**|**LM-Infinite: Simple On-the-Fly Length Generalization for Large Language Models**|Chi Han et.al.|[2308.16137v1](http://arxiv.org/abs/2308.16137v1)|null|
+|**2023-08-30**|**Response: Emergent analogical reasoning in large language models**|Damian Hodel et.al.|[2308.16118v1](http://arxiv.org/abs/2308.16118v1)|[link](https://github.com/hodeld/emergent_analogies_llm_fork)|
 |**2023-08-29**|**When Do Program-of-Thoughts Work for Reasoning?**|Zhen Bi et.al.|[2308.15452v1](http://arxiv.org/abs/2308.15452v1)|[link](https://github.com/zjunlp/easyinstruct)|
 |**2023-08-29**|**Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?**|Jingyan Zhou et.al.|[2308.15399v1](http://arxiv.org/abs/2308.15399v1)|null|
 |**2023-08-29**|**TaskLAMA: Probing the Complex Task Understanding of Language Models**|Quan Yuan et.al.|[2308.15299v1](http://arxiv.org/abs/2308.15299v1)|null|
@@ -191,10 +185,3 @@
 |**2023-07-31**|**Virtual Prompt Injection for Instruction-Tuned Large Language Models**|Jun Yan et.al.|[2307.16888v1](http://arxiv.org/abs/2307.16888v1)|null|
 |**2023-07-31**|**ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**|Yujia Qin et.al.|[2307.16789v1](http://arxiv.org/abs/2307.16789v1)|[link](https://github.com/openbmb/toolbench)|
 |**2023-07-31**|**Lexically-Accelerated Dense Retrieval**|Hrishikesh Kulkarni et.al.|[2307.16779v1](http://arxiv.org/abs/2307.16779v1)|null|
-|**2023-07-31**|**Deception Abilities Emerged in Large Language Models**|Thilo Hagendorff et.al.|[2307.16513v1](http://arxiv.org/abs/2307.16513v1)|null|
-|**2023-07-31**|**Bridging the Gap: Exploring the Capabilities of Bridge-Architectures for Complex Visual Reasoning Tasks**|Kousik Rajesh et.al.|[2307.16395v1](http://arxiv.org/abs/2307.16395v1)|null|
-|**2023-07-31**|**When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities**|Jin Chen et.al.|[2307.16376v1](http://arxiv.org/abs/2307.16376v1)|null|
-|**2023-07-30**|**Proposing a conceptual framework: social media listening for public health behavior**|Shu-Feng Tsao et.al.|[2308.02037v1](http://arxiv.org/abs/2308.02037v1)|null|
-|**2023-07-29**|**RoCar: A Relationship Network-based Evaluation Method to Large Language Models**|Ming Wang et.al.|[2307.15997v1](http://arxiv.org/abs/2307.15997v1)|[link](https://github.com/neu-datamining/rocar)|
-|**2023-07-28**|**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**|Anthony Brohan et.al.|[2307.15818v1](http://arxiv.org/abs/2307.15818v1)|null|
-|**2023-07-28**|**Med-HALT: Medical Domain Hallucination Test for Large Language Models**|Logesh Kumar Umapathi et.al.|[2307.15343v1](http://arxiv.org/abs/2307.15343v1)|null|
