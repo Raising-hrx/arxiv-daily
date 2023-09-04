@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-04 09:04:22
+ Automated deployment @ 2023-09-04 20:28:40
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,8 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-01**|**Why do universal adversarial attacks work on large language models?: Geometry might be the answer**|Varshini Subhash et.al.|[2309.00254v1](http://arxiv.org/abs/2309.00254v1)|null|
+|**2023-09-01**|**NeuroSurgeon: A Toolkit for Subnetwork Analysis**|Michael A. Lepori et.al.|[2309.00244v1](http://arxiv.org/abs/2309.00244v1)|[link](https://github.com/mlepori1/neurosurgeon)|
 |**2023-08-31**|**Interpreting Sentiment Composition with Latent Semantic Tree**|Zhongtao Jiang et.al.|[2308.16588v1](http://arxiv.org/abs/2308.16588v1)|[link](https://github.com/changmenseng/semantic_tree)|
 |**2023-08-31**|**Unsupervised Text Style Transfer with Deep Generative Models**|Zhongtao Jiang et.al.|[2308.16584v1](http://arxiv.org/abs/2308.16584v1)|null|
 |**2023-08-31**|**Thesis Distillation: Investigating The Impact of Bias in NLP Models on Hate Speech Detection**|Fatma Elsafoury et.al.|[2308.16549v1](http://arxiv.org/abs/2308.16549v1)|null|
@@ -32,6 +34,13 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-01**|**Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following**|Ziyu Guo et.al.|[2309.00615v1](http://arxiv.org/abs/2309.00615v1)|[link](https://github.com/ziyuguo99/point-bind_point-llm)|
+|**2023-09-01**|**Baseline Defenses for Adversarial Attacks Against Aligned Language Models**|Neel Jain et.al.|[2309.00614v1](http://arxiv.org/abs/2309.00614v1)|null|
+|**2023-09-01**|**Comparative Topic Modeling for Determinants of Divergent Report Results Applied to Macular Degeneration Studies**|Lucas Cassiel Jacaruso et.al.|[2309.00312v1](http://arxiv.org/abs/2309.00312v1)|null|
+|**2023-09-01**|**Why do universal adversarial attacks work on large language models?: Geometry might be the answer**|Varshini Subhash et.al.|[2309.00254v1](http://arxiv.org/abs/2309.00254v1)|null|
+|**2023-09-01**|**Towards Addressing the Misalignment of Object Proposal Evaluation for Vision-Language Tasks via Semantic Grounding**|Joshua Feinglass et.al.|[2309.00215v1](http://arxiv.org/abs/2309.00215v1)|null|
+|**2023-08-31**|**LLM in the Shell: Generative Honeypots**|Muris Sladić et.al.|[2309.00155v1](http://arxiv.org/abs/2309.00155v1)|[link](https://github.com/stratosphereips/shellm)|
+|**2023-08-31**|**Large language models in medicine: the potentials and pitfalls**|Jesutofunmi A. Omiye et.al.|[2309.00087v1](http://arxiv.org/abs/2309.00087v1)|null|
 |**2023-08-31**|**TouchStone: Evaluating Vision-Language Models by Language Models**|Shuai Bai et.al.|[2308.16890v1](http://arxiv.org/abs/2308.16890v1)|null|
 |**2023-08-31**|**The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122 Language Variants**|Lucas Bandarkar et.al.|[2308.16884v1](http://arxiv.org/abs/2308.16884v1)|null|
 |**2023-08-31**|**Generalised Winograd Schema and its Contextuality**|Kin Ian Lo et.al.|[2308.16498v1](http://arxiv.org/abs/2308.16498v1)|null|
@@ -53,21 +62,14 @@
 |**2023-08-27**|**Empowering Cross-lingual Abilities of Instruction-tuned Large Language Models by Translation-following demonstrations**|Leonardo Ranaldi et.al.|[2308.14186v1](http://arxiv.org/abs/2308.14186v1)|null|
 |**2023-08-27**|**Towards Vision-Language Mechanistic Interpretability: A Causal Tracing Tool for BLIP**|Vedant Palit et.al.|[2308.14179v1](http://arxiv.org/abs/2308.14179v1)|[link](https://github.com/vedantpalit/towards-vision-language-mechanistic-interpretability)|
 |**2023-08-27**|**MedAlign: A Clinician-Generated Dataset for Instruction Following with Electronic Medical Records**|Scott L. Fleming et.al.|[2308.14089v1](http://arxiv.org/abs/2308.14089v1)|null|
-|**2023-08-26**|**Solving Math Word Problem with Problem Type Classification**|Jie Yao et.al.|[2308.13844v1](http://arxiv.org/abs/2308.13844v1)|[link](https://github.com/zhouzihao501/nlpcc2023-shared-task3-chinesemwp)|
-|**2023-08-25**|**Rethinking Language Models as Symbolic Knowledge Graphs**|Vishwas Mruthyunjaya et.al.|[2308.13676v1](http://arxiv.org/abs/2308.13676v1)|null|
-|**2023-08-25**|**GRASP: A Rehearsal Policy for Efficient Online Continual Learning**|Md Yousuf Harun et.al.|[2308.13646v1](http://arxiv.org/abs/2308.13646v1)|null|
-|**2023-08-25**|**The Poison of Alignment**|Aibek Bekbayev et.al.|[2308.13449v1](http://arxiv.org/abs/2308.13449v1)|null|
-|**2023-08-25**|**Knowledge-Driven CoT: Exploring Faithful Reasoning in LLMs for Knowledge-intensive Question Answering**|Keheng Wang et.al.|[2308.13259v1](http://arxiv.org/abs/2308.13259v1)|null|
-|**2023-08-25**|**LLM2KB: Constructing Knowledge Bases using instruction tuned context aware Large Language Models**|Anmol Nayak et.al.|[2308.13207v1](http://arxiv.org/abs/2308.13207v1)|[link](https://github.com/anmoln94/Team_LLM2KB_LM-KBC-2023)|
-|**2023-08-25**|**Measuring Spurious Correlation in Classification: 'Clever Hans' in Translationese**|Angana Borah et.al.|[2308.13170v1](http://arxiv.org/abs/2308.13170v1)|null|
-|**2023-08-25**|**SciEval: A Multi-Level Large Language Model Evaluation Benchmark for Scientific Research**|Liangtai Sun et.al.|[2308.13149v1](http://arxiv.org/abs/2308.13149v1)|[link](https://github.com/opendfm/bai-scieval)|
-|**2023-08-25**|**Large Language Models in Analyzing Crash Narratives -- A Comparative Study of ChatGPT, BARD and GPT-4**|Maroa Mumtarin et.al.|[2308.13563v1](http://arxiv.org/abs/2308.13563v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-01**|**When Do Discourse Markers Affect Computational Sentence Understanding?**|Ruiqi Li et.al.|[2309.00368v1](http://arxiv.org/abs/2309.00368v1)|null|
+|**2023-09-01**|**Large Content And Behavior Models To Understand, Simulate, And Optimize Content And Behavior**|Ashmit Khandelwal et.al.|[2309.00359v1](http://arxiv.org/abs/2309.00359v1)|null|
 |**2023-08-31**|**TouchStone: Evaluating Vision-Language Models by Language Models**|Shuai Bai et.al.|[2308.16890v1](http://arxiv.org/abs/2308.16890v1)|null|
 |**2023-08-31**|**Ladder-of-Thought: Using Knowledge as Steps to Elevate Stance Detection**|Kairui Hu et.al.|[2308.16763v1](http://arxiv.org/abs/2308.16763v1)|null|
 |**2023-08-31**|**Towards Spontaneous Style Modeling with Semi-supervised Pre-training for Conversational Text-to-Speech Synthesis**|Weiqin Li et.al.|[2308.16593v1](http://arxiv.org/abs/2308.16593v1)|null|
@@ -186,7 +188,3 @@
 |**2023-08-02**|**Exploring the psychology of GPT-4's Moral and Legal Reasoning**|Guilherme F. C. F. Almeida et.al.|[2308.01264v1](http://arxiv.org/abs/2308.01264v1)|null|
 |**2023-08-02**|**Grounded Image Text Matching with Mismatched Relation Reasoning**|Yu Wu et.al.|[2308.01236v2](http://arxiv.org/abs/2308.01236v2)|null|
 |**2023-08-02**|**Teaching Smaller Language Models To Generalise To Unseen Compositional Questions**|Tim Hartill et.al.|[2308.00946v2](http://arxiv.org/abs/2308.00946v2)|[link](https://github.com/timhartill/unseen_questions)|
-|**2023-08-01**|**Proceedings Modalities in substructural logics: Applications at the interfaces of logic, language and computation**|Michael Moortgat et.al.|[2308.03679v1](http://arxiv.org/abs/2308.03679v1)|null|
-|**2023-08-01**|**Aspect based sentimental analysis for travellers' reviews**|Mohammed Saad M Alaydaa et.al.|[2308.02548v1](http://arxiv.org/abs/2308.02548v1)|null|
-|**2023-08-01**|**Towards More Human-like AI Communication: A Review of Emergent Communication Research**|Nicolo' Brandizzi et.al.|[2308.02541v1](http://arxiv.org/abs/2308.02541v1)|null|
-|**2023-08-01**|**Structural Embeddings of Tools for Large Language Models**|Eren Unlu et.al.|[2308.00447v1](http://arxiv.org/abs/2308.00447v1)|null|
