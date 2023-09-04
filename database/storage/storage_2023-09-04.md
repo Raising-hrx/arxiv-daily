@@ -1,33 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2023-09-04 20:28:40
+ Automated deployment @ 2023-09-04 20:53:19
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-09-01**|**Why do universal adversarial attacks work on large language models?: Geometry might be the answer**|Varshini Subhash et.al.|[2309.00254v1](http://arxiv.org/abs/2309.00254v1)|null|
-|**2023-09-01**|**NeuroSurgeon: A Toolkit for Subnetwork Analysis**|Michael A. Lepori et.al.|[2309.00244v1](http://arxiv.org/abs/2309.00244v1)|[link](https://github.com/mlepori1/neurosurgeon)|
-|**2023-08-31**|**Interpreting Sentiment Composition with Latent Semantic Tree**|Zhongtao Jiang et.al.|[2308.16588v1](http://arxiv.org/abs/2308.16588v1)|[link](https://github.com/changmenseng/semantic_tree)|
-|**2023-08-31**|**Unsupervised Text Style Transfer with Deep Generative Models**|Zhongtao Jiang et.al.|[2308.16584v1](http://arxiv.org/abs/2308.16584v1)|null|
-|**2023-08-31**|**Thesis Distillation: Investigating The Impact of Bias in NLP Models on Hate Speech Detection**|Fatma Elsafoury et.al.|[2308.16549v1](http://arxiv.org/abs/2308.16549v1)|null|
-|**2023-08-30**|**Affective Visual Dialog: A Large-Scale Benchmark for Emotional Reasoning Based on Visually Grounded Conversations**|Kilichbek Haydarov et.al.|[2308.16349v1](http://arxiv.org/abs/2308.16349v1)|null|
-|**2023-08-30**|**Knowledge-grounded Natural Language Recommendation Explanation**|Anthony Colas et.al.|[2308.15813v1](http://arxiv.org/abs/2308.15813v1)|null|
-|**2023-08-30**|**Peering Through Preferences: Unraveling Feedback Acquisition for Aligning Large Language Models**|Hritik Bansal et.al.|[2308.15812v1](http://arxiv.org/abs/2308.15812v1)|[link](https://github.com/hritikbansal/sparse_feedback)|
-|**2023-08-29**|**Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?**|Jingyan Zhou et.al.|[2308.15399v1](http://arxiv.org/abs/2308.15399v1)|null|
-|**2023-08-29**|**Historical patterns of rice farming explain modern-day language use in China and Japan more than modernization and urbanization**|Sharath Chandra Guntuku et.al.|[2308.15352v1](http://arxiv.org/abs/2308.15352v1)|null|
-|**2023-08-29**|**Shared Lexical Items as Triggers of Code Switching**|Shuly Wintner et.al.|[2308.15209v1](http://arxiv.org/abs/2308.15209v1)|[link](https://github.com/haifaclg/triggering)|
-|**2023-08-29**|**Benchmarking the Generation of Fact Checking Explanations**|Daniel Russo et.al.|[2308.15202v1](http://arxiv.org/abs/2308.15202v1)|[link](https://github.com/land-fbk/benchmark-gen-explanations)|
-|**2023-08-29**|**Sequential annotations for naturally-occurring HRI: first insights**|Lucien Tisserand et.al.|[2308.15097v1](http://arxiv.org/abs/2308.15097v1)|null|
-|**2023-08-29**|**Large language models converge toward human-like concept organization**|Mathias Lykke Gammelgaard et.al.|[2308.15047v1](http://arxiv.org/abs/2308.15047v1)|null|
-|**2023-08-28**|**Gender bias and stereotypes in Large Language Models**|Hadas Kotek et.al.|[2308.14921v1](http://arxiv.org/abs/2308.14921v1)|null|
-|**2023-08-28**|**Attention Visualizer Package: Revealing Word Importance for Deeper Insight into Encoder-Only Transformer Models**|Ala Alam Falaki et.al.|[2308.14850v1](http://arxiv.org/abs/2308.14850v1)|[link](https://github.com/alafalaki/attentionvisualizer)|
-|**2023-08-28**|**Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**|Yanjun Gao et.al.|[2308.14321v1](http://arxiv.org/abs/2308.14321v1)|null|
-|**2023-08-28**|**Goodhart's Law Applies to NLP's Explanation Benchmarks**|Jennifer Hsia et.al.|[2308.14272v1](http://arxiv.org/abs/2308.14272v1)|null|
-|**2023-08-27**|**Situated Natural Language Explanations**|Zining Zhu et.al.|[2308.14115v1](http://arxiv.org/abs/2308.14115v1)|null|
-|**2023-08-26**|**On Philomatics and Psychomatics for Combining Philosophy and Psychology with Mathematics**|Benyamin Ghojogh et.al.|[2308.13738v1](http://arxiv.org/abs/2308.13738v1)|null|
 
 ## Question Answering
 
@@ -62,6 +36,32 @@
 |**2023-08-27**|**Empowering Cross-lingual Abilities of Instruction-tuned Large Language Models by Translation-following demonstrations**|Leonardo Ranaldi et.al.|[2308.14186v1](http://arxiv.org/abs/2308.14186v1)|null|
 |**2023-08-27**|**Towards Vision-Language Mechanistic Interpretability: A Causal Tracing Tool for BLIP**|Vedant Palit et.al.|[2308.14179v1](http://arxiv.org/abs/2308.14179v1)|[link](https://github.com/vedantpalit/towards-vision-language-mechanistic-interpretability)|
 |**2023-08-27**|**MedAlign: A Clinician-Generated Dataset for Instruction Following with Electronic Medical Records**|Scott L. Fleming et.al.|[2308.14089v1](http://arxiv.org/abs/2308.14089v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-09-01**|**Why do universal adversarial attacks work on large language models?: Geometry might be the answer**|Varshini Subhash et.al.|[2309.00254v1](http://arxiv.org/abs/2309.00254v1)|null|
+|**2023-09-01**|**NeuroSurgeon: A Toolkit for Subnetwork Analysis**|Michael A. Lepori et.al.|[2309.00244v1](http://arxiv.org/abs/2309.00244v1)|[link](https://github.com/mlepori1/neurosurgeon)|
+|**2023-08-31**|**Interpreting Sentiment Composition with Latent Semantic Tree**|Zhongtao Jiang et.al.|[2308.16588v1](http://arxiv.org/abs/2308.16588v1)|[link](https://github.com/changmenseng/semantic_tree)|
+|**2023-08-31**|**Unsupervised Text Style Transfer with Deep Generative Models**|Zhongtao Jiang et.al.|[2308.16584v1](http://arxiv.org/abs/2308.16584v1)|null|
+|**2023-08-31**|**Thesis Distillation: Investigating The Impact of Bias in NLP Models on Hate Speech Detection**|Fatma Elsafoury et.al.|[2308.16549v1](http://arxiv.org/abs/2308.16549v1)|null|
+|**2023-08-30**|**Affective Visual Dialog: A Large-Scale Benchmark for Emotional Reasoning Based on Visually Grounded Conversations**|Kilichbek Haydarov et.al.|[2308.16349v1](http://arxiv.org/abs/2308.16349v1)|null|
+|**2023-08-30**|**Knowledge-grounded Natural Language Recommendation Explanation**|Anthony Colas et.al.|[2308.15813v1](http://arxiv.org/abs/2308.15813v1)|null|
+|**2023-08-30**|**Peering Through Preferences: Unraveling Feedback Acquisition for Aligning Large Language Models**|Hritik Bansal et.al.|[2308.15812v1](http://arxiv.org/abs/2308.15812v1)|[link](https://github.com/hritikbansal/sparse_feedback)|
+|**2023-08-29**|**Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?**|Jingyan Zhou et.al.|[2308.15399v1](http://arxiv.org/abs/2308.15399v1)|null|
+|**2023-08-29**|**Historical patterns of rice farming explain modern-day language use in China and Japan more than modernization and urbanization**|Sharath Chandra Guntuku et.al.|[2308.15352v1](http://arxiv.org/abs/2308.15352v1)|null|
+|**2023-08-29**|**Shared Lexical Items as Triggers of Code Switching**|Shuly Wintner et.al.|[2308.15209v1](http://arxiv.org/abs/2308.15209v1)|[link](https://github.com/haifaclg/triggering)|
+|**2023-08-29**|**Benchmarking the Generation of Fact Checking Explanations**|Daniel Russo et.al.|[2308.15202v1](http://arxiv.org/abs/2308.15202v1)|[link](https://github.com/land-fbk/benchmark-gen-explanations)|
+|**2023-08-29**|**Sequential annotations for naturally-occurring HRI: first insights**|Lucien Tisserand et.al.|[2308.15097v1](http://arxiv.org/abs/2308.15097v1)|null|
+|**2023-08-29**|**Large language models converge toward human-like concept organization**|Mathias Lykke Gammelgaard et.al.|[2308.15047v1](http://arxiv.org/abs/2308.15047v1)|null|
+|**2023-08-28**|**Gender bias and stereotypes in Large Language Models**|Hadas Kotek et.al.|[2308.14921v1](http://arxiv.org/abs/2308.14921v1)|null|
+|**2023-08-28**|**Attention Visualizer Package: Revealing Word Importance for Deeper Insight into Encoder-Only Transformer Models**|Ala Alam Falaki et.al.|[2308.14850v1](http://arxiv.org/abs/2308.14850v1)|[link](https://github.com/alafalaki/attentionvisualizer)|
+|**2023-08-28**|**Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**|Yanjun Gao et.al.|[2308.14321v1](http://arxiv.org/abs/2308.14321v1)|null|
+|**2023-08-28**|**Goodhart's Law Applies to NLP's Explanation Benchmarks**|Jennifer Hsia et.al.|[2308.14272v1](http://arxiv.org/abs/2308.14272v1)|null|
+|**2023-08-27**|**Situated Natural Language Explanations**|Zining Zhu et.al.|[2308.14115v1](http://arxiv.org/abs/2308.14115v1)|null|
+|**2023-08-26**|**On Philomatics and Psychomatics for Combining Philosophy and Psychology with Mathematics**|Benyamin Ghojogh et.al.|[2308.13738v1](http://arxiv.org/abs/2308.13738v1)|null|
 
 ## Reasoning
 
