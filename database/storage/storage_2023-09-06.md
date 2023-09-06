@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-06 09:03:04
+ Automated deployment @ 2023-09-06 20:29:17
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,10 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-05**|**Evaluating Methods for Ground-Truth-Free Foreign Accent Conversion**|Wen-Chin Huang et.al.|[2309.02133v1](http://arxiv.org/abs/2309.02133v1)|null|
+|**2023-09-03**|**Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models**|Yue Zhang et.al.|[2309.01219v1](http://arxiv.org/abs/2309.01219v1)|null|
+|**2023-09-02**|**Explainability for Large Language Models: A Survey**|Haiyan Zhao et.al.|[2309.01029v1](http://arxiv.org/abs/2309.01029v1)|null|
+|**2023-09-02**|**Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties**|Taylor Sorensen et.al.|[2309.00779v1](http://arxiv.org/abs/2309.00779v1)|null|
 |**2023-09-01**|**Why do universal adversarial attacks work on large language models?: Geometry might be the answer**|Varshini Subhash et.al.|[2309.00254v1](http://arxiv.org/abs/2309.00254v1)|null|
 |**2023-09-01**|**NeuroSurgeon: A Toolkit for Subnetwork Analysis**|Michael A. Lepori et.al.|[2309.00244v1](http://arxiv.org/abs/2309.00244v1)|[link](https://github.com/mlepori1/neurosurgeon)|
 |**2023-08-31**|**Interpreting Sentiment Composition with Latent Semantic Tree**|Zhongtao Jiang et.al.|[2308.16588v1](http://arxiv.org/abs/2308.16588v1)|[link](https://github.com/changmenseng/semantic_tree)|
@@ -21,62 +25,67 @@
 |**2023-08-29**|**Shared Lexical Items as Triggers of Code Switching**|Shuly Wintner et.al.|[2308.15209v1](http://arxiv.org/abs/2308.15209v1)|[link](https://github.com/haifaclg/triggering)|
 |**2023-08-29**|**Benchmarking the Generation of Fact Checking Explanations**|Daniel Russo et.al.|[2308.15202v1](http://arxiv.org/abs/2308.15202v1)|[link](https://github.com/land-fbk/benchmark-gen-explanations)|
 |**2023-08-29**|**Sequential annotations for naturally-occurring HRI: first insights**|Lucien Tisserand et.al.|[2308.15097v1](http://arxiv.org/abs/2308.15097v1)|null|
-|**2023-08-29**|**Large language models converge toward human-like concept organization**|Mathias Lykke Gammelgaard et.al.|[2308.15047v1](http://arxiv.org/abs/2308.15047v1)|null|
-|**2023-08-28**|**Gender bias and stereotypes in Large Language Models**|Hadas Kotek et.al.|[2308.14921v1](http://arxiv.org/abs/2308.14921v1)|null|
-|**2023-08-28**|**Attention Visualizer Package: Revealing Word Importance for Deeper Insight into Encoder-Only Transformer Models**|Ala Alam Falaki et.al.|[2308.14850v1](http://arxiv.org/abs/2308.14850v1)|[link](https://github.com/alafalaki/attentionvisualizer)|
-|**2023-08-28**|**Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**|Yanjun Gao et.al.|[2308.14321v1](http://arxiv.org/abs/2308.14321v1)|null|
-|**2023-08-28**|**Goodhart's Law Applies to NLP's Explanation Benchmarks**|Jennifer Hsia et.al.|[2308.14272v1](http://arxiv.org/abs/2308.14272v1)|null|
-|**2023-08-27**|**Situated Natural Language Explanations**|Zining Zhu et.al.|[2308.14115v1](http://arxiv.org/abs/2308.14115v1)|null|
-|**2023-08-26**|**On Philomatics and Psychomatics for Combining Philosophy and Psychology with Mathematics**|Benyamin Ghojogh et.al.|[2308.13738v1](http://arxiv.org/abs/2308.13738v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-05**|**Augmenting Black-box LLMs with Medical Textbooks for Clinical Question Answering**|Yubo Wang et.al.|[2309.02233v1](http://arxiv.org/abs/2309.02233v1)|null|
+|**2023-09-05**|**Making Large Language Models Better Reasoners with Alignment**|Peiyi Wang et.al.|[2309.02144v1](http://arxiv.org/abs/2309.02144v1)|null|
+|**2023-09-05**|**Bridging Emotion Role Labeling and Appraisal-based Emotion Analysis**|Roman Klinger et.al.|[2309.02092v1](http://arxiv.org/abs/2309.02092v1)|null|
+|**2023-09-05**|**An Automatic Evaluation Framework for Multi-turn Medical Consultations Capabilities of Large Language Models**|Yusheng Liao et.al.|[2309.02077v1](http://arxiv.org/abs/2309.02077v1)|null|
+|**2023-09-05**|**Enhance Multi-domain Sentiment Analysis of Review Texts through Prompting Strategies**|Yajing Wang et.al.|[2309.02045v1](http://arxiv.org/abs/2309.02045v1)|null|
+|**2023-09-05**|**CodeApex: A Bilingual Programming Evaluation Benchmark for Large Language Models**|Lingyue Fu et.al.|[2309.01940v1](http://arxiv.org/abs/2309.01940v1)|null|
+|**2023-09-04**|**CRUISE-Screening: Living Literature Reviews Toolbox**|Wojciech Kusa et.al.|[2309.01684v1](http://arxiv.org/abs/2309.01684v1)|null|
+|**2023-09-04**|**Donkii: Can Annotation Error Detection Methods Find Errors in Instruction-Tuning Datasets?**|Leon Weber-Genzel et.al.|[2309.01669v1](http://arxiv.org/abs/2309.01669v1)|null|
+|**2023-09-03**|**Large Language Models for Generative Recommendation: A Survey and Visionary Discussions**|Lei Li et.al.|[2309.01157v1](http://arxiv.org/abs/2309.01157v1)|null|
+|**2023-09-03**|**MedChatZH: a Better Medical Adviser Learns from Better Instructions**|Yang Tan et.al.|[2309.01114v1](http://arxiv.org/abs/2309.01114v1)|null|
+|**2023-09-03**|**Business Process Text Sketch Automation Generation Using Large Language Model**|Rui Zhu et.al.|[2309.01071v1](http://arxiv.org/abs/2309.01071v1)|null|
+|**2023-09-02**|**Multilingual Text Representation**|Fahim Faisal et.al.|[2309.00949v1](http://arxiv.org/abs/2309.00949v1)|null|
+|**2023-09-02**|**LeanContext: Cost-Efficient Domain-Specific Question Answering Using LLMs**|Md Adnan Arefeen et.al.|[2309.00841v1](http://arxiv.org/abs/2309.00841v1)|null|
 |**2023-09-01**|**Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following**|Ziyu Guo et.al.|[2309.00615v1](http://arxiv.org/abs/2309.00615v1)|[link](https://github.com/ziyuguo99/point-bind_point-llm)|
-|**2023-09-01**|**Baseline Defenses for Adversarial Attacks Against Aligned Language Models**|Neel Jain et.al.|[2309.00614v1](http://arxiv.org/abs/2309.00614v1)|null|
+|**2023-09-01**|**Baseline Defenses for Adversarial Attacks Against Aligned Language Models**|Neel Jain et.al.|[2309.00614v2](http://arxiv.org/abs/2309.00614v2)|null|
 |**2023-09-01**|**Comparative Topic Modeling for Determinants of Divergent Report Results Applied to Macular Degeneration Studies**|Lucas Cassiel Jacaruso et.al.|[2309.00312v1](http://arxiv.org/abs/2309.00312v1)|null|
 |**2023-09-01**|**Why do universal adversarial attacks work on large language models?: Geometry might be the answer**|Varshini Subhash et.al.|[2309.00254v1](http://arxiv.org/abs/2309.00254v1)|null|
 |**2023-09-01**|**Towards Addressing the Misalignment of Object Proposal Evaluation for Vision-Language Tasks via Semantic Grounding**|Joshua Feinglass et.al.|[2309.00215v1](http://arxiv.org/abs/2309.00215v1)|null|
 |**2023-08-31**|**LLM in the Shell: Generative Honeypots**|Muris Sladić et.al.|[2309.00155v1](http://arxiv.org/abs/2309.00155v1)|[link](https://github.com/stratosphereips/shellm)|
 |**2023-08-31**|**Large language models in medicine: the potentials and pitfalls**|Jesutofunmi A. Omiye et.al.|[2309.00087v1](http://arxiv.org/abs/2309.00087v1)|null|
-|**2023-08-31**|**TouchStone: Evaluating Vision-Language Models by Language Models**|Shuai Bai et.al.|[2308.16890v2](http://arxiv.org/abs/2308.16890v2)|null|
+|**2023-08-31**|**TouchStone: Evaluating Vision-Language Models by Language Models**|Shuai Bai et.al.|[2308.16890v2](http://arxiv.org/abs/2308.16890v2)|[link](https://github.com/ofa-sys/touchstone)|
 |**2023-08-31**|**The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122 Language Variants**|Lucas Bandarkar et.al.|[2308.16884v1](http://arxiv.org/abs/2308.16884v1)|[link](https://github.com/facebookresearch/belebele)|
 |**2023-08-31**|**Generalised Winograd Schema and its Contextuality**|Kin Ian Lo et.al.|[2308.16498v1](http://arxiv.org/abs/2308.16498v1)|null|
 |**2023-08-30**|**Affective Visual Dialog: A Large-Scale Benchmark for Emotional Reasoning Based on Visually Grounded Conversations**|Kilichbek Haydarov et.al.|[2308.16349v1](http://arxiv.org/abs/2308.16349v1)|null|
 |**2023-08-30**|**Quantifying Uncertainty in Answers from any Language Model via Intrinsic and Extrinsic Confidence Assessment**|Jiuhai Chen et.al.|[2308.16175v1](http://arxiv.org/abs/2308.16175v1)|null|
+|**2023-08-29**|**Extracting Mathematical Concepts with Large Language Models**|Valeria de Paiva et.al.|[2309.00642v1](http://arxiv.org/abs/2309.00642v1)|null|
 |**2023-08-29**|**Characterizing Learning Curves During Language Model Pre-Training: Learning, Forgetting, and Stability**|Tyler A. Chang et.al.|[2308.15419v1](http://arxiv.org/abs/2308.15419v1)|[link](https://github.com/tylerachang/lm-learning-curves)|
 |**2023-08-29**|**Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation**|Dawei Gao et.al.|[2308.15363v1](http://arxiv.org/abs/2308.15363v1)|[link](https://github.com/beachwang/dail-sql)|
-|**2023-08-29**|**A Framework for Responsible Development of Automated Student Feedback with Generative AI**|Euan D Lindsay et.al.|[2308.15334v1](http://arxiv.org/abs/2308.15334v1)|null|
-|**2023-08-29**|**KGConv, a Conversational Corpus grounded in Wikidata**|Quentin Brabant et.al.|[2308.15298v1](http://arxiv.org/abs/2308.15298v1)|null|
-|**2023-08-29**|**PronounFlow: A Hybrid Approach for Calibrating Pronouns in Sentences**|Nicos Isaak et.al.|[2308.15235v1](http://arxiv.org/abs/2308.15235v1)|null|
-|**2023-08-29**|**Multi-party Goal Tracking with LLMs: Comparing Pre-training, Fine-tuning, and Prompt Engineering**|Angus Addlesee et.al.|[2308.15231v1](http://arxiv.org/abs/2308.15231v1)|null|
-|**2023-08-28**|**Challenges of GPT-3-based Conversational Agents for Healthcare**|Fabian Lechner et.al.|[2308.14641v2](http://arxiv.org/abs/2308.14641v2)|null|
-|**2023-08-28**|**AI in the Gray: Exploring Moderation Policies in Dialogic Large Language Models vs. Human Answers in Controversial Topics**|Vahid Ghafouri et.al.|[2308.14608v1](http://arxiv.org/abs/2308.14608v1)|[link](https://github.com/vahidthegreat/ai-in-the-gray)|
-|**2023-08-28**|**Spoken Language Intelligence of Large Language Models for Language Learning**|Linkai Peng et.al.|[2308.14536v1](http://arxiv.org/abs/2308.14536v1)|[link](https://github.com/vocaliodmiku/sli-ll)|
-|**2023-08-28**|**Bridging the KB-Text Gap: Leveraging Structured Knowledge-aware Pre-training for KBQA**|Guanting Dong et.al.|[2308.14436v1](http://arxiv.org/abs/2308.14436v1)|[link](https://github.com/dongguanting/skp-for-kbqa)|
-|**2023-08-28**|**Biomedical Entity Linking with Triple-aware Pre-Training**|Xi Yan et.al.|[2308.14429v1](http://arxiv.org/abs/2308.14429v1)|null|
-|**2023-08-28**|**Cognitive Effects in Large Language Models**|Jonathan Shaki et.al.|[2308.14337v1](http://arxiv.org/abs/2308.14337v1)|[link](https://github.com/gptbiases/results)|
-|**2023-08-27**|**Generations of Knowledge Graphs: The Crazy Ideas and the Business Impact**|Xin Luna Dong et.al.|[2308.14217v1](http://arxiv.org/abs/2308.14217v1)|null|
-|**2023-08-27**|**Empowering Cross-lingual Abilities of Instruction-tuned Large Language Models by Translation-following demonstrations**|Leonardo Ranaldi et.al.|[2308.14186v1](http://arxiv.org/abs/2308.14186v1)|null|
-|**2023-08-27**|**Towards Vision-Language Mechanistic Interpretability: A Causal Tracing Tool for BLIP**|Vedant Palit et.al.|[2308.14179v1](http://arxiv.org/abs/2308.14179v1)|[link](https://github.com/vedantpalit/towards-vision-language-mechanistic-interpretability)|
-|**2023-08-27**|**MedAlign: A Clinician-Generated Dataset for Instruction Following with Electronic Medical Records**|Scott L. Fleming et.al.|[2308.14089v1](http://arxiv.org/abs/2308.14089v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-05**|**Cognitive Architectures for Language Agents**|Theodore Sumers et.al.|[2309.02427v1](http://arxiv.org/abs/2309.02427v1)|null|
+|**2023-09-05**|**Making Large Language Models Better Reasoners with Alignment**|Peiyi Wang et.al.|[2309.02144v1](http://arxiv.org/abs/2309.02144v1)|null|
+|**2023-09-05**|**CodeApex: A Bilingual Programming Evaluation Benchmark for Large Language Models**|Lingyue Fu et.al.|[2309.01940v1](http://arxiv.org/abs/2309.01940v1)|null|
+|**2023-09-04**|**Are Emergent Abilities in Large Language Models just In-Context Learning?**|Sheng Lu et.al.|[2309.01809v1](http://arxiv.org/abs/2309.01809v1)|null|
+|**2023-09-04**|**Evolving linguistic divergence on polarizing social media**|Andres Karjus et.al.|[2309.01659v1](http://arxiv.org/abs/2309.01659v1)|null|
+|**2023-09-04**|**ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning**|Linhao Luo et.al.|[2309.01538v1](http://arxiv.org/abs/2309.01538v1)|null|
+|**2023-09-04**|**NumHG: A Dataset for Number-Focused Headline Generation**|Jian-Tao Huang et.al.|[2309.01455v1](http://arxiv.org/abs/2309.01455v1)|null|
+|**2023-09-04**|**Self-driven Grounding: Large Language Model Agents with Automatical Language-aligned Skill Learning**|Shaohui Peng et.al.|[2309.01352v1](http://arxiv.org/abs/2309.01352v1)|null|
+|**2023-09-03**|**BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning**|Yi Zhang et.al.|[2309.01256v1](http://arxiv.org/abs/2309.01256v1)|null|
+|**2023-09-02**|**ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models**|Chenliang Li et.al.|[2309.00986v1](http://arxiv.org/abs/2309.00986v1)|null|
+|**2023-09-02**|**Multilingual Text Representation**|Fahim Faisal et.al.|[2309.00949v1](http://arxiv.org/abs/2309.00949v1)|null|
+|**2023-09-01**|**Taken out of context: On measuring situational awareness in LLMs**|Lukas Berglund et.al.|[2309.00667v1](http://arxiv.org/abs/2309.00667v1)|null|
 |**2023-09-01**|**When Do Discourse Markers Affect Computational Sentence Understanding?**|Ruiqi Li et.al.|[2309.00368v1](http://arxiv.org/abs/2309.00368v1)|null|
 |**2023-09-01**|**Large Content And Behavior Models To Understand, Simulate, And Optimize Content And Behavior**|Ashmit Khandelwal et.al.|[2309.00359v1](http://arxiv.org/abs/2309.00359v1)|null|
-|**2023-08-31**|**TouchStone: Evaluating Vision-Language Models by Language Models**|Shuai Bai et.al.|[2308.16890v2](http://arxiv.org/abs/2308.16890v2)|null|
+|**2023-08-31**|**TouchStone: Evaluating Vision-Language Models by Language Models**|Shuai Bai et.al.|[2308.16890v2](http://arxiv.org/abs/2308.16890v2)|[link](https://github.com/ofa-sys/touchstone)|
 |**2023-08-31**|**Ladder-of-Thought: Using Knowledge as Steps to Elevate Stance Detection**|Kairui Hu et.al.|[2308.16763v1](http://arxiv.org/abs/2308.16763v1)|null|
 |**2023-08-31**|**Towards Spontaneous Style Modeling with Semi-supervised Pre-training for Conversational Text-to-Speech Synthesis**|Weiqin Li et.al.|[2308.16593v1](http://arxiv.org/abs/2308.16593v1)|null|
 |**2023-08-31**|**Sparkles: Unlocking Chats Across Multiple Images for Multimodal Instruction-Following Models**|Yupan Huang et.al.|[2308.16463v1](http://arxiv.org/abs/2308.16463v1)|null|
 |**2023-08-30**|**Affective Visual Dialog: A Large-Scale Benchmark for Emotional Reasoning Based on Visually Grounded Conversations**|Kilichbek Haydarov et.al.|[2308.16349v1](http://arxiv.org/abs/2308.16349v1)|null|
 |**2023-08-30**|**Jais and Jais-chat: Arabic-Centric Foundation and Instruction-Tuned Open Generative Large Language Models**|Neha Sengupta et.al.|[2308.16149v1](http://arxiv.org/abs/2308.16149v1)|null|
-|**2023-08-30**|**LM-Infinite: Simple On-the-Fly Length Generalization for Large Language Models**|Chi Han et.al.|[2308.16137v1](http://arxiv.org/abs/2308.16137v1)|null|
+|**2023-08-30**|**LM-Infinite: Simple On-the-Fly Length Generalization for Large Language Models**|Chi Han et.al.|[2308.16137v2](http://arxiv.org/abs/2308.16137v2)|null|
 |**2023-08-30**|**Response: Emergent analogical reasoning in large language models**|Damian Hodel et.al.|[2308.16118v1](http://arxiv.org/abs/2308.16118v1)|[link](https://github.com/hodeld/emergent_analogies_llm_fork)|
 |**2023-08-29**|**When Do Program-of-Thoughts Work for Reasoning?**|Zhen Bi et.al.|[2308.15452v1](http://arxiv.org/abs/2308.15452v1)|[link](https://github.com/zjunlp/easyinstruct)|
 |**2023-08-29**|**Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?**|Jingyan Zhou et.al.|[2308.15399v1](http://arxiv.org/abs/2308.15399v1)|null|
@@ -173,18 +182,3 @@
 |**2023-08-07**|**From Ambiguity to Explicitness: NLP-Assisted 5G Specification Abstraction for Formal Analysis**|Shiyu Yuan et.al.|[2308.03277v1](http://arxiv.org/abs/2308.03277v1)|null|
 |**2023-08-06**|**Why Linguistics Will Thrive in the 21st Century: A Reply to Piantadosi (2023)**|Jordan Kodner et.al.|[2308.03228v1](http://arxiv.org/abs/2308.03228v1)|null|
 |**2023-08-06**|**Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies**|Liangming Pan et.al.|[2308.03188v2](http://arxiv.org/abs/2308.03188v2)|[link](https://github.com/teacherpeterpan/self-correction-llm-papers)|
-|**2023-08-04**|**MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities**|Weihao Yu et.al.|[2308.02490v1](http://arxiv.org/abs/2308.02490v1)|[link](https://github.com/yuweihao/mm-vet)|
-|**2023-08-04**|**Sinhala-English Parallel Word Dictionary Dataset**|Kasun Wickramasinghe et.al.|[2308.02234v1](http://arxiv.org/abs/2308.02234v1)|[link](https://github.com/kasunw22/sinhala-para-dict)|
-|**2023-08-04**|**Speaker Diarization of Scripted Audiovisual Content**|Yogesh Virkar et.al.|[2308.02160v1](http://arxiv.org/abs/2308.02160v1)|null|
-|**2023-08-04**|**Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization**|Weiran Yao et.al.|[2308.02151v1](http://arxiv.org/abs/2308.02151v1)|null|
-|**2023-08-03**|**Reasoning in Large Language Models Through Symbolic Math Word Problems**|Vedant Gaur et.al.|[2308.01906v1](http://arxiv.org/abs/2308.01906v1)|null|
-|**2023-08-03**|**How many preprints have actually been printed and why: a case study of computer science preprints on arXiv**|Jialiang Lin et.al.|[2308.01899v1](http://arxiv.org/abs/2308.01899v1)|null|
-|**2023-08-03**|**Scaling Relationship on Learning Mathematical Reasoning with Large Language Models**|Zheng Yuan et.al.|[2308.01825v1](http://arxiv.org/abs/2308.01825v1)|[link](https://github.com/ofa-sys/gsm8k-screl)|
-|**2023-08-03**|**Local Large Language Models for Complex Structured Medical Tasks**|V. K. Cody Bumgardner et.al.|[2308.01727v1](http://arxiv.org/abs/2308.01727v1)|[link](https://github.com/innovationcore/LocalLLMStructured)|
-|**2023-08-03**|**Baby's CoThought: Leveraging Large Language Models for Enhanced Reasoning in Compact Models**|Zheyu Zhang et.al.|[2308.01684v1](http://arxiv.org/abs/2308.01684v1)|[link](https://github.com/oooranz/baby-cothought)|
-|**2023-08-03**|**Large Language Model Displays Emergent Ability to Interpret Novel Literary Metaphors**|Nicholas Ichien et.al.|[2308.01497v1](http://arxiv.org/abs/2308.01497v1)|null|
-|**2023-08-02**|**Why Do We Need Neuro-symbolic AI to Model Pragmatic Analogies?**|Thilini Wijesiriwardene et.al.|[2308.01936v1](http://arxiv.org/abs/2308.01936v1)|null|
-|**2023-08-02**|**More Context, Less Distraction: Visual Classification by Inferring and Conditioning on Contextual Attributes**|Bang An et.al.|[2308.01313v1](http://arxiv.org/abs/2308.01313v1)|[link](https://github.com/umd-huang-lab/perceptionclip)|
-|**2023-08-02**|**Exploring the psychology of GPT-4's Moral and Legal Reasoning**|Guilherme F. C. F. Almeida et.al.|[2308.01264v1](http://arxiv.org/abs/2308.01264v1)|null|
-|**2023-08-02**|**Grounded Image Text Matching with Mismatched Relation Reasoning**|Yu Wu et.al.|[2308.01236v2](http://arxiv.org/abs/2308.01236v2)|null|
-|**2023-08-02**|**Teaching Smaller Language Models To Generalise To Unseen Compositional Questions**|Tim Hartill et.al.|[2308.00946v2](http://arxiv.org/abs/2308.00946v2)|[link](https://github.com/timhartill/unseen_questions)|
