@@ -1,27 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2023-09-07 20:52:57
+ Automated deployment @ 2023-09-07 21:11:57
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
-|**2023-09-06**|**Large Language Models for Automated Open-domain Scientific Hypotheses Discovery**|Zonglin Yang et.al.|[2309.02726v1](http://arxiv.org/abs/2309.02726v1)|null|
-|**2023-09-05**|**Evaluating Methods for Ground-Truth-Free Foreign Accent Conversion**|Wen-Chin Huang et.al.|[2309.02133v1](http://arxiv.org/abs/2309.02133v1)|null|
-|**2023-09-03**|**Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models**|Yue Zhang et.al.|[2309.01219v1](http://arxiv.org/abs/2309.01219v1)|null|
-|**2023-09-02**|**Explainability for Large Language Models: A Survey**|Haiyan Zhao et.al.|[2309.01029v1](http://arxiv.org/abs/2309.01029v1)|null|
-|**2023-09-02**|**Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties**|Taylor Sorensen et.al.|[2309.00779v1](http://arxiv.org/abs/2309.00779v1)|null|
-|**2023-09-01**|**Why do universal adversarial attacks work on large language models?: Geometry might be the answer**|Varshini Subhash et.al.|[2309.00254v1](http://arxiv.org/abs/2309.00254v1)|null|
-|**2023-09-01**|**NeuroSurgeon: A Toolkit for Subnetwork Analysis**|Michael A. Lepori et.al.|[2309.00244v1](http://arxiv.org/abs/2309.00244v1)|[link](https://github.com/mlepori1/neurosurgeon)|
-|**2023-08-31**|**Interpreting Sentiment Composition with Latent Semantic Tree**|Zhongtao Jiang et.al.|[2308.16588v1](http://arxiv.org/abs/2308.16588v1)|[link](https://github.com/changmenseng/semantic_tree)|
-|**2023-08-31**|**Unsupervised Text Style Transfer with Deep Generative Models**|Zhongtao Jiang et.al.|[2308.16584v1](http://arxiv.org/abs/2308.16584v1)|null|
-|**2023-08-31**|**Thesis Distillation: Investigating The Impact of Bias in NLP Models on Hate Speech Detection**|Fatma Elsafoury et.al.|[2308.16549v1](http://arxiv.org/abs/2308.16549v1)|null|
-|**2023-08-30**|**Affective Visual Dialog: A Large-Scale Benchmark for Emotional Reasoning Based on Visually Grounded Conversations**|Kilichbek Haydarov et.al.|[2308.16349v1](http://arxiv.org/abs/2308.16349v1)|null|
-|**2023-08-30**|**Knowledge-grounded Natural Language Recommendation Explanation**|Anthony Colas et.al.|[2308.15813v1](http://arxiv.org/abs/2308.15813v1)|null|
-|**2023-08-30**|**Peering Through Preferences: Unraveling Feedback Acquisition for Aligning Large Language Models**|Hritik Bansal et.al.|[2308.15812v1](http://arxiv.org/abs/2308.15812v1)|[link](https://github.com/hritikbansal/sparse_feedback)|
 
 ## Question Answering
 
@@ -58,6 +38,26 @@
 |**2023-08-31**|**Generalised Winograd Schema and its Contextuality**|Kin Ian Lo et.al.|[2308.16498v1](http://arxiv.org/abs/2308.16498v1)|null|
 |**2023-08-30**|**Affective Visual Dialog: A Large-Scale Benchmark for Emotional Reasoning Based on Visually Grounded Conversations**|Kilichbek Haydarov et.al.|[2308.16349v1](http://arxiv.org/abs/2308.16349v1)|null|
 |**2023-08-30**|**Quantifying Uncertainty in Answers from any Language Model via Intrinsic and Extrinsic Confidence Assessment**|Jiuhai Chen et.al.|[2308.16175v1](http://arxiv.org/abs/2308.16175v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
+|**2023-09-06**|**Large Language Models for Automated Open-domain Scientific Hypotheses Discovery**|Zonglin Yang et.al.|[2309.02726v1](http://arxiv.org/abs/2309.02726v1)|null|
+|**2023-09-05**|**Evaluating Methods for Ground-Truth-Free Foreign Accent Conversion**|Wen-Chin Huang et.al.|[2309.02133v1](http://arxiv.org/abs/2309.02133v1)|null|
+|**2023-09-03**|**Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models**|Yue Zhang et.al.|[2309.01219v1](http://arxiv.org/abs/2309.01219v1)|null|
+|**2023-09-02**|**Explainability for Large Language Models: A Survey**|Haiyan Zhao et.al.|[2309.01029v1](http://arxiv.org/abs/2309.01029v1)|null|
+|**2023-09-02**|**Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties**|Taylor Sorensen et.al.|[2309.00779v1](http://arxiv.org/abs/2309.00779v1)|null|
+|**2023-09-01**|**Why do universal adversarial attacks work on large language models?: Geometry might be the answer**|Varshini Subhash et.al.|[2309.00254v1](http://arxiv.org/abs/2309.00254v1)|null|
+|**2023-09-01**|**NeuroSurgeon: A Toolkit for Subnetwork Analysis**|Michael A. Lepori et.al.|[2309.00244v1](http://arxiv.org/abs/2309.00244v1)|[link](https://github.com/mlepori1/neurosurgeon)|
+|**2023-08-31**|**Interpreting Sentiment Composition with Latent Semantic Tree**|Zhongtao Jiang et.al.|[2308.16588v1](http://arxiv.org/abs/2308.16588v1)|[link](https://github.com/changmenseng/semantic_tree)|
+|**2023-08-31**|**Unsupervised Text Style Transfer with Deep Generative Models**|Zhongtao Jiang et.al.|[2308.16584v1](http://arxiv.org/abs/2308.16584v1)|null|
+|**2023-08-31**|**Thesis Distillation: Investigating The Impact of Bias in NLP Models on Hate Speech Detection**|Fatma Elsafoury et.al.|[2308.16549v1](http://arxiv.org/abs/2308.16549v1)|null|
+|**2023-08-30**|**Affective Visual Dialog: A Large-Scale Benchmark for Emotional Reasoning Based on Visually Grounded Conversations**|Kilichbek Haydarov et.al.|[2308.16349v1](http://arxiv.org/abs/2308.16349v1)|null|
+|**2023-08-30**|**Knowledge-grounded Natural Language Recommendation Explanation**|Anthony Colas et.al.|[2308.15813v1](http://arxiv.org/abs/2308.15813v1)|null|
+|**2023-08-30**|**Peering Through Preferences: Unraveling Feedback Acquisition for Aligning Large Language Models**|Hritik Bansal et.al.|[2308.15812v1](http://arxiv.org/abs/2308.15812v1)|[link](https://github.com/hritikbansal/sparse_feedback)|
 
 ## Reasoning
 
