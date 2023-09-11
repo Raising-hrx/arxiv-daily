@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-11 20:53:42
+ Automated deployment @ 2023-09-11 21:14:49
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -9,14 +9,14 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-09-08**|**Fuzzy Fingerprinting Transformer Language-Models for Emotion Recognition in Conversations**|Patrícia Pereira et.al.|[2309.04292v1](http://arxiv.org/abs/2309.04292v1)|null|
-|**2023-09-08**|**UQ at #SMM4H 2023: ALEX for Public Health Analysis with Social Media**|Yan Jiang et.al.|[2309.04213v1](http://arxiv.org/abs/2309.04213v1)|null|
+|**2023-09-08**|**UQ at #SMM4H 2023: ALEX for Public Health Analysis with Social Media**|Yan Jiang et.al.|[2309.04213v1](http://arxiv.org/abs/2309.04213v1)|[link](https://github.com/yanjiangjerry/alex)|
 |**2023-09-07**|**A Function Interpretation Benchmark for Evaluating Interpretability Methods**|Sarah Schwettmann et.al.|[2309.03886v1](http://arxiv.org/abs/2309.03886v1)|[link](https://github.com/multimodal-interpretability/find)|
 |**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
-|**2023-09-06**|**Large Language Models for Automated Open-domain Scientific Hypotheses Discovery**|Zonglin Yang et.al.|[2309.02726v1](http://arxiv.org/abs/2309.02726v1)|null|
-|**2023-09-05**|**Evaluating Methods for Ground-Truth-Free Foreign Accent Conversion**|Wen-Chin Huang et.al.|[2309.02133v1](http://arxiv.org/abs/2309.02133v1)|null|
-|**2023-09-03**|**Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models**|Yue Zhang et.al.|[2309.01219v1](http://arxiv.org/abs/2309.01219v1)|null|
+|**2023-09-06**|**Large Language Models for Automated Open-domain Scientific Hypotheses Discovery**|Zonglin Yang et.al.|[2309.02726v1](http://arxiv.org/abs/2309.02726v1)|[link](https://github.com/zongliny/moose)|
+|**2023-09-05**|**Evaluating Methods for Ground-Truth-Free Foreign Accent Conversion**|Wen-Chin Huang et.al.|[2309.02133v1](http://arxiv.org/abs/2309.02133v1)|[link](https://github.com/unilight/seq2seq-vc)|
+|**2023-09-03**|**Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models**|Yue Zhang et.al.|[2309.01219v1](http://arxiv.org/abs/2309.01219v1)|[link](https://github.com/hillzhang1999/llm-hallucination-survey)|
 |**2023-09-02**|**Explainability for Large Language Models: A Survey**|Haiyan Zhao et.al.|[2309.01029v1](http://arxiv.org/abs/2309.01029v1)|null|
-|**2023-09-02**|**Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties**|Taylor Sorensen et.al.|[2309.00779v1](http://arxiv.org/abs/2309.00779v1)|null|
+|**2023-09-02**|**Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties**|Taylor Sorensen et.al.|[2309.00779v1](http://arxiv.org/abs/2309.00779v1)|[link](https://github.com/tsor13/kaleido)|
 |**2023-09-01**|**Why do universal adversarial attacks work on large language models?: Geometry might be the answer**|Varshini Subhash et.al.|[2309.00254v1](http://arxiv.org/abs/2309.00254v1)|null|
 |**2023-09-01**|**NeuroSurgeon: A Toolkit for Subnetwork Analysis**|Michael A. Lepori et.al.|[2309.00244v1](http://arxiv.org/abs/2309.00244v1)|[link](https://github.com/mlepori1/neurosurgeon)|
 
@@ -46,10 +46,10 @@
 |**2023-09-05**|**An Automatic Evaluation Framework for Multi-turn Medical Consultations Capabilities of Large Language Models**|Yusheng Liao et.al.|[2309.02077v1](http://arxiv.org/abs/2309.02077v1)|null|
 |**2023-09-05**|**Enhance Multi-domain Sentiment Analysis of Review Texts through Prompting Strategies**|Yajing Wang et.al.|[2309.02045v1](http://arxiv.org/abs/2309.02045v1)|null|
 |**2023-09-05**|**CodeApex: A Bilingual Programming Evaluation Benchmark for Large Language Models**|Lingyue Fu et.al.|[2309.01940v2](http://arxiv.org/abs/2309.01940v2)|[link](https://github.com/apexlab/codeapex)|
-|**2023-09-04**|**CRUISE-Screening: Living Literature Reviews Toolbox**|Wojciech Kusa et.al.|[2309.01684v1](http://arxiv.org/abs/2309.01684v1)|null|
+|**2023-09-04**|**CRUISE-Screening: Living Literature Reviews Toolbox**|Wojciech Kusa et.al.|[2309.01684v1](http://arxiv.org/abs/2309.01684v1)|[link](https://github.com/projectdossier/cruise-screening)|
 |**2023-09-04**|**Donkii: Can Annotation Error Detection Methods Find Errors in Instruction-Tuning Datasets?**|Leon Weber-Genzel et.al.|[2309.01669v1](http://arxiv.org/abs/2309.01669v1)|null|
 |**2023-09-03**|**Large Language Models for Generative Recommendation: A Survey and Visionary Discussions**|Lei Li et.al.|[2309.01157v1](http://arxiv.org/abs/2309.01157v1)|null|
-|**2023-09-03**|**MedChatZH: a Better Medical Adviser Learns from Better Instructions**|Yang Tan et.al.|[2309.01114v1](http://arxiv.org/abs/2309.01114v1)|null|
+|**2023-09-03**|**MedChatZH: a Better Medical Adviser Learns from Better Instructions**|Yang Tan et.al.|[2309.01114v1](http://arxiv.org/abs/2309.01114v1)|[link](https://github.com/tyang816/medchatzh)|
 |**2023-09-03**|**Business Process Text Sketch Automation Generation Using Large Language Model**|Rui Zhu et.al.|[2309.01071v1](http://arxiv.org/abs/2309.01071v1)|null|
 |**2023-09-02**|**Multilingual Text Representation**|Fahim Faisal et.al.|[2309.00949v1](http://arxiv.org/abs/2309.00949v1)|null|
 |**2023-09-02**|**LeanContext: Cost-Efficient Domain-Specific Question Answering Using LLMs**|Md Adnan Arefeen et.al.|[2309.00841v1](http://arxiv.org/abs/2309.00841v1)|null|
@@ -69,26 +69,26 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-09-08**|**Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models**|Yangyi Chen et.al.|[2309.04461v1](http://arxiv.org/abs/2309.04461v1)|null|
+|**2023-09-08**|**Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models**|Yangyi Chen et.al.|[2309.04461v1](http://arxiv.org/abs/2309.04461v1)|[link](https://github.com/yangyi-chen/cotconsistency)|
 |**2023-09-07**|**Zero-Shot Audio Captioning via Audibility Guidance**|Tal Shaharabany et.al.|[2309.03884v1](http://arxiv.org/abs/2309.03884v1)|null|
 |**2023-09-07**|**Exploring an LM to generate Prolog Predicates from Mathematics Questions**|Xiaocheng Yang et.al.|[2309.03667v2](http://arxiv.org/abs/2309.03667v2)|null|
 |**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
 |**2023-09-06**|**Aligning Large Language Models for Clinical Tasks**|Supun Manathunga et.al.|[2309.02884v2](http://arxiv.org/abs/2309.02884v2)|[link](https://github.com/ssm123ssm/medGPT)|
-|**2023-09-06**|**Large Language Models for Automated Open-domain Scientific Hypotheses Discovery**|Zonglin Yang et.al.|[2309.02726v1](http://arxiv.org/abs/2309.02726v1)|null|
-|**2023-09-06**|**A Joint Study of Phrase Grounding and Task Performance in Vision and Language Models**|Noriyuki Kojima et.al.|[2309.02691v1](http://arxiv.org/abs/2309.02691v1)|null|
+|**2023-09-06**|**Large Language Models for Automated Open-domain Scientific Hypotheses Discovery**|Zonglin Yang et.al.|[2309.02726v1](http://arxiv.org/abs/2309.02726v1)|[link](https://github.com/zongliny/moose)|
+|**2023-09-06**|**A Joint Study of Phrase Grounding and Task Performance in Vision and Language Models**|Noriyuki Kojima et.al.|[2309.02691v1](http://arxiv.org/abs/2309.02691v1)|[link](https://github.com/lil-lab/phrase_grounding)|
 |**2023-09-05**|**Cognitive Architectures for Language Agents**|Theodore Sumers et.al.|[2309.02427v1](http://arxiv.org/abs/2309.02427v1)|[link](https://github.com/ysymyth/awesome-language-agents)|
 |**2023-09-05**|**Making Large Language Models Better Reasoners with Alignment**|Peiyi Wang et.al.|[2309.02144v1](http://arxiv.org/abs/2309.02144v1)|null|
 |**2023-09-05**|**CodeApex: A Bilingual Programming Evaluation Benchmark for Large Language Models**|Lingyue Fu et.al.|[2309.01940v2](http://arxiv.org/abs/2309.01940v2)|[link](https://github.com/apexlab/codeapex)|
 |**2023-09-04**|**Minimal Effective Theory for Phonotactic Memory: Capturing Local Correlations due to Errors in Speech**|Paul Myles Eugenio et.al.|[2309.02466v1](http://arxiv.org/abs/2309.02466v1)|null|
-|**2023-09-04**|**Are Emergent Abilities in Large Language Models just In-Context Learning?**|Sheng Lu et.al.|[2309.01809v1](http://arxiv.org/abs/2309.01809v1)|null|
+|**2023-09-04**|**Are Emergent Abilities in Large Language Models just In-Context Learning?**|Sheng Lu et.al.|[2309.01809v1](http://arxiv.org/abs/2309.01809v1)|[link](https://github.com/ukplab/on-emergence)|
 |**2023-09-04**|**Evolving linguistic divergence on polarizing social media**|Andres Karjus et.al.|[2309.01659v1](http://arxiv.org/abs/2309.01659v1)|null|
 |**2023-09-04**|**ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning**|Linhao Luo et.al.|[2309.01538v1](http://arxiv.org/abs/2309.01538v1)|null|
 |**2023-09-04**|**NumHG: A Dataset for Number-Focused Headline Generation**|Jian-Tao Huang et.al.|[2309.01455v1](http://arxiv.org/abs/2309.01455v1)|null|
 |**2023-09-04**|**Self-driven Grounding: Large Language Model Agents with Automatical Language-aligned Skill Learning**|Shaohui Peng et.al.|[2309.01352v1](http://arxiv.org/abs/2309.01352v1)|null|
 |**2023-09-03**|**BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning**|Yi Zhang et.al.|[2309.01256v1](http://arxiv.org/abs/2309.01256v1)|null|
-|**2023-09-02**|**ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models**|Chenliang Li et.al.|[2309.00986v1](http://arxiv.org/abs/2309.00986v1)|null|
+|**2023-09-02**|**ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models**|Chenliang Li et.al.|[2309.00986v1](http://arxiv.org/abs/2309.00986v1)|[link](https://github.com/modelscope/modelscope-agent)|
 |**2023-09-02**|**Multilingual Text Representation**|Fahim Faisal et.al.|[2309.00949v1](http://arxiv.org/abs/2309.00949v1)|null|
-|**2023-09-01**|**Taken out of context: On measuring situational awareness in LLMs**|Lukas Berglund et.al.|[2309.00667v1](http://arxiv.org/abs/2309.00667v1)|null|
+|**2023-09-01**|**Taken out of context: On measuring situational awareness in LLMs**|Lukas Berglund et.al.|[2309.00667v1](http://arxiv.org/abs/2309.00667v1)|[link](https://github.com/asacooperstickland/situational-awareness-evals)|
 |**2023-09-01**|**When Do Discourse Markers Affect Computational Sentence Understanding?**|Ruiqi Li et.al.|[2309.00368v1](http://arxiv.org/abs/2309.00368v1)|null|
 |**2023-09-01**|**Large Content And Behavior Models To Understand, Simulate, And Optimize Content And Behavior**|Ashmit Khandelwal et.al.|[2309.00359v2](http://arxiv.org/abs/2309.00359v2)|null|
 |**2023-08-31**|**TouchStone: Evaluating Vision-Language Models by Language Models**|Shuai Bai et.al.|[2308.16890v2](http://arxiv.org/abs/2308.16890v2)|[link](https://github.com/ofa-sys/touchstone)|
