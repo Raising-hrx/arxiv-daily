@@ -1,34 +1,18 @@
 # arxiv-daily
- Automated deployment @ 2023-09-14 09:02:52
+ Automated deployment @ 2023-09-14 20:28:38
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-09-12**|**Measuring vagueness and subjectivity in texts: from symbolic to neural VAGO**|Benjamin Icard et.al.|[2309.06132v1](http://arxiv.org/abs/2309.06132v1)|null|
-|**2023-09-12**|**Balanced and Explainable Social Media Analysis for Public Health with Large Language Models**|Yan Jiang et.al.|[2309.05951v1](http://arxiv.org/abs/2309.05951v1)|[link](https://github.com/yanjiangjerry/alex)|
-|**2023-09-12**|**Stochastic LLMs do not Understand Language: Towards Symbolic, Explainable and Ontologically Based LLMs**|Walid S. Saba et.al.|[2309.05918v2](http://arxiv.org/abs/2309.05918v2)|null|
-|**2023-09-11**|**Personality Detection and Analysis using Twitter Data**|Abhilash Datta et.al.|[2309.05497v1](http://arxiv.org/abs/2309.05497v1)|null|
-|**2023-09-11**|**Experimenting with UD Adaptation of an Unsupervised Rule-based Approach for Sentiment Analysis of Mexican Tourist Texts**|Olga Kellert et.al.|[2309.05312v1](http://arxiv.org/abs/2309.05312v1)|null|
-|**2023-09-10**|**FOLLOWUPQG: Towards Information-Seeking Follow-up Question Generation**|Yan Meng et.al.|[2309.05007v1](http://arxiv.org/abs/2309.05007v1)|null|
-|**2023-09-09**|**Leveraging Large Language Models for Exploiting ASR Uncertainty**|Pranay Dighe et.al.|[2309.04842v2](http://arxiv.org/abs/2309.04842v2)|null|
-|**2023-09-09**|**FaNS: a Facet-based Narrative Similarity Metric**|Mousumi Akter et.al.|[2309.04823v1](http://arxiv.org/abs/2309.04823v1)|null|
-|**2023-09-08**|**Fuzzy Fingerprinting Transformer Language-Models for Emotion Recognition in Conversations**|Patrícia Pereira et.al.|[2309.04292v1](http://arxiv.org/abs/2309.04292v1)|null|
-|**2023-09-08**|**UQ at #SMM4H 2023: ALEX for Public Health Analysis with Social Media**|Yan Jiang et.al.|[2309.04213v2](http://arxiv.org/abs/2309.04213v2)|[link](https://github.com/yanjiangjerry/alex)|
-|**2023-09-07**|**A Function Interpretation Benchmark for Evaluating Interpretability Methods**|Sarah Schwettmann et.al.|[2309.03886v1](http://arxiv.org/abs/2309.03886v1)|[link](https://github.com/multimodal-interpretability/find)|
-|**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
-|**2023-09-06**|**Large Language Models for Automated Open-domain Scientific Hypotheses Discovery**|Zonglin Yang et.al.|[2309.02726v1](http://arxiv.org/abs/2309.02726v1)|[link](https://github.com/zongliny/moose)|
-|**2023-09-05**|**Evaluating Methods for Ground-Truth-Free Foreign Accent Conversion**|Wen-Chin Huang et.al.|[2309.02133v1](http://arxiv.org/abs/2309.02133v1)|[link](https://github.com/unilight/seq2seq-vc)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-13**|**SafetyBench: Evaluating the Safety of Large Language Models with Multiple Choice Questions**|Zhexin Zhang et.al.|[2309.07045v1](http://arxiv.org/abs/2309.07045v1)|null|
+|**2023-09-13**|**How (Not) to Use Sociodemographic Information for Subjective NLP Tasks**|Tilman Beck et.al.|[2309.07034v1](http://arxiv.org/abs/2309.07034v1)|null|
+|**2023-09-13**|**Comparative Analysis of Contextual Relation Extraction based on Deep Learning Models**|R. Priyadharshini et.al.|[2309.06814v1](http://arxiv.org/abs/2309.06814v1)|null|
 |**2023-09-12**|**Re-Reading Improves Reasoning in Language Models**|Xiaohan Xu et.al.|[2309.06275v1](http://arxiv.org/abs/2309.06275v1)|null|
+|**2023-09-12**|**Narrowing the Gap between Supervised and Unsupervised Sentence Representation Learning with Large Language Model**|Mingxin Li et.al.|[2309.06453v1](http://arxiv.org/abs/2309.06453v1)|null|
 |**2023-09-12**|**Content Reduction, Surprisal and Information Density Estimation for Long Documents**|Shaoxiong Ji et.al.|[2309.06009v1](http://arxiv.org/abs/2309.06009v1)|null|
 |**2023-09-12**|**Evaluating the Ebb and Flow: An In-depth Analysis of Question-Answering Trends across Diverse Platforms**|Rima Hazra et.al.|[2309.05961v1](http://arxiv.org/abs/2309.05961v1)|null|
 |**2023-09-12**|**Answering Subjective Induction Questions on Products by Summarizing Multi-sources Multi-viewpoints Knowledge**|Yufeng Zhang et.al.|[2309.05938v1](http://arxiv.org/abs/2309.05938v1)|null|
@@ -62,21 +46,37 @@
 |**2023-09-06**|**Improving Code Generation by Dynamic Temperature Sampling**|Yuqi Zhu et.al.|[2309.02772v1](http://arxiv.org/abs/2309.02772v1)|null|
 |**2023-09-06**|**HC3 Plus: A Semantic-Invariant Human ChatGPT Comparison Corpus**|Zhenpeng Su et.al.|[2309.02731v1](http://arxiv.org/abs/2309.02731v1)|null|
 |**2023-09-06**|**HAE-RAE Bench: Evaluation of Korean Knowledge in Language Models**|Guijin Son et.al.|[2309.02706v2](http://arxiv.org/abs/2309.02706v2)|null|
-|**2023-09-05**|**Augmenting Black-box LLMs with Medical Textbooks for Clinical Question Answering**|Yubo Wang et.al.|[2309.02233v1](http://arxiv.org/abs/2309.02233v1)|null|
-|**2023-09-05**|**Making Large Language Models Better Reasoners with Alignment**|Peiyi Wang et.al.|[2309.02144v1](http://arxiv.org/abs/2309.02144v1)|null|
-|**2023-09-05**|**Bridging Emotion Role Labeling and Appraisal-based Emotion Analysis**|Roman Klinger et.al.|[2309.02092v1](http://arxiv.org/abs/2309.02092v1)|null|
-|**2023-09-05**|**An Automatic Evaluation Framework for Multi-turn Medical Consultations Capabilities of Large Language Models**|Yusheng Liao et.al.|[2309.02077v1](http://arxiv.org/abs/2309.02077v1)|null|
-|**2023-09-05**|**Enhance Multi-domain Sentiment Analysis of Review Texts through Prompting Strategies**|Yajing Wang et.al.|[2309.02045v1](http://arxiv.org/abs/2309.02045v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-09-12**|**Measuring vagueness and subjectivity in texts: from symbolic to neural VAGO**|Benjamin Icard et.al.|[2309.06132v1](http://arxiv.org/abs/2309.06132v1)|null|
+|**2023-09-12**|**Balanced and Explainable Social Media Analysis for Public Health with Large Language Models**|Yan Jiang et.al.|[2309.05951v1](http://arxiv.org/abs/2309.05951v1)|[link](https://github.com/yanjiangjerry/alex)|
+|**2023-09-12**|**Stochastic LLMs do not Understand Language: Towards Symbolic, Explainable and Ontologically Based LLMs**|Walid S. Saba et.al.|[2309.05918v2](http://arxiv.org/abs/2309.05918v2)|null|
+|**2023-09-11**|**Personality Detection and Analysis using Twitter Data**|Abhilash Datta et.al.|[2309.05497v1](http://arxiv.org/abs/2309.05497v1)|null|
+|**2023-09-11**|**Experimenting with UD Adaptation of an Unsupervised Rule-based Approach for Sentiment Analysis of Mexican Tourist Texts**|Olga Kellert et.al.|[2309.05312v1](http://arxiv.org/abs/2309.05312v1)|null|
+|**2023-09-10**|**FOLLOWUPQG: Towards Information-Seeking Follow-up Question Generation**|Yan Meng et.al.|[2309.05007v1](http://arxiv.org/abs/2309.05007v1)|null|
+|**2023-09-09**|**Leveraging Large Language Models for Exploiting ASR Uncertainty**|Pranay Dighe et.al.|[2309.04842v2](http://arxiv.org/abs/2309.04842v2)|null|
+|**2023-09-09**|**FaNS: a Facet-based Narrative Similarity Metric**|Mousumi Akter et.al.|[2309.04823v1](http://arxiv.org/abs/2309.04823v1)|null|
+|**2023-09-08**|**Fuzzy Fingerprinting Transformer Language-Models for Emotion Recognition in Conversations**|Patrícia Pereira et.al.|[2309.04292v1](http://arxiv.org/abs/2309.04292v1)|null|
+|**2023-09-08**|**UQ at #SMM4H 2023: ALEX for Public Health Analysis with Social Media**|Yan Jiang et.al.|[2309.04213v2](http://arxiv.org/abs/2309.04213v2)|[link](https://github.com/yanjiangjerry/alex)|
+|**2023-09-07**|**A Function Interpretation Benchmark for Evaluating Interpretability Methods**|Sarah Schwettmann et.al.|[2309.03886v1](http://arxiv.org/abs/2309.03886v1)|[link](https://github.com/multimodal-interpretability/find)|
+|**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
+|**2023-09-06**|**Large Language Models for Automated Open-domain Scientific Hypotheses Discovery**|Zonglin Yang et.al.|[2309.02726v1](http://arxiv.org/abs/2309.02726v1)|[link](https://github.com/zongliny/moose)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-13**|**Auto-Regressive Next-Token Predictors are Universal Learners**|Eran Malach et.al.|[2309.06979v1](http://arxiv.org/abs/2309.06979v1)|null|
 |**2023-09-12**|**Re-Reading Improves Reasoning in Language Models**|Xiaohan Xu et.al.|[2309.06275v1](http://arxiv.org/abs/2309.06275v1)|null|
 |**2023-09-12**|**BHASA: A Holistic Southeast Asian Linguistic and Cultural Evaluation Suite for Large Language Models**|Wei Qi Leong et.al.|[2309.06085v1](http://arxiv.org/abs/2309.06085v1)|null|
 |**2023-09-12**|**Do PLMs Know and Understand Ontological Knowledge?**|Weiqi Wu et.al.|[2309.05936v1](http://arxiv.org/abs/2309.05936v1)|[link](https://github.com/vickywu1022/ontoprobe-plms)|
 |**2023-09-12**|**Stochastic LLMs do not Understand Language: Towards Symbolic, Explainable and Ontologically Based LLMs**|Walid S. Saba et.al.|[2309.05918v2](http://arxiv.org/abs/2309.05918v2)|null|
+|**2023-09-11**|**Large Language Models for Compiler Optimization**|Chris Cummins et.al.|[2309.07062v1](http://arxiv.org/abs/2309.07062v1)|null|
 |**2023-09-11**|**Hypothesis Search: Inductive Reasoning with Language Models**|Ruocheng Wang et.al.|[2309.05660v1](http://arxiv.org/abs/2309.05660v1)|null|
 |**2023-09-11**|**Large Language Model for Science: A Study on P vs. NP**|Qingxiu Dong et.al.|[2309.05689v1](http://arxiv.org/abs/2309.05689v1)|[link](https://github.com/microsoft/LMOps/tree/main/LLM4Science)|
 |**2023-09-11**|**MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning**|Xiang Yue et.al.|[2309.05653v1](http://arxiv.org/abs/2309.05653v1)|null|
@@ -177,11 +177,3 @@
 |**2023-08-16**|**RSpell: Retrieval-augmented Framework for Domain Adaptive Chinese Spelling Check**|Siqi Song et.al.|[2308.08176v1](http://arxiv.org/abs/2308.08176v1)|[link](https://github.com/47777777/rspell)|
 |**2023-08-16**|**AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework**|Qingyun Wu et.al.|[2308.08155v1](http://arxiv.org/abs/2308.08155v1)|null|
 |**2023-08-16**|**Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation**|Xinshuo Hu et.al.|[2308.08090v1](http://arxiv.org/abs/2308.08090v1)|null|
-|**2023-08-15**|**Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification**|Aojun Zhou et.al.|[2308.07921v1](http://arxiv.org/abs/2308.07921v1)|null|
-|**2023-08-15**|**Through the Lens of Core Competency: Survey on Evaluation of Large Language Models**|Ziyu Zhuang et.al.|[2308.07902v1](http://arxiv.org/abs/2308.07902v1)|null|
-|**2023-08-15**|**Link-Context Learning for Multimodal LLMs**|Yan Tai et.al.|[2308.07891v1](http://arxiv.org/abs/2308.07891v1)|[link](https://github.com/isekai-portal/Link-Context-Learning)|
-|**2023-08-15**|**Forward-Backward Reasoning in Large Language Models for Verification**|Weisen Jiang et.al.|[2308.07758v3](http://arxiv.org/abs/2308.07758v3)|null|
-|**2023-08-15**|**Better Zero-Shot Reasoning with Role-Play Prompting**|Aobo Kong et.al.|[2308.07702v1](http://arxiv.org/abs/2308.07702v1)|[link](https://github.com/HLT-NLP/Role-Play-Prompting)|
-|**2023-08-15**|**Steering Language Generation: Harnessing Contrastive Expert Guidance and Negative Prompting for Coherent and Diverse Synthetic Data Generation**|Charles O'Neill et.al.|[2308.07645v2](http://arxiv.org/abs/2308.07645v2)|null|
-|**2023-08-14**|**The Devil is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation**|Patrick Fernandes et.al.|[2308.07286v1](http://arxiv.org/abs/2308.07286v1)|null|
-|**2023-08-14**|**Large Language Models for Information Retrieval: A Survey**|Yutao Zhu et.al.|[2308.07107v2](http://arxiv.org/abs/2308.07107v2)|[link](https://github.com/ruc-nlpir/llm4ir-survey)|
