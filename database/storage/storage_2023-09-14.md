@@ -1,7 +1,26 @@
 # arxiv-daily
- Automated deployment @ 2023-09-14 20:28:38
+ Automated deployment @ 2023-09-14 20:53:13
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-09-12**|**Measuring vagueness and subjectivity in texts: from symbolic to neural VAGO**|Benjamin Icard et.al.|[2309.06132v1](http://arxiv.org/abs/2309.06132v1)|null|
+|**2023-09-12**|**Balanced and Explainable Social Media Analysis for Public Health with Large Language Models**|Yan Jiang et.al.|[2309.05951v1](http://arxiv.org/abs/2309.05951v1)|[link](https://github.com/yanjiangjerry/alex)|
+|**2023-09-12**|**Stochastic LLMs do not Understand Language: Towards Symbolic, Explainable and Ontologically Based LLMs**|Walid S. Saba et.al.|[2309.05918v2](http://arxiv.org/abs/2309.05918v2)|null|
+|**2023-09-11**|**Personality Detection and Analysis using Twitter Data**|Abhilash Datta et.al.|[2309.05497v1](http://arxiv.org/abs/2309.05497v1)|null|
+|**2023-09-11**|**Experimenting with UD Adaptation of an Unsupervised Rule-based Approach for Sentiment Analysis of Mexican Tourist Texts**|Olga Kellert et.al.|[2309.05312v1](http://arxiv.org/abs/2309.05312v1)|null|
+|**2023-09-10**|**FOLLOWUPQG: Towards Information-Seeking Follow-up Question Generation**|Yan Meng et.al.|[2309.05007v1](http://arxiv.org/abs/2309.05007v1)|null|
+|**2023-09-09**|**Leveraging Large Language Models for Exploiting ASR Uncertainty**|Pranay Dighe et.al.|[2309.04842v2](http://arxiv.org/abs/2309.04842v2)|null|
+|**2023-09-09**|**FaNS: a Facet-based Narrative Similarity Metric**|Mousumi Akter et.al.|[2309.04823v1](http://arxiv.org/abs/2309.04823v1)|null|
+|**2023-09-08**|**Fuzzy Fingerprinting Transformer Language-Models for Emotion Recognition in Conversations**|Patrícia Pereira et.al.|[2309.04292v1](http://arxiv.org/abs/2309.04292v1)|null|
+|**2023-09-08**|**UQ at #SMM4H 2023: ALEX for Public Health Analysis with Social Media**|Yan Jiang et.al.|[2309.04213v2](http://arxiv.org/abs/2309.04213v2)|[link](https://github.com/yanjiangjerry/alex)|
+|**2023-09-07**|**A Function Interpretation Benchmark for Evaluating Interpretability Methods**|Sarah Schwettmann et.al.|[2309.03886v1](http://arxiv.org/abs/2309.03886v1)|[link](https://github.com/multimodal-interpretability/find)|
+|**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
+|**2023-09-06**|**Large Language Models for Automated Open-domain Scientific Hypotheses Discovery**|Zonglin Yang et.al.|[2309.02726v1](http://arxiv.org/abs/2309.02726v1)|[link](https://github.com/zongliny/moose)|
 
 ## Question Answering
 
@@ -46,25 +65,6 @@
 |**2023-09-06**|**Improving Code Generation by Dynamic Temperature Sampling**|Yuqi Zhu et.al.|[2309.02772v1](http://arxiv.org/abs/2309.02772v1)|null|
 |**2023-09-06**|**HC3 Plus: A Semantic-Invariant Human ChatGPT Comparison Corpus**|Zhenpeng Su et.al.|[2309.02731v1](http://arxiv.org/abs/2309.02731v1)|null|
 |**2023-09-06**|**HAE-RAE Bench: Evaluation of Korean Knowledge in Language Models**|Guijin Son et.al.|[2309.02706v2](http://arxiv.org/abs/2309.02706v2)|null|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-09-12**|**Measuring vagueness and subjectivity in texts: from symbolic to neural VAGO**|Benjamin Icard et.al.|[2309.06132v1](http://arxiv.org/abs/2309.06132v1)|null|
-|**2023-09-12**|**Balanced and Explainable Social Media Analysis for Public Health with Large Language Models**|Yan Jiang et.al.|[2309.05951v1](http://arxiv.org/abs/2309.05951v1)|[link](https://github.com/yanjiangjerry/alex)|
-|**2023-09-12**|**Stochastic LLMs do not Understand Language: Towards Symbolic, Explainable and Ontologically Based LLMs**|Walid S. Saba et.al.|[2309.05918v2](http://arxiv.org/abs/2309.05918v2)|null|
-|**2023-09-11**|**Personality Detection and Analysis using Twitter Data**|Abhilash Datta et.al.|[2309.05497v1](http://arxiv.org/abs/2309.05497v1)|null|
-|**2023-09-11**|**Experimenting with UD Adaptation of an Unsupervised Rule-based Approach for Sentiment Analysis of Mexican Tourist Texts**|Olga Kellert et.al.|[2309.05312v1](http://arxiv.org/abs/2309.05312v1)|null|
-|**2023-09-10**|**FOLLOWUPQG: Towards Information-Seeking Follow-up Question Generation**|Yan Meng et.al.|[2309.05007v1](http://arxiv.org/abs/2309.05007v1)|null|
-|**2023-09-09**|**Leveraging Large Language Models for Exploiting ASR Uncertainty**|Pranay Dighe et.al.|[2309.04842v2](http://arxiv.org/abs/2309.04842v2)|null|
-|**2023-09-09**|**FaNS: a Facet-based Narrative Similarity Metric**|Mousumi Akter et.al.|[2309.04823v1](http://arxiv.org/abs/2309.04823v1)|null|
-|**2023-09-08**|**Fuzzy Fingerprinting Transformer Language-Models for Emotion Recognition in Conversations**|Patrícia Pereira et.al.|[2309.04292v1](http://arxiv.org/abs/2309.04292v1)|null|
-|**2023-09-08**|**UQ at #SMM4H 2023: ALEX for Public Health Analysis with Social Media**|Yan Jiang et.al.|[2309.04213v2](http://arxiv.org/abs/2309.04213v2)|[link](https://github.com/yanjiangjerry/alex)|
-|**2023-09-07**|**A Function Interpretation Benchmark for Evaluating Interpretability Methods**|Sarah Schwettmann et.al.|[2309.03886v1](http://arxiv.org/abs/2309.03886v1)|[link](https://github.com/multimodal-interpretability/find)|
-|**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
-|**2023-09-06**|**Large Language Models for Automated Open-domain Scientific Hypotheses Discovery**|Zonglin Yang et.al.|[2309.02726v1](http://arxiv.org/abs/2309.02726v1)|[link](https://github.com/zongliny/moose)|
 
 ## Reasoning
 
