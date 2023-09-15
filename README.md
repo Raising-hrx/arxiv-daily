@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-15 09:04:34
+ Automated deployment @ 2023-09-15 20:28:27
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,10 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-14**|**The Rise and Potential of Large Language Model Based Agents: A Survey**|Zhiheng Xi et.al.|[2309.07864v1](http://arxiv.org/abs/2309.07864v1)|[link](https://github.com/woooodyy/llm-agent-paper-list)|
+|**2023-09-14**|**CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration**|Rachneet Sachdeva et.al.|[2309.07822v1](http://arxiv.org/abs/2309.07822v1)|null|
+|**2023-09-14**|**Explaining Speech Classification Models via Word-Level Audio Segments and Paralinguistic Features**|Eliana Pastor et.al.|[2309.07733v1](http://arxiv.org/abs/2309.07733v1)|null|
+|**2023-09-14**|**Dynamic MOdularized Reasoning for Compositional Structured Explanation Generation**|Xiyan Fu et.al.|[2309.07624v1](http://arxiv.org/abs/2309.07624v1)|null|
 |**2023-09-12**|**Measuring vagueness and subjectivity in texts: from symbolic to neural VAGO**|Benjamin Icard et.al.|[2309.06132v1](http://arxiv.org/abs/2309.06132v1)|null|
 |**2023-09-12**|**Balanced and Explainable Social Media Analysis for Public Health with Large Language Models**|Yan Jiang et.al.|[2309.05951v1](http://arxiv.org/abs/2309.05951v1)|[link](https://github.com/yanjiangjerry/alex)|
 |**2023-09-12**|**Stochastic LLMs do not Understand Language: Towards Symbolic, Explainable and Ontologically Based LLMs**|Walid S. Saba et.al.|[2309.05918v3](http://arxiv.org/abs/2309.05918v3)|null|
@@ -19,14 +23,22 @@
 |**2023-09-08**|**Fuzzy Fingerprinting Transformer Language-Models for Emotion Recognition in Conversations**|Patrícia Pereira et.al.|[2309.04292v1](http://arxiv.org/abs/2309.04292v1)|null|
 |**2023-09-08**|**UQ at #SMM4H 2023: ALEX for Public Health Analysis with Social Media**|Yan Jiang et.al.|[2309.04213v2](http://arxiv.org/abs/2309.04213v2)|[link](https://github.com/yanjiangjerry/alex)|
 |**2023-09-07**|**A Function Interpretation Benchmark for Evaluating Interpretability Methods**|Sarah Schwettmann et.al.|[2309.03886v1](http://arxiv.org/abs/2309.03886v1)|[link](https://github.com/multimodal-interpretability/find)|
-|**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
-|**2023-09-06**|**Large Language Models for Automated Open-domain Scientific Hypotheses Discovery**|Zonglin Yang et.al.|[2309.02726v1](http://arxiv.org/abs/2309.02726v1)|[link](https://github.com/zongliny/moose)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-14**|**Ambiguity-Aware In-Context Learning with Large Language Models**|Lingyu Gao et.al.|[2309.07900v1](http://arxiv.org/abs/2309.07900v1)|null|
+|**2023-09-14**|**ExpertQA: Expert-Curated Questions and Attributed Answers**|Chaitanya Malaviya et.al.|[2309.07852v1](http://arxiv.org/abs/2309.07852v1)|[link](https://github.com/chaitanyamalaviya/expertqa)|
+|**2023-09-14**|**CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration**|Rachneet Sachdeva et.al.|[2309.07822v1](http://arxiv.org/abs/2309.07822v1)|null|
+|**2023-09-14**|**PROGrasp: Pragmatic Human-Robot Communication for Object Grasping**|Gi-Cheon Kang et.al.|[2309.07759v1](http://arxiv.org/abs/2309.07759v1)|null|
+|**2023-09-14**|**Explaining Speech Classification Models via Word-Level Audio Segments and Paralinguistic Features**|Eliana Pastor et.al.|[2309.07733v1](http://arxiv.org/abs/2309.07733v1)|null|
+|**2023-09-14**|**Automatic Data Visualization Generation from Chinese Natural Language Questions**|Yan Ge et.al.|[2309.07650v1](http://arxiv.org/abs/2309.07650v1)|null|
+|**2023-09-14**|**Adaptive Prompt Learning with Distilled Connective Knowledge for Implicit Discourse Relation Recognition**|Bang Wang et.al.|[2309.07561v1](http://arxiv.org/abs/2309.07561v1)|[link](https://github.com/wangzl99/AdaptPrompt)|
+|**2023-09-14**|**DBLPLink: An Entity Linker for the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2309.07545v1](http://arxiv.org/abs/2309.07545v1)|null|
+|**2023-09-14**|**Are Large Language Model-based Evaluators the Solution to Scaling Up Multilingual Evaluation?**|Rishav Hada et.al.|[2309.07462v1](http://arxiv.org/abs/2309.07462v1)|null|
+|**2023-09-14**|**Clinical Text Summarization: Adapting Large Language Models Can Outperform Human Experts**|Dave Van Veen et.al.|[2309.07430v1](http://arxiv.org/abs/2309.07430v1)|[link](https://github.com/stanfordmimi/clin-summ)|
 |**2023-09-13**|**SafetyBench: Evaluating the Safety of Large Language Models with Multiple Choice Questions**|Zhexin Zhang et.al.|[2309.07045v1](http://arxiv.org/abs/2309.07045v1)|null|
 |**2023-09-13**|**How (Not) to Use Sociodemographic Information for Subjective NLP Tasks**|Tilman Beck et.al.|[2309.07034v1](http://arxiv.org/abs/2309.07034v1)|null|
 |**2023-09-13**|**Comparative Analysis of Contextual Relation Extraction based on Deep Learning Models**|R. Priyadharshini et.al.|[2309.06814v1](http://arxiv.org/abs/2309.06814v1)|null|
@@ -57,20 +69,19 @@
 |**2023-09-07**|**Introducing "Forecast Utterance" for Conversational Data Science**|Md Mahadi Hassan et.al.|[2309.03877v1](http://arxiv.org/abs/2309.03877v1)|null|
 |**2023-09-07**|**OpinionGPT: Modelling Explicit Biases in Instruction-Tuned LLMs**|Patrick Haller et.al.|[2309.03876v1](http://arxiv.org/abs/2309.03876v1)|null|
 |**2023-09-07**|**Enhancing Pipeline-Based Conversational Agents with Large Language Models**|Mina Foosherian et.al.|[2309.03748v1](http://arxiv.org/abs/2309.03748v1)|null|
-|**2023-09-07**|**Exploring an LM to generate Prolog Predicates from Mathematics Questions**|Xiaocheng Yang et.al.|[2309.03667v2](http://arxiv.org/abs/2309.03667v2)|null|
-|**2023-09-07**|**Machine Learning for Tangible Effects: Natural Language Processing for Uncovering the Illicit Massage Industry & Computer Vision for Tactile Sensing**|Rui Ouyang et.al.|[2309.03470v1](http://arxiv.org/abs/2309.03470v1)|null|
-|**2023-09-06**|**Framework-Based Qualitative Analysis of Free Responses of Large Language Models: Algorithmic Fidelity**|Aliya Amirova et.al.|[2309.06364v1](http://arxiv.org/abs/2309.06364v1)|null|
-|**2023-09-06**|**Aligning Large Language Models for Clinical Tasks**|Supun Manathunga et.al.|[2309.02884v2](http://arxiv.org/abs/2309.02884v2)|[link](https://github.com/ssm123ssm/medGPT)|
-|**2023-09-06**|**GRASS: Unified Generation Model for Speech-to-Semantic Tasks**|Aobo Xia et.al.|[2309.02780v2](http://arxiv.org/abs/2309.02780v2)|null|
-|**2023-09-06**|**Improving Code Generation by Dynamic Temperature Sampling**|Yuqi Zhu et.al.|[2309.02772v1](http://arxiv.org/abs/2309.02772v1)|null|
-|**2023-09-06**|**HC3 Plus: A Semantic-Invariant Human ChatGPT Comparison Corpus**|Zhenpeng Su et.al.|[2309.02731v1](http://arxiv.org/abs/2309.02731v1)|null|
-|**2023-09-06**|**HAE-RAE Bench: Evaluation of Korean Knowledge in Language Models**|Guijin Son et.al.|[2309.02706v2](http://arxiv.org/abs/2309.02706v2)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-14**|**MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning**|Haozhe Zhao et.al.|[2309.07915v1](http://arxiv.org/abs/2309.07915v1)|[link](https://github.com/haozhezhao/mic)|
+|**2023-09-14**|**Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions**|Federico Bianchi et.al.|[2309.07875v1](http://arxiv.org/abs/2309.07875v1)|null|
+|**2023-09-14**|**Pop Quiz! Do Pre-trained Code Models Possess Knowledge of Correct API Names?**|Terry Yue Zhuo et.al.|[2309.07804v1](http://arxiv.org/abs/2309.07804v1)|null|
+|**2023-09-14**|**Tree of Uncertain Thoughts Reasoning for Large Language Models**|Shentong Mo et.al.|[2309.07694v1](http://arxiv.org/abs/2309.07694v1)|null|
+|**2023-09-14**|**Dynamic MOdularized Reasoning for Compositional Structured Explanation Generation**|Xiyan Fu et.al.|[2309.07624v1](http://arxiv.org/abs/2309.07624v1)|null|
+|**2023-09-14**|**Advancing Regular Language Reasoning in Linear Recurrent Neural Networks**|Ting-Han Fan et.al.|[2309.07412v1](http://arxiv.org/abs/2309.07412v1)|null|
+|**2023-09-13**|**Learning from Auxiliary Sources in Argumentative Revision Classification**|Tazin Afrin et.al.|[2309.07334v1](http://arxiv.org/abs/2309.07334v1)|null|
 |**2023-09-13**|**Auto-Regressive Next-Token Predictors are Universal Learners**|Eran Malach et.al.|[2309.06979v1](http://arxiv.org/abs/2309.06979v1)|null|
 |**2023-09-12**|**Re-Reading Improves Reasoning in Language Models**|Xiaohan Xu et.al.|[2309.06275v1](http://arxiv.org/abs/2309.06275v1)|null|
 |**2023-09-12**|**BHASA: A Holistic Southeast Asian Linguistic and Cultural Evaluation Suite for Large Language Models**|Wei Qi Leong et.al.|[2309.06085v1](http://arxiv.org/abs/2309.06085v1)|null|
@@ -169,11 +180,3 @@
 |**2023-08-17**|**MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models**|Yilin Wen et.al.|[2308.09729v3](http://arxiv.org/abs/2308.09729v3)|null|
 |**2023-08-17**|**Beam Retrieval: General End-to-End Retrieval for Multi-Hop Question Answering**|Jiahao Zhang et.al.|[2308.08973v1](http://arxiv.org/abs/2308.08973v1)|[link](https://github.com/canghongjian/beam_retriever)|
 |**2023-08-17**|**An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning**|Yun Luo et.al.|[2308.08747v2](http://arxiv.org/abs/2308.08747v2)|[link](https://github.com/luoxiaoheics/continual-tune)|
-|**2023-08-16**|**Answering Ambiguous Questions with a Database of Questions, Answers, and Revisions**|Haitian Sun et.al.|[2308.08661v1](http://arxiv.org/abs/2308.08661v1)|null|
-|**2023-08-16**|**Learning the meanings of function words from grounded language using a visual question answering model**|Eva Portelance et.al.|[2308.08628v1](http://arxiv.org/abs/2308.08628v1)|[link](https://github.com/evaportelance/vqa-function-word-learning)|
-|**2023-08-16**|**Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought**|Bin Lei et.al.|[2308.08614v1](http://arxiv.org/abs/2308.08614v1)|null|
-|**2023-08-16**|**Detoxify Language Model Step-by-Step**|Zecheng Tang et.al.|[2308.08295v1](http://arxiv.org/abs/2308.08295v1)|[link](https://github.com/codinnlg/detox-cot)|
-|**2023-08-16**|**MoCoSA: Momentum Contrast for Knowledge Graph Completion with Structure-Augmented Pre-trained Language Models**|Jiabang He et.al.|[2308.08204v1](http://arxiv.org/abs/2308.08204v1)|null|
-|**2023-08-16**|**RSpell: Retrieval-augmented Framework for Domain Adaptive Chinese Spelling Check**|Siqi Song et.al.|[2308.08176v1](http://arxiv.org/abs/2308.08176v1)|[link](https://github.com/47777777/rspell)|
-|**2023-08-16**|**AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework**|Qingyun Wu et.al.|[2308.08155v1](http://arxiv.org/abs/2308.08155v1)|null|
-|**2023-08-16**|**Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation**|Xinshuo Hu et.al.|[2308.08090v1](http://arxiv.org/abs/2308.08090v1)|null|
