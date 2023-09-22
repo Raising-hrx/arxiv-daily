@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-22 09:04:20
+ Automated deployment @ 2023-09-22 20:28:45
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -21,16 +21,23 @@
 |**2023-09-15**|**HealthFC: A Dataset of Health Claims for Evidence-Based Medical Fact-Checking**|Juraj Vladika et.al.|[2309.08503v1](http://arxiv.org/abs/2309.08503v1)|[link](https://github.com/jvladika/healthfc)|
 |**2023-09-15**|**Reward Engineering for Generating Semi-structured Explanation**|Jiuzhou Han et.al.|[2309.08347v1](http://arxiv.org/abs/2309.08347v1)|[link](https://github.com/jiuzhouh/reward-engineering-for-generating-seg)|
 |**2023-09-15**|**Using Large Language Model to Solve and Explain Physics Word Problems Approaching Human Level**|Jingzhe Ding et.al.|[2309.08182v2](http://arxiv.org/abs/2309.08182v2)|null|
-|**2023-09-14**|**The Rise and Potential of Large Language Model Based Agents: A Survey**|Zhiheng Xi et.al.|[2309.07864v3](http://arxiv.org/abs/2309.07864v3)|[link](https://github.com/woooodyy/llm-agent-paper-list)|
-|**2023-09-14**|**CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration**|Rachneet Sachdeva et.al.|[2309.07822v2](http://arxiv.org/abs/2309.07822v2)|[link](https://github.com/ukplab/catfood)|
-|**2023-09-14**|**Explaining Speech Classification Models via Word-Level Audio Segments and Paralinguistic Features**|Eliana Pastor et.al.|[2309.07733v1](http://arxiv.org/abs/2309.07733v1)|null|
-|**2023-09-14**|**Dynamic MOdularized Reasoning for Compositional Structured Explanation Generation**|Xiyan Fu et.al.|[2309.07624v1](http://arxiv.org/abs/2309.07624v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-21**|**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**|Jianing Yang et.al.|[2309.12311v1](http://arxiv.org/abs/2309.12311v1)|null|
+|**2023-09-21**|**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models**|Yukang Chen et.al.|[2309.12307v1](http://arxiv.org/abs/2309.12307v1)|[link](https://github.com/dvlab-research/longlora)|
+|**2023-09-21**|**The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"**|Lukas Berglund et.al.|[2309.12288v1](http://arxiv.org/abs/2309.12288v1)|[link](https://github.com/lukasberglund/reversal_curse)|
+|**2023-09-21**|**MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models**|Longhui Yu et.al.|[2309.12284v1](http://arxiv.org/abs/2309.12284v1)|null|
+|**2023-09-21**|**SQUARE: Automatic Question Answering Evaluation using Multiple Positive and Negative References**|Matteo Gabburo et.al.|[2309.12250v1](http://arxiv.org/abs/2309.12250v1)|null|
+|**2023-09-21**|**Towards Answering Health-related Questions from Medical Videos: Datasets and Approaches**|Deepak Gupta et.al.|[2309.12224v1](http://arxiv.org/abs/2309.12224v1)|null|
+|**2023-09-21**|**Benchmarking quantized LLaMa-based models on the Brazilian Secondary School Exam**|Matheus L. O. Santos et.al.|[2309.12071v1](http://arxiv.org/abs/2309.12071v1)|null|
+|**2023-09-21**|**LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset**|Lianmin Zheng et.al.|[2309.11998v1](http://arxiv.org/abs/2309.11998v1)|null|
+|**2023-09-21**|**Knowledge Sanitization of Large Language Models**|Yoichi Ishibashi et.al.|[2309.11852v1](http://arxiv.org/abs/2309.11852v1)|null|
+|**2023-09-21**|**A Chinese Prompt Attack Dataset for LLMs with Evil Content**|Chengyuan Liu et.al.|[2309.11830v1](http://arxiv.org/abs/2309.11830v1)|null|
+|**2023-09-20**|**LLM Guided Inductive Inference for Solving Compositional Problems**|Abhigya Sodani et.al.|[2309.11688v1](http://arxiv.org/abs/2309.11688v1)|null|
 |**2023-09-20**|**Chain-of-Verification Reduces Hallucination in Large Language Models**|Shehzaad Dhuliawala et.al.|[2309.11495v1](http://arxiv.org/abs/2309.11495v1)|null|
 |**2023-09-20**|**Sequence-to-Sequence Spanish Pre-trained Language Models**|Vladimir Araujo et.al.|[2309.11259v1](http://arxiv.org/abs/2309.11259v1)|null|
 |**2023-09-20**|**Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering**|Yike Wu et.al.|[2309.11206v2](http://arxiv.org/abs/2309.11206v2)|null|
@@ -66,30 +73,16 @@
 |**2023-09-15**|**When do Generative Query and Document Expansions Fail? A Comprehensive Study Across Methods, Retrievers, and Datasets**|Orion Weller et.al.|[2309.08541v1](http://arxiv.org/abs/2309.08541v1)|null|
 |**2023-09-15**|**SilverRetriever: Advancing Neural Passage Retrieval for Polish Question Answering**|Piotr Rybak et.al.|[2309.08469v1](http://arxiv.org/abs/2309.08469v1)|null|
 |**2023-09-15**|**Advancing the Evaluation of Traditional Chinese Language Models: Towards a Comprehensive Benchmark Suite**|Chan-Jan Hsu et.al.|[2309.08448v1](http://arxiv.org/abs/2309.08448v1)|[link](https://github.com/mtkresearch/mr-models)|
-|**2023-09-15**|**Reward Engineering for Generating Semi-structured Explanation**|Jiuzhou Han et.al.|[2309.08347v1](http://arxiv.org/abs/2309.08347v1)|[link](https://github.com/jiuzhouh/reward-engineering-for-generating-seg)|
-|**2023-09-15**|**Data Distribution Bottlenecks in Grounding Language Models to Knowledge Bases**|Yiheng Shu et.al.|[2309.08345v1](http://arxiv.org/abs/2309.08345v1)|null|
-|**2023-09-15**|**Structural Self-Supervised Objectives for Transformers**|Luca Di Liello et.al.|[2309.08272v1](http://arxiv.org/abs/2309.08272v1)|[link](https://github.com/lucadiliello/transformers-framework)|
-|**2023-09-15**|**Investigating Answerability of LLMs for Long-Form Question Answering**|Meghana Moorthy Bhat et.al.|[2309.08210v1](http://arxiv.org/abs/2309.08210v1)|null|
-|**2023-09-15**|**Using Large Language Model to Solve and Explain Physics Word Problems Approaching Human Level**|Jingzhe Ding et.al.|[2309.08182v2](http://arxiv.org/abs/2309.08182v2)|null|
-|**2023-09-15**|**Investigating the Applicability of Self-Assessment Tests for Personality Measurement of Large Language Models**|Akshat Gupta et.al.|[2309.08163v1](http://arxiv.org/abs/2309.08163v1)|null|
-|**2023-09-14**|**Connecting the Dots in News Analysis: A Cross-Disciplinary Survey of Media Bias and Framing**|Gisela Vallejo et.al.|[2309.08069v1](http://arxiv.org/abs/2309.08069v1)|null|
-|**2023-09-14**|**Investigating Gender Bias in News Summarization**|Julius Steen et.al.|[2309.08047v1](http://arxiv.org/abs/2309.08047v1)|null|
-|**2023-09-14**|**Ambiguity-Aware In-Context Learning with Large Language Models**|Lingyu Gao et.al.|[2309.07900v1](http://arxiv.org/abs/2309.07900v1)|null|
-|**2023-09-14**|**ExpertQA: Expert-Curated Questions and Attributed Answers**|Chaitanya Malaviya et.al.|[2309.07852v1](http://arxiv.org/abs/2309.07852v1)|[link](https://github.com/chaitanyamalaviya/expertqa)|
-|**2023-09-14**|**CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration**|Rachneet Sachdeva et.al.|[2309.07822v2](http://arxiv.org/abs/2309.07822v2)|[link](https://github.com/ukplab/catfood)|
-|**2023-09-14**|**PROGrasp: Pragmatic Human-Robot Communication for Object Grasping**|Gi-Cheon Kang et.al.|[2309.07759v1](http://arxiv.org/abs/2309.07759v1)|null|
-|**2023-09-14**|**Explaining Speech Classification Models via Word-Level Audio Segments and Paralinguistic Features**|Eliana Pastor et.al.|[2309.07733v1](http://arxiv.org/abs/2309.07733v1)|null|
-|**2023-09-14**|**Automatic Data Visualization Generation from Chinese Natural Language Questions**|Yan Ge et.al.|[2309.07650v1](http://arxiv.org/abs/2309.07650v1)|null|
-|**2023-09-14**|**Adaptive Prompt Learning with Distilled Connective Knowledge for Implicit Discourse Relation Recognition**|Bang Wang et.al.|[2309.07561v1](http://arxiv.org/abs/2309.07561v1)|[link](https://github.com/wangzl99/AdaptPrompt)|
-|**2023-09-14**|**DBLPLink: An Entity Linker for the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2309.07545v1](http://arxiv.org/abs/2309.07545v1)|null|
-|**2023-09-14**|**Are Large Language Model-based Evaluators the Solution to Scaling Up Multilingual Evaluation?**|Rishav Hada et.al.|[2309.07462v1](http://arxiv.org/abs/2309.07462v1)|null|
-|**2023-09-14**|**Clinical Text Summarization: Adapting Large Language Models Can Outperform Human Experts**|Dave Van Veen et.al.|[2309.07430v1](http://arxiv.org/abs/2309.07430v1)|[link](https://github.com/stanfordmimi/clin-summ)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-21**|**MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models**|Longhui Yu et.al.|[2309.12284v1](http://arxiv.org/abs/2309.12284v1)|null|
+|**2023-09-21**|**OSN-MDAD: Machine Translation Dataset for Arabic Multi-Dialectal Conversations on Online Social Media**|Fatimah Alzamzami et.al.|[2309.12137v1](http://arxiv.org/abs/2309.12137v1)|null|
+|**2023-09-21**|**Benchmarking quantized LLaMa-based models on the Brazilian Secondary School Exam**|Matheus L. O. Santos et.al.|[2309.12071v1](http://arxiv.org/abs/2309.12071v1)|null|
+|**2023-09-20**|**LLM Guided Inductive Inference for Solving Compositional Problems**|Abhigya Sodani et.al.|[2309.11688v1](http://arxiv.org/abs/2309.11688v1)|null|
 |**2023-09-20**|**Controlled Generation with Prompt Insertion for Natural Language Explanations in Grammatical Error Correction**|Masahiro Kaneko et.al.|[2309.11439v1](http://arxiv.org/abs/2309.11439v1)|null|
 |**2023-09-20**|**DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services**|Shengbin Yue et.al.|[2309.11325v1](http://arxiv.org/abs/2309.11325v1)|null|
 |**2023-09-20**|**Are Large Language Models Really Robust to Word-Level Perturbations?**|Haoyu Wang et.al.|[2309.11166v1](http://arxiv.org/abs/2309.11166v1)|[link](https://github.com/Harry-mic/TREval)|
@@ -194,4 +187,3 @@
 |**2023-08-25**|**The Poison of Alignment**|Aibek Bekbayev et.al.|[2308.13449v1](http://arxiv.org/abs/2308.13449v1)|null|
 |**2023-08-25**|**Knowledge-Driven CoT: Exploring Faithful Reasoning in LLMs for Knowledge-intensive Question Answering**|Keheng Wang et.al.|[2308.13259v1](http://arxiv.org/abs/2308.13259v1)|null|
 |**2023-08-24**|**Causal Parrots: Large Language Models May Talk Causality But Are Not Causal**|Matej Zečević et.al.|[2308.13067v1](http://arxiv.org/abs/2308.13067v1)|[link](https://github.com/moritzwillig/causalparrots)|
-|**2023-08-24**|**GPTEval: A Survey on Assessments of ChatGPT and GPT-4**|Rui Mao et.al.|[2308.12488v1](http://arxiv.org/abs/2308.12488v1)|null|
