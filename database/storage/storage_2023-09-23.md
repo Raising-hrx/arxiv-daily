@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-23 09:02:04
+ Automated deployment @ 2023-09-23 20:25:59
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,7 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-09-20**|**Controlled Generation with Prompt Insertion for Natural Language Explanations in Grammatical Error Correction**|Masahiro Kaneko et.al.|[2309.11439v1](http://arxiv.org/abs/2309.11439v1)|null|
+|**2023-09-20**|**Controlled Generation with Prompt Insertion for Natural Language Explanations in Grammatical Error Correction**|Masahiro Kaneko et.al.|[2309.11439v1](http://arxiv.org/abs/2309.11439v1)|[link](https://github.com/kanekomasahiro/gec-explanation)|
 |**2023-09-20**|**XATU: A Fine-grained Instruction-based Benchmark for Explainable Text Updates**|Haopeng Zhang et.al.|[2309.11063v1](http://arxiv.org/abs/2309.11063v1)|[link](https://github.com/megagonlabs/xatu)|
 |**2023-09-19**|**Modeling interdisciplinary interactions among Physics, Mathematics & Computer Science**|Rima Hazra et.al.|[2309.10811v1](http://arxiv.org/abs/2309.10811v1)|null|
 |**2023-09-19**|**Exploring Self-Reinforcement for Improving Learnersourced Multiple-Choice Question Explanations with Large Language Models**|Qiming Bao et.al.|[2309.10444v1](http://arxiv.org/abs/2309.10444v1)|[link](https://github.com/strong-ai-lab/explanation-generation)|
@@ -39,11 +39,11 @@
 |**2023-09-21**|**A Chinese Prompt Attack Dataset for LLMs with Evil Content**|Chengyuan Liu et.al.|[2309.11830v1](http://arxiv.org/abs/2309.11830v1)|null|
 |**2023-09-20**|**LLM Guided Inductive Inference for Solving Compositional Problems**|Abhigya Sodani et.al.|[2309.11688v1](http://arxiv.org/abs/2309.11688v1)|null|
 |**2023-09-20**|**Chain-of-Verification Reduces Hallucination in Large Language Models**|Shehzaad Dhuliawala et.al.|[2309.11495v1](http://arxiv.org/abs/2309.11495v1)|null|
-|**2023-09-20**|**Sequence-to-Sequence Spanish Pre-trained Language Models**|Vladimir Araujo et.al.|[2309.11259v1](http://arxiv.org/abs/2309.11259v1)|null|
-|**2023-09-20**|**Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering**|Yike Wu et.al.|[2309.11206v2](http://arxiv.org/abs/2309.11206v2)|null|
-|**2023-09-20**|**Are Large Language Models Really Robust to Word-Level Perturbations?**|Haoyu Wang et.al.|[2309.11166v1](http://arxiv.org/abs/2309.11166v1)|[link](https://github.com/Harry-mic/TREval)|
+|**2023-09-20**|**Sequence-to-Sequence Spanish Pre-trained Language Models**|Vladimir Araujo et.al.|[2309.11259v1](http://arxiv.org/abs/2309.11259v1)|[link](https://github.com/vgaraujov/seq2seq-spanish-plms)|
+|**2023-09-20**|**Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering**|Yike Wu et.al.|[2309.11206v2](http://arxiv.org/abs/2309.11206v2)|[link](https://github.com/wuyike2000/retrieve-rewrite-answer)|
+|**2023-09-20**|**Are Large Language Models Really Robust to Word-Level Perturbations?**|Haoyu Wang et.al.|[2309.11166v1](http://arxiv.org/abs/2309.11166v1)|null|
 |**2023-09-20**|**Localize, Retrieve and Fuse: A Generalized Framework for Free-Form Question Answering over Tables**|Wenting Zhao et.al.|[2309.11049v2](http://arxiv.org/abs/2309.11049v2)|null|
-|**2023-09-20**|**Named Entity Recognition via Machine Reading Comprehension: A Multi-Task Learning Approach**|Yibo Wang et.al.|[2309.11027v1](http://arxiv.org/abs/2309.11027v1)|null|
+|**2023-09-20**|**Named Entity Recognition via Machine Reading Comprehension: A Multi-Task Learning Approach**|Yibo Wang et.al.|[2309.11027v1](http://arxiv.org/abs/2309.11027v1)|[link](https://github.com/yibowang214/multiner)|
 |**2023-09-19**|**LMDX: Language Model-based Document Information Extraction and Localization**|Vincent Perot et.al.|[2309.10952v1](http://arxiv.org/abs/2309.10952v1)|null|
 |**2023-09-19**|**Benchmarks for Pirá 2.0, a Reading Comprehension Dataset about the Ocean, the Brazilian Coast, and Climate Change**|Paulo Pirozelli et.al.|[2309.10945v1](http://arxiv.org/abs/2309.10945v1)|null|
 |**2023-09-19**|**Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning**|Tianhua Zhang et.al.|[2309.10814v1](http://arxiv.org/abs/2309.10814v1)|[link](https://github.com/luohongyin/langcode)|
@@ -53,7 +53,7 @@
 |**2023-09-19**|**QASnowball: An Iterative Bootstrapping Framework for High-Quality Question-Answering Data Generation**|Kunlun Zhu et.al.|[2309.10326v2](http://arxiv.org/abs/2309.10326v2)|null|
 |**2023-09-18**|**How to Generate Popular Post Headlines on Social Media?**|Zhouxiang Fang et.al.|[2309.09949v1](http://arxiv.org/abs/2309.09949v1)|null|
 |**2023-09-18**|**Instruction-Following Speech Recognition**|Cheng-I Jeff Lai et.al.|[2309.09843v1](http://arxiv.org/abs/2309.09843v1)|null|
-|**2023-09-18**|**Fabricator: An Open Source Toolkit for Generating Labeled Training Data with Teacher LLMs**|Jonas Golde et.al.|[2309.09582v1](http://arxiv.org/abs/2309.09582v1)|null|
+|**2023-09-18**|**Fabricator: An Open Source Toolkit for Generating Labeled Training Data with Teacher LLMs**|Jonas Golde et.al.|[2309.09582v1](http://arxiv.org/abs/2309.09582v1)|[link](https://github.com/flairnlp/fabricator)|
 |**2023-09-18**|**Adapting Large Language Models via Reading Comprehension**|Daixuan Cheng et.al.|[2309.09530v1](http://arxiv.org/abs/2309.09530v1)|[link](https://github.com/microsoft/lmops)|
 |**2023-09-17**|**Mitigating Shortcuts in Language Models with Soft Label Encoding**|Zirui He et.al.|[2309.09380v1](http://arxiv.org/abs/2309.09380v1)|null|
 |**2023-09-17**|**Language models are susceptible to incorrect patient self-diagnosis in medical applications**|Rojin Ziaei et.al.|[2309.09362v1](http://arxiv.org/abs/2309.09362v1)|null|
@@ -83,9 +83,9 @@
 |**2023-09-21**|**OSN-MDAD: Machine Translation Dataset for Arabic Multi-Dialectal Conversations on Online Social Media**|Fatimah Alzamzami et.al.|[2309.12137v1](http://arxiv.org/abs/2309.12137v1)|null|
 |**2023-09-21**|**Benchmarking quantized LLaMa-based models on the Brazilian Secondary School Exam**|Matheus L. O. Santos et.al.|[2309.12071v1](http://arxiv.org/abs/2309.12071v1)|null|
 |**2023-09-20**|**LLM Guided Inductive Inference for Solving Compositional Problems**|Abhigya Sodani et.al.|[2309.11688v1](http://arxiv.org/abs/2309.11688v1)|null|
-|**2023-09-20**|**Controlled Generation with Prompt Insertion for Natural Language Explanations in Grammatical Error Correction**|Masahiro Kaneko et.al.|[2309.11439v1](http://arxiv.org/abs/2309.11439v1)|null|
+|**2023-09-20**|**Controlled Generation with Prompt Insertion for Natural Language Explanations in Grammatical Error Correction**|Masahiro Kaneko et.al.|[2309.11439v1](http://arxiv.org/abs/2309.11439v1)|[link](https://github.com/kanekomasahiro/gec-explanation)|
 |**2023-09-20**|**DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services**|Shengbin Yue et.al.|[2309.11325v1](http://arxiv.org/abs/2309.11325v1)|null|
-|**2023-09-20**|**Are Large Language Models Really Robust to Word-Level Perturbations?**|Haoyu Wang et.al.|[2309.11166v1](http://arxiv.org/abs/2309.11166v1)|[link](https://github.com/Harry-mic/TREval)|
+|**2023-09-20**|**Are Large Language Models Really Robust to Word-Level Perturbations?**|Haoyu Wang et.al.|[2309.11166v1](http://arxiv.org/abs/2309.11166v1)|null|
 |**2023-09-20**|**XATU: A Fine-grained Instruction-based Benchmark for Explainable Text Updates**|Haopeng Zhang et.al.|[2309.11063v1](http://arxiv.org/abs/2309.11063v1)|[link](https://github.com/megagonlabs/xatu)|
 |**2023-09-20**|**Design of Chain-of-Thought in Math Problem Solving**|Zhanming Jie et.al.|[2309.11054v1](http://arxiv.org/abs/2309.11054v1)|[link](https://github.com/lqtrung1998/mwp_cot_design)|
 |**2023-09-20**|**Localize, Retrieve and Fuse: A Generalized Framework for Free-Form Question Answering over Tables**|Wenting Zhao et.al.|[2309.11049v2](http://arxiv.org/abs/2309.11049v2)|null|
