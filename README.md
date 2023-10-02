@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-10-02 20:29:20
+ Automated deployment @ 2023-10-02 20:54:31
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -37,7 +37,7 @@
 |**2023-09-29**|**Fine-grained Late-interaction Multi-modal Retrieval for Retrieval Augmented Visual Question Answering**|Weizhe Lin et.al.|[2309.17133v1](http://arxiv.org/abs/2309.17133v1)|null|
 |**2023-09-29**|**Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models**|Antoine Louis et.al.|[2309.17050v1](http://arxiv.org/abs/2309.17050v1)|[link](https://github.com/maastrichtlawtech/lleqa)|
 |**2023-09-29**|**Benchmarking Cognitive Biases in Large Language Models as Evaluators**|Ryan Koo et.al.|[2309.17012v1](http://arxiv.org/abs/2309.17012v1)|null|
-|**2023-09-28**|**How many words does ChatGPT know? The answer is ChatWords**|Gonzalo Martínez et.al.|[2309.16777v1](http://arxiv.org/abs/2309.16777v1)|null|
+|**2023-09-28**|**How many words does ChatGPT know? The answer is ChatWords**|Gonzalo Martínez et.al.|[2309.16777v1](http://arxiv.org/abs/2309.16777v1)|[link](https://github.com/wordsgpt/chatwords)|
 |**2023-09-28**|**Stress Testing Chain-of-Thought Prompting for Large Language Models**|Aayush Mishra et.al.|[2309.16621v1](http://arxiv.org/abs/2309.16621v1)|null|
 |**2023-09-28**|**GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond**|Shen Zheng et.al.|[2309.16583v1](http://arxiv.org/abs/2309.16583v1)|[link](https://github.com/openai/evals)|
 |**2023-09-28**|**KLoB: a Benchmark for Assessing Knowledge Locating Methods in Language Models**|Yiming Ju et.al.|[2309.16535v1](http://arxiv.org/abs/2309.16535v1)|[link](https://github.com/juyiming/klob)|
