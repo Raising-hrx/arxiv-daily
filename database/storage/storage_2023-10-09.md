@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-10-09 09:04:51
+ Automated deployment @ 2023-10-09 20:32:09
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-05**|**Trustworthy Formal Natural Language Specifications**|Colin S. Gordon et.al.|[2310.03885v1](http://arxiv.org/abs/2310.03885v1)|null|
 |**2023-10-03**|**Novice Learner and Expert Tutor: Evaluating Math Reasoning Abilities of Large Language Models with Misconceptions**|Naiming Liu et.al.|[2310.02439v1](http://arxiv.org/abs/2310.02439v1)|null|
 |**2023-10-03**|**Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving**|Long Chen et.al.|[2310.01957v1](http://arxiv.org/abs/2310.01957v1)|[link](https://github.com/wayveai/driving-with-llms)|
 |**2023-10-03**|**Extending CAM-based XAI methods for Remote Sensing Imagery Segmentation**|Abdul Karim Gizzini et.al.|[2310.01837v1](http://arxiv.org/abs/2310.01837v1)|null|
@@ -35,6 +36,11 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-06**|**RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation**|Fangyuan Xu et.al.|[2310.04408v1](http://arxiv.org/abs/2310.04408v1)|null|
+|**2023-10-06**|**Policy-Gradient Training of Language Models for Ranking**|Ge Gao et.al.|[2310.04407v1](http://arxiv.org/abs/2310.04407v1)|null|
+|**2023-10-06**|**Written and spoken corpus of real and fake social media postings about COVID-19**|Ng Bee Chin et.al.|[2310.04237v1](http://arxiv.org/abs/2310.04237v1)|null|
+|**2023-10-06**|**Keyword Augmented Retrieval: Novel framework for Information Retrieval integrated with speech interface**|Anupam Purwar et.al.|[2310.04205v1](http://arxiv.org/abs/2310.04205v1)|null|
+|**2023-10-06**|**Analysis of the Reasoning with Redundant Information Provided Ability of Large Language Models**|Wenbei Xie et.al.|[2310.04039v1](http://arxiv.org/abs/2310.04039v1)|null|
 |**2023-10-05**|**A Long Way to Go: Investigating Length Correlations in RLHF**|Prasann Singhal et.al.|[2310.03716v1](http://arxiv.org/abs/2310.03716v1)|[link](https://github.com/prasanns/rlhf-length-biases)|
 |**2023-10-05**|**DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**|Omar Khattab et.al.|[2310.03714v1](http://arxiv.org/abs/2310.03714v1)|[link](https://github.com/stanfordnlp/dspy)|
 |**2023-10-05**|**DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers**|Anna Langedijk et.al.|[2310.03686v1](http://arxiv.org/abs/2310.03686v1)|null|
@@ -99,21 +105,17 @@
 |**2023-10-01**|**Colloquial Persian POS (CPPOS) Corpus: A Novel Corpus for Colloquial Persian Part of Speech Tagging**|Leyla Rabiei et.al.|[2310.00572v1](http://arxiv.org/abs/2310.00572v1)|null|
 |**2023-09-30**|**Question-Answering Model for Schizophrenia Symptoms and Their Impact on Daily Life using Mental Health Forums Data**|Christian Internò et.al.|[2310.00448v1](http://arxiv.org/abs/2310.00448v1)|null|
 |**2023-09-30**|**Measuring Value Understanding in Language Models through Discriminator-Critique Gap**|Zhaowei Zhang et.al.|[2310.00378v1](http://arxiv.org/abs/2310.00378v1)|null|
-|**2023-09-30**|**Towards LLM-based Fact Verification on News Claims with a Hierarchical Step-by-Step Prompting Method**|Xuan Zhang et.al.|[2310.00305v1](http://arxiv.org/abs/2310.00305v1)|[link](https://github.com/jadecurl/hiss)|
-|**2023-09-30**|**Investigating the Efficacy of Large Language Models in Reflective Assessment Methods through Chain of Thoughts Prompting**|Baphumelele Masikisiki et.al.|[2310.00272v1](http://arxiv.org/abs/2310.00272v1)|null|
-|**2023-09-30**|**SLM: Bridge the thin gap between speech and text foundation models**|Mingqiu Wang et.al.|[2310.00230v1](http://arxiv.org/abs/2310.00230v1)|null|
-|**2023-09-29**|**Intuitive or Dependent? Investigating LLMs' Robustness to Conflicting Prompts**|Jiahao Ying et.al.|[2309.17415v2](http://arxiv.org/abs/2309.17415v2)|null|
-|**2023-09-29**|**Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks**|Vaidehi Patil et.al.|[2309.17410v1](http://arxiv.org/abs/2309.17410v1)|[link](https://github.com/vaidehi99/infodeletionattacks)|
-|**2023-09-29**|**Split and Merge: Aligning Position Biases in Large Language Model based Evaluators**|Zongjie Li et.al.|[2310.01432v1](http://arxiv.org/abs/2310.01432v1)|null|
-|**2023-09-29**|**Enhancing Large Language Models in Coding Through Multi-Perspective Self-Consistency**|Baizhou Huang et.al.|[2309.17272v1](http://arxiv.org/abs/2309.17272v1)|null|
-|**2023-09-29**|**Knowledge Graphs for the Life Sciences: Recent Developments, Challenges and Opportunities**|Jiaoyan Chen et.al.|[2309.17255v2](http://arxiv.org/abs/2309.17255v2)|null|
-|**2023-09-29**|**Promoting Generalized Cross-lingual Question Answering in Few-resource Scenarios via Self-knowledge Distillation**|Casimiro Pio Carrino et.al.|[2309.17134v1](http://arxiv.org/abs/2309.17134v1)|[link](https://github.com/ccasimiro88/self-distillation-gxlt-qa)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-06**|**Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**|Andy Zhou et.al.|[2310.04406v1](http://arxiv.org/abs/2310.04406v1)|[link](https://github.com/andyz245/LanguageAgentTreeSearch)|
+|**2023-10-06**|**Amortizing intractable inference in large language models**|Edward J. Hu et.al.|[2310.04363v1](http://arxiv.org/abs/2310.04363v1)|null|
+|**2023-10-06**|**Analysis of the Reasoning with Redundant Information Provided Ability of Large Language Models**|Wenbei Xie et.al.|[2310.04039v1](http://arxiv.org/abs/2310.04039v1)|null|
+|**2023-10-06**|**Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models**|Junchi Yu et.al.|[2310.03965v1](http://arxiv.org/abs/2310.03965v1)|null|
+|**2023-10-05**|**Evaluating Multi-Agent Coordination Abilities in Large Language Models**|Saaket Agashe et.al.|[2310.03903v1](http://arxiv.org/abs/2310.03903v1)|null|
 |**2023-10-05**|**MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning**|Ke Wang et.al.|[2310.03731v1](http://arxiv.org/abs/2310.03731v1)|[link](https://github.com/mathllm/mathcoder)|
 |**2023-10-05**|**DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**|Omar Khattab et.al.|[2310.03714v1](http://arxiv.org/abs/2310.03714v1)|[link](https://github.com/stanfordnlp/dspy)|
 |**2023-10-05**|**Agent Instructs Large Language Models to be General Zero-Shot Reasoners**|Nicholas Crispino et.al.|[2310.03710v1](http://arxiv.org/abs/2310.03710v1)|[link](https://github.com/wang-research-lab/agentinstruct)|
@@ -239,6 +241,3 @@
 |**2023-09-17**|**Contrastive Decoding Improves Reasoning in Large Language Models**|Sean O'Brien et.al.|[2309.09117v2](http://arxiv.org/abs/2309.09117v2)|null|
 |**2023-09-16**|**Struc-Bench: Are Large Language Models Really Good at Generating Complex Structured Data?**|Xiangru Tang et.al.|[2309.08963v2](http://arxiv.org/abs/2309.08963v2)|[link](https://github.com/gersteinlab/struc-bench)|
 |**2023-09-16**|**Multimodal Multi-Hop Question Answering Through a Conversation Between Tools and Efficiently Finetuned Large Language Models**|Hossein Rajabzadeh et.al.|[2309.08922v1](http://arxiv.org/abs/2309.08922v1)|null|
-|**2023-09-16**|**EchoPrompt: Instructing the Model to Rephrase Queries for Improved In-context Learning**|Rajasekhar Reddy Mekala et.al.|[2309.10687v1](http://arxiv.org/abs/2309.10687v1)|[link](https://github.com/rajasekharmekala/query-rephrasing-subtask-cot)|
-|**2023-09-15**|**Are Multilingual LLMs Culturally-Diverse Reasoners? An Investigation into Multicultural Proverbs and Sayings**|Chen Cecilia Liu et.al.|[2309.08591v1](http://arxiv.org/abs/2309.08591v1)|[link](https://github.com/UKPLab/maps)|
-|**2023-09-15**|**Chain-of-Thought Reasoning is a Policy Improvement Operator**|Hugh Zhang et.al.|[2309.08589v1](http://arxiv.org/abs/2309.08589v1)|null|
