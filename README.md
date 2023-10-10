@@ -1,42 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2023-10-10 20:55:04
+ Automated deployment @ 2023-10-10 21:16:30
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-10-09**|**A Meta-Learning Perspective on Transformers for Causal Language Modeling**|Xinbo Wu et.al.|[2310.05884v1](http://arxiv.org/abs/2310.05884v1)|null|
-|**2023-10-09**|**Are Large Language Models Post Hoc Explainers?**|Nicholas Kroeger et.al.|[2310.05797v1](http://arxiv.org/abs/2310.05797v1)|null|
-|**2023-10-09**|**An Attribution Method for Siamese Encoders**|Lucas Möller et.al.|[2310.05703v1](http://arxiv.org/abs/2310.05703v1)|null|
-|**2023-10-09**|**The potential of large language models for improving probability learning: A study on ChatGPT3.5 and first-year computer engineering students**|Angel Udias et.al.|[2310.05686v1](http://arxiv.org/abs/2310.05686v1)|null|
-|**2023-10-09**|**A Closer Look into Automatic Evaluation Using Large Language Models**|Cheng-Han Chiang et.al.|[2310.05657v1](http://arxiv.org/abs/2310.05657v1)|[link](https://github.com/d223302/a-closer-look-to-llm-evaluation)|
-|**2023-10-09**|**Dynamic Top-k Estimation Consolidates Disagreement between Feature Attribution Methods**|Jonathan Kamp et.al.|[2310.05619v1](http://arxiv.org/abs/2310.05619v1)|null|
-|**2023-10-09**|**InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations**|Nils Feldhus et.al.|[2310.05592v1](http://arxiv.org/abs/2310.05592v1)|[link](https://github.com/dfki-nlp/interrolang)|
-|**2023-10-09**|**XAL: EXplainable Active Learning Makes Classifiers Better Low-resource Learners**|Yun Luo et.al.|[2310.05502v1](http://arxiv.org/abs/2310.05502v1)|[link](https://github.com/luoxiaoheics/xal)|
-|**2023-10-09**|**Generative Judge for Evaluating Alignment**|Junlong Li et.al.|[2310.05470v1](http://arxiv.org/abs/2310.05470v1)|[link](https://github.com/gair-nlp/auto-j)|
-|**2023-10-09**|**Explaining the Complex Task Reasoning of Large Language Models with Template-Content Structure**|Haotong Yang et.al.|[2310.05452v1](http://arxiv.org/abs/2310.05452v1)|null|
-|**2023-10-08**|**Explainable Claim Verification via Knowledge-Grounded Reasoning with Large Language Models**|Haoran Wang et.al.|[2310.05253v1](http://arxiv.org/abs/2310.05253v1)|null|
-|**2023-10-08**|**Scaling Laws of RoPE-based Extrapolation**|Xiaoran Liu et.al.|[2310.05209v1](http://arxiv.org/abs/2310.05209v1)|null|
-|**2023-10-08**|**Harnessing the Power of ChatGPT in Fake News: An In-Depth Exploration in Generation, Detection and Explanation**|Yue Huang et.al.|[2310.05046v1](http://arxiv.org/abs/2310.05046v1)|null|
-|**2023-10-08**|**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading**|Howard Chen et.al.|[2310.05029v1](http://arxiv.org/abs/2310.05029v1)|null|
-|**2023-10-08**|**Domain Knowledge Graph Construction Via A Simple Checker**|Yueling Zeng et.al.|[2310.04949v1](http://arxiv.org/abs/2310.04949v1)|null|
-|**2023-10-07**|**Faithful Knowledge Graph Explanations for Commonsense Reasoning**|Weihe Zhai et.al.|[2310.04910v1](http://arxiv.org/abs/2310.04910v1)|null|
-|**2023-10-07**|**GradXKG: A Universal Explain-per-use Temporal Knowledge Graph Explainer**|Chenhan Yuan et.al.|[2310.04889v1](http://arxiv.org/abs/2310.04889v1)|null|
-|**2023-10-07**|**FinGPT: Instruction Tuning Benchmark for Open-Source Large Language Models in Financial Datasets**|Neng Wang et.al.|[2310.04793v1](http://arxiv.org/abs/2310.04793v1)|null|
-|**2023-10-07**|**Do self-supervised speech and language models extract similar representations as human brain?**|Peili Chen et.al.|[2310.04645v1](http://arxiv.org/abs/2310.04645v1)|null|
-|**2023-10-06**|**Copy Suppression: Comprehensively Understanding an Attention Head**|Callum McDougall et.al.|[2310.04625v1](http://arxiv.org/abs/2310.04625v1)|[link](https://github.com/callummcdougall/seri-mats-2023-streamlit-pages)|
-|**2023-10-06**|**Measuring Information in Text Explanations**|Zining Zhu et.al.|[2310.04557v1](http://arxiv.org/abs/2310.04557v1)|null|
-|**2023-10-06**|**Acoustic and linguistic representations for speech continuous emotion recognition in call center conversations**|Manon Macary et.al.|[2310.04481v1](http://arxiv.org/abs/2310.04481v1)|null|
-|**2023-10-05**|**Trustworthy Formal Natural Language Specifications**|Colin S. Gordon et.al.|[2310.03885v1](http://arxiv.org/abs/2310.03885v1)|null|
-|**2023-10-03**|**Novice Learner and Expert Tutor: Evaluating Math Reasoning Abilities of Large Language Models with Misconceptions**|Naiming Liu et.al.|[2310.02439v1](http://arxiv.org/abs/2310.02439v1)|null|
-|**2023-10-03**|**Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving**|Long Chen et.al.|[2310.01957v1](http://arxiv.org/abs/2310.01957v1)|[link](https://github.com/wayveai/driving-with-llms)|
-|**2023-10-03**|**Extending CAM-based XAI methods for Remote Sensing Imagery Segmentation**|Abdul Karim Gizzini et.al.|[2310.01837v1](http://arxiv.org/abs/2310.01837v1)|null|
-|**2023-10-03**|**Trainable Noise Model as an XAI evaluation method: application on Sobol for remote sensing image segmentation**|Hossein Shreim et.al.|[2310.01828v1](http://arxiv.org/abs/2310.01828v1)|null|
-|**2023-10-03**|**Deciphering Diagnoses: How Large Language Models Explanations Influence Clinical Decision Making**|D. Umerenkov et.al.|[2310.01708v1](http://arxiv.org/abs/2310.01708v1)|null|
-|**2023-10-02**|**Closing the Curious Case of Neural Text Degeneration**|Matthew Finlayson et.al.|[2310.01693v1](http://arxiv.org/abs/2310.01693v1)|[link](https://github.com/mattf1n/basis-aware-threshold)|
 
 ## Question Answering
 
@@ -271,3 +236,38 @@
 |**2023-09-22**|**Large Language Models Are Also Good Prototypical Commonsense Reasoners**|Chenin Li et.al.|[2309.13165v1](http://arxiv.org/abs/2309.13165v1)|null|
 |**2023-09-22**|**ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs**|Justin Chih-Yao Chen et.al.|[2309.13007v1](http://arxiv.org/abs/2309.13007v1)|[link](https://github.com/dinobby/reconcile)|
 |**2023-09-22**|**Furthest Reasoning with Plan Assessment: Stable Reasoning Path with Retrieval-Augmented Large Language Models**|Yin Zhu et.al.|[2309.12767v1](http://arxiv.org/abs/2309.12767v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-10-09**|**A Meta-Learning Perspective on Transformers for Causal Language Modeling**|Xinbo Wu et.al.|[2310.05884v1](http://arxiv.org/abs/2310.05884v1)|null|
+|**2023-10-09**|**Are Large Language Models Post Hoc Explainers?**|Nicholas Kroeger et.al.|[2310.05797v1](http://arxiv.org/abs/2310.05797v1)|null|
+|**2023-10-09**|**An Attribution Method for Siamese Encoders**|Lucas Möller et.al.|[2310.05703v1](http://arxiv.org/abs/2310.05703v1)|null|
+|**2023-10-09**|**The potential of large language models for improving probability learning: A study on ChatGPT3.5 and first-year computer engineering students**|Angel Udias et.al.|[2310.05686v1](http://arxiv.org/abs/2310.05686v1)|null|
+|**2023-10-09**|**A Closer Look into Automatic Evaluation Using Large Language Models**|Cheng-Han Chiang et.al.|[2310.05657v1](http://arxiv.org/abs/2310.05657v1)|[link](https://github.com/d223302/a-closer-look-to-llm-evaluation)|
+|**2023-10-09**|**Dynamic Top-k Estimation Consolidates Disagreement between Feature Attribution Methods**|Jonathan Kamp et.al.|[2310.05619v1](http://arxiv.org/abs/2310.05619v1)|null|
+|**2023-10-09**|**InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations**|Nils Feldhus et.al.|[2310.05592v1](http://arxiv.org/abs/2310.05592v1)|[link](https://github.com/dfki-nlp/interrolang)|
+|**2023-10-09**|**XAL: EXplainable Active Learning Makes Classifiers Better Low-resource Learners**|Yun Luo et.al.|[2310.05502v1](http://arxiv.org/abs/2310.05502v1)|[link](https://github.com/luoxiaoheics/xal)|
+|**2023-10-09**|**Generative Judge for Evaluating Alignment**|Junlong Li et.al.|[2310.05470v1](http://arxiv.org/abs/2310.05470v1)|[link](https://github.com/gair-nlp/auto-j)|
+|**2023-10-09**|**Explaining the Complex Task Reasoning of Large Language Models with Template-Content Structure**|Haotong Yang et.al.|[2310.05452v1](http://arxiv.org/abs/2310.05452v1)|null|
+|**2023-10-08**|**Explainable Claim Verification via Knowledge-Grounded Reasoning with Large Language Models**|Haoran Wang et.al.|[2310.05253v1](http://arxiv.org/abs/2310.05253v1)|null|
+|**2023-10-08**|**Scaling Laws of RoPE-based Extrapolation**|Xiaoran Liu et.al.|[2310.05209v1](http://arxiv.org/abs/2310.05209v1)|null|
+|**2023-10-08**|**Harnessing the Power of ChatGPT in Fake News: An In-Depth Exploration in Generation, Detection and Explanation**|Yue Huang et.al.|[2310.05046v1](http://arxiv.org/abs/2310.05046v1)|null|
+|**2023-10-08**|**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading**|Howard Chen et.al.|[2310.05029v1](http://arxiv.org/abs/2310.05029v1)|null|
+|**2023-10-08**|**Domain Knowledge Graph Construction Via A Simple Checker**|Yueling Zeng et.al.|[2310.04949v1](http://arxiv.org/abs/2310.04949v1)|null|
+|**2023-10-07**|**Faithful Knowledge Graph Explanations for Commonsense Reasoning**|Weihe Zhai et.al.|[2310.04910v1](http://arxiv.org/abs/2310.04910v1)|null|
+|**2023-10-07**|**GradXKG: A Universal Explain-per-use Temporal Knowledge Graph Explainer**|Chenhan Yuan et.al.|[2310.04889v1](http://arxiv.org/abs/2310.04889v1)|null|
+|**2023-10-07**|**FinGPT: Instruction Tuning Benchmark for Open-Source Large Language Models in Financial Datasets**|Neng Wang et.al.|[2310.04793v1](http://arxiv.org/abs/2310.04793v1)|null|
+|**2023-10-07**|**Do self-supervised speech and language models extract similar representations as human brain?**|Peili Chen et.al.|[2310.04645v1](http://arxiv.org/abs/2310.04645v1)|null|
+|**2023-10-06**|**Copy Suppression: Comprehensively Understanding an Attention Head**|Callum McDougall et.al.|[2310.04625v1](http://arxiv.org/abs/2310.04625v1)|[link](https://github.com/callummcdougall/seri-mats-2023-streamlit-pages)|
+|**2023-10-06**|**Measuring Information in Text Explanations**|Zining Zhu et.al.|[2310.04557v1](http://arxiv.org/abs/2310.04557v1)|null|
+|**2023-10-06**|**Acoustic and linguistic representations for speech continuous emotion recognition in call center conversations**|Manon Macary et.al.|[2310.04481v1](http://arxiv.org/abs/2310.04481v1)|null|
+|**2023-10-05**|**Trustworthy Formal Natural Language Specifications**|Colin S. Gordon et.al.|[2310.03885v1](http://arxiv.org/abs/2310.03885v1)|null|
+|**2023-10-03**|**Novice Learner and Expert Tutor: Evaluating Math Reasoning Abilities of Large Language Models with Misconceptions**|Naiming Liu et.al.|[2310.02439v1](http://arxiv.org/abs/2310.02439v1)|null|
+|**2023-10-03**|**Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving**|Long Chen et.al.|[2310.01957v1](http://arxiv.org/abs/2310.01957v1)|[link](https://github.com/wayveai/driving-with-llms)|
+|**2023-10-03**|**Extending CAM-based XAI methods for Remote Sensing Imagery Segmentation**|Abdul Karim Gizzini et.al.|[2310.01837v1](http://arxiv.org/abs/2310.01837v1)|null|
+|**2023-10-03**|**Trainable Noise Model as an XAI evaluation method: application on Sobol for remote sensing image segmentation**|Hossein Shreim et.al.|[2310.01828v1](http://arxiv.org/abs/2310.01828v1)|null|
+|**2023-10-03**|**Deciphering Diagnoses: How Large Language Models Explanations Influence Clinical Decision Making**|D. Umerenkov et.al.|[2310.01708v1](http://arxiv.org/abs/2310.01708v1)|null|
+|**2023-10-02**|**Closing the Curious Case of Neural Text Degeneration**|Matthew Finlayson et.al.|[2310.01693v1](http://arxiv.org/abs/2310.01693v1)|[link](https://github.com/mattf1n/basis-aware-threshold)|
