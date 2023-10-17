@@ -1,28 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2023-10-17 20:30:02
+ Automated deployment @ 2023-10-17 20:55:27
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-10-16**|**Who Are All The Stochastic Parrots Imitating? They Should Tell Us!**|Sagi Shaier et.al.|[2310.10583v1](http://arxiv.org/abs/2310.10583v1)|null|
-|**2023-10-16**|**Emerging Challenges in Personalized Medicine: Assessing Demographic Effects on Biomedical Question Answering Systems**|Sagi Shaier et.al.|[2310.10571v1](http://arxiv.org/abs/2310.10571v1)|null|
-|**2023-10-16**|**Stance Detection with Collaborative Role-Infused LLM-Based Agents**|Xiaochong Lan et.al.|[2310.10467v1](http://arxiv.org/abs/2310.10467v1)|null|
-|**2023-10-16**|**Attribution Patching Outperforms Automated Circuit Discovery**|Aaquib Syed et.al.|[2310.10348v1](http://arxiv.org/abs/2310.10348v1)|null|
-|**2023-10-16**|**Repetition In Repetition Out: Towards Understanding Neural Text Degeneration from the Data Perspective**|Huayang Li et.al.|[2310.10226v1](http://arxiv.org/abs/2310.10226v1)|[link](https://github.com/gmftbygmftby/rep-dropout)|
-|**2023-10-14**|**An End-to-End System for Reproducibility Assessment of Source Code Repositories via Their Readmes**|Eyüp Kaan Akdeniz et.al.|[2310.09634v1](http://arxiv.org/abs/2310.09634v1)|[link](https://github.com/kaanakdeniz/reproducibility_assessment)|
-|**2023-10-13**|**Surveying the Landscape of Text Summarization with Deep Learning: A Comprehensive Review**|Guanghua Wang et.al.|[2310.09411v1](http://arxiv.org/abs/2310.09411v1)|null|
-|**2023-10-13**|**A Comparative Analysis of Task-Agnostic Distillation Methods for Compressing Transformer Language Models**|Takuma Udagawa et.al.|[2310.08797v1](http://arxiv.org/abs/2310.08797v1)|null|
-|**2023-10-12**|**Circuit Component Reuse Across Tasks in Transformer Language Models**|Jack Merullo et.al.|[2310.08744v1](http://arxiv.org/abs/2310.08744v1)|null|
-|**2023-10-12**|**Who Wrote it and Why? Prompting Large-Language Models for Authorship Verification**|Chia-Yu Hung et.al.|[2310.08123v1](http://arxiv.org/abs/2310.08123v1)|null|
-|**2023-10-11**|**Faithfulness Measurable Masked Language Models**|Andreas Madsen et.al.|[2310.07819v1](http://arxiv.org/abs/2310.07819v1)|[link](https://github.com/andreasmadsen/economical-roar)|
-|**2023-10-11**|**LLM4Vis: Explainable Visualization Recommendation using ChatGPT**|Lei Wang et.al.|[2310.07652v2](http://arxiv.org/abs/2310.07652v2)|[link](https://github.com/demoleiwang/llm4vis)|
-|**2023-10-11**|**QACHECK: A Demonstration System for Question-Guided Multi-Hop Fact-Checking**|Liangming Pan et.al.|[2310.07609v1](http://arxiv.org/abs/2310.07609v1)|[link](https://github.com/xinyuanlu00/qacheck)|
-|**2023-10-11**|**Comparing Styles across Languages**|Shreya Havaldar et.al.|[2310.07135v1](http://arxiv.org/abs/2310.07135v1)|null|
-|**2023-10-10**|**Rationale-Enhanced Language Models are Better Continual Relation Learners**|Weimin Xiong et.al.|[2310.06547v1](http://arxiv.org/abs/2310.06547v1)|[link](https://github.com/weiminxiong/rationalecl)|
 
 ## Question Answering
 
