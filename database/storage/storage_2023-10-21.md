@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-10-21 09:03:11
+ Automated deployment @ 2023-10-21 20:26:23
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -41,7 +41,7 @@
 |**2023-10-19**|**An Emulator for Fine-Tuning Large Language Models using Small Language Models**|Eric Mitchell et.al.|[2310.12962v1](http://arxiv.org/abs/2310.12962v1)|null|
 |**2023-10-19**|**StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding**|Cheng Jiayang et.al.|[2310.12874v1](http://arxiv.org/abs/2310.12874v1)|null|
 |**2023-10-19**|**Knowledge-Augmented Language Model Verification**|Jinheon Baek et.al.|[2310.12836v1](http://arxiv.org/abs/2310.12836v1)|null|
-|**2023-10-19**|**Character-level Chinese Backpack Language Models**|Hao Sun et.al.|[2310.12751v1](http://arxiv.org/abs/2310.12751v1)|null|
+|**2023-10-19**|**Character-level Chinese Backpack Language Models**|Hao Sun et.al.|[2310.12751v1](http://arxiv.org/abs/2310.12751v1)|[link](https://github.com/swordelucidator/nanobackpacklm)|
 |**2023-10-19**|**Time-Aware Representation Learning for Time-Sensitive Question Answering**|Jungbin Son et.al.|[2310.12585v1](http://arxiv.org/abs/2310.12585v1)|[link](https://github.com/sonjbin/tcqa)|
 |**2023-10-19**|**Lost in Translation: When GPT-4V(ision) Can't See Eye to Eye with Text. A Vision-Language-Consistency Analysis of VLLMs and Beyond**|Xiang Zhang et.al.|[2310.12520v1](http://arxiv.org/abs/2310.12520v1)|null|
 |**2023-10-19**|**Automatic Hallucination Assessment for Aligned Large Language Models via Transferable Adversarial Attacks**|Xiaodong Yu et.al.|[2310.12516v1](http://arxiv.org/abs/2310.12516v1)|null|
@@ -108,10 +108,10 @@
 |**2023-10-19**|**AutoMix: Automatically Mixing Language Models**|Aman Madaan et.al.|[2310.12963v1](http://arxiv.org/abs/2310.12963v1)|[link](https://github.com/automix-llm/automix)|
 |**2023-10-19**|**Probing LLMs for hate speech detection: strengths and vulnerabilities**|Sarthak Roy et.al.|[2310.12860v1](http://arxiv.org/abs/2310.12860v1)|null|
 |**2023-10-19**|**Knowledge-Augmented Language Model Verification**|Jinheon Baek et.al.|[2310.12836v1](http://arxiv.org/abs/2310.12836v1)|null|
-|**2023-10-19**|**Character-level Chinese Backpack Language Models**|Hao Sun et.al.|[2310.12751v1](http://arxiv.org/abs/2310.12751v1)|null|
-|**2023-10-19**|**DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text**|Shuaiyi Li et.al.|[2310.12557v1](http://arxiv.org/abs/2310.12557v1)|null|
+|**2023-10-19**|**Character-level Chinese Backpack Language Models**|Hao Sun et.al.|[2310.12751v1](http://arxiv.org/abs/2310.12751v1)|[link](https://github.com/swordelucidator/nanobackpacklm)|
+|**2023-10-19**|**DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text**|Shuaiyi Li et.al.|[2310.12557v1](http://arxiv.org/abs/2310.12557v1)|[link](https://github.com/syon-li/depwignn)|
 |**2023-10-19**|**Contrastive Learning for Inference in Dialogue**|Etsuko Ishii et.al.|[2310.12467v1](http://arxiv.org/abs/2310.12467v1)|[link](https://github.com/hltchkust/contrastive_inference_dialogue)|
-|**2023-10-19**|**MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models**|Deepak Nathani et.al.|[2310.12426v1](http://arxiv.org/abs/2310.12426v1)|null|
+|**2023-10-19**|**MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models**|Deepak Nathani et.al.|[2310.12426v1](http://arxiv.org/abs/2310.12426v1)|[link](https://github.com/deepakn97/maf)|
 |**2023-10-18**|**Eliminating Reasoning via Inferring with Planning: A New Framework to Guide LLMs' Non-linear Thinking**|Yongqi Tong et.al.|[2310.12342v1](http://arxiv.org/abs/2310.12342v1)|null|
 |**2023-10-18**|**Document-Level Language Models for Machine Translation**|Frithjof Petrick et.al.|[2310.12303v1](http://arxiv.org/abs/2310.12303v1)|null|
 |**2023-10-18**|**Pseudointelligence: A Unifying Framework for Language Model Evaluation**|Shikhar Murty et.al.|[2310.12135v1](http://arxiv.org/abs/2310.12135v1)|null|
