@@ -1,7 +1,36 @@
 # arxiv-daily
- Automated deployment @ 2023-10-22 20:26:39
+ Automated deployment @ 2023-10-22 20:48:29
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-10-19**|**Frozen Transformers in Language Models Are Effective Visual Encoder Layers**|Ziqi Pang et.al.|[2310.12973v1](http://arxiv.org/abs/2310.12973v1)|[link](https://github.com/ziqipang/lm4visualencoding)|
+|**2023-10-19**|**Probing LLMs for hate speech detection: strengths and vulnerabilities**|Sarthak Roy et.al.|[2310.12860v1](http://arxiv.org/abs/2310.12860v1)|null|
+|**2023-10-19**|**Large Language Models Help Humans Verify Truthfulness -- Except When They Are Convincingly Wrong**|Chenglei Si et.al.|[2310.12558v1](http://arxiv.org/abs/2310.12558v1)|null|
+|**2023-10-18**|**DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning**|Abhay Zala et.al.|[2310.12128v1](http://arxiv.org/abs/2310.12128v1)|null|
+|**2023-10-18**|**Emptying the Ocean with a Spoon: Should We Edit Models?**|Yuval Pinter et.al.|[2310.11958v1](http://arxiv.org/abs/2310.11958v1)|null|
+|**2023-10-18**|**Rather a Nurse than a Physician -- Contrastive Explanations under Investigation**|Oliver Eberle et.al.|[2310.11906v1](http://arxiv.org/abs/2310.11906v1)|null|
+|**2023-10-18**|**From Neural Activations to Concepts: A Survey on Explaining Concepts in Neural Networks**|Jae Hee Lee et.al.|[2310.11884v1](http://arxiv.org/abs/2310.11884v1)|null|
+|**2023-10-18**|**From Dissonance to Insights: Dissecting Disagreements in Rationale Construction for Case Outcome Classification**|Shanshan Xu et.al.|[2310.11878v2](http://arxiv.org/abs/2310.11878v2)|null|
+|**2023-10-17**|**VECHR: A Dataset for Explainable and Robust Classification of Vulnerability Type in the European Court of Human Rights**|Shanshan Xu et.al.|[2310.11368v2](http://arxiv.org/abs/2310.11368v2)|null|
+|**2023-10-17**|**Can Large Language Models Explain Themselves? A Study of LLM-Generated Self-Explanations**|Shiyuan Huang et.al.|[2310.11207v1](http://arxiv.org/abs/2310.11207v1)|null|
+|**2023-10-17**|**The Quo Vadis of the Relationship between Language and Large Language Models**|Evelina Leivada et.al.|[2310.11146v1](http://arxiv.org/abs/2310.11146v1)|null|
+|**2023-10-17**|**Nonet at SemEval-2023 Task 6: Methodologies for Legal Evaluation**|Shubham Kumar Nigam et.al.|[2310.11049v1](http://arxiv.org/abs/2310.11049v1)|[link](https://github.com/shubhamkumarnigam/legaleval23_nonet)|
+|**2023-10-17**|**EXMODD: An EXplanatory Multimodal Open-Domain Dialogue dataset**|Hang Yin et.al.|[2310.10967v1](http://arxiv.org/abs/2310.10967v1)|[link](https://github.com/poplpr/exmodd)|
+|**2023-10-16**|**BanglaNLP at BLP-2023 Task 1: Benchmarking different Transformer Models for Violence Inciting Text Detection in Bengali**|Saumajit Saha et.al.|[2310.10781v1](http://arxiv.org/abs/2310.10781v1)|null|
+|**2023-10-16**|**Who Are All The Stochastic Parrots Imitating? They Should Tell Us!**|Sagi Shaier et.al.|[2310.10583v1](http://arxiv.org/abs/2310.10583v1)|null|
+|**2023-10-16**|**Emerging Challenges in Personalized Medicine: Assessing Demographic Effects on Biomedical Question Answering Systems**|Sagi Shaier et.al.|[2310.10571v1](http://arxiv.org/abs/2310.10571v1)|null|
+|**2023-10-16**|**Stance Detection with Collaborative Role-Infused LLM-Based Agents**|Xiaochong Lan et.al.|[2310.10467v1](http://arxiv.org/abs/2310.10467v1)|null|
+|**2023-10-16**|**Attribution Patching Outperforms Automated Circuit Discovery**|Aaquib Syed et.al.|[2310.10348v1](http://arxiv.org/abs/2310.10348v1)|null|
+|**2023-10-16**|**Repetition In Repetition Out: Towards Understanding Neural Text Degeneration from the Data Perspective**|Huayang Li et.al.|[2310.10226v1](http://arxiv.org/abs/2310.10226v1)|[link](https://github.com/gmftbygmftby/rep-dropout)|
+|**2023-10-14**|**An End-to-End System for Reproducibility Assessment of Source Code Repositories via Their Readmes**|Eyüp Kaan Akdeniz et.al.|[2310.09634v1](http://arxiv.org/abs/2310.09634v1)|[link](https://github.com/kaanakdeniz/reproducibility_assessment)|
+|**2023-10-13**|**Surveying the Landscape of Text Summarization with Deep Learning: A Comprehensive Review**|Guanghua Wang et.al.|[2310.09411v1](http://arxiv.org/abs/2310.09411v1)|null|
+|**2023-10-13**|**A Comparative Analysis of Task-Agnostic Distillation Methods for Compressing Transformer Language Models**|Takuma Udagawa et.al.|[2310.08797v1](http://arxiv.org/abs/2310.08797v1)|null|
+|**2023-10-12**|**Circuit Component Reuse Across Tasks in Transformer Language Models**|Jack Merullo et.al.|[2310.08744v1](http://arxiv.org/abs/2310.08744v1)|null|
 
 ## Question Answering
 
@@ -70,35 +99,6 @@
 |**2023-10-14**|**Computational analyses of linguistic features with schizophrenic and autistic traits along with formal thought disorders**|Takeshi Saga et.al.|[2310.09494v1](http://arxiv.org/abs/2310.09494v1)|null|
 |**2023-10-13**|**Enhancing BERT-Based Visual Question Answering through Keyword-Driven Sentence Selection**|Davide Napolitano et.al.|[2310.09432v1](http://arxiv.org/abs/2310.09432v1)|null|
 |**2023-10-13**|**A Systematic Evaluation of Large Language Models on Out-of-Distribution Logical Reasoning Tasks**|Qiming Bao et.al.|[2310.09430v3](http://arxiv.org/abs/2310.09430v3)|[link](https://github.com/strong-ai-lab/logical-and-abstract-reasoning)|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-10-19**|**Frozen Transformers in Language Models Are Effective Visual Encoder Layers**|Ziqi Pang et.al.|[2310.12973v1](http://arxiv.org/abs/2310.12973v1)|[link](https://github.com/ziqipang/lm4visualencoding)|
-|**2023-10-19**|**Probing LLMs for hate speech detection: strengths and vulnerabilities**|Sarthak Roy et.al.|[2310.12860v1](http://arxiv.org/abs/2310.12860v1)|null|
-|**2023-10-19**|**Large Language Models Help Humans Verify Truthfulness -- Except When They Are Convincingly Wrong**|Chenglei Si et.al.|[2310.12558v1](http://arxiv.org/abs/2310.12558v1)|null|
-|**2023-10-18**|**DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning**|Abhay Zala et.al.|[2310.12128v1](http://arxiv.org/abs/2310.12128v1)|null|
-|**2023-10-18**|**Emptying the Ocean with a Spoon: Should We Edit Models?**|Yuval Pinter et.al.|[2310.11958v1](http://arxiv.org/abs/2310.11958v1)|null|
-|**2023-10-18**|**Rather a Nurse than a Physician -- Contrastive Explanations under Investigation**|Oliver Eberle et.al.|[2310.11906v1](http://arxiv.org/abs/2310.11906v1)|null|
-|**2023-10-18**|**From Neural Activations to Concepts: A Survey on Explaining Concepts in Neural Networks**|Jae Hee Lee et.al.|[2310.11884v1](http://arxiv.org/abs/2310.11884v1)|null|
-|**2023-10-18**|**From Dissonance to Insights: Dissecting Disagreements in Rationale Construction for Case Outcome Classification**|Shanshan Xu et.al.|[2310.11878v2](http://arxiv.org/abs/2310.11878v2)|null|
-|**2023-10-17**|**VECHR: A Dataset for Explainable and Robust Classification of Vulnerability Type in the European Court of Human Rights**|Shanshan Xu et.al.|[2310.11368v2](http://arxiv.org/abs/2310.11368v2)|null|
-|**2023-10-17**|**Can Large Language Models Explain Themselves? A Study of LLM-Generated Self-Explanations**|Shiyuan Huang et.al.|[2310.11207v1](http://arxiv.org/abs/2310.11207v1)|null|
-|**2023-10-17**|**The Quo Vadis of the Relationship between Language and Large Language Models**|Evelina Leivada et.al.|[2310.11146v1](http://arxiv.org/abs/2310.11146v1)|null|
-|**2023-10-17**|**Nonet at SemEval-2023 Task 6: Methodologies for Legal Evaluation**|Shubham Kumar Nigam et.al.|[2310.11049v1](http://arxiv.org/abs/2310.11049v1)|[link](https://github.com/shubhamkumarnigam/legaleval23_nonet)|
-|**2023-10-17**|**EXMODD: An EXplanatory Multimodal Open-Domain Dialogue dataset**|Hang Yin et.al.|[2310.10967v1](http://arxiv.org/abs/2310.10967v1)|[link](https://github.com/poplpr/exmodd)|
-|**2023-10-16**|**BanglaNLP at BLP-2023 Task 1: Benchmarking different Transformer Models for Violence Inciting Text Detection in Bengali**|Saumajit Saha et.al.|[2310.10781v1](http://arxiv.org/abs/2310.10781v1)|null|
-|**2023-10-16**|**Who Are All The Stochastic Parrots Imitating? They Should Tell Us!**|Sagi Shaier et.al.|[2310.10583v1](http://arxiv.org/abs/2310.10583v1)|null|
-|**2023-10-16**|**Emerging Challenges in Personalized Medicine: Assessing Demographic Effects on Biomedical Question Answering Systems**|Sagi Shaier et.al.|[2310.10571v1](http://arxiv.org/abs/2310.10571v1)|null|
-|**2023-10-16**|**Stance Detection with Collaborative Role-Infused LLM-Based Agents**|Xiaochong Lan et.al.|[2310.10467v1](http://arxiv.org/abs/2310.10467v1)|null|
-|**2023-10-16**|**Attribution Patching Outperforms Automated Circuit Discovery**|Aaquib Syed et.al.|[2310.10348v1](http://arxiv.org/abs/2310.10348v1)|null|
-|**2023-10-16**|**Repetition In Repetition Out: Towards Understanding Neural Text Degeneration from the Data Perspective**|Huayang Li et.al.|[2310.10226v1](http://arxiv.org/abs/2310.10226v1)|[link](https://github.com/gmftbygmftby/rep-dropout)|
-|**2023-10-14**|**An End-to-End System for Reproducibility Assessment of Source Code Repositories via Their Readmes**|Eyüp Kaan Akdeniz et.al.|[2310.09634v1](http://arxiv.org/abs/2310.09634v1)|[link](https://github.com/kaanakdeniz/reproducibility_assessment)|
-|**2023-10-13**|**Surveying the Landscape of Text Summarization with Deep Learning: A Comprehensive Review**|Guanghua Wang et.al.|[2310.09411v1](http://arxiv.org/abs/2310.09411v1)|null|
-|**2023-10-13**|**A Comparative Analysis of Task-Agnostic Distillation Methods for Compressing Transformer Language Models**|Takuma Udagawa et.al.|[2310.08797v1](http://arxiv.org/abs/2310.08797v1)|null|
-|**2023-10-12**|**Circuit Component Reuse Across Tasks in Transformer Language Models**|Jack Merullo et.al.|[2310.08744v1](http://arxiv.org/abs/2310.08744v1)|null|
 
 ## Reasoning
 
