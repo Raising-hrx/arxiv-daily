@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-10-29 09:08:29
+ Automated deployment @ 2023-10-29 20:26:05
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -289,7 +289,7 @@
 |**2023-10-12**|**A Zero-Shot Language Agent for Computer Control with Structured Reflection**|Tao Li et.al.|[2310.08740v3](http://arxiv.org/abs/2310.08740v3)|null|
 |**2023-10-12**|**Can GPT models be Financial Analysts? An Evaluation of ChatGPT and GPT-4 on mock CFA Exams**|Ethan Callanan et.al.|[2310.08678v1](http://arxiv.org/abs/2310.08678v1)|null|
 |**2023-10-12**|**Visual Data-Type Understanding does not emerge from Scaling Vision-Language Models**|Vishaal Udandarao et.al.|[2310.08577v2](http://arxiv.org/abs/2310.08577v2)|[link](https://github.com/bethgelab/DataTypeIdentification)|
-|**2023-10-12**|**Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement**|Linlu Qiu et.al.|[2310.08559v1](http://arxiv.org/abs/2310.08559v1)|null|
+|**2023-10-12**|**Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement**|Linlu Qiu et.al.|[2310.08559v1](http://arxiv.org/abs/2310.08559v1)|[link](https://github.com/linlu-qiu/lm-inductive-reasoning)|
 |**2023-10-12**|**HoneyBee: Progressive Instruction Finetuning of Large Language Models for Materials Science**|Yu Song et.al.|[2310.08511v1](http://arxiv.org/abs/2310.08511v1)|[link](https://github.com/BangLab-UdeM-Mila/NLP4MatSci-HoneyBee)|
 |**2023-10-12**|**Prompting Large Language Models with Chain-of-Thought for Few-Shot Knowledge Base Question Generation**|Yuanyuan Liang et.al.|[2310.08395v3](http://arxiv.org/abs/2310.08395v3)|null|
 |**2023-10-12**|**From Large Language Models to Knowledge Graphs for Biomarker Discovery in Cancer**|Md. Rezaul Karim et.al.|[2310.08365v1](http://arxiv.org/abs/2310.08365v1)|null|
