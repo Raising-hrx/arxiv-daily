@@ -1,7 +1,33 @@
 # arxiv-daily
- Automated deployment @ 2023-11-07 20:52:21
+ Automated deployment @ 2023-11-07 21:12:04
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-06**|**Incorporating Worker Perspectives into MTurk Annotation Practices for NLP**|Olivia Huang et.al.|[2311.02802v1](http://arxiv.org/abs/2311.02802v1)|null|
+|**2023-11-04**|**You Only Forward Once: Prediction and Rationalization in A Single Forward Pass**|Han Jiang et.al.|[2311.02344v1](http://arxiv.org/abs/2311.02344v1)|null|
+|**2023-11-03**|**The language of prompting: What linguistic properties make a prompt successful?**|Alina Leidinger et.al.|[2311.01967v1](http://arxiv.org/abs/2311.01967v1)|null|
+|**2023-11-03**|**Sentiment Analysis through LLM Negotiations**|Xiaofei Sun et.al.|[2311.01876v1](http://arxiv.org/abs/2311.01876v1)|null|
+|**2023-11-03**|**Proto-lm: A Prototypical Network-Based Framework for Built-in Interpretability in Large Language Models**|Sean Xie et.al.|[2311.01732v1](http://arxiv.org/abs/2311.01732v1)|[link](https://github.com/yx131/proto-lm)|
+|**2023-11-02**|**GPT-4V(ision) as a Generalist Evaluator for Vision-Language Tasks**|Xinlu Zhang et.al.|[2311.01361v1](http://arxiv.org/abs/2311.01361v1)|null|
+|**2023-11-02**|**A Study of Continual Learning Under Language Shift**|Evangelia Gogoulou et.al.|[2311.01200v1](http://arxiv.org/abs/2311.01200v1)|null|
+|**2023-11-01**|**Emotion Detection for Misinformation: A Review**|Zhiwei Liu et.al.|[2311.00671v1](http://arxiv.org/abs/2311.00671v1)|null|
+|**2023-11-01**|**Discourse Relations Classification and Cross-Framework Discourse Relation Classification Through the Lens of Cognitive Dimensions: An Empirical Investigation**|Yingxue Fu et.al.|[2311.00451v1](http://arxiv.org/abs/2311.00451v1)|null|
+|**2023-11-01**|**HARE: Explainable Hate Speech Detection with Step-by-Step Reasoning**|Yongjin Yang et.al.|[2311.00321v1](http://arxiv.org/abs/2311.00321v1)|[link](https://github.com/joonkeekim/hare-hate-speech)|
+|**2023-10-31**|**XAI-CLASS: Explanation-Enhanced Text Classification with Extremely Weak Supervision**|Daniel Hajialigol et.al.|[2311.00189v1](http://arxiv.org/abs/2311.00189v1)|null|
+|**2023-10-31**|**Longer Fixations, More Computation: Gaze-Guided Recurrent Neural Networks**|Xinting Huang et.al.|[2311.00159v1](http://arxiv.org/abs/2311.00159v1)|null|
+|**2023-10-31**|**Learning From Mistakes Makes LLM Better Reasoner**|Shengnan An et.al.|[2310.20689v1](http://arxiv.org/abs/2310.20689v1)|[link](https://github.com/microsoft/codet)|
+|**2023-10-31**|**Theory of Mind in Large Language Models: Examining Performance of 11 State-of-the-Art models vs. Children Aged 7-10 on Advanced Tests**|Max J. van Duijn et.al.|[2310.20320v1](http://arxiv.org/abs/2310.20320v1)|null|
+|**2023-10-31**|**Learning to Play Chess from Textbooks (LEAP): a Corpus for Evaluating Chess Moves based on Sentiment Analysis**|Haifa Alrdahi et.al.|[2310.20260v1](http://arxiv.org/abs/2310.20260v1)|[link](https://github.com/resrepos/leap)|
+|**2023-10-30**|**Faithful and Robust Local Interpretability for Textual Predictions**|Gianluigi Lopardo et.al.|[2311.01605v1](http://arxiv.org/abs/2311.01605v1)|[link](https://github.com/gianluigilopardo/fred)|
+|**2023-10-30**|**The Eval4NLP 2023 Shared Task on Prompting Large Language Models as Explainable Metrics**|Christoph Leiter et.al.|[2310.19792v1](http://arxiv.org/abs/2310.19792v1)|[link](https://github.com/eval4nlp/sharedtask2023)|
+|**2023-10-30**|**Interpretable-by-Design Text Classification with Iteratively Generated Concept Bottleneck**|Josh Magnus Ludan et.al.|[2310.19660v1](http://arxiv.org/abs/2310.19660v1)|[link](https://github.com/jmrludan/tbm)|
+|**2023-10-30**|**Explaining Tree Model Decisions in Natural Language for Network Intrusion Detection**|Noah Ziems et.al.|[2310.19658v1](http://arxiv.org/abs/2310.19658v1)|null|
+|**2023-10-30**|**DPATD: Dual-Phase Audio Transformer for Denoising**|Junhui Li et.al.|[2310.19588v1](http://arxiv.org/abs/2310.19588v1)|null|
 
 ## Question Answering
 
@@ -63,32 +89,6 @@
 |**2023-10-30**|**Generative retrieval-augmented ontologic graph and multi-agent strategies for interpretive large language model-based materials design**|Markus J. Buehler et.al.|[2310.19998v1](http://arxiv.org/abs/2310.19998v1)|null|
 |**2023-10-30**|**BioInstruct: Instruction Tuning of Large Language Models for Biomedical Natural Language Processing**|Hieu Tran et.al.|[2310.19975v2](http://arxiv.org/abs/2310.19975v2)|null|
 |**2023-10-30**|**Split-NER: Named Entity Recognition via Two Question-Answering-based Classifications**|Jatin Arora et.al.|[2310.19942v1](http://arxiv.org/abs/2310.19942v1)|null|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-06**|**Incorporating Worker Perspectives into MTurk Annotation Practices for NLP**|Olivia Huang et.al.|[2311.02802v1](http://arxiv.org/abs/2311.02802v1)|null|
-|**2023-11-04**|**You Only Forward Once: Prediction and Rationalization in A Single Forward Pass**|Han Jiang et.al.|[2311.02344v1](http://arxiv.org/abs/2311.02344v1)|null|
-|**2023-11-03**|**The language of prompting: What linguistic properties make a prompt successful?**|Alina Leidinger et.al.|[2311.01967v1](http://arxiv.org/abs/2311.01967v1)|null|
-|**2023-11-03**|**Sentiment Analysis through LLM Negotiations**|Xiaofei Sun et.al.|[2311.01876v1](http://arxiv.org/abs/2311.01876v1)|null|
-|**2023-11-03**|**Proto-lm: A Prototypical Network-Based Framework for Built-in Interpretability in Large Language Models**|Sean Xie et.al.|[2311.01732v1](http://arxiv.org/abs/2311.01732v1)|[link](https://github.com/yx131/proto-lm)|
-|**2023-11-02**|**GPT-4V(ision) as a Generalist Evaluator for Vision-Language Tasks**|Xinlu Zhang et.al.|[2311.01361v1](http://arxiv.org/abs/2311.01361v1)|null|
-|**2023-11-02**|**A Study of Continual Learning Under Language Shift**|Evangelia Gogoulou et.al.|[2311.01200v1](http://arxiv.org/abs/2311.01200v1)|null|
-|**2023-11-01**|**Emotion Detection for Misinformation: A Review**|Zhiwei Liu et.al.|[2311.00671v1](http://arxiv.org/abs/2311.00671v1)|null|
-|**2023-11-01**|**Discourse Relations Classification and Cross-Framework Discourse Relation Classification Through the Lens of Cognitive Dimensions: An Empirical Investigation**|Yingxue Fu et.al.|[2311.00451v1](http://arxiv.org/abs/2311.00451v1)|null|
-|**2023-11-01**|**HARE: Explainable Hate Speech Detection with Step-by-Step Reasoning**|Yongjin Yang et.al.|[2311.00321v1](http://arxiv.org/abs/2311.00321v1)|[link](https://github.com/joonkeekim/hare-hate-speech)|
-|**2023-10-31**|**XAI-CLASS: Explanation-Enhanced Text Classification with Extremely Weak Supervision**|Daniel Hajialigol et.al.|[2311.00189v1](http://arxiv.org/abs/2311.00189v1)|null|
-|**2023-10-31**|**Longer Fixations, More Computation: Gaze-Guided Recurrent Neural Networks**|Xinting Huang et.al.|[2311.00159v1](http://arxiv.org/abs/2311.00159v1)|null|
-|**2023-10-31**|**Learning From Mistakes Makes LLM Better Reasoner**|Shengnan An et.al.|[2310.20689v1](http://arxiv.org/abs/2310.20689v1)|[link](https://github.com/microsoft/codet)|
-|**2023-10-31**|**Theory of Mind in Large Language Models: Examining Performance of 11 State-of-the-Art models vs. Children Aged 7-10 on Advanced Tests**|Max J. van Duijn et.al.|[2310.20320v1](http://arxiv.org/abs/2310.20320v1)|null|
-|**2023-10-31**|**Learning to Play Chess from Textbooks (LEAP): a Corpus for Evaluating Chess Moves based on Sentiment Analysis**|Haifa Alrdahi et.al.|[2310.20260v1](http://arxiv.org/abs/2310.20260v1)|[link](https://github.com/resrepos/leap)|
-|**2023-10-30**|**Faithful and Robust Local Interpretability for Textual Predictions**|Gianluigi Lopardo et.al.|[2311.01605v1](http://arxiv.org/abs/2311.01605v1)|[link](https://github.com/gianluigilopardo/fred)|
-|**2023-10-30**|**The Eval4NLP 2023 Shared Task on Prompting Large Language Models as Explainable Metrics**|Christoph Leiter et.al.|[2310.19792v1](http://arxiv.org/abs/2310.19792v1)|[link](https://github.com/eval4nlp/sharedtask2023)|
-|**2023-10-30**|**Interpretable-by-Design Text Classification with Iteratively Generated Concept Bottleneck**|Josh Magnus Ludan et.al.|[2310.19660v1](http://arxiv.org/abs/2310.19660v1)|[link](https://github.com/jmrludan/tbm)|
-|**2023-10-30**|**Explaining Tree Model Decisions in Natural Language for Network Intrusion Detection**|Noah Ziems et.al.|[2310.19658v1](http://arxiv.org/abs/2310.19658v1)|null|
-|**2023-10-30**|**DPATD: Dual-Phase Audio Transformer for Denoising**|Junhui Li et.al.|[2310.19588v1](http://arxiv.org/abs/2310.19588v1)|null|
 
 ## Reasoning
 
