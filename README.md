@@ -1,7 +1,36 @@
 # arxiv-daily
- Automated deployment @ 2023-11-23 20:29:32
+ Automated deployment @ 2023-11-23 20:54:03
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-22**|**Generation of Explanations for Logic Reasoning**|Yanyi Pu et.al.|[2311.13455v1](http://arxiv.org/abs/2311.13455v1)|null|
+|**2023-11-22**|**Fact-based Court Judgment Prediction**|Shubham Kumar Nigam et.al.|[2311.13350v1](http://arxiv.org/abs/2311.13350v1)|null|
+|**2023-11-22**|**Combatting Human Trafficking in the Cyberspace: A Natural Language Processing-Based Methodology to Analyze the Language in Online Advertisements**|Alejandro Rodriguez Perez et.al.|[2311.13118v1](http://arxiv.org/abs/2311.13118v1)|null|
+|**2023-11-21**|**InterPrompt: Interpretable Prompting for Interrelated Interpersonal Risk Factors in Reddit Posts**|MSVPJ Sathvik et.al.|[2311.12404v1](http://arxiv.org/abs/2311.12404v1)|null|
+|**2023-11-20**|**Unifying Corroborative and Contributive Attributions in Large Language Models**|Theodora Worledge et.al.|[2311.12233v1](http://arxiv.org/abs/2311.12233v1)|null|
+|**2023-11-20**|**LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions**|Songhao Han et.al.|[2311.11904v1](http://arxiv.org/abs/2311.11904v1)|null|
+|**2023-11-20**|**Exploring Prompting Large Language Models as Explainable Metrics**|Ghazaleh Mahmoudi et.al.|[2311.11552v1](http://arxiv.org/abs/2311.11552v1)|[link](https://github.com/ghazaleh-mahmoodi/Prompting_LLMs_AS_Explainable_Metrics)|
+|**2023-11-19**|**Rethinking Large Language Models in Mental Health Applications**|Shaoxiong Ji et.al.|[2311.11267v1](http://arxiv.org/abs/2311.11267v1)|null|
+|**2023-11-19**|**SPLAIN: Augmenting CybersecurityWarnings with Reasons and Data**|Vera A. Kazakova et.al.|[2311.11215v1](http://arxiv.org/abs/2311.11215v1)|null|
+|**2023-11-18**|**Representing visual classification as a linear combination of words**|Shobhit Agarwal et.al.|[2311.10933v1](http://arxiv.org/abs/2311.10933v1)|[link](https://github.com/lotterlab/task_word_explainability)|
+|**2023-11-18**|**Explainable Product Classification for Customs**|Eunji Lee et.al.|[2311.10922v1](http://arxiv.org/abs/2311.10922v1)|null|
+|**2023-11-16**|**ChatGPT-3.5, ChatGPT-4, Google Bard, and Microsoft Bing to Improve Health Literacy and Communication in Pediatric Populations and Beyond**|Kanhai S. Amin et.al.|[2311.10075v1](http://arxiv.org/abs/2311.10075v1)|null|
+|**2023-11-16**|**Is "A Helpful Assistant" the Best Role for Large Language Models? A Systematic Evaluation of Social Roles in System Prompts**|Mingqian Zheng et.al.|[2311.10054v1](http://arxiv.org/abs/2311.10054v1)|null|
+|**2023-11-16**|**ExFake: Towards an Explainable Fake News Detection Based on Content and Social Context Information**|Sabrine Amri et.al.|[2311.10784v1](http://arxiv.org/abs/2311.10784v1)|null|
+|**2023-11-16**|**Digital Socrates: Evaluating LLMs through explanation critiques**|Yuling Gu et.al.|[2311.09613v1](http://arxiv.org/abs/2311.09613v1)|null|
+|**2023-11-16**|**GEE! Grammar Error Explanation with Large Language Models**|Yixiao Song et.al.|[2311.09517v1](http://arxiv.org/abs/2311.09517v1)|[link](https://github.com/yixiao-song/gee-with-llms)|
+|**2023-11-15**|**Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset**|Brooklyn Sheppard et.al.|[2311.09443v1](http://arxiv.org/abs/2311.09443v1)|null|
+|**2023-11-15**|**Long-form Question Answering: An Iterative Planning-Retrieval-Generation Approach**|Pritom Saha Akash et.al.|[2311.09383v1](http://arxiv.org/abs/2311.09383v1)|null|
+|**2023-11-15**|**VideoCon: Robust Video-Language Alignment via Contrast Captions**|Hritik Bansal et.al.|[2311.10111v1](http://arxiv.org/abs/2311.10111v1)|[link](https://github.com/hritikbansal/videocon)|
+|**2023-11-15**|**Identifying Self-Disclosures of Use, Misuse and Addiction in Community-based Social Media Posts**|Chenghao Yang et.al.|[2311.09066v1](http://arxiv.org/abs/2311.09066v1)|null|
+|**2023-11-15**|**Data Similarity is Not Enough to Explain Language Model Performance**|Gregory Yauney et.al.|[2311.09006v1](http://arxiv.org/abs/2311.09006v1)|[link](https://github.com/gyauney/data-similarity-is-not-enough)|
+|**2023-11-15**|**Formal Proofs as Structured Explanations: Proposing Several Tasks on Explainable Natural Language Inference**|Lasha Abzianidze et.al.|[2311.08637v1](http://arxiv.org/abs/2311.08637v1)|null|
+|**2023-11-15**|**XplainLLM: A QA Explanation Dataset for Understanding LLM Decision-Making**|Zichen Chen et.al.|[2311.08614v1](http://arxiv.org/abs/2311.08614v1)|null|
 
 ## Question Answering
 
@@ -61,35 +90,6 @@
 |**2023-11-16**|**You don't need a personality test to know these models are unreliable: Assessing the Reliability of Large Language Models on Psychometric Instruments**|Bangzhao Shu et.al.|[2311.09718v1](http://arxiv.org/abs/2311.09718v1)|[link](https://github.com/orange0629/llm-personas)|
 |**2023-11-16**|**Deceiving Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination?**|Bangzheng Li et.al.|[2311.09702v1](http://arxiv.org/abs/2311.09702v1)|null|
 |**2023-11-16**|**Whispers of Doubt Amidst Echoes of Triumph in NLP Robustness**|Ashim Gupta et.al.|[2311.09694v1](http://arxiv.org/abs/2311.09694v1)|null|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-22**|**Generation of Explanations for Logic Reasoning**|Yanyi Pu et.al.|[2311.13455v1](http://arxiv.org/abs/2311.13455v1)|null|
-|**2023-11-22**|**Fact-based Court Judgment Prediction**|Shubham Kumar Nigam et.al.|[2311.13350v1](http://arxiv.org/abs/2311.13350v1)|null|
-|**2023-11-22**|**Combatting Human Trafficking in the Cyberspace: A Natural Language Processing-Based Methodology to Analyze the Language in Online Advertisements**|Alejandro Rodriguez Perez et.al.|[2311.13118v1](http://arxiv.org/abs/2311.13118v1)|null|
-|**2023-11-21**|**InterPrompt: Interpretable Prompting for Interrelated Interpersonal Risk Factors in Reddit Posts**|MSVPJ Sathvik et.al.|[2311.12404v1](http://arxiv.org/abs/2311.12404v1)|null|
-|**2023-11-20**|**Unifying Corroborative and Contributive Attributions in Large Language Models**|Theodora Worledge et.al.|[2311.12233v1](http://arxiv.org/abs/2311.12233v1)|null|
-|**2023-11-20**|**LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions**|Songhao Han et.al.|[2311.11904v1](http://arxiv.org/abs/2311.11904v1)|null|
-|**2023-11-20**|**Exploring Prompting Large Language Models as Explainable Metrics**|Ghazaleh Mahmoudi et.al.|[2311.11552v1](http://arxiv.org/abs/2311.11552v1)|[link](https://github.com/ghazaleh-mahmoodi/Prompting_LLMs_AS_Explainable_Metrics)|
-|**2023-11-19**|**Rethinking Large Language Models in Mental Health Applications**|Shaoxiong Ji et.al.|[2311.11267v1](http://arxiv.org/abs/2311.11267v1)|null|
-|**2023-11-19**|**SPLAIN: Augmenting CybersecurityWarnings with Reasons and Data**|Vera A. Kazakova et.al.|[2311.11215v1](http://arxiv.org/abs/2311.11215v1)|null|
-|**2023-11-18**|**Representing visual classification as a linear combination of words**|Shobhit Agarwal et.al.|[2311.10933v1](http://arxiv.org/abs/2311.10933v1)|[link](https://github.com/lotterlab/task_word_explainability)|
-|**2023-11-18**|**Explainable Product Classification for Customs**|Eunji Lee et.al.|[2311.10922v1](http://arxiv.org/abs/2311.10922v1)|null|
-|**2023-11-16**|**ChatGPT-3.5, ChatGPT-4, Google Bard, and Microsoft Bing to Improve Health Literacy and Communication in Pediatric Populations and Beyond**|Kanhai S. Amin et.al.|[2311.10075v1](http://arxiv.org/abs/2311.10075v1)|null|
-|**2023-11-16**|**Is "A Helpful Assistant" the Best Role for Large Language Models? A Systematic Evaluation of Social Roles in System Prompts**|Mingqian Zheng et.al.|[2311.10054v1](http://arxiv.org/abs/2311.10054v1)|null|
-|**2023-11-16**|**ExFake: Towards an Explainable Fake News Detection Based on Content and Social Context Information**|Sabrine Amri et.al.|[2311.10784v1](http://arxiv.org/abs/2311.10784v1)|null|
-|**2023-11-16**|**Digital Socrates: Evaluating LLMs through explanation critiques**|Yuling Gu et.al.|[2311.09613v1](http://arxiv.org/abs/2311.09613v1)|null|
-|**2023-11-16**|**GEE! Grammar Error Explanation with Large Language Models**|Yixiao Song et.al.|[2311.09517v1](http://arxiv.org/abs/2311.09517v1)|[link](https://github.com/yixiao-song/gee-with-llms)|
-|**2023-11-15**|**Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset**|Brooklyn Sheppard et.al.|[2311.09443v1](http://arxiv.org/abs/2311.09443v1)|null|
-|**2023-11-15**|**Long-form Question Answering: An Iterative Planning-Retrieval-Generation Approach**|Pritom Saha Akash et.al.|[2311.09383v1](http://arxiv.org/abs/2311.09383v1)|null|
-|**2023-11-15**|**VideoCon: Robust Video-Language Alignment via Contrast Captions**|Hritik Bansal et.al.|[2311.10111v1](http://arxiv.org/abs/2311.10111v1)|[link](https://github.com/hritikbansal/videocon)|
-|**2023-11-15**|**Identifying Self-Disclosures of Use, Misuse and Addiction in Community-based Social Media Posts**|Chenghao Yang et.al.|[2311.09066v1](http://arxiv.org/abs/2311.09066v1)|null|
-|**2023-11-15**|**Data Similarity is Not Enough to Explain Language Model Performance**|Gregory Yauney et.al.|[2311.09006v1](http://arxiv.org/abs/2311.09006v1)|[link](https://github.com/gyauney/data-similarity-is-not-enough)|
-|**2023-11-15**|**Formal Proofs as Structured Explanations: Proposing Several Tasks on Explainable Natural Language Inference**|Lasha Abzianidze et.al.|[2311.08637v1](http://arxiv.org/abs/2311.08637v1)|null|
-|**2023-11-15**|**XplainLLM: A QA Explanation Dataset for Understanding LLM Decision-Making**|Zichen Chen et.al.|[2311.08614v1](http://arxiv.org/abs/2311.08614v1)|null|
 
 ## Reasoning
 
