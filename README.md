@@ -1,42 +1,17 @@
 # arxiv-daily
- Automated deployment @ 2023-11-23 09:07:34
+ Automated deployment @ 2023-11-23 20:29:32
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-21**|**InterPrompt: Interpretable Prompting for Interrelated Interpersonal Risk Factors in Reddit Posts**|MSVPJ Sathvik et.al.|[2311.12404v1](http://arxiv.org/abs/2311.12404v1)|null|
-|**2023-11-20**|**Unifying Corroborative and Contributive Attributions in Large Language Models**|Theodora Worledge et.al.|[2311.12233v1](http://arxiv.org/abs/2311.12233v1)|null|
-|**2023-11-20**|**LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions**|Songhao Han et.al.|[2311.11904v1](http://arxiv.org/abs/2311.11904v1)|null|
-|**2023-11-20**|**Exploring Prompting Large Language Models as Explainable Metrics**|Ghazaleh Mahmoudi et.al.|[2311.11552v1](http://arxiv.org/abs/2311.11552v1)|[link](https://github.com/ghazaleh-mahmoodi/Prompting_LLMs_AS_Explainable_Metrics)|
-|**2023-11-19**|**Rethinking Large Language Models in Mental Health Applications**|Shaoxiong Ji et.al.|[2311.11267v1](http://arxiv.org/abs/2311.11267v1)|null|
-|**2023-11-19**|**SPLAIN: Augmenting CybersecurityWarnings with Reasons and Data**|Vera A. Kazakova et.al.|[2311.11215v1](http://arxiv.org/abs/2311.11215v1)|null|
-|**2023-11-18**|**Representing visual classification as a linear combination of words**|Shobhit Agarwal et.al.|[2311.10933v1](http://arxiv.org/abs/2311.10933v1)|[link](https://github.com/lotterlab/task_word_explainability)|
-|**2023-11-18**|**Explainable Product Classification for Customs**|Eunji Lee et.al.|[2311.10922v1](http://arxiv.org/abs/2311.10922v1)|null|
-|**2023-11-16**|**ChatGPT-3.5, ChatGPT-4, Google Bard, and Microsoft Bing to Improve Health Literacy and Communication in Pediatric Populations and Beyond**|Kanhai S. Amin et.al.|[2311.10075v1](http://arxiv.org/abs/2311.10075v1)|null|
-|**2023-11-16**|**Is "A Helpful Assistant" the Best Role for Large Language Models? A Systematic Evaluation of Social Roles in System Prompts**|Mingqian Zheng et.al.|[2311.10054v1](http://arxiv.org/abs/2311.10054v1)|null|
-|**2023-11-16**|**ExFake: Towards an Explainable Fake News Detection Based on Content and Social Context Information**|Sabrine Amri et.al.|[2311.10784v1](http://arxiv.org/abs/2311.10784v1)|null|
-|**2023-11-16**|**Digital Socrates: Evaluating LLMs through explanation critiques**|Yuling Gu et.al.|[2311.09613v1](http://arxiv.org/abs/2311.09613v1)|null|
-|**2023-11-16**|**GEE! Grammar Error Explanation with Large Language Models**|Yixiao Song et.al.|[2311.09517v1](http://arxiv.org/abs/2311.09517v1)|[link](https://github.com/yixiao-song/gee-with-llms)|
-|**2023-11-15**|**Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset**|Brooklyn Sheppard et.al.|[2311.09443v1](http://arxiv.org/abs/2311.09443v1)|null|
-|**2023-11-15**|**Long-form Question Answering: An Iterative Planning-Retrieval-Generation Approach**|Pritom Saha Akash et.al.|[2311.09383v1](http://arxiv.org/abs/2311.09383v1)|null|
-|**2023-11-15**|**VideoCon: Robust Video-Language Alignment via Contrast Captions**|Hritik Bansal et.al.|[2311.10111v1](http://arxiv.org/abs/2311.10111v1)|[link](https://github.com/hritikbansal/videocon)|
-|**2023-11-15**|**Identifying Self-Disclosures of Use, Misuse and Addiction in Community-based Social Media Posts**|Chenghao Yang et.al.|[2311.09066v1](http://arxiv.org/abs/2311.09066v1)|null|
-|**2023-11-15**|**Data Similarity is Not Enough to Explain Language Model Performance**|Gregory Yauney et.al.|[2311.09006v1](http://arxiv.org/abs/2311.09006v1)|[link](https://github.com/gyauney/data-similarity-is-not-enough)|
-|**2023-11-15**|**Formal Proofs as Structured Explanations: Proposing Several Tasks on Explainable Natural Language Inference**|Lasha Abzianidze et.al.|[2311.08637v1](http://arxiv.org/abs/2311.08637v1)|null|
-|**2023-11-15**|**XplainLLM: A QA Explanation Dataset for Understanding LLM Decision-Making**|Zichen Chen et.al.|[2311.08614v1](http://arxiv.org/abs/2311.08614v1)|null|
-|**2023-11-14**|**Natural Language Processing for Financial Regulation**|Ixandra Achitouv et.al.|[2311.08533v1](http://arxiv.org/abs/2311.08533v1)|null|
-|**2023-11-14**|**UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations**|Wenting Zhao et.al.|[2311.08469v1](http://arxiv.org/abs/2311.08469v1)|null|
-|**2023-11-14**|**Are Large Language Models Temporally Grounded?**|Yifu Qiu et.al.|[2311.08398v2](http://arxiv.org/abs/2311.08398v2)|[link](https://github.com/yfqiu-nlp/temporal-llms)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-22**|**Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering**|Inderjeet Nair et.al.|[2311.13565v1](http://arxiv.org/abs/2311.13565v1)|null|
+|**2023-11-22**|**Intention and Context Elicitation with Large Language Models in the Legal Aid Intake Process**|Nick Goodson et.al.|[2311.13281v1](http://arxiv.org/abs/2311.13281v1)|null|
+|**2023-11-22**|**Enhancing Logical Reasoning in Large Language Models to Facilitate Legal Applications**|Ha-Thanh Nguyen et.al.|[2311.13095v1](http://arxiv.org/abs/2311.13095v1)|null|
+|**2023-11-21**|**GAIA: a benchmark for General AI Assistants**|Grégoire Mialon et.al.|[2311.12983v1](http://arxiv.org/abs/2311.12983v1)|null|
 |**2023-11-21**|**Keeping Users Engaged During Repeated Administration of the Same Questionnaire: Using Large Language Models to Reliably Diversify Questions**|Hye Sun Yun et.al.|[2311.12707v1](http://arxiv.org/abs/2311.12707v1)|null|
 |**2023-11-21**|**Evaluation Metrics of Language Generation Models for Synthetic Traffic Generation Tasks**|Simone Filice et.al.|[2311.12534v1](http://arxiv.org/abs/2311.12534v1)|null|
 |**2023-11-21**|**CSMeD: Bridging the Dataset Gap in Automated Citation Screening for Systematic Literature Reviews**|Wojciech Kusa et.al.|[2311.12474v1](http://arxiv.org/abs/2311.12474v1)|[link](https://github.com/wojciechkusa/systematic-review-datasets)|
@@ -57,6 +32,7 @@
 |**2023-11-18**|**Experts-in-the-Loop: Establishing an Effective Workflow in Crafting Privacy Q&A**|Zahra Kolagar et.al.|[2311.11161v1](http://arxiv.org/abs/2311.11161v1)|null|
 |**2023-11-18**|**Behavior Optimized Image Generation**|Varun Khurana et.al.|[2311.10995v1](http://arxiv.org/abs/2311.10995v1)|null|
 |**2023-11-18**|**Journey of Hallucination-minimized Generative AI Solutions for Financial Decision Makers**|Sohini Roychowdhury et.al.|[2311.10961v1](http://arxiv.org/abs/2311.10961v1)|null|
+|**2023-11-18**|**An Embodied Generalist Agent in 3D World**|Jiangyong Huang et.al.|[2311.12871v1](http://arxiv.org/abs/2311.12871v1)|[link](https://github.com/embodied-generalist/embodied-generalist)|
 |**2023-11-17**|**PEFT-MedAware: Large Language Model for Medical Awareness**|Keivalya Pandya et.al.|[2311.10697v1](http://arxiv.org/abs/2311.10697v1)|null|
 |**2023-11-17**|**A Self-enhancement Approach for Domain-specific Chatbot Training via Knowledge Mining and Digest**|Ruohong Zhang et.al.|[2311.10614v1](http://arxiv.org/abs/2311.10614v1)|null|
 |**2023-11-17**|**When a Language Question Is at Stake. A Revisited Approach to Label Sensitive Content**|Stetsenko Daria et.al.|[2311.10514v1](http://arxiv.org/abs/2311.10514v1)|null|
@@ -85,34 +61,47 @@
 |**2023-11-16**|**You don't need a personality test to know these models are unreliable: Assessing the Reliability of Large Language Models on Psychometric Instruments**|Bangzhao Shu et.al.|[2311.09718v1](http://arxiv.org/abs/2311.09718v1)|[link](https://github.com/orange0629/llm-personas)|
 |**2023-11-16**|**Deceiving Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination?**|Bangzheng Li et.al.|[2311.09702v1](http://arxiv.org/abs/2311.09702v1)|null|
 |**2023-11-16**|**Whispers of Doubt Amidst Echoes of Triumph in NLP Robustness**|Ashim Gupta et.al.|[2311.09694v1](http://arxiv.org/abs/2311.09694v1)|null|
-|**2023-11-16**|**R-Tuning: Teaching Large Language Models to Refuse Unknown Questions**|Hanning Zhang et.al.|[2311.09677v1](http://arxiv.org/abs/2311.09677v1)|null|
-|**2023-11-16**|**Structured Chemistry Reasoning with Large Language Models**|Siru Ouyang et.al.|[2311.09656v1](http://arxiv.org/abs/2311.09656v1)|null|
-|**2023-11-16**|**On the Exploitability of Reinforcement Learning with Human Feedback for Large Language Models**|Jiongxiao Wang et.al.|[2311.09641v1](http://arxiv.org/abs/2311.09641v1)|null|
-|**2023-11-16**|**Evaluating In-Context Learning of Libraries for Code Generation**|Arkil Patel et.al.|[2311.09635v1](http://arxiv.org/abs/2311.09635v1)|null|
-|**2023-11-16**|**Online Continual Knowledge Learning for Language Models**|Yuhao Wu et.al.|[2311.09632v1](http://arxiv.org/abs/2311.09632v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-22**|**Generation of Explanations for Logic Reasoning**|Yanyi Pu et.al.|[2311.13455v1](http://arxiv.org/abs/2311.13455v1)|null|
+|**2023-11-22**|**Fact-based Court Judgment Prediction**|Shubham Kumar Nigam et.al.|[2311.13350v1](http://arxiv.org/abs/2311.13350v1)|null|
+|**2023-11-22**|**Combatting Human Trafficking in the Cyberspace: A Natural Language Processing-Based Methodology to Analyze the Language in Online Advertisements**|Alejandro Rodriguez Perez et.al.|[2311.13118v1](http://arxiv.org/abs/2311.13118v1)|null|
+|**2023-11-21**|**InterPrompt: Interpretable Prompting for Interrelated Interpersonal Risk Factors in Reddit Posts**|MSVPJ Sathvik et.al.|[2311.12404v1](http://arxiv.org/abs/2311.12404v1)|null|
+|**2023-11-20**|**Unifying Corroborative and Contributive Attributions in Large Language Models**|Theodora Worledge et.al.|[2311.12233v1](http://arxiv.org/abs/2311.12233v1)|null|
+|**2023-11-20**|**LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions**|Songhao Han et.al.|[2311.11904v1](http://arxiv.org/abs/2311.11904v1)|null|
+|**2023-11-20**|**Exploring Prompting Large Language Models as Explainable Metrics**|Ghazaleh Mahmoudi et.al.|[2311.11552v1](http://arxiv.org/abs/2311.11552v1)|[link](https://github.com/ghazaleh-mahmoodi/Prompting_LLMs_AS_Explainable_Metrics)|
+|**2023-11-19**|**Rethinking Large Language Models in Mental Health Applications**|Shaoxiong Ji et.al.|[2311.11267v1](http://arxiv.org/abs/2311.11267v1)|null|
+|**2023-11-19**|**SPLAIN: Augmenting CybersecurityWarnings with Reasons and Data**|Vera A. Kazakova et.al.|[2311.11215v1](http://arxiv.org/abs/2311.11215v1)|null|
+|**2023-11-18**|**Representing visual classification as a linear combination of words**|Shobhit Agarwal et.al.|[2311.10933v1](http://arxiv.org/abs/2311.10933v1)|[link](https://github.com/lotterlab/task_word_explainability)|
+|**2023-11-18**|**Explainable Product Classification for Customs**|Eunji Lee et.al.|[2311.10922v1](http://arxiv.org/abs/2311.10922v1)|null|
+|**2023-11-16**|**ChatGPT-3.5, ChatGPT-4, Google Bard, and Microsoft Bing to Improve Health Literacy and Communication in Pediatric Populations and Beyond**|Kanhai S. Amin et.al.|[2311.10075v1](http://arxiv.org/abs/2311.10075v1)|null|
+|**2023-11-16**|**Is "A Helpful Assistant" the Best Role for Large Language Models? A Systematic Evaluation of Social Roles in System Prompts**|Mingqian Zheng et.al.|[2311.10054v1](http://arxiv.org/abs/2311.10054v1)|null|
+|**2023-11-16**|**ExFake: Towards an Explainable Fake News Detection Based on Content and Social Context Information**|Sabrine Amri et.al.|[2311.10784v1](http://arxiv.org/abs/2311.10784v1)|null|
 |**2023-11-16**|**Digital Socrates: Evaluating LLMs through explanation critiques**|Yuling Gu et.al.|[2311.09613v1](http://arxiv.org/abs/2311.09613v1)|null|
-|**2023-11-16**|**Efficient End-to-End Visual Document Understanding with Rationale Distillation**|Wang Zhu et.al.|[2311.09612v1](http://arxiv.org/abs/2311.09612v1)|null|
-|**2023-11-16**|**Measuring and Improving Attentiveness to Partial Inputs with Counterfactuals**|Yanai Elazar et.al.|[2311.09605v1](http://arxiv.org/abs/2311.09605v1)|null|
-|**2023-11-16**|**SCORE: A framework for Self-Contradictory Reasoning Evaluation**|Ziyi Liu et.al.|[2311.09603v1](http://arxiv.org/abs/2311.09603v1)|null|
-|**2023-11-16**|**LifeTox: Unveiling Implicit Toxicity in Life Advice**|Minbeom Kim et.al.|[2311.09585v1](http://arxiv.org/abs/2311.09585v1)|null|
-|**2023-11-16**|**Crafting In-context Examples according to LMs' Parametric Knowledge**|Yoonsang Lee et.al.|[2311.09579v1](http://arxiv.org/abs/2311.09579v1)|null|
-|**2023-11-16**|**Pachinko: Patching Interpretable QA Models through Natural Language Feedback**|Chaitanya Malaviya et.al.|[2311.09558v1](http://arxiv.org/abs/2311.09558v1)|[link](https://github.com/chaitanyamalaviya/pachinko)|
-|**2023-11-16**|**Towards Pragmatic Awareness in Question Answering: A Case Study in Maternal and Infant Health**|Neha Srikanth et.al.|[2311.09542v1](http://arxiv.org/abs/2311.09542v1)|null|
-|**2023-11-16**|**Effective Large Language Model Adaptation for Improved Grounding**|Xi Ye et.al.|[2311.09533v1](http://arxiv.org/abs/2311.09533v1)|null|
-|**2023-11-16**|**Sequencing Matters: A Generate-Retrieve-Generate Model for Building Conversational Agents**|Quinn Patwardhan et.al.|[2311.09513v1](http://arxiv.org/abs/2311.09513v1)|null|
-|**2023-11-16**|**SQATIN: Supervised Instruction Tuning Meets Question Answering for Improved Dialogue NLU**|Evgeniia Razumovskaia et.al.|[2311.09502v1](http://arxiv.org/abs/2311.09502v1)|null|
-|**2023-11-16**|**ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems**|Jon Saad-Falcon et.al.|[2311.09476v1](http://arxiv.org/abs/2311.09476v1)|[link](https://github.com/stanford-futuredata/ares)|
-|**2023-11-16**|**Clarify When Necessary: Resolving Ambiguity Through Interaction with LMs**|Michael J. Q. Zhang et.al.|[2311.09469v1](http://arxiv.org/abs/2311.09469v1)|null|
-|**2023-11-15**|**When Large Language Models contradict humans? Large Language Models' Sycophantic Behaviour**|Leonardo Ranaldi et.al.|[2311.09410v1](http://arxiv.org/abs/2311.09410v1)|null|
+|**2023-11-16**|**GEE! Grammar Error Explanation with Large Language Models**|Yixiao Song et.al.|[2311.09517v1](http://arxiv.org/abs/2311.09517v1)|[link](https://github.com/yixiao-song/gee-with-llms)|
+|**2023-11-15**|**Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset**|Brooklyn Sheppard et.al.|[2311.09443v1](http://arxiv.org/abs/2311.09443v1)|null|
 |**2023-11-15**|**Long-form Question Answering: An Iterative Planning-Retrieval-Generation Approach**|Pritom Saha Akash et.al.|[2311.09383v1](http://arxiv.org/abs/2311.09383v1)|null|
-|**2023-11-15**|**Pinpoint, Not Criticize: Refining Large Language Models via Fine-Grained Actionable Feedback**|Wenda Xu et.al.|[2311.09336v1](http://arxiv.org/abs/2311.09336v1)|null|
 |**2023-11-15**|**VideoCon: Robust Video-Language Alignment via Contrast Captions**|Hritik Bansal et.al.|[2311.10111v1](http://arxiv.org/abs/2311.10111v1)|[link](https://github.com/hritikbansal/videocon)|
+|**2023-11-15**|**Identifying Self-Disclosures of Use, Misuse and Addiction in Community-based Social Media Posts**|Chenghao Yang et.al.|[2311.09066v1](http://arxiv.org/abs/2311.09066v1)|null|
+|**2023-11-15**|**Data Similarity is Not Enough to Explain Language Model Performance**|Gregory Yauney et.al.|[2311.09006v1](http://arxiv.org/abs/2311.09006v1)|[link](https://github.com/gyauney/data-similarity-is-not-enough)|
+|**2023-11-15**|**Formal Proofs as Structured Explanations: Proposing Several Tasks on Explainable Natural Language Inference**|Lasha Abzianidze et.al.|[2311.08637v1](http://arxiv.org/abs/2311.08637v1)|null|
+|**2023-11-15**|**XplainLLM: A QA Explanation Dataset for Understanding LLM Decision-Making**|Zichen Chen et.al.|[2311.08614v1](http://arxiv.org/abs/2311.08614v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-22**|**Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering**|Inderjeet Nair et.al.|[2311.13565v1](http://arxiv.org/abs/2311.13565v1)|null|
+|**2023-11-22**|**Generation of Explanations for Logic Reasoning**|Yanyi Pu et.al.|[2311.13455v1](http://arxiv.org/abs/2311.13455v1)|null|
+|**2023-11-22**|**Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting**|Xinyan Guan et.al.|[2311.13314v1](http://arxiv.org/abs/2311.13314v1)|null|
+|**2023-11-22**|**Rethinking Radiology Report Generation via Causal Reasoning and Counterfactual Augmentation**|Xiao Song et.al.|[2311.13307v1](http://arxiv.org/abs/2311.13307v1)|null|
+|**2023-11-22**|**Enhancing Logical Reasoning in Large Language Models to Facilitate Legal Applications**|Ha-Thanh Nguyen et.al.|[2311.13095v1](http://arxiv.org/abs/2311.13095v1)|null|
+|**2023-11-21**|**GAIA: a benchmark for General AI Assistants**|Grégoire Mialon et.al.|[2311.12983v1](http://arxiv.org/abs/2311.12983v1)|null|
 |**2023-11-21**|**Can Large Language Models Understand Content and Propagation for Misinformation Detection: An Empirical Study**|Mengyang Chen et.al.|[2311.12699v1](http://arxiv.org/abs/2311.12699v1)|null|
 |**2023-11-21**|**Do Smaller Language Models Answer Contextualised Questions Through Memorisation Or Generalisation?**|Tim Hartill et.al.|[2311.12337v1](http://arxiv.org/abs/2311.12337v1)|null|
 |**2023-11-20**|**System 2 Attention (is something you might need too)**|Jason Weston et.al.|[2311.11829v1](http://arxiv.org/abs/2311.11829v1)|null|
@@ -121,6 +110,7 @@
 |**2023-11-20**|**Meta Prompting for AGI Systems**|Yifan Zhang et.al.|[2311.11482v1](http://arxiv.org/abs/2311.11482v1)|[link](https://github.com/meta-prompting/meta-prompting)|
 |**2023-11-19**|**SPLAIN: Augmenting CybersecurityWarnings with Reasons and Data**|Vera A. Kazakova et.al.|[2311.11215v1](http://arxiv.org/abs/2311.11215v1)|null|
 |**2023-11-18**|**A Principled Framework for Knowledge-enhanced Large Language Model**|Saizhuo Wang et.al.|[2311.11135v1](http://arxiv.org/abs/2311.11135v1)|null|
+|**2023-11-18**|**An Embodied Generalist Agent in 3D World**|Jiangyong Huang et.al.|[2311.12871v1](http://arxiv.org/abs/2311.12871v1)|[link](https://github.com/embodied-generalist/embodied-generalist)|
 |**2023-11-18**|**Explainable Product Classification for Customs**|Eunji Lee et.al.|[2311.10922v1](http://arxiv.org/abs/2311.10922v1)|null|
 |**2023-11-17**|**A Language Agent for Autonomous Driving**|Jiageng Mao et.al.|[2311.10813v2](http://arxiv.org/abs/2311.10813v2)|[link](https://github.com/usc-gvl/agent-driver)|
 |**2023-11-17**|**A Self-enhancement Approach for Domain-specific Chatbot Training via Knowledge Mining and Digest**|Ruohong Zhang et.al.|[2311.10614v1](http://arxiv.org/abs/2311.10614v1)|null|
@@ -245,11 +235,3 @@
 |**2023-11-07**|**COOL: A Constraint Object-Oriented Logic Programming Language and its Neural-Symbolic Compilation System**|Jipeng Han et.al.|[2311.03753v1](http://arxiv.org/abs/2311.03753v1)|null|
 |**2023-11-07**|**Leveraging Structured Information for Explainable Multi-hop Question Answering and Reasoning**|Ruosen Li et.al.|[2311.03734v1](http://arxiv.org/abs/2311.03734v1)|[link](https://github.com/bcdnlp/structure-qa)|
 |**2023-11-06**|**Quantifying Uncertainty in Natural Language Explanations of Large Language Models**|Sree Harsha Tanneru et.al.|[2311.03533v1](http://arxiv.org/abs/2311.03533v1)|null|
-|**2023-11-06**|**Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges**|Chenhang Cui et.al.|[2311.03287v2](http://arxiv.org/abs/2311.03287v2)|[link](https://github.com/gzcch/bingo)|
-|**2023-11-06**|**Instructed Language Models with Retrievers Are Powerful Entity Linkers**|Zilin Xiao et.al.|[2311.03250v1](http://arxiv.org/abs/2311.03250v1)|[link](https://github.com/mrzilinxiao/insgenentitylinking)|
-|**2023-11-06**|**QualEval: Qualitative Evaluation for Model Improvement**|Vishvak Murahari et.al.|[2311.02807v1](http://arxiv.org/abs/2311.02807v1)|[link](https://github.com/vmurahari3/qualeval)|
-|**2023-11-06**|**Incorporating Worker Perspectives into MTurk Annotation Practices for NLP**|Olivia Huang et.al.|[2311.02802v2](http://arxiv.org/abs/2311.02802v2)|null|
-|**2023-11-05**|**Rule Learning as Machine Translation using the Atomic Knowledge Bank**|Kristoffer Æsøy et.al.|[2311.02765v1](http://arxiv.org/abs/2311.02765v1)|[link](https://github.com/krisaesoey/atomictranslation)|
-|**2023-11-05**|**Evaluating the Potential of Leading Large Language Models in Reasoning Biology Questions**|Xinyu Gong et.al.|[2311.07582v1](http://arxiv.org/abs/2311.07582v1)|null|
-|**2023-11-03**|**Exploring the Numerical Reasoning Capabilities of Language Models: A Comprehensive Analysis on Tabular Data**|Mubashara Akhtar et.al.|[2311.02216v1](http://arxiv.org/abs/2311.02216v1)|null|
-|**2023-11-03**|**Leveraging Large Language Models for Collective Decision-Making**|Marios Papachristou et.al.|[2311.04928v1](http://arxiv.org/abs/2311.04928v1)|null|
