@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-29 08:57:19
+ Automated deployment @ 2023-12-29 09:47:16
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -43,7 +43,7 @@
 |**2023-12-24**|**The Persuasive Power of Large Language Models**|Simon Martin Breum et.al.|[2312.15523v1](http://arxiv.org/abs/2312.15523v1)|null|
 |**2023-12-24**|**Towards Consistent Language Models Using Declarative Constraints**|Jasmin Mousavi et.al.|[2312.15472v1](http://arxiv.org/abs/2312.15472v1)|null|
 |**2023-12-23**|**Paralinguistics-Enhanced Large Language Modeling of Spoken Dialogue**|Guan-Ting Lin et.al.|[2312.15316v1](http://arxiv.org/abs/2312.15316v1)|null|
-|**2023-12-23**|**Reverse Multi-Choice Dialogue Commonsense Inference with Graph-of-Thought**|Li Zheng et.al.|[2312.15291v1](http://arxiv.org/abs/2312.15291v1)|[link](https://github.com/zhengl00/rex-got)|
+|**2023-12-23**|**Reverse Multi-Choice Dialogue Commonsense Inference with Graph-of-Thought**|Li Zheng et.al.|[2312.15291v2](http://arxiv.org/abs/2312.15291v2)|[link](https://github.com/zhengl00/rex-got)|
 |**2023-12-23**|**PokeMQA: Programmable knowledge editing for Multi-hop Question Answering**|Hengrui Gu et.al.|[2312.15194v1](http://arxiv.org/abs/2312.15194v1)|[link](https://github.com/hengrui-gu/pokemqa)|
 |**2023-12-22**|**Refining GPT-3 Embeddings with a Siamese Structure for Technical Post Duplicate Detection**|Xingfang Wu et.al.|[2312.15068v1](http://arxiv.org/abs/2312.15068v1)|[link](https://github.com/mooselab/suppmaterial-postdupgpt3)|
 |**2023-12-22**|**Towards a Unified Multimodal Reasoning Framework**|Abhinav Arun et.al.|[2312.15021v1](http://arxiv.org/abs/2312.15021v1)|[link](https://github.com/tomohiro-sawada/cs7643-final-project)|
@@ -83,7 +83,7 @@
 |**2023-12-25**|**TEILP: Time Prediction over Knowledge Graphs via Logical Reasoning**|Siheng Xiong et.al.|[2312.15816v1](http://arxiv.org/abs/2312.15816v1)|null|
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|null|
 |**2023-12-23**|**Paralinguistics-Enhanced Large Language Modeling of Spoken Dialogue**|Guan-Ting Lin et.al.|[2312.15316v1](http://arxiv.org/abs/2312.15316v1)|null|
-|**2023-12-23**|**Reverse Multi-Choice Dialogue Commonsense Inference with Graph-of-Thought**|Li Zheng et.al.|[2312.15291v1](http://arxiv.org/abs/2312.15291v1)|[link](https://github.com/zhengl00/rex-got)|
+|**2023-12-23**|**Reverse Multi-Choice Dialogue Commonsense Inference with Graph-of-Thought**|Li Zheng et.al.|[2312.15291v2](http://arxiv.org/abs/2312.15291v2)|[link](https://github.com/zhengl00/rex-got)|
 |**2023-12-23**|**PokeMQA: Programmable knowledge editing for Multi-hop Question Answering**|Hengrui Gu et.al.|[2312.15194v1](http://arxiv.org/abs/2312.15194v1)|[link](https://github.com/hengrui-gu/pokemqa)|
 |**2023-12-22**|**Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models**|Nishant Vishwamitra et.al.|[2312.15099v1](http://arxiv.org/abs/2312.15099v1)|[link](https://github.com/cactilab/hateguard)|
 |**2023-12-22**|**Towards a Unified Multimodal Reasoning Framework**|Abhinav Arun et.al.|[2312.15021v1](http://arxiv.org/abs/2312.15021v1)|[link](https://github.com/tomohiro-sawada/cs7643-final-project)|
@@ -130,14 +130,14 @@
 |**2023-12-15**|**ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**|Renat Aksitov et.al.|[2312.10003v1](http://arxiv.org/abs/2312.10003v1)|null|
 |**2023-12-15**|**LoRAMoE: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment**|Shihan Dou et.al.|[2312.09979v2](http://arxiv.org/abs/2312.09979v2)|null|
 |**2023-12-15**|**SMILE: Multimodal Dataset for Understanding Laughter in Video with Language Models**|Lee Hyun et.al.|[2312.09818v1](http://arxiv.org/abs/2312.09818v1)|[link](https://github.com/smile-data/smile)|
-|**2023-12-15**|**RJUA-QA: A Comprehensive QA Dataset for Urology**|Shiwei Lyu et.al.|[2312.09785v1](http://arxiv.org/abs/2312.09785v1)|null|
+|**2023-12-15**|**RJUA-QA: A Comprehensive QA Dataset for Urology**|Shiwei Lyu et.al.|[2312.09785v2](http://arxiv.org/abs/2312.09785v2)|null|
 |**2023-12-15**|**GSQA: An End-to-End Model for Generative Spoken Question Answering**|Min-Han Shih et.al.|[2312.09781v2](http://arxiv.org/abs/2312.09781v2)|null|
 |**2023-12-15**|**Discovering Highly Influential Shortcut Reasoning: An Automated Template-Free Approach**|Daichi Haraguchi et.al.|[2312.09718v1](http://arxiv.org/abs/2312.09718v1)|[link](https://github.com/homoscribens/shortcut_reasoning)|
 |**2023-12-15**|**Marathon: A Race Through the Realm of Long Context with Large Language Models**|Lei Zhang et.al.|[2312.09542v1](http://arxiv.org/abs/2312.09542v1)|null|
 |**2023-12-14**|**TinyGSM: achieving >80% on GSM8k with small language models**|Bingbin Liu et.al.|[2312.09241v1](http://arxiv.org/abs/2312.09241v1)|null|
 |**2023-12-14**|**Towards Verifiable Text Generation with Evolving Memory and Self-Reflection**|Hao Sun et.al.|[2312.09075v1](http://arxiv.org/abs/2312.09075v1)|null|
 |**2023-12-14**|**TAP4LLM: Table Provider on Sampling, Augmenting, and Packing Semi-structured Data for Large Language Model Reasoning**|Yuan Sui et.al.|[2312.09039v1](http://arxiv.org/abs/2312.09039v1)|null|
-|**2023-12-14**|**Math-Shepherd: A Label-Free Step-by-Step Verifier for LLMs in Mathematical Reasoning**|Peiyi Wang et.al.|[2312.08935v1](http://arxiv.org/abs/2312.08935v1)|null|
+|**2023-12-14**|**Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations**|Peiyi Wang et.al.|[2312.08935v2](http://arxiv.org/abs/2312.08935v2)|null|
 |**2023-12-14**|**Modeling Complex Mathematical Reasoning via Large Language Model based MathAgent**|Haoran Liao et.al.|[2312.08926v2](http://arxiv.org/abs/2312.08926v2)|[link](https://github.com/oashua/mathagent)|
 |**2023-12-14**|**Using eye tracking to investigate what native Chinese speakers notice about linguistic landscape images**|Zichao Wei et.al.|[2312.08906v2](http://arxiv.org/abs/2312.08906v2)|[link](https://github.com/exusiaiwei/EyeTracking-Experiment-WZC)|
 |**2023-12-14**|**Boosting LLM Reasoning: Push the Limits of Few-shot Learning with Reinforced In-Context Pruning**|Xijie Huang et.al.|[2312.08901v2](http://arxiv.org/abs/2312.08901v2)|null|
@@ -149,7 +149,7 @@
 |**2023-12-12**|**Can LLM find the green circle? Investigation and Human-guided tool manipulation for compositional generalization**|Min Zhang et.al.|[2312.07763v1](http://arxiv.org/abs/2312.07763v1)|null|
 |**2023-12-12**|**diff History for Long-Context Language Agents**|Ulyana Piterbarg et.al.|[2312.07540v1](http://arxiv.org/abs/2312.07540v1)|null|
 |**2023-12-12**|**BaRDa: A Belief and Reasoning Dataset that Separates Factual Accuracy and Reasoning Ability**|Peter Clark et.al.|[2312.07527v1](http://arxiv.org/abs/2312.07527v1)|null|
-|**2023-12-12**|**SocialStigmaQA: A Benchmark to Uncover Stigma Amplification in Generative Language Models**|Manish Nagireddy et.al.|[2312.07492v3](http://arxiv.org/abs/2312.07492v3)|null|
+|**2023-12-12**|**SocialStigmaQA: A Benchmark to Uncover Stigma Amplification in Generative Language Models**|Manish Nagireddy et.al.|[2312.07492v4](http://arxiv.org/abs/2312.07492v4)|null|
 |**2023-12-12**|**Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales**|Taeyoon Kwon et.al.|[2312.07399v1](http://arxiv.org/abs/2312.07399v1)|null|
 |**2023-12-12**|**LLMs Perform Poorly at Concept Extraction in Cyber-security Research Literature**|Maxime Würsch et.al.|[2312.07110v1](http://arxiv.org/abs/2312.07110v1)|null|
 |**2023-12-12**|**SM70: A Large Language Model for Medical Devices**|Anubhav Bhatti et.al.|[2312.06974v1](http://arxiv.org/abs/2312.06974v1)|null|
