@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-07 09:13:55
+ Automated deployment @ 2024-01-07 20:27:15
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -90,7 +90,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-01-04**|**LLaMA Pro: Progressive LLaMA with Block Expansion**|Chengyue Wu et.al.|[2401.02415v1](http://arxiv.org/abs/2401.02415v1)|[link](https://github.com/tencentarc/llama-pro)|
 |**2024-01-04**|**LLM Augmented LLMs: Expanding Capabilities through Composition**|Rachit Bansal et.al.|[2401.02412v1](http://arxiv.org/abs/2401.02412v1)|null|
-|**2024-01-04**|**LLaVA-$φ$: Efficient Multi-Modal Assistant with Small Language Model**|Yichen Zhu et.al.|[2401.02330v1](http://arxiv.org/abs/2401.02330v1)|null|
+|**2024-01-04**|**LLaVA-$φ$: Efficient Multi-Modal Assistant with Small Language Model**|Yichen Zhu et.al.|[2401.02330v1](http://arxiv.org/abs/2401.02330v1)|[link](https://github.com/zhuyiche/llava-phi)|
 |**2024-01-04**|**Joint Multi-Facts Reasoning Network For Complex Temporal Question Answering Over Knowledge Graph**|Rikui Huang et.al.|[2401.02212v1](http://arxiv.org/abs/2401.02212v1)|null|
 |**2024-01-04**|**Location Aware Modular Biencoder for Tourism Question Answering**|Haonan Li et.al.|[2401.02187v1](http://arxiv.org/abs/2401.02187v1)|[link](https://github.com/haonan-li/lamb)|
 |**2024-01-04**|**DCR-Consistency: Divide-Conquer-Reasoning for Consistency Evaluation and Improvement of Large Language Models**|Wendi Cui et.al.|[2401.02132v1](http://arxiv.org/abs/2401.02132v1)|null|
