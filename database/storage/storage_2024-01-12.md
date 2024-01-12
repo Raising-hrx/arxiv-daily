@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-12 09:09:27
+ Automated deployment @ 2024-01-12 20:29:16
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -201,7 +201,7 @@
 |**2023-12-15**|**Discovering Highly Influential Shortcut Reasoning: An Automated Template-Free Approach**|Daichi Haraguchi et.al.|[2312.09718v1](http://arxiv.org/abs/2312.09718v1)|[link](https://github.com/homoscribens/shortcut_reasoning)|
 |**2023-12-15**|**Marathon: A Race Through the Realm of Long Context with Large Language Models**|Lei Zhang et.al.|[2312.09542v1](http://arxiv.org/abs/2312.09542v1)|null|
 |**2023-12-14**|**TinyGSM: achieving >80% on GSM8k with small language models**|Bingbin Liu et.al.|[2312.09241v1](http://arxiv.org/abs/2312.09241v1)|null|
-|**2023-12-14**|**Towards Verifiable Text Generation with Evolving Memory and Self-Reflection**|Hao Sun et.al.|[2312.09075v1](http://arxiv.org/abs/2312.09075v1)|null|
+|**2023-12-14**|**Towards Verifiable Text Generation with Evolving Memory and Self-Reflection**|Hao Sun et.al.|[2312.09075v2](http://arxiv.org/abs/2312.09075v2)|null|
 |**2023-12-14**|**TAP4LLM: Table Provider on Sampling, Augmenting, and Packing Semi-structured Data for Large Language Model Reasoning**|Yuan Sui et.al.|[2312.09039v1](http://arxiv.org/abs/2312.09039v1)|null|
 |**2023-12-14**|**Modeling Complex Mathematical Reasoning via Large Language Model based MathAgent**|Haoran Liao et.al.|[2312.08926v2](http://arxiv.org/abs/2312.08926v2)|[link](https://github.com/oashua/mathagent)|
 |**2023-12-14**|**Using eye tracking to investigate what native Chinese speakers notice about linguistic landscape images**|Zichao Wei et.al.|[2312.08906v2](http://arxiv.org/abs/2312.08906v2)|[link](https://github.com/exusiaiwei/EyeTracking-Experiment-WZC)|
