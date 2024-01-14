@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-14 09:14:26
+ Automated deployment @ 2024-01-14 20:27:00
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -31,7 +31,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-01-11**|**TOFU: A Task of Fictitious Unlearning for LLMs**|Pratyush Maini et.al.|[2401.06121v1](http://arxiv.org/abs/2401.06121v1)|null|
 |**2024-01-11**|**Patchscope: A Unifying Framework for Inspecting Hidden Representations of Language Models**|Asma Ghandeharioun et.al.|[2401.06102v1](http://arxiv.org/abs/2401.06102v1)|null|
-|**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081v1](http://arxiv.org/abs/2401.06081v1)|null|
+|**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081v1](http://arxiv.org/abs/2401.06081v1)|[link](https://github.com/rucaibox/rlmec)|
 |**2024-01-11**|**How Teachers Can Use Large Language Models and Bloom's Taxonomy to Create Educational Quizzes**|Sabina Elkins et.al.|[2401.05914v1](http://arxiv.org/abs/2401.05914v1)|null|
 |**2024-01-11**|**Hallucination Benchmark in Medical Visual Question Answering**|Jinge Wu et.al.|[2401.05827v1](http://arxiv.org/abs/2401.05827v1)|null|
 |**2024-01-11**|**Towards Goal-Oriented Agents for Evolving Problems Observed via Conversation**|Michael Free et.al.|[2401.05822v1](http://arxiv.org/abs/2401.05822v1)|null|
@@ -40,7 +40,7 @@
 |**2024-01-11**|**The Benefits of a Concise Chain of Thought on Problem-Solving in Large Language Models**|Matthew Renze et.al.|[2401.05618v1](http://arxiv.org/abs/2401.05618v1)|[link](https://github.com/matthewrenze/jhu-concise-cot)|
 |**2024-01-11**|**REBUS: A Robust Evaluation Benchmark of Understanding Symbols**|Andrew Gritsevskiy et.al.|[2401.05604v1](http://arxiv.org/abs/2401.05604v1)|[link](https://github.com/cvndsh/rebus)|
 |**2024-01-10**|**Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training**|Evan Hubinger et.al.|[2401.05566v1](http://arxiv.org/abs/2401.05566v1)|[link](https://github.com/anthropics/sleeper-agents-paper)|
-|**2024-01-10**|**InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks**|Xueyu Hu et.al.|[2401.05507v1](http://arxiv.org/abs/2401.05507v1)|null|
+|**2024-01-10**|**InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks**|Xueyu Hu et.al.|[2401.05507v1](http://arxiv.org/abs/2401.05507v1)|[link](https://github.com/infiagent/infiagent)|
 |**2024-01-10**|**I am a Strange Dataset: Metalinguistic Tests for Language Models**|Tristan Thrush et.al.|[2401.05300v1](http://arxiv.org/abs/2401.05300v1)|[link](https://github.com/tristanthrush/i-am-a-strange-dataset)|
 |**2024-01-10**|**Do Vision and Language Encoders Represent the World Similarly?**|Mayug Maniparambil et.al.|[2401.05224v1](http://arxiv.org/abs/2401.05224v1)|null|
 |**2024-01-10**|**Divide and Conquer for Large Language Models Reasoning**|Zijie Meng et.al.|[2401.05190v1](http://arxiv.org/abs/2401.05190v1)|[link](https://github.com/aimijie/divide-and-conquer)|
@@ -90,7 +90,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-01-11**|**Patchscope: A Unifying Framework for Inspecting Hidden Representations of Language Models**|Asma Ghandeharioun et.al.|[2401.06102v1](http://arxiv.org/abs/2401.06102v1)|null|
 |**2024-01-11**|**Autocompletion of Chief Complaints in the Electronic Health Records using Large Language Models**|K M Sajjadul Islam et.al.|[2401.06088v1](http://arxiv.org/abs/2401.06088v1)|null|
-|**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081v1](http://arxiv.org/abs/2401.06081v1)|null|
+|**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081v1](http://arxiv.org/abs/2401.06081v1)|[link](https://github.com/rucaibox/rlmec)|
 |**2024-01-11**|**Chain of History: Learning and Forecasting with LLMs for Temporal Knowledge Graph Completion**|Ruilin Luo et.al.|[2401.06072v1](http://arxiv.org/abs/2401.06072v1)|null|
 |**2024-01-11**|**Designing Heterogeneous LLM Agents for Financial Sentiment Analysis**|Frank Xing et.al.|[2401.05799v1](http://arxiv.org/abs/2401.05799v1)|null|
 |**2024-01-11**|**Evidence to Generate (E2G): A Single-agent Two-step Prompting for Context Grounded and Retrieval Augmented Reasoning**|Md Rizwan Parvez et.al.|[2401.05787v1](http://arxiv.org/abs/2401.05787v1)|null|
