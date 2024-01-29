@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-29 09:04:49
+ Automated deployment @ 2024-01-29 20:26:57
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,7 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-26**|**Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline**|Seonmin Koo et.al.|[2401.14625v1](http://arxiv.org/abs/2401.14625v1)|null|
 |**2024-01-25**|**Ta'keed: The First Generative Fact-Checking System for Arabic Claims**|Saud Althabiti et.al.|[2401.14067v1](http://arxiv.org/abs/2401.14067v1)|null|
 |**2024-01-25**|**Towards Consistent Natural-Language Explanations via Explanation-Consistency Finetuning**|Yanda Chen et.al.|[2401.13986v1](http://arxiv.org/abs/2401.13986v1)|[link](https://github.com/yandachen/explanation-consistency-finetuning)|
 |**2024-01-24**|**The Calibration Gap between Model and Human Confidence in Large Language Models**|Mark Steyvers et.al.|[2401.13835v1](http://arxiv.org/abs/2401.13835v1)|null|
@@ -25,16 +26,19 @@
 |**2024-01-20**|**Word-Level ASR Quality Estimation for Efficient Corpus Sampling and Post-Editing through Analyzing Attentions of a Reference-Free Metric**|Golara Javadi et.al.|[2401.11268v1](http://arxiv.org/abs/2401.11268v1)|[link](https://github.com/aixplain/NoRefER)|
 |**2024-01-20**|**Gaussian Adaptive Attention is All You Need: Robust Contextual Representations Across Multiple Modalities**|Georgios Ioannides et.al.|[2401.11143v2](http://arxiv.org/abs/2401.11143v2)|null|
 |**2024-01-18**|**Inconsistent dialogue responses and how to recover from them**|Mian Zhang et.al.|[2401.10353v1](http://arxiv.org/abs/2401.10353v1)|[link](https://github.com/mianzhang/cider)|
-|**2024-01-18**|**Better Explain Transformers by Illuminating Important Information**|Linxin Song et.al.|[2401.09972v2](http://arxiv.org/abs/2401.09972v2)|[link](https://github.com/linxins97/mask-lrp)|
-|**2024-01-18**|**Meme-ingful Analysis: Enhanced Understanding of Cyberbullying in Memes Through Multimodal Explanations**|Prince Jha et.al.|[2401.09899v1](http://arxiv.org/abs/2401.09899v1)|[link](https://github.com/jhaprince/memeexplanation)|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-26**|**PROXYQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models**|Haochen Tan et.al.|[2401.15042v1](http://arxiv.org/abs/2401.15042v1)|null|
+|**2024-01-26**|**Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs**|Nan Hu et.al.|[2401.14640v1](http://arxiv.org/abs/2401.14640v1)|null|
+|**2024-01-25**|**Language Modelling Approaches to Adaptive Machine Translation**|Yasmin Moslem et.al.|[2401.14559v1](http://arxiv.org/abs/2401.14559v1)|null|
+|**2024-01-25**|**K-QA: A Real-World Medical Q&A Benchmark**|Itay Manes et.al.|[2401.14493v1](http://arxiv.org/abs/2401.14493v1)|null|
+|**2024-01-25**|**LongHealth: A Question Answering Benchmark with Long Clinical Documents**|Lisa Adams et.al.|[2401.14490v1](http://arxiv.org/abs/2401.14490v1)|null|
 |**2024-01-25**|**Genie: Achieving Human Parity in Content-Grounded Datasets Generation**|Asaf Yehudai et.al.|[2401.14367v1](http://arxiv.org/abs/2401.14367v1)|null|
-|**2024-01-25**|**CMMU: A Benchmark for Chinese Multi-modal Multi-type Question Understanding and Reasoning**|Zheqi He et.al.|[2401.14011v1](http://arxiv.org/abs/2401.14011v1)|null|
+|**2024-01-25**|**CMMU: A Benchmark for Chinese Multi-modal Multi-type Question Understanding and Reasoning**|Zheqi He et.al.|[2401.14011v2](http://arxiv.org/abs/2401.14011v2)|null|
 |**2024-01-25**|**Towards Consistent Natural-Language Explanations via Explanation-Consistency Finetuning**|Yanda Chen et.al.|[2401.13986v1](http://arxiv.org/abs/2401.13986v1)|[link](https://github.com/yandachen/explanation-consistency-finetuning)|
 |**2024-01-24**|**The Calibration Gap between Model and Human Confidence in Large Language Models**|Mark Steyvers et.al.|[2401.13835v1](http://arxiv.org/abs/2401.13835v1)|null|
 |**2024-01-24**|**Graph Guided Question Answer Generation for Procedural Question-Answering**|Hai X. Pham et.al.|[2401.13594v1](http://arxiv.org/abs/2401.13594v1)|null|
@@ -68,27 +72,24 @@
 |**2024-01-21**|**Towards Reliable and Factual Response Generation: Detecting Unanswerable Questions in Information-Seeking Conversations**|Weronika Łajewska et.al.|[2401.11452v1](http://arxiv.org/abs/2401.11452v1)|[link](https://github.com/iai-group/answerability-prediction)|
 |**2024-01-21**|**MedLM: Exploring Language Models for Medical Question Answering Systems**|Niraj Yagnik et.al.|[2401.11389v1](http://arxiv.org/abs/2401.11389v1)|null|
 |**2024-01-20**|**Prompt-RAG: Pioneering Vector Embedding-Free Retrieval-Augmented Generation in Niche Domains, Exemplified by Korean Medicine**|Bongsu Kang et.al.|[2401.11246v1](http://arxiv.org/abs/2401.11246v1)|null|
-|**2024-01-20**|**Unfair TOS: An Automated Approach using Customized BERT**|Bathini Sai Akash et.al.|[2401.11207v1](http://arxiv.org/abs/2401.11207v1)|null|
+|**2024-01-20**|**Unfair TOS: An Automated Approach using Customized BERT**|Bathini Sai Akash et.al.|[2401.11207v2](http://arxiv.org/abs/2401.11207v2)|null|
 |**2024-01-20**|**How the Advent of Ubiquitous Large Language Models both Stymie and Turbocharge Dynamic Adversarial Question Generation**|Yoo Yeon Sung et.al.|[2401.11185v1](http://arxiv.org/abs/2401.11185v1)|null|
 |**2024-01-19**|**The Radiation Oncology NLP Database**|Zhengliang Liu et.al.|[2401.10995v1](http://arxiv.org/abs/2401.10995v1)|[link](https://github.com/zl-liu/radiation-oncology-nlp-database)|
 |**2024-01-19**|**Reinforcement learning for question answering in programming domain using public community scoring as a human feedback**|Alexey Gorbatovski et.al.|[2401.10882v1](http://arxiv.org/abs/2401.10882v1)|null|
 |**2024-01-19**|**Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge**|Haibi Wang et.al.|[2401.10712v1](http://arxiv.org/abs/2401.10712v1)|null|
-|**2024-01-19**|**Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering**|Haibo Wang et.al.|[2401.10711v1](http://arxiv.org/abs/2401.10711v1)|null|
-|**2024-01-19**|**PHOENIX: Open-Source Language Adaption for Direct Preference Optimization**|Matthias Uhlig et.al.|[2401.10580v1](http://arxiv.org/abs/2401.10580v1)|null|
-|**2024-01-19**|**DeepEdit: Knowledge Editing as Decoding with Constraints**|Yiwei Wang et.al.|[2401.10471v1](http://arxiv.org/abs/2401.10471v1)|[link](https://github.com/wangywust/deepedit)|
-|**2024-01-18**|**ChatQA: Building GPT-4 Level Conversational QA Models**|Zihan Liu et.al.|[2401.10225v2](http://arxiv.org/abs/2401.10225v2)|null|
-|**2024-01-18**|**Power in Numbers: Robust reading comprehension by finetuning with four adversarial sentences per example**|Ariel Marcus et.al.|[2401.10091v1](http://arxiv.org/abs/2401.10091v1)|null|
-|**2024-01-18**|**Advancing Large Multi-modal Models with Explicit Chain-of-Reasoning and Visual Question Generation**|Kohei Uehara et.al.|[2401.10005v1](http://arxiv.org/abs/2401.10005v1)|null|
-|**2024-01-18**|**Better Explain Transformers by Illuminating Important Information**|Linxin Song et.al.|[2401.09972v2](http://arxiv.org/abs/2401.09972v2)|[link](https://github.com/linxins97/mask-lrp)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-26**|**ChemDFM: Dialogue Foundation Model for Chemistry**|Zihan Zhao et.al.|[2401.14818v1](http://arxiv.org/abs/2401.14818v1)|null|
+|**2024-01-26**|**Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs**|Nan Hu et.al.|[2401.14640v1](http://arxiv.org/abs/2401.14640v1)|null|
+|**2024-01-26**|**Query of CC: Unearthing Large Scale Domain-Specific Knowledge from Public Corpora**|Zhaoye Fei et.al.|[2401.14624v1](http://arxiv.org/abs/2401.14624v1)|null|
 |**2024-01-25**|**Topologies of Reasoning: Demystifying Chains, Trees, and Graphs of Thoughts**|Maciej Besta et.al.|[2401.14295v1](http://arxiv.org/abs/2401.14295v1)|null|
+|**2024-01-25**|**Semantic Sensitivities and Inconsistent Predictions: Measuring the Fragility of NLI Models**|Erik Arakelyan et.al.|[2401.14440v1](http://arxiv.org/abs/2401.14440v1)|null|
 |**2024-01-25**|**CompactifAI: Extreme Compression of Large Language Models using Quantum-Inspired Tensor Networks**|Andrei Tomut et.al.|[2401.14109v1](http://arxiv.org/abs/2401.14109v1)|null|
-|**2024-01-25**|**CMMU: A Benchmark for Chinese Multi-modal Multi-type Question Understanding and Reasoning**|Zheqi He et.al.|[2401.14011v1](http://arxiv.org/abs/2401.14011v1)|null|
+|**2024-01-25**|**CMMU: A Benchmark for Chinese Multi-modal Multi-type Question Understanding and Reasoning**|Zheqi He et.al.|[2401.14011v2](http://arxiv.org/abs/2401.14011v2)|null|
 |**2024-01-25**|**ConstraintChecker: A Plugin for Large Language Models to Reason on Commonsense Knowledge Bases**|Quyet V. Do et.al.|[2401.14003v1](http://arxiv.org/abs/2401.14003v1)|[link](https://github.com/hkust-knowcomp/constraintchecker)|
 |**2024-01-24**|**TPD: Enhancing Student Language Model Reasoning via Principle Discovery and Guidance**|Haorui Wang et.al.|[2401.13849v1](http://arxiv.org/abs/2401.13849v1)|null|
 |**2024-01-24**|**VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks**|Jing Yu Koh et.al.|[2401.13649v1](http://arxiv.org/abs/2401.13649v1)|[link](https://github.com/ishan0102/vimgpt)|
@@ -209,7 +210,3 @@
 |**2024-01-04**|**DCR-Consistency: Divide-Conquer-Reasoning for Consistency Evaluation and Improvement of Large Language Models**|Wendi Cui et.al.|[2401.02132v1](http://arxiv.org/abs/2401.02132v1)|[link](https://github.com/intuit-ai-research/dcr-consistency)|
 |**2024-01-04**|**ICE-GRT: Instruction Context Enhancement by Generative Reinforcement based Transformers**|Chen Zheng et.al.|[2401.02072v1](http://arxiv.org/abs/2401.02072v1)|null|
 |**2024-01-04**|**Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives**|Wenqi Zhang et.al.|[2401.02009v1](http://arxiv.org/abs/2401.02009v1)|null|
-|**2024-01-03**|**AstroLLaMA-Chat: Scaling AstroLLaMA with Conversational and Diverse Datasets**|Ernest Perkowski et.al.|[2401.01916v2](http://arxiv.org/abs/2401.01916v2)|null|
-|**2024-01-02**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari et.al.|[2401.02985v1](http://arxiv.org/abs/2401.02985v1)|null|
-|**2024-01-01**|**If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents**|Ke Yang et.al.|[2401.00812v2](http://arxiv.org/abs/2401.00812v2)|null|
-|**2024-01-01**|**BIBench: Benchmarking Data Analysis Knowledge of Large Language Models**|Shu Liu et.al.|[2401.02982v1](http://arxiv.org/abs/2401.02982v1)|[link](https://github.com/cubenlp/BIBench)|
