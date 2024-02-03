@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-02-03 09:03:01
+ Automated deployment @ 2024-02-03 20:25:23
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -93,7 +93,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-02-01**|**Enhancing Ethical Explanations of Large Language Models through Iterative Symbolic Refinement**|Xin Quan et.al.|[2402.00745v1](http://arxiv.org/abs/2402.00745v1)|[link](https://github.com/neuro-symbolic-ai/explanation_based_ethical_reasoning)|
 |**2024-02-01**|**Improving Semantic Control in Discrete Latent Spaces with Transformer Quantized Variational Autoencoders**|Yingji Zhang et.al.|[2402.00723v1](http://arxiv.org/abs/2402.00723v1)|null|
-|**2024-02-01**|**Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing**|Fangkai Jiao et.al.|[2402.00658v1](http://arxiv.org/abs/2402.00658v1)|null|
+|**2024-02-01**|**Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing**|Fangkai Jiao et.al.|[2402.00658v1](http://arxiv.org/abs/2402.00658v1)|[link](https://github.com/sparkjiao/rl-trajectory-reasoning)|
 |**2024-02-01**|**A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for Verifiers of Reasoning Chains**|Alon Jacovi et.al.|[2402.00559v1](http://arxiv.org/abs/2402.00559v1)|null|
 |**2024-02-01**|**Don't Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration**|Shangbin Feng et.al.|[2402.00367v1](http://arxiv.org/abs/2402.00367v1)|null|
 |**2024-01-31**|**Large Language Models for Mathematical Reasoning: Progresses and Challenges**|Janice Ahn et.al.|[2402.00157v1](http://arxiv.org/abs/2402.00157v1)|null|
