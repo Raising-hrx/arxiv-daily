@@ -1,39 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2024-02-07 20:59:02
+ Automated deployment @ 2024-02-07 21:19:46
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068v1](http://arxiv.org/abs/2402.04068v1)|[link](https://github.com/benevolentai/r2e-evaluation-data)|
-|**2024-02-06**|**Exposing propaganda: an analysis of stylistic cues comparing human annotations and machine classification**|Géraud Faye et.al.|[2402.03780v1](http://arxiv.org/abs/2402.03780v1)|null|
-|**2024-02-06**|**Minds versus Machines: Rethinking Entailment Verification with Language Models**|Soumya Sanyal et.al.|[2402.03686v1](http://arxiv.org/abs/2402.03686v1)|null|
-|**2024-02-06**|**Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models**|Kelvin J. L. Koa et.al.|[2402.03659v1](http://arxiv.org/abs/2402.03659v1)|null|
-|**2024-02-06**|**Sentiment-enhanced Graph-based Sarcasm Explanation in Dialogue**|Kun Ouyang et.al.|[2402.03658v1](http://arxiv.org/abs/2402.03658v1)|null|
-|**2024-02-06**|**Leveraging Large Language Models for Hybrid Workplace Decision Support**|Yujin Kim et.al.|[2402.03616v1](http://arxiv.org/abs/2402.03616v1)|null|
-|**2024-02-05**|**Attention Meets Post-hoc Interpretability: A Mathematical Perspective**|Gianluigi Lopardo et.al.|[2402.03485v1](http://arxiv.org/abs/2402.03485v1)|[link](https://github.com/gianluigilopardo/attention_meets_xai)|
-|**2024-02-05**|**Harnessing PubMed User Query Logs for Post Hoc Explanations of Recommended Similar Articles**|Ashley Shin et.al.|[2402.03484v1](http://arxiv.org/abs/2402.03484v1)|null|
-|**2024-02-05**|**Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation**|Xinyi Wang et.al.|[2402.03268v1](http://arxiv.org/abs/2402.03268v1)|null|
-|**2024-02-05**|**Less is KEN: a Universal and Simple Non-Parametric Pruning Algorithm for Large Language Models**|Michele Mastromattei et.al.|[2402.03142v1](http://arxiv.org/abs/2402.03142v1)|[link](https://github.com/itsmattei/ken)|
-|**2024-02-05**|**SIDU-TXT: An XAI Algorithm for NLP with a Holistic Assessment Approach**|Mohammad N. S. Jahromi et.al.|[2402.03043v1](http://arxiv.org/abs/2402.03043v1)|null|
-|**2024-02-05**|**How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning**|Zeping Yu et.al.|[2402.02872v1](http://arxiv.org/abs/2402.02872v1)|null|
-|**2024-02-04**|**Selecting Large Language Model to Fine-tune via Rectified Scaling Law**|Haowei Lin et.al.|[2402.02314v1](http://arxiv.org/abs/2402.02314v1)|null|
-|**2024-02-03**|**Frequency Explains the Inverse Correlation of Large Language Models' Size, Training Data Amount, and Surprisal's Fit to Reading Times**|Byung-Doh Oh et.al.|[2402.02255v1](http://arxiv.org/abs/2402.02255v1)|null|
-|**2024-02-03**|**Self-Debiasing Large Language Models: Zero-Shot Recognition and Reduction of Stereotypes**|Isabel O. Gallegos et.al.|[2402.01981v1](http://arxiv.org/abs/2402.01981v1)|null|
-|**2024-02-02**|**The RL/LLM Taxonomy Tree: Reviewing Synergies Between Reinforcement Learning and Large Language Models**|Moschoula Pternea et.al.|[2402.01874v1](http://arxiv.org/abs/2402.01874v1)|null|
-|**2024-02-02**|**Explaining latent representations of generative models with large multimodal models**|Mengdan Zhu et.al.|[2402.01858v1](http://arxiv.org/abs/2402.01858v1)|null|
-|**2024-02-02**|**COMET: Generating Commit Messages using Delta Graph Context Representation**|Abhinav Reddy Mandli et.al.|[2402.01841v1](http://arxiv.org/abs/2402.01841v1)|null|
-|**2024-02-01**|**When Benchmarks are Targets: Revealing the Sensitivity of Large Language Model Leaderboards**|Norah Alzahrani et.al.|[2402.01781v1](http://arxiv.org/abs/2402.01781v1)|null|
-|**2024-02-01**|**ALISON: Fast and Effective Stylometric Authorship Obfuscation**|Eric Xing et.al.|[2402.00835v1](http://arxiv.org/abs/2402.00835v1)|[link](https://github.com/ericx003/alison)|
-|**2024-02-01**|**Enhancing Ethical Explanations of Large Language Models through Iterative Symbolic Refinement**|Xin Quan et.al.|[2402.00745v1](http://arxiv.org/abs/2402.00745v1)|[link](https://github.com/neuro-symbolic-ai/explanation_based_ethical_reasoning)|
-|**2024-02-01**|**Benefits of Transformer: In-Context Learning in Linear Regression Tasks with Unstructured Data**|Yue Xing et.al.|[2402.00743v1](http://arxiv.org/abs/2402.00743v1)|null|
-|**2024-02-01**|**Improving Semantic Control in Discrete Latent Spaces with Transformer Quantized Variational Autoencoders**|Yingji Zhang et.al.|[2402.00723v1](http://arxiv.org/abs/2402.00723v1)|null|
-|**2024-02-01**|**Explaining Text Classifiers with Counterfactual Representations**|Pirmin Lemberger et.al.|[2402.00711v1](http://arxiv.org/abs/2402.00711v1)|[link](https://github.com/toinesayan/counterfactual-representations-for-explanation)|
-|**2024-02-01**|**IndiVec: An Exploration of Leveraging Large Language Models for Media Bias Detection with Fine-Grained Bias Indicators**|Luyang Lin et.al.|[2402.00345v1](http://arxiv.org/abs/2402.00345v1)|null|
-|**2024-01-31**|**Common Sense Reasoning for Deep Fake Detection**|Yue Zhang et.al.|[2402.00126v1](http://arxiv.org/abs/2402.00126v1)|null|
 
 ## Question Answering
 
@@ -103,6 +71,38 @@
 |**2024-01-31**|**De-identification is not always enough**|Atiquer Rahman Sarkar et.al.|[2402.00179v1](http://arxiv.org/abs/2402.00179v1)|null|
 |**2024-01-31**|**Common Sense Reasoning for Deep Fake Detection**|Yue Zhang et.al.|[2402.00126v1](http://arxiv.org/abs/2402.00126v1)|null|
 |**2024-01-31**|**Comparing Template-based and Template-free Language Model Probing**|Sagi Shaier et.al.|[2402.00123v1](http://arxiv.org/abs/2402.00123v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-02-06**|**Retrieve to Explain: Evidence-driven Predictions with Language Models**|Ravi Patel et.al.|[2402.04068v1](http://arxiv.org/abs/2402.04068v1)|[link](https://github.com/benevolentai/r2e-evaluation-data)|
+|**2024-02-06**|**Exposing propaganda: an analysis of stylistic cues comparing human annotations and machine classification**|Géraud Faye et.al.|[2402.03780v1](http://arxiv.org/abs/2402.03780v1)|null|
+|**2024-02-06**|**Minds versus Machines: Rethinking Entailment Verification with Language Models**|Soumya Sanyal et.al.|[2402.03686v1](http://arxiv.org/abs/2402.03686v1)|null|
+|**2024-02-06**|**Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models**|Kelvin J. L. Koa et.al.|[2402.03659v1](http://arxiv.org/abs/2402.03659v1)|null|
+|**2024-02-06**|**Sentiment-enhanced Graph-based Sarcasm Explanation in Dialogue**|Kun Ouyang et.al.|[2402.03658v1](http://arxiv.org/abs/2402.03658v1)|null|
+|**2024-02-06**|**Leveraging Large Language Models for Hybrid Workplace Decision Support**|Yujin Kim et.al.|[2402.03616v1](http://arxiv.org/abs/2402.03616v1)|null|
+|**2024-02-05**|**Attention Meets Post-hoc Interpretability: A Mathematical Perspective**|Gianluigi Lopardo et.al.|[2402.03485v1](http://arxiv.org/abs/2402.03485v1)|[link](https://github.com/gianluigilopardo/attention_meets_xai)|
+|**2024-02-05**|**Harnessing PubMed User Query Logs for Post Hoc Explanations of Recommended Similar Articles**|Ashley Shin et.al.|[2402.03484v1](http://arxiv.org/abs/2402.03484v1)|null|
+|**2024-02-05**|**Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation**|Xinyi Wang et.al.|[2402.03268v1](http://arxiv.org/abs/2402.03268v1)|null|
+|**2024-02-05**|**Less is KEN: a Universal and Simple Non-Parametric Pruning Algorithm for Large Language Models**|Michele Mastromattei et.al.|[2402.03142v1](http://arxiv.org/abs/2402.03142v1)|[link](https://github.com/itsmattei/ken)|
+|**2024-02-05**|**SIDU-TXT: An XAI Algorithm for NLP with a Holistic Assessment Approach**|Mohammad N. S. Jahromi et.al.|[2402.03043v1](http://arxiv.org/abs/2402.03043v1)|null|
+|**2024-02-05**|**How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning**|Zeping Yu et.al.|[2402.02872v1](http://arxiv.org/abs/2402.02872v1)|null|
+|**2024-02-04**|**Selecting Large Language Model to Fine-tune via Rectified Scaling Law**|Haowei Lin et.al.|[2402.02314v1](http://arxiv.org/abs/2402.02314v1)|null|
+|**2024-02-03**|**Frequency Explains the Inverse Correlation of Large Language Models' Size, Training Data Amount, and Surprisal's Fit to Reading Times**|Byung-Doh Oh et.al.|[2402.02255v1](http://arxiv.org/abs/2402.02255v1)|null|
+|**2024-02-03**|**Self-Debiasing Large Language Models: Zero-Shot Recognition and Reduction of Stereotypes**|Isabel O. Gallegos et.al.|[2402.01981v1](http://arxiv.org/abs/2402.01981v1)|null|
+|**2024-02-02**|**The RL/LLM Taxonomy Tree: Reviewing Synergies Between Reinforcement Learning and Large Language Models**|Moschoula Pternea et.al.|[2402.01874v1](http://arxiv.org/abs/2402.01874v1)|null|
+|**2024-02-02**|**Explaining latent representations of generative models with large multimodal models**|Mengdan Zhu et.al.|[2402.01858v1](http://arxiv.org/abs/2402.01858v1)|null|
+|**2024-02-02**|**COMET: Generating Commit Messages using Delta Graph Context Representation**|Abhinav Reddy Mandli et.al.|[2402.01841v1](http://arxiv.org/abs/2402.01841v1)|null|
+|**2024-02-01**|**When Benchmarks are Targets: Revealing the Sensitivity of Large Language Model Leaderboards**|Norah Alzahrani et.al.|[2402.01781v1](http://arxiv.org/abs/2402.01781v1)|null|
+|**2024-02-01**|**ALISON: Fast and Effective Stylometric Authorship Obfuscation**|Eric Xing et.al.|[2402.00835v1](http://arxiv.org/abs/2402.00835v1)|[link](https://github.com/ericx003/alison)|
+|**2024-02-01**|**Enhancing Ethical Explanations of Large Language Models through Iterative Symbolic Refinement**|Xin Quan et.al.|[2402.00745v1](http://arxiv.org/abs/2402.00745v1)|[link](https://github.com/neuro-symbolic-ai/explanation_based_ethical_reasoning)|
+|**2024-02-01**|**Benefits of Transformer: In-Context Learning in Linear Regression Tasks with Unstructured Data**|Yue Xing et.al.|[2402.00743v1](http://arxiv.org/abs/2402.00743v1)|null|
+|**2024-02-01**|**Improving Semantic Control in Discrete Latent Spaces with Transformer Quantized Variational Autoencoders**|Yingji Zhang et.al.|[2402.00723v1](http://arxiv.org/abs/2402.00723v1)|null|
+|**2024-02-01**|**Explaining Text Classifiers with Counterfactual Representations**|Pirmin Lemberger et.al.|[2402.00711v1](http://arxiv.org/abs/2402.00711v1)|[link](https://github.com/toinesayan/counterfactual-representations-for-explanation)|
+|**2024-02-01**|**IndiVec: An Exploration of Leveraging Large Language Models for Media Bias Detection with Fine-Grained Bias Indicators**|Luyang Lin et.al.|[2402.00345v1](http://arxiv.org/abs/2402.00345v1)|null|
+|**2024-01-31**|**Common Sense Reasoning for Deep Fake Detection**|Yue Zhang et.al.|[2402.00126v1](http://arxiv.org/abs/2402.00126v1)|null|
 
 ## Reasoning
 
