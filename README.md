@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-02-17 09:03:03
+ Automated deployment @ 2024-02-17 20:24:41
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -14,7 +14,7 @@
 |**2024-02-14**|**SyntaxShap: Syntax-aware Explainability Method for Text Generation**|Kenza Amara et.al.|[2402.09259v1](http://arxiv.org/abs/2402.09259v1)|null|
 |**2024-02-14**|**Spectral Filters, Dark Signals, and Attention Sinks**|Nicola Cancedda et.al.|[2402.09221v1](http://arxiv.org/abs/2402.09221v1)|null|
 |**2024-02-13**|**Rethinking Machine Unlearning for Large Language Models**|Sijia Liu et.al.|[2402.08787v1](http://arxiv.org/abs/2402.08787v1)|null|
-|**2024-02-13**|**Plausible Extractive Rationalization through Semi-Supervised Entailment Signal**|Yeo Wei Jie et.al.|[2402.08479v2](http://arxiv.org/abs/2402.08479v2)|null|
+|**2024-02-13**|**Plausible Extractive Rationalization through Semi-Supervised Entailment Signal**|Yeo Wei Jie et.al.|[2402.08479v2](http://arxiv.org/abs/2402.08479v2)|[link](https://github.com/wj210/NLI_ETP)|
 |**2024-02-13**|**CMA-R:Causal Mediation Analysis for Explaining Rumour Detection**|Lin Tian et.al.|[2402.08155v1](http://arxiv.org/abs/2402.08155v1)|null|
 |**2024-02-12**|**TELLER: A Trustworthy Framework for Explainable, Generalizable and Controllable Fake News Detection**|Hui Liu et.al.|[2402.07776v1](http://arxiv.org/abs/2402.07776v1)|[link](https://github.com/less-and-less-bugs/trust_teller)|
 |**2024-02-12**|**Show Me How It's Done: The Role of Explanations in Fine-Tuning Language Models**|Mohamad Ballout et.al.|[2402.07543v1](http://arxiv.org/abs/2402.07543v1)|null|
@@ -37,7 +37,7 @@
 |**2024-02-15**|**Unmemorization in Large Language Models via Self-Distillation and Deliberate Imagination**|Yijiang River Dong et.al.|[2402.10052v1](http://arxiv.org/abs/2402.10052v1)|null|
 |**2024-02-15**|**A Dataset of Open-Domain Question Answering with Multiple-Span Answers**|Zhiyi Luo et.al.|[2402.09923v1](http://arxiv.org/abs/2402.09923v1)|null|
 |**2024-02-15**|**Enhancing Large Language Models with Pseudo- and Multisource- Knowledge Graphs for Open-ended Question Answering**|Jiaxiang Liu et.al.|[2402.09911v1](http://arxiv.org/abs/2402.09911v1)|null|
-|**2024-02-15**|**DE-COP: Detecting Copyrighted Content in Language Models Training Data**|André V. Duarte et.al.|[2402.09910v1](http://arxiv.org/abs/2402.09910v1)|null|
+|**2024-02-15**|**DE-COP: Detecting Copyrighted Content in Language Models Training Data**|André V. Duarte et.al.|[2402.09910v1](http://arxiv.org/abs/2402.09910v1)|[link](https://github.com/avduarte333/de-cop_method)|
 |**2024-02-15**|**LAPDoc: Layout-Aware Prompting for Documents**|Marcel Lamott et.al.|[2402.09841v1](http://arxiv.org/abs/2402.09841v1)|null|
 |**2024-02-15**|**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**|Zhihao Fan et.al.|[2402.09742v1](http://arxiv.org/abs/2402.09742v1)|null|
 |**2024-02-15**|**Do LLMs Know about Hallucination? An Empirical Investigation of LLM's Hidden States**|Hanyu Duan et.al.|[2402.09733v1](http://arxiv.org/abs/2402.09733v1)|null|
@@ -57,7 +57,7 @@
 |**2024-02-13**|**Improving Generalization in Semantic Parsing by Increasing Natural Language Variation**|Irina Saparina et.al.|[2402.08666v1](http://arxiv.org/abs/2402.08666v1)|[link](https://github.com/saparina/text2sql-nlvariation)|
 |**2024-02-13**|**Improving Factual Error Correction for Abstractive Summarization via Data Distillation and Conditional-generation Cloze**|Yiyang Li et.al.|[2402.08581v1](http://arxiv.org/abs/2402.08581v1)|[link](https://github.com/mr-kenlee/factcloze)|
 |**2024-02-13**|**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**|Xiangming Gu et.al.|[2402.08567v1](http://arxiv.org/abs/2402.08567v1)|[link](https://github.com/sail-sg/agent-smith)|
-|**2024-02-13**|**Plausible Extractive Rationalization through Semi-Supervised Entailment Signal**|Yeo Wei Jie et.al.|[2402.08479v2](http://arxiv.org/abs/2402.08479v2)|null|
+|**2024-02-13**|**Plausible Extractive Rationalization through Semi-Supervised Entailment Signal**|Yeo Wei Jie et.al.|[2402.08479v2](http://arxiv.org/abs/2402.08479v2)|[link](https://github.com/wj210/NLI_ETP)|
 |**2024-02-13**|**Large Language Models as Minecraft Agents**|Chris Madge et.al.|[2402.08392v1](http://arxiv.org/abs/2402.08392v1)|null|
 |**2024-02-13**|**Evaluating the Data Model Robustness of Text-to-SQL Systems Based on Real User Queries**|Jonathan Fürst et.al.|[2402.08349v1](http://arxiv.org/abs/2402.08349v1)|null|
 |**2024-02-13**|**Eliciting Personality Traits in Large Language Models**|Airlie Hilliard et.al.|[2402.08341v2](http://arxiv.org/abs/2402.08341v2)|null|
@@ -74,7 +74,7 @@
 |**2024-02-12**|**Asking Multimodal Clarifying Questions in Mixed-Initiative Conversational Search**|Yifei Yuan et.al.|[2402.07742v1](http://arxiv.org/abs/2402.07742v1)|null|
 |**2024-02-12**|**AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension**|Qian Yang et.al.|[2402.07729v1](http://arxiv.org/abs/2402.07729v1)|null|
 |**2024-02-12**|**Show Me How It's Done: The Role of Explanations in Fine-Tuning Language Models**|Mohamad Ballout et.al.|[2402.07543v1](http://arxiv.org/abs/2402.07543v1)|null|
-|**2024-02-12**|**BreakGPT: A Large Language Model with Multi-stage Structure for Financial Breakout Detection**|Kang Zhang et.al.|[2402.07536v1](http://arxiv.org/abs/2402.07536v1)|null|
+|**2024-02-12**|**BreakGPT: A Large Language Model with Multi-stage Structure for Financial Breakout Detection**|Kang Zhang et.al.|[2402.07536v1](http://arxiv.org/abs/2402.07536v1)|[link](https://github.com/neviim96/breakgpt)|
 |**2024-02-12**|**T-RAG: Lessons from the LLM Trenches**|Masoomali Fatehkia et.al.|[2402.07483v1](http://arxiv.org/abs/2402.07483v1)|null|
 |**2024-02-12**|**Pushing The Limit of LLM Capacity for Text Classification**|Yazhou Zhang et.al.|[2402.07470v1](http://arxiv.org/abs/2402.07470v1)|null|
 |**2024-02-12**|**Leveraging AI to Advance Science and Computing Education across Africa: Progress, Challenges, and Opportunities**|George Boateng et.al.|[2402.07397v1](http://arxiv.org/abs/2402.07397v1)|null|
@@ -123,7 +123,7 @@
 |**2024-02-12**|**Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models**|Jiacheng Ye et.al.|[2402.07754v1](http://arxiv.org/abs/2402.07754v1)|null|
 |**2024-02-12**|**Towards Unified Alignment Between Agents, Humans, and Environment**|Zonghan Yang et.al.|[2402.07744v2](http://arxiv.org/abs/2402.07744v2)|null|
 |**2024-02-12**|**AutoMathText: Autonomous Data Selection with Language Models for Mathematical Texts**|Yifan Zhang et.al.|[2402.07625v1](http://arxiv.org/abs/2402.07625v1)|[link](https://github.com/yifanzhang-pro/automathtext)|
-|**2024-02-12**|**BreakGPT: A Large Language Model with Multi-stage Structure for Financial Breakout Detection**|Kang Zhang et.al.|[2402.07536v1](http://arxiv.org/abs/2402.07536v1)|null|
+|**2024-02-12**|**BreakGPT: A Large Language Model with Multi-stage Structure for Financial Breakout Detection**|Kang Zhang et.al.|[2402.07536v1](http://arxiv.org/abs/2402.07536v1)|[link](https://github.com/neviim96/breakgpt)|
 |**2024-02-11**|**How do Large Language Models Navigate Conflicts between Honesty and Helpfulness?**|Ryan Liu et.al.|[2402.07282v2](http://arxiv.org/abs/2402.07282v2)|null|
 |**2024-02-11**|**X-LoRA: Mixture of Low-Rank Adapter Experts, a Flexible Framework for Large Language Models with Applications in Protein Mechanics and Design**|Eric L. Buehler et.al.|[2402.07148v1](http://arxiv.org/abs/2402.07148v1)|[link](https://github.com/ericlbuehler/xlora)|
 |**2024-02-11**|**Using Large Language Models for Student-Code Guided Test Case Generation in Computer Science Education**|Nischal Ashok Kumar et.al.|[2402.07081v1](http://arxiv.org/abs/2402.07081v1)|[link](https://github.com/umass-ml4ed/test_case_generation)|
