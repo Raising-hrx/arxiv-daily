@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-02-24 09:01:16
+ Automated deployment @ 2024-02-24 20:25:03
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -103,7 +103,7 @@
 |**2024-02-20**|**Softmax Probabilities (Mostly) Predict Large Language Model Correctness on Multiple-Choice Q&A**|Benjamin Plaut et.al.|[2402.13213v1](http://arxiv.org/abs/2402.13213v1)|[link](https://github.com/bplaut/softmax-probs-predict-llm-correctness)|
 |**2024-02-20**|**Soft Self-Consistency Improves Language Model Agents**|Han Wang et.al.|[2402.13212v1](http://arxiv.org/abs/2402.13212v1)|[link](https://github.com/hannight/soft_self_consistency)|
 |**2024-02-20**|**Question Calibration and Multi-Hop Modeling for Temporal Question Answering**|Chao Xue et.al.|[2402.13188v1](http://arxiv.org/abs/2402.13188v1)|null|
-|**2024-02-20**|**Benchmarking Retrieval-Augmented Generation for Medicine**|Guangzhi Xiong et.al.|[2402.13178v1](http://arxiv.org/abs/2402.13178v1)|[link](https://github.com/teddy-xionggz/mirage)|
+|**2024-02-20**|**Benchmarking Retrieval-Augmented Generation for Medicine**|Guangzhi Xiong et.al.|[2402.13178v1](http://arxiv.org/abs/2402.13178v1)|[link](https://github.com/teddy-xionggz/medrag)|
 |**2024-02-20**|**TreeEval: Benchmark-Free Evaluation of Large Language Models through Tree Planning**|Xiang Li et.al.|[2402.13125v1](http://arxiv.org/abs/2402.13125v1)|[link](https://github.com/ashura5/treeeval)|
 |**2024-02-20**|**Digital Comprehensibility Assessment of Simplified Texts among Persons with Intellectual Disabilities**|Andreas Säuberli et.al.|[2402.13094v1](http://arxiv.org/abs/2402.13094v1)|null|
 |**2024-02-20**|**Event-level Knowledge Editing**|Hao Peng et.al.|[2402.13093v1](http://arxiv.org/abs/2402.13093v1)|[link](https://github.com/thu-keg/event-level-knowledge-editing)|
