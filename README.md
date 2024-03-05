@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-05 20:26:56
+ Automated deployment @ 2024-03-05 20:49:17
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -41,7 +41,6 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-03-03**|**Improving Cross-lingual Representation for Semantic Retrieval with Code-switching**|Mieradilijiang Maimaiti et.al.|[2403.01364v1](http://arxiv.org/abs/2403.01364v1)|null|
 |**2024-03-02**|**VBART: The Turkish LLM**|Meliksah Turker et.al.|[2403.01308v1](http://arxiv.org/abs/2403.01308v1)|null|
 |**2024-03-02**|**Emotion Analysis in NLP: Trends, Gaps and Roadmap for Future Directions**|Flor Miriam Plaza-del-Arco et.al.|[2403.01222v1](http://arxiv.org/abs/2403.01222v1)|[link](https://github.com/milanlproc/emotion_analysis_survey)|
 |**2024-03-02**|**API Is Enough: Conformal Prediction for Large Language Models Without Logit-Access**|Jiayuan Su et.al.|[2403.01216v1](http://arxiv.org/abs/2403.01216v1)|null|
