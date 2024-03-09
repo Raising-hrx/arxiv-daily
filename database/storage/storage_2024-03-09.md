@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-09 09:01:26
+ Automated deployment @ 2024-03-09 20:24:18
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -54,10 +54,10 @@
 |**2024-03-06**|**Backtracing: Retrieving the Cause of the Query**|Rose E. Wang et.al.|[2403.03956v1](http://arxiv.org/abs/2403.03956v1)|[link](https://github.com/rosewang2008/backtracing)|
 |**2024-03-06**|**KIWI: A Dataset of Knowledge-Intensive Writing Instructions for Answering Research Questions**|Fangyuan Xu et.al.|[2403.03866v1](http://arxiv.org/abs/2403.03866v1)|null|
 |**2024-03-06**|**Evaluating the Elementary Multilingual Capabilities of Large Language Models with MultiQ**|Carolin Holtermann et.al.|[2403.03814v1](http://arxiv.org/abs/2403.03814v1)|null|
-|**2024-03-06**|**Rapidly Developing High-quality Instruction Data and Evaluation Benchmark for Large Language Models with Minimal Human Effort: A Case Study on Japanese**|Yikun Sun et.al.|[2403.03690v1](http://arxiv.org/abs/2403.03690v1)|null|
+|**2024-03-06**|**Rapidly Developing High-quality Instruction Data and Evaluation Benchmark for Large Language Models with Minimal Human Effort: A Case Study on Japanese**|Yikun Sun et.al.|[2403.03690v1](http://arxiv.org/abs/2403.03690v1)|[link](https://github.com/hitoshizuku7/awesome-ja-self-instruct)|
 |**2024-03-06**|**Multimodal Large Language Models to Support Real-World Fact-Checking**|Jiahui Geng et.al.|[2403.03627v1](http://arxiv.org/abs/2403.03627v1)|null|
 |**2024-03-06**|**Benchmarking Hallucination in Large Language Models based on Unanswerable Math Word Problem**|Yuhong Sun et.al.|[2403.03558v1](http://arxiv.org/abs/2403.03558v1)|[link](https://github.com/yuki-asuuna/umwp)|
-|**2024-03-06**|**CLongEval: A Chinese Benchmark for Evaluating Long-Context Large Language Models**|Zexuan Qiu et.al.|[2403.03514v1](http://arxiv.org/abs/2403.03514v1)|null|
+|**2024-03-06**|**CLongEval: A Chinese Benchmark for Evaluating Long-Context Large Language Models**|Zexuan Qiu et.al.|[2403.03514v1](http://arxiv.org/abs/2403.03514v1)|[link](https://github.com/zexuanqiu/clongeval)|
 |**2024-03-06**|**Japanese-English Sentence Translation Exercises Dataset for Automatic Grading**|Naoki Miura et.al.|[2403.03396v1](http://arxiv.org/abs/2403.03396v1)|null|
 |**2024-03-05**|**Book2Dial: Generating Teacher-Student Interactions from Textbooks for Cost-Effective Development of Educational Chatbots**|Junling Wang et.al.|[2403.03307v1](http://arxiv.org/abs/2403.03307v1)|null|
 |**2024-03-05**|**The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning**|Nathaniel Li et.al.|[2403.03218v2](http://arxiv.org/abs/2403.03218v2)|null|
@@ -92,7 +92,7 @@
 |**2024-03-04**|**An Improved Traditional Chinese Evaluation Suite for Foundation Model**|Zhi-Rui Tam et.al.|[2403.01858v1](http://arxiv.org/abs/2403.01858v1)|null|
 |**2024-03-04**|**Rethinking LLM Language Adaptation: A Case Study on Chinese Mixtral**|Yiming Cui et.al.|[2403.01851v1](http://arxiv.org/abs/2403.01851v1)|[link](https://github.com/ymcui/chinese-mixtral)|
 |**2024-03-04**|**Enhancing Multi-Domain Automatic Short Answer Grading through an Explainable Neuro-Symbolic Pipeline**|Felix Künnecke et.al.|[2403.01811v1](http://arxiv.org/abs/2403.01811v1)|null|
-|**2024-03-04**|**NPHardEval4V: A Dynamic Reasoning Benchmark of Multimodal Large Language Models**|Lizhou Fan et.al.|[2403.01777v2](http://arxiv.org/abs/2403.01777v2)|null|
+|**2024-03-04**|**NPHardEval4V: A Dynamic Reasoning Benchmark of Multimodal Large Language Models**|Lizhou Fan et.al.|[2403.01777v2](http://arxiv.org/abs/2403.01777v2)|[link](https://github.com/lizhouf/nphardeval4v)|
 |**2024-03-04**|**Towards Self-Contained Answers: Entity-Based Answer Rewriting in Conversational Search**|Ivan Sekulić et.al.|[2403.01747v1](http://arxiv.org/abs/2403.01747v1)|[link](https://github.com/isekulic/chiir24-answer-rewriting)|
 |**2024-03-04**|**Brilla AI: AI Contestant for the National Science and Maths Quiz**|George Boateng et.al.|[2403.01699v1](http://arxiv.org/abs/2403.01699v1)|null|
 |**2024-03-03**|**SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction**|Jiahuan Yan et.al.|[2403.01570v1](http://arxiv.org/abs/2403.01570v1)|null|
@@ -150,7 +150,7 @@
 |**2024-03-04**|**VariErr NLI: Separating Annotation Error from Human Label Variation**|Leon Weber-Genzel et.al.|[2403.01931v1](http://arxiv.org/abs/2403.01931v1)|null|
 |**2024-03-04**|**FCDS: Fusing Constituency and Dependency Syntax into Document-Level Relation Extraction**|Xudong Zhu et.al.|[2403.01886v1](http://arxiv.org/abs/2403.01886v1)|[link](https://github.com/xzascc/fcds)|
 |**2024-03-04**|**Enhancing Multi-Domain Automatic Short Answer Grading through an Explainable Neuro-Symbolic Pipeline**|Felix Künnecke et.al.|[2403.01811v1](http://arxiv.org/abs/2403.01811v1)|null|
-|**2024-03-04**|**NPHardEval4V: A Dynamic Reasoning Benchmark of Multimodal Large Language Models**|Lizhou Fan et.al.|[2403.01777v2](http://arxiv.org/abs/2403.01777v2)|null|
+|**2024-03-04**|**NPHardEval4V: A Dynamic Reasoning Benchmark of Multimodal Large Language Models**|Lizhou Fan et.al.|[2403.01777v2](http://arxiv.org/abs/2403.01777v2)|[link](https://github.com/lizhouf/nphardeval4v)|
 |**2024-03-03**|**Logic Rules as Explanations for Legal Case Retrieval**|Zhongxiang Sun et.al.|[2403.01457v1](http://arxiv.org/abs/2403.01457v1)|[link](https://github.com/ke-01/ns-lcr)|
 |**2024-03-03**|**What Is Missing in Multilingual Visual Reasoning and How to Fix It**|Yueqi Song et.al.|[2403.01404v1](http://arxiv.org/abs/2403.01404v1)|[link](https://github.com/yueqis/multilingual_visual_reasoning)|
 |**2024-03-03**|**CR-LT-KGQA: A Knowledge Graph Question Answering Dataset Requiring Commonsense Reasoning and Long-Tail Knowledge**|Willis Guo et.al.|[2403.01395v1](http://arxiv.org/abs/2403.01395v1)|[link](https://github.com/d3mlab/cr-lt-kgqa)|
