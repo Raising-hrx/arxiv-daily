@@ -1,40 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2024-03-20 20:48:32
+ Automated deployment @ 2024-03-20 21:00:20
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-19**|**Epistemology of Language Models: Do Language Models Have Holistic Knowledge?**|Minsu Kim et.al.|[2403.12862v1](http://arxiv.org/abs/2403.12862v1)|null|
-|**2024-03-19**|**Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models**|Zhixue Zhao et.al.|[2403.12809v1](http://arxiv.org/abs/2403.12809v1)|[link](https://github.com/casszhao/multilingual-faith)|
-|**2024-03-19**|**Investigating Text Shortening Strategy in BERT: Truncation vs Summarization**|Mirza Alim Mutasodirin et.al.|[2403.12799v1](http://arxiv.org/abs/2403.12799v1)|[link](https://github.com/mirzaalimm/truncationvssummarization)|
-|**2024-03-19**|**CLASSLA-web: Comparable Web Corpora of South Slavic Languages Enriched with Linguistic and Genre Annotation**|Nikola Ljubešić et.al.|[2403.12721v1](http://arxiv.org/abs/2403.12721v1)|null|
-|**2024-03-19**|**Towards Interpretable Hate Speech Detection using Large Language Model-extracted Rationales**|Ayushi Nirmal et.al.|[2403.12403v1](http://arxiv.org/abs/2403.12403v1)|null|
-|**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894v1](http://arxiv.org/abs/2403.11894v1)|null|
-|**2024-03-18**|**DEE: Dual-stage Explainable Evaluation Method for Text Generation**|Shenyu Zhang et.al.|[2403.11509v1](http://arxiv.org/abs/2403.11509v1)|null|
-|**2024-03-18**|**HateCOT: An Explanation-Enhanced Dataset for Generalizable Offensive Speech Detection via Large Language Models**|Huy Nghiem et.al.|[2403.11456v1](http://arxiv.org/abs/2403.11456v1)|[link](https://github.com/hnghiem-usc/hatecot)|
-|**2024-03-17**|**Quality-Aware Image-Text Alignment for Real-World Image Quality Assessment**|Lorenzo Agnolucci et.al.|[2403.11176v1](http://arxiv.org/abs/2403.11176v1)|[link](https://github.com/miccunifi/qualiclip)|
-|**2024-03-17**|**Correcting misinformation on social media with a large language model**|Xinyi Zhou et.al.|[2403.11169v1](http://arxiv.org/abs/2403.11169v1)|null|
-|**2024-03-17**|**Enhancing Event Causality Identification with Rationale and Structure-Aware Causal Question Answering**|Baiyan Zhang et.al.|[2403.11129v1](http://arxiv.org/abs/2403.11129v1)|null|
-|**2024-03-16**|**Pre-Trained Language Models Represent Some Geographic Populations Better Than Others**|Jonathan Dunn et.al.|[2403.11025v1](http://arxiv.org/abs/2403.11025v1)|null|
-|**2024-03-16**|**SelfIE: Self-Interpretation of Large Language Model Embeddings**|Haozhe Chen et.al.|[2403.10949v1](http://arxiv.org/abs/2403.10949v1)|null|
-|**2024-03-16**|**Depression Detection on Social Media with Large Language Models**|Xiaochong Lan et.al.|[2403.10750v1](http://arxiv.org/abs/2403.10750v1)|null|
-|**2024-03-15**|**Towards Unified Multi-Modal Personalization: Large Vision-Language Models for Generative Recommendation and Beyond**|Tianxin Wei et.al.|[2403.10667v1](http://arxiv.org/abs/2403.10667v1)|null|
-|**2024-03-15**|**A Question on the Explainability of Large Language Models and the Word-Level Univariate First-Order Plausibility Assumption**|Jeremie Bogaert et.al.|[2403.10275v1](http://arxiv.org/abs/2403.10275v1)|null|
-|**2024-03-14**|**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**|Eric Zelikman et.al.|[2403.09629v2](http://arxiv.org/abs/2403.09629v2)|null|
-|**2024-03-14**|**Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey**|Xiaoyu Liu et.al.|[2403.09606v1](http://arxiv.org/abs/2403.09606v1)|null|
-|**2024-03-14**|**Exploring the Comprehension of ChatGPT in Traditional Chinese Medicine Knowledge**|Li Yizhen et.al.|[2403.09164v1](http://arxiv.org/abs/2403.09164v1)|null|
-|**2024-03-14**|**Meaningful Learning: Advancing Abstract Reasoning in Large Language Models via Generic Fact Guidance**|Kai Xiong et.al.|[2403.09085v1](http://arxiv.org/abs/2403.09085v1)|null|
-|**2024-03-14**|**Re-Search for The Truth: Multi-round Retrieval-augmented Large Language Models are Strong Fake News Detectors**|Guanghua Li et.al.|[2403.09747v1](http://arxiv.org/abs/2403.09747v1)|null|
-|**2024-03-13**|**Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era**|Xuansheng Wu et.al.|[2403.08946v1](http://arxiv.org/abs/2403.08946v1)|[link](https://github.com/jacksonwuxs/usablexai_llm)|
-|**2024-03-13**|**Authorship Verification based on the Likelihood Ratio of Grammar Models**|Andrea Nini et.al.|[2403.08462v1](http://arxiv.org/abs/2403.08462v1)|null|
-|**2024-03-13**|**Research on the Application of Deep Learning-based BERT Model in Sentiment Analysis**|Yichao Wu et.al.|[2403.08217v1](http://arxiv.org/abs/2403.08217v1)|null|
-|**2024-03-13**|**Can Large Language Models Identify Authorship?**|Baixiang Huang et.al.|[2403.08213v1](http://arxiv.org/abs/2403.08213v1)|[link](https://github.com/baixianghuang/authorship-llm)|
-|**2024-03-12**|**Legally Binding but Unfair? Towards Assessing Fairness of Privacy Policies**|Vincent Freiberger et.al.|[2403.08115v1](http://arxiv.org/abs/2403.08115v1)|null|
-|**2024-03-12**|**Gujarati-English Code-Switching Speech Recognition using ensemble prediction of spoken language**|Yash Sharma et.al.|[2403.08011v1](http://arxiv.org/abs/2403.08011v1)|null|
 
 ## Question Answering
 
@@ -90,6 +57,39 @@
 |**2024-03-14**|**Evaluating LLMs for Gender Disparities in Notable Persons**|Lauren Rhue et.al.|[2403.09148v1](http://arxiv.org/abs/2403.09148v1)|null|
 |**2024-03-14**|**Meaningful Learning: Advancing Abstract Reasoning in Large Language Models via Generic Fact Guidance**|Kai Xiong et.al.|[2403.09085v1](http://arxiv.org/abs/2403.09085v1)|null|
 |**2024-03-14**|**LAMP: A Language Model on the Map**|Pasquale Balsebre et.al.|[2403.09059v1](http://arxiv.org/abs/2403.09059v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-19**|**Epistemology of Language Models: Do Language Models Have Holistic Knowledge?**|Minsu Kim et.al.|[2403.12862v1](http://arxiv.org/abs/2403.12862v1)|null|
+|**2024-03-19**|**Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models**|Zhixue Zhao et.al.|[2403.12809v1](http://arxiv.org/abs/2403.12809v1)|[link](https://github.com/casszhao/multilingual-faith)|
+|**2024-03-19**|**Investigating Text Shortening Strategy in BERT: Truncation vs Summarization**|Mirza Alim Mutasodirin et.al.|[2403.12799v1](http://arxiv.org/abs/2403.12799v1)|[link](https://github.com/mirzaalimm/truncationvssummarization)|
+|**2024-03-19**|**CLASSLA-web: Comparable Web Corpora of South Slavic Languages Enriched with Linguistic and Genre Annotation**|Nikola Ljubešić et.al.|[2403.12721v1](http://arxiv.org/abs/2403.12721v1)|null|
+|**2024-03-19**|**Towards Interpretable Hate Speech Detection using Large Language Model-extracted Rationales**|Ayushi Nirmal et.al.|[2403.12403v1](http://arxiv.org/abs/2403.12403v1)|null|
+|**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894v1](http://arxiv.org/abs/2403.11894v1)|null|
+|**2024-03-18**|**DEE: Dual-stage Explainable Evaluation Method for Text Generation**|Shenyu Zhang et.al.|[2403.11509v1](http://arxiv.org/abs/2403.11509v1)|null|
+|**2024-03-18**|**HateCOT: An Explanation-Enhanced Dataset for Generalizable Offensive Speech Detection via Large Language Models**|Huy Nghiem et.al.|[2403.11456v1](http://arxiv.org/abs/2403.11456v1)|[link](https://github.com/hnghiem-usc/hatecot)|
+|**2024-03-17**|**Quality-Aware Image-Text Alignment for Real-World Image Quality Assessment**|Lorenzo Agnolucci et.al.|[2403.11176v1](http://arxiv.org/abs/2403.11176v1)|[link](https://github.com/miccunifi/qualiclip)|
+|**2024-03-17**|**Correcting misinformation on social media with a large language model**|Xinyi Zhou et.al.|[2403.11169v1](http://arxiv.org/abs/2403.11169v1)|null|
+|**2024-03-17**|**Enhancing Event Causality Identification with Rationale and Structure-Aware Causal Question Answering**|Baiyan Zhang et.al.|[2403.11129v1](http://arxiv.org/abs/2403.11129v1)|null|
+|**2024-03-16**|**Pre-Trained Language Models Represent Some Geographic Populations Better Than Others**|Jonathan Dunn et.al.|[2403.11025v1](http://arxiv.org/abs/2403.11025v1)|null|
+|**2024-03-16**|**SelfIE: Self-Interpretation of Large Language Model Embeddings**|Haozhe Chen et.al.|[2403.10949v1](http://arxiv.org/abs/2403.10949v1)|null|
+|**2024-03-16**|**Depression Detection on Social Media with Large Language Models**|Xiaochong Lan et.al.|[2403.10750v1](http://arxiv.org/abs/2403.10750v1)|null|
+|**2024-03-15**|**Towards Unified Multi-Modal Personalization: Large Vision-Language Models for Generative Recommendation and Beyond**|Tianxin Wei et.al.|[2403.10667v1](http://arxiv.org/abs/2403.10667v1)|null|
+|**2024-03-15**|**A Question on the Explainability of Large Language Models and the Word-Level Univariate First-Order Plausibility Assumption**|Jeremie Bogaert et.al.|[2403.10275v1](http://arxiv.org/abs/2403.10275v1)|null|
+|**2024-03-14**|**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**|Eric Zelikman et.al.|[2403.09629v2](http://arxiv.org/abs/2403.09629v2)|null|
+|**2024-03-14**|**Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey**|Xiaoyu Liu et.al.|[2403.09606v1](http://arxiv.org/abs/2403.09606v1)|null|
+|**2024-03-14**|**Exploring the Comprehension of ChatGPT in Traditional Chinese Medicine Knowledge**|Li Yizhen et.al.|[2403.09164v1](http://arxiv.org/abs/2403.09164v1)|null|
+|**2024-03-14**|**Meaningful Learning: Advancing Abstract Reasoning in Large Language Models via Generic Fact Guidance**|Kai Xiong et.al.|[2403.09085v1](http://arxiv.org/abs/2403.09085v1)|null|
+|**2024-03-14**|**Re-Search for The Truth: Multi-round Retrieval-augmented Large Language Models are Strong Fake News Detectors**|Guanghua Li et.al.|[2403.09747v1](http://arxiv.org/abs/2403.09747v1)|null|
+|**2024-03-13**|**Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era**|Xuansheng Wu et.al.|[2403.08946v1](http://arxiv.org/abs/2403.08946v1)|[link](https://github.com/jacksonwuxs/usablexai_llm)|
+|**2024-03-13**|**Authorship Verification based on the Likelihood Ratio of Grammar Models**|Andrea Nini et.al.|[2403.08462v1](http://arxiv.org/abs/2403.08462v1)|null|
+|**2024-03-13**|**Research on the Application of Deep Learning-based BERT Model in Sentiment Analysis**|Yichao Wu et.al.|[2403.08217v1](http://arxiv.org/abs/2403.08217v1)|null|
+|**2024-03-13**|**Can Large Language Models Identify Authorship?**|Baixiang Huang et.al.|[2403.08213v1](http://arxiv.org/abs/2403.08213v1)|[link](https://github.com/baixianghuang/authorship-llm)|
+|**2024-03-12**|**Legally Binding but Unfair? Towards Assessing Fairness of Privacy Policies**|Vincent Freiberger et.al.|[2403.08115v1](http://arxiv.org/abs/2403.08115v1)|null|
+|**2024-03-12**|**Gujarati-English Code-Switching Speech Recognition using ensemble prediction of spoken language**|Yash Sharma et.al.|[2403.08011v1](http://arxiv.org/abs/2403.08011v1)|null|
 
 ## Reasoning
 
