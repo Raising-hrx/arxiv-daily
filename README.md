@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-23 09:02:56
+ Automated deployment @ 2024-03-23 20:27:49
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -63,7 +63,7 @@
 |**2024-03-20**|**Chain-of-Interaction: Enhancing Large Language Models for Psychiatric Behavior Understanding by Dyadic Contexts**|Guangzeng Han et.al.|[2403.13786v1](http://arxiv.org/abs/2403.13786v1)|null|
 |**2024-03-20**|**Information-Theoretic Distillation for Reference-less Summarization**|Jaehun Jung et.al.|[2403.13780v1](http://arxiv.org/abs/2403.13780v1)|null|
 |**2024-03-20**|**PARAMANU-AYN: An Efficient Novel Generative and Instruction-tuned Language Model for Indian Legal Case Documents**|Mitodru Niyogi et.al.|[2403.13681v1](http://arxiv.org/abs/2403.13681v1)|null|
-|**2024-03-20**|**RoleInteract: Evaluating the Social Interaction of Role-Playing Agents**|Hongzhan Chen et.al.|[2403.13679v2](http://arxiv.org/abs/2403.13679v2)|null|
+|**2024-03-20**|**RoleInteract: Evaluating the Social Interaction of Role-Playing Agents**|Hongzhan Chen et.al.|[2403.13679v2](http://arxiv.org/abs/2403.13679v2)|[link](https://github.com/x-plug/roleinteract)|
 |**2024-03-20**|**Polaris: A Safety-focused LLM Constellation Architecture for Healthcare**|Subhabrata Mukherjee et.al.|[2403.13313v1](http://arxiv.org/abs/2403.13313v1)|null|
 |**2024-03-19**|**Encode Once and Decode in Parallel: Efficient Transformer Decoding**|Bo-Ru Lu et.al.|[2403.13112v1](http://arxiv.org/abs/2403.13112v1)|null|
 |**2024-03-19**|**Towards Unsupervised Question Answering System with Multi-level Summarization for Legal Text**|M Manvith Prabhu et.al.|[2403.13107v1](http://arxiv.org/abs/2403.13107v1)|null|
@@ -75,12 +75,12 @@
 |**2024-03-19**|**Cross-Lingual Transfer for Natural Language Inference via Multilingual Prompt Translator**|Xiaoyu Qiu et.al.|[2403.12407v1](http://arxiv.org/abs/2403.12407v1)|null|
 |**2024-03-19**|**Dr3: Ask Large Language Models Not to Give Off-Topic Answers in Open Domain Multi-Hop Question Answering**|Yuan Gao et.al.|[2403.12393v1](http://arxiv.org/abs/2403.12393v1)|null|
 |**2024-03-18**|**Reference-based Metrics Disprove Themselves in Question Generation**|Bang Nguyen et.al.|[2403.12242v1](http://arxiv.org/abs/2403.12242v1)|null|
-|**2024-03-18**|**Syn-QA2: Evaluating False Assumptions in Long-tail Questions with Synthetic QA Datasets**|Ashwin Daswani et.al.|[2403.12145v1](http://arxiv.org/abs/2403.12145v1)|null|
+|**2024-03-18**|**Syn-QA2: Evaluating False Assumptions in Long-tail Questions with Synthetic QA Datasets**|Ashwin Daswani et.al.|[2403.12145v1](http://arxiv.org/abs/2403.12145v1)|[link](https://github.com/ashwindaswanibu/qaqa-synthetic-dataset)|
 |**2024-03-18**|**FlexCap: Generating Rich, Localized, and Flexible Captions in Images**|Debidatta Dwibedi et.al.|[2403.12026v1](http://arxiv.org/abs/2403.12026v1)|null|
 |**2024-03-18**|**A Toolbox for Surfacing Health Equity Harms and Biases in Large Language Models**|Stephen R. Pfohl et.al.|[2403.12025v1](http://arxiv.org/abs/2403.12025v1)|null|
 |**2024-03-18**|**Supervised Fine-Tuning as Inverse Reinforcement Learning**|Hao Sun et.al.|[2403.12017v1](http://arxiv.org/abs/2403.12017v1)|null|
 |**2024-03-18**|**EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents**|Abhay Zala et.al.|[2403.12014v1](http://arxiv.org/abs/2403.12014v1)|null|
-|**2024-03-18**|**NovelQA: A Benchmark for Long-Range Novel Question Answering**|Cunxiang Wang et.al.|[2403.12766v1](http://arxiv.org/abs/2403.12766v1)|null|
+|**2024-03-18**|**NovelQA: A Benchmark for Long-Range Novel Question Answering**|Cunxiang Wang et.al.|[2403.12766v1](http://arxiv.org/abs/2403.12766v1)|[link](https://github.com/novelqa/novelqa.github.io)|
 |**2024-03-18**|**Accelerating Scientific Discovery with Generative Knowledge Extraction, Graph-Based Representation, and Multimodal Intelligent Graph Reasoning**|Markus J. Buehler et.al.|[2403.11996v1](http://arxiv.org/abs/2403.11996v1)|null|
 |**2024-03-18**|**Tur[k]ingBench: A Challenge Benchmark for Web Agents**|Kevin Xu et.al.|[2403.11905v1](http://arxiv.org/abs/2403.11905v1)|null|
 |**2024-03-18**|**QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback based Self-Correction**|Xiang Huang et.al.|[2403.11886v1](http://arxiv.org/abs/2403.11886v1)|null|
@@ -97,7 +97,7 @@
 |**2024-03-15**|**Neural Erosion: Emulating Controlled Neurodegeneration and Aging in AI Systems**|Antonios Alexos et.al.|[2403.10596v1](http://arxiv.org/abs/2403.10596v1)|null|
 |**2024-03-15**|**VideoAgent: Long-form Video Understanding with Large Language Model as Agent**|Xiaohan Wang et.al.|[2403.10517v1](http://arxiv.org/abs/2403.10517v1)|null|
 |**2024-03-15**|**Enhancing LLM Factual Accuracy with RAG to Counter Hallucinations: A Case Study on Domain-Specific Queries in Private Knowledge-Bases**|Jiarui Li et.al.|[2403.10446v1](http://arxiv.org/abs/2403.10446v1)|[link](https://github.com/anlp-team/LTI_Neural_Navigator)|
-|**2024-03-15**|**EXAMS-V: A Multi-Discipline Multilingual Multimodal Exam Benchmark for Evaluating Vision Language Models**|Rocktim Jyoti Das et.al.|[2403.10378v1](http://arxiv.org/abs/2403.10378v1)|null|
+|**2024-03-15**|**EXAMS-V: A Multi-Discipline Multilingual Multimodal Exam Benchmark for Evaluating Vision Language Models**|Rocktim Jyoti Das et.al.|[2403.10378v1](http://arxiv.org/abs/2403.10378v1)|[link](https://github.com/rocktimjyotidas/exams-v)|
 
 ## Reasoning
 
@@ -111,14 +111,14 @@
 |**2024-03-21**|**ERD: A Framework for Improving LLM Reasoning for Cognitive Distortion Classification**|Sehee Lim et.al.|[2403.14255v1](http://arxiv.org/abs/2403.14255v1)|null|
 |**2024-03-21**|**K-Act2Emo: Korean Commonsense Knowledge Graph for Indirect Emotional Expression**|Kyuhee Kim et.al.|[2403.14253v1](http://arxiv.org/abs/2403.14253v1)|null|
 |**2024-03-21**|**Reinforcement Learning from Reflective Feedback (RLRF): Aligning and Improving LLMs via Fine-Grained Self-Reflection**|Kyungjae Lee et.al.|[2403.14238v1](http://arxiv.org/abs/2403.14238v1)|null|
-|**2024-03-21**|**Benchmarking Chinese Commonsense Reasoning of LLMs: From Chinese-Specifics to Reasoning-Memorization Correlations**|Jiaxing Sun et.al.|[2403.14112v1](http://arxiv.org/abs/2403.14112v1)|null|
+|**2024-03-21**|**Benchmarking Chinese Commonsense Reasoning of LLMs: From Chinese-Specifics to Reasoning-Memorization Correlations**|Jiaxing Sun et.al.|[2403.14112v1](http://arxiv.org/abs/2403.14112v1)|[link](https://github.com/opendatalab/charm)|
 |**2024-03-20**|**Natural Language as Polices: Reasoning for Coordinate-Level Embodied Control with LLMs**|Yusuke Mikami et.al.|[2403.13801v1](http://arxiv.org/abs/2403.13801v1)|[link](https://github.com/shure-dev/NLaP)|
 |**2024-03-20**|**Chain-of-Interaction: Enhancing Large Language Models for Psychiatric Behavior Understanding by Dyadic Contexts**|Guangzeng Han et.al.|[2403.13786v1](http://arxiv.org/abs/2403.13786v1)|null|
 |**2024-03-20**|**PARAMANU-AYN: An Efficient Novel Generative and Instruction-tuned Language Model for Indian Legal Case Documents**|Mitodru Niyogi et.al.|[2403.13681v1](http://arxiv.org/abs/2403.13681v1)|null|
 |**2024-03-20**|**Grounding Spatial Relations in Text-Only Language Models**|Gorka Azkune et.al.|[2403.13666v1](http://arxiv.org/abs/2403.13666v1)|[link](https://github.com/gazkune/spatiallm)|
-|**2024-03-20**|**Llama meets EU: Investigating the European Political Spectrum through the Lens of LLMs**|Ilias Chalkidis et.al.|[2403.13592v1](http://arxiv.org/abs/2403.13592v1)|null|
+|**2024-03-20**|**Llama meets EU: Investigating the European Political Spectrum through the Lens of LLMs**|Ilias Chalkidis et.al.|[2403.13592v1](http://arxiv.org/abs/2403.13592v1)|[link](https://github.com/coastalcph/eu-politics-llms)|
 |**2024-03-20**|**How Gender Interacts with Political Values: A Case Study on Czech BERT Models**|Adnan Al Ali et.al.|[2403.13514v1](http://arxiv.org/abs/2403.13514v1)|null|
-|**2024-03-20**|**What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models**|Junho Kim et.al.|[2403.13513v1](http://arxiv.org/abs/2403.13513v1)|null|
+|**2024-03-20**|**What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models**|Junho Kim et.al.|[2403.13513v1](http://arxiv.org/abs/2403.13513v1)|[link](https://github.com/ivy-lvlm/counterfactual-inception)|
 |**2024-03-20**|**Polaris: A Safety-focused LLM Constellation Architecture for Healthcare**|Subhabrata Mukherjee et.al.|[2403.13313v1](http://arxiv.org/abs/2403.13313v1)|null|
 |**2024-03-20**|**LeanReasoner: Boosting Complex Logical Reasoning with Lean**|Dongwei Jiang et.al.|[2403.13312v1](http://arxiv.org/abs/2403.13312v1)|null|
 |**2024-03-20**|**SumTra: A Differentiable Pipeline for Few-Shot Cross-Lingual Summarization**|Jacob Parnell et.al.|[2403.13240v1](http://arxiv.org/abs/2403.13240v1)|null|
@@ -136,7 +136,7 @@
 |**2024-03-18**|**OpenEval: Benchmarking Chinese LLMs across Capability, Alignment and Safety**|Chuang Liu et.al.|[2403.12316v1](http://arxiv.org/abs/2403.12316v1)|null|
 |**2024-03-18**|**TnT-LLM: Text Mining at Scale with Large Language Models**|Mengting Wan et.al.|[2403.12173v1](http://arxiv.org/abs/2403.12173v1)|null|
 |**2024-03-18**|**EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents**|Abhay Zala et.al.|[2403.12014v1](http://arxiv.org/abs/2403.12014v1)|null|
-|**2024-03-18**|**NovelQA: A Benchmark for Long-Range Novel Question Answering**|Cunxiang Wang et.al.|[2403.12766v1](http://arxiv.org/abs/2403.12766v1)|null|
+|**2024-03-18**|**NovelQA: A Benchmark for Long-Range Novel Question Answering**|Cunxiang Wang et.al.|[2403.12766v1](http://arxiv.org/abs/2403.12766v1)|[link](https://github.com/novelqa/novelqa.github.io)|
 |**2024-03-18**|**Accelerating Scientific Discovery with Generative Knowledge Extraction, Graph-Based Representation, and Multimodal Intelligent Graph Reasoning**|Markus J. Buehler et.al.|[2403.11996v1](http://arxiv.org/abs/2403.11996v1)|null|
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894v1](http://arxiv.org/abs/2403.11894v1)|null|
 |**2024-03-18**|**QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback based Self-Correction**|Xiang Huang et.al.|[2403.11886v1](http://arxiv.org/abs/2403.11886v1)|null|
@@ -152,7 +152,7 @@
 |**2024-03-16**|**BEnQA: A Question Answering and Reasoning Benchmark for Bengali and English**|Sheikh Shafayat et.al.|[2403.10900v1](http://arxiv.org/abs/2403.10900v1)|[link](https://github.com/sheikhshafayat/benqa)|
 |**2024-03-15**|**EXPLORER: Exploration-guided Reasoning for Textual Reinforcement Learning**|Kinjal Basu et.al.|[2403.10692v1](http://arxiv.org/abs/2403.10692v1)|[link](https://github.com/kinjalbasu/explorer)|
 |**2024-03-15**|**VideoAgent: Long-form Video Understanding with Large Language Model as Agent**|Xiaohan Wang et.al.|[2403.10517v1](http://arxiv.org/abs/2403.10517v1)|null|
-|**2024-03-15**|**EXAMS-V: A Multi-Discipline Multilingual Multimodal Exam Benchmark for Evaluating Vision Language Models**|Rocktim Jyoti Das et.al.|[2403.10378v1](http://arxiv.org/abs/2403.10378v1)|null|
+|**2024-03-15**|**EXAMS-V: A Multi-Discipline Multilingual Multimodal Exam Benchmark for Evaluating Vision Language Models**|Rocktim Jyoti Das et.al.|[2403.10378v1](http://arxiv.org/abs/2403.10378v1)|[link](https://github.com/rocktimjyotidas/exams-v)|
 |**2024-03-15**|**HawkEye: Training Video-Text LLMs for Grounding Text in Videos**|Yueqian Wang et.al.|[2403.10228v1](http://arxiv.org/abs/2403.10228v1)|[link](https://github.com/yellow-binary-tree/hawkeye)|
 |**2024-03-15**|**RAFT: Adapting Language Model to Domain Specific RAG**|Tianjun Zhang et.al.|[2403.10131v1](http://arxiv.org/abs/2403.10131v1)|[link](https://github.com/ShishirPatil/gorilla)|
 |**2024-03-14**|**Self-Consistency Boosts Calibration for Math Reasoning**|Ante Wang et.al.|[2403.09849v1](http://arxiv.org/abs/2403.09849v1)|null|
