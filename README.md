@@ -1,39 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2024-03-25 20:48:23
+ Automated deployment @ 2024-03-25 21:00:29
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-22**|**Stance Reasoner: Zero-Shot Stance Detection on Social Media with Explicit Reasoning**|Maksym Taranukhin et.al.|[2403.14895v1](http://arxiv.org/abs/2403.14895v1)|null|
-|**2024-03-21**|**ReAct Meets ActRe: Autonomous Annotations of Agent Trajectories for Contrastive Self-Training**|Zonghan Yang et.al.|[2403.14589v1](http://arxiv.org/abs/2403.14589v1)|null|
-|**2024-03-21**|**A Chain-of-Thought Prompting Approach with LLMs for Evaluating Students' Formative Assessment Responses in Science**|Clayton Cohn et.al.|[2403.14565v1](http://arxiv.org/abs/2403.14565v1)|null|
-|**2024-03-21**|**Multi-Level Explanations for Generative Language Models**|Lucas Monteiro Paes et.al.|[2403.14459v1](http://arxiv.org/abs/2403.14459v1)|null|
-|**2024-03-21**|**MMIDR: Teaching Large Language Model to Interpret Multimodal Misinformation via Knowledge Distillation**|Longzheng Wang et.al.|[2403.14171v1](http://arxiv.org/abs/2403.14171v1)|[link](https://github.com/wishever/mmidr)|
-|**2024-03-21**|**From Handcrafted Features to LLMs: A Brief Survey for Machine Translation Quality Estimation**|Haofei Zhao et.al.|[2403.14118v1](http://arxiv.org/abs/2403.14118v1)|null|
-|**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804v1](http://arxiv.org/abs/2403.13804v1)|null|
-|**2024-03-20**|**PARAMANU-AYN: An Efficient Novel Generative and Instruction-tuned Language Model for Indian Legal Case Documents**|Mitodru Niyogi et.al.|[2403.13681v1](http://arxiv.org/abs/2403.13681v1)|null|
-|**2024-03-20**|**eRST: A Signaled Graph Theory of Discourse Relations and Organization**|Amir Zeldes et.al.|[2403.13560v1](http://arxiv.org/abs/2403.13560v1)|null|
-|**2024-03-20**|**What explains the success of cross-modal fine-tuning with ORCA?**|Paloma García-de-Herreros et.al.|[2403.13537v1](http://arxiv.org/abs/2403.13537v1)|null|
-|**2024-03-19**|**Towards Unsupervised Question Answering System with Multi-level Summarization for Legal Text**|M Manvith Prabhu et.al.|[2403.13107v1](http://arxiv.org/abs/2403.13107v1)|null|
-|**2024-03-19**|**Epistemology of Language Models: Do Language Models Have Holistic Knowledge?**|Minsu Kim et.al.|[2403.12862v1](http://arxiv.org/abs/2403.12862v1)|null|
-|**2024-03-19**|**Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models**|Zhixue Zhao et.al.|[2403.12809v1](http://arxiv.org/abs/2403.12809v1)|[link](https://github.com/casszhao/multilingual-faith)|
-|**2024-03-19**|**Investigating Text Shortening Strategy in BERT: Truncation vs Summarization**|Mirza Alim Mutasodirin et.al.|[2403.12799v1](http://arxiv.org/abs/2403.12799v1)|[link](https://github.com/mirzaalimm/truncationvssummarization)|
-|**2024-03-19**|**CLASSLA-web: Comparable Web Corpora of South Slavic Languages Enriched with Linguistic and Genre Annotation**|Nikola Ljubešić et.al.|[2403.12721v1](http://arxiv.org/abs/2403.12721v1)|null|
-|**2024-03-19**|**Towards Interpretable Hate Speech Detection using Large Language Model-extracted Rationales**|Ayushi Nirmal et.al.|[2403.12403v1](http://arxiv.org/abs/2403.12403v1)|null|
-|**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894v1](http://arxiv.org/abs/2403.11894v1)|null|
-|**2024-03-18**|**DEE: Dual-stage Explainable Evaluation Method for Text Generation**|Shenyu Zhang et.al.|[2403.11509v1](http://arxiv.org/abs/2403.11509v1)|null|
-|**2024-03-18**|**HateCOT: An Explanation-Enhanced Dataset for Generalizable Offensive Speech Detection via Large Language Models**|Huy Nghiem et.al.|[2403.11456v1](http://arxiv.org/abs/2403.11456v1)|[link](https://github.com/hnghiem-usc/hatecot)|
-|**2024-03-17**|**Quality-Aware Image-Text Alignment for Real-World Image Quality Assessment**|Lorenzo Agnolucci et.al.|[2403.11176v1](http://arxiv.org/abs/2403.11176v1)|[link](https://github.com/miccunifi/qualiclip)|
-|**2024-03-17**|**Correcting misinformation on social media with a large language model**|Xinyi Zhou et.al.|[2403.11169v1](http://arxiv.org/abs/2403.11169v1)|null|
-|**2024-03-17**|**Enhancing Event Causality Identification with Rationale and Structure-Aware Causal Question Answering**|Baiyan Zhang et.al.|[2403.11129v1](http://arxiv.org/abs/2403.11129v1)|null|
-|**2024-03-16**|**Pre-Trained Language Models Represent Some Geographic Populations Better Than Others**|Jonathan Dunn et.al.|[2403.11025v1](http://arxiv.org/abs/2403.11025v1)|null|
-|**2024-03-16**|**SelfIE: Self-Interpretation of Large Language Model Embeddings**|Haozhe Chen et.al.|[2403.10949v1](http://arxiv.org/abs/2403.10949v1)|null|
-|**2024-03-16**|**Depression Detection on Social Media with Large Language Models**|Xiaochong Lan et.al.|[2403.10750v1](http://arxiv.org/abs/2403.10750v1)|null|
-|**2024-03-15**|**Towards Unified Multi-Modal Personalization: Large Vision-Language Models for Generative Recommendation and Beyond**|Tianxin Wei et.al.|[2403.10667v1](http://arxiv.org/abs/2403.10667v1)|null|
 
 ## Question Answering
 
@@ -100,6 +68,38 @@
 |**2024-03-17**|**m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks**|Zixian Ma et.al.|[2403.11085v3](http://arxiv.org/abs/2403.11085v3)|[link](https://github.com/raivnlab/mnms)|
 |**2024-03-16**|**SelfIE: Self-Interpretation of Large Language Model Embeddings**|Haozhe Chen et.al.|[2403.10949v1](http://arxiv.org/abs/2403.10949v1)|null|
 |**2024-03-16**|**BEnQA: A Question Answering and Reasoning Benchmark for Bengali and English**|Sheikh Shafayat et.al.|[2403.10900v1](http://arxiv.org/abs/2403.10900v1)|[link](https://github.com/sheikhshafayat/benqa)|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-22**|**Stance Reasoner: Zero-Shot Stance Detection on Social Media with Explicit Reasoning**|Maksym Taranukhin et.al.|[2403.14895v1](http://arxiv.org/abs/2403.14895v1)|null|
+|**2024-03-21**|**ReAct Meets ActRe: Autonomous Annotations of Agent Trajectories for Contrastive Self-Training**|Zonghan Yang et.al.|[2403.14589v1](http://arxiv.org/abs/2403.14589v1)|null|
+|**2024-03-21**|**A Chain-of-Thought Prompting Approach with LLMs for Evaluating Students' Formative Assessment Responses in Science**|Clayton Cohn et.al.|[2403.14565v1](http://arxiv.org/abs/2403.14565v1)|null|
+|**2024-03-21**|**Multi-Level Explanations for Generative Language Models**|Lucas Monteiro Paes et.al.|[2403.14459v1](http://arxiv.org/abs/2403.14459v1)|null|
+|**2024-03-21**|**MMIDR: Teaching Large Language Model to Interpret Multimodal Misinformation via Knowledge Distillation**|Longzheng Wang et.al.|[2403.14171v1](http://arxiv.org/abs/2403.14171v1)|[link](https://github.com/wishever/mmidr)|
+|**2024-03-21**|**From Handcrafted Features to LLMs: A Brief Survey for Machine Translation Quality Estimation**|Haofei Zhao et.al.|[2403.14118v1](http://arxiv.org/abs/2403.14118v1)|null|
+|**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804v1](http://arxiv.org/abs/2403.13804v1)|null|
+|**2024-03-20**|**PARAMANU-AYN: An Efficient Novel Generative and Instruction-tuned Language Model for Indian Legal Case Documents**|Mitodru Niyogi et.al.|[2403.13681v1](http://arxiv.org/abs/2403.13681v1)|null|
+|**2024-03-20**|**eRST: A Signaled Graph Theory of Discourse Relations and Organization**|Amir Zeldes et.al.|[2403.13560v1](http://arxiv.org/abs/2403.13560v1)|null|
+|**2024-03-20**|**What explains the success of cross-modal fine-tuning with ORCA?**|Paloma García-de-Herreros et.al.|[2403.13537v1](http://arxiv.org/abs/2403.13537v1)|null|
+|**2024-03-19**|**Towards Unsupervised Question Answering System with Multi-level Summarization for Legal Text**|M Manvith Prabhu et.al.|[2403.13107v1](http://arxiv.org/abs/2403.13107v1)|null|
+|**2024-03-19**|**Epistemology of Language Models: Do Language Models Have Holistic Knowledge?**|Minsu Kim et.al.|[2403.12862v1](http://arxiv.org/abs/2403.12862v1)|null|
+|**2024-03-19**|**Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models**|Zhixue Zhao et.al.|[2403.12809v1](http://arxiv.org/abs/2403.12809v1)|[link](https://github.com/casszhao/multilingual-faith)|
+|**2024-03-19**|**Investigating Text Shortening Strategy in BERT: Truncation vs Summarization**|Mirza Alim Mutasodirin et.al.|[2403.12799v1](http://arxiv.org/abs/2403.12799v1)|[link](https://github.com/mirzaalimm/truncationvssummarization)|
+|**2024-03-19**|**CLASSLA-web: Comparable Web Corpora of South Slavic Languages Enriched with Linguistic and Genre Annotation**|Nikola Ljubešić et.al.|[2403.12721v1](http://arxiv.org/abs/2403.12721v1)|null|
+|**2024-03-19**|**Towards Interpretable Hate Speech Detection using Large Language Model-extracted Rationales**|Ayushi Nirmal et.al.|[2403.12403v1](http://arxiv.org/abs/2403.12403v1)|null|
+|**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894v1](http://arxiv.org/abs/2403.11894v1)|null|
+|**2024-03-18**|**DEE: Dual-stage Explainable Evaluation Method for Text Generation**|Shenyu Zhang et.al.|[2403.11509v1](http://arxiv.org/abs/2403.11509v1)|null|
+|**2024-03-18**|**HateCOT: An Explanation-Enhanced Dataset for Generalizable Offensive Speech Detection via Large Language Models**|Huy Nghiem et.al.|[2403.11456v1](http://arxiv.org/abs/2403.11456v1)|[link](https://github.com/hnghiem-usc/hatecot)|
+|**2024-03-17**|**Quality-Aware Image-Text Alignment for Real-World Image Quality Assessment**|Lorenzo Agnolucci et.al.|[2403.11176v1](http://arxiv.org/abs/2403.11176v1)|[link](https://github.com/miccunifi/qualiclip)|
+|**2024-03-17**|**Correcting misinformation on social media with a large language model**|Xinyi Zhou et.al.|[2403.11169v1](http://arxiv.org/abs/2403.11169v1)|null|
+|**2024-03-17**|**Enhancing Event Causality Identification with Rationale and Structure-Aware Causal Question Answering**|Baiyan Zhang et.al.|[2403.11129v1](http://arxiv.org/abs/2403.11129v1)|null|
+|**2024-03-16**|**Pre-Trained Language Models Represent Some Geographic Populations Better Than Others**|Jonathan Dunn et.al.|[2403.11025v1](http://arxiv.org/abs/2403.11025v1)|null|
+|**2024-03-16**|**SelfIE: Self-Interpretation of Large Language Model Embeddings**|Haozhe Chen et.al.|[2403.10949v1](http://arxiv.org/abs/2403.10949v1)|null|
+|**2024-03-16**|**Depression Detection on Social Media with Large Language Models**|Xiaochong Lan et.al.|[2403.10750v1](http://arxiv.org/abs/2403.10750v1)|null|
+|**2024-03-15**|**Towards Unified Multi-Modal Personalization: Large Vision-Language Models for Generative Recommendation and Beyond**|Tianxin Wei et.al.|[2403.10667v1](http://arxiv.org/abs/2403.10667v1)|null|
 
 ## Reasoning
 
