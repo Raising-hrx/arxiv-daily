@@ -1,7 +1,40 @@
 # arxiv-daily
- Automated deployment @ 2024-03-27 20:28:05
+ Automated deployment @ 2024-03-27 20:50:15
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-26**|**Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms**|Michael Hanna et.al.|[2403.17806v1](http://arxiv.org/abs/2403.17806v1)|null|
+|**2024-03-26**|**Constructions Are So Difficult That Even Large Language Models Get Them Right for the Wrong Reasons**|Shijia Zhou et.al.|[2403.17760v1](http://arxiv.org/abs/2403.17760v1)|null|
+|**2024-03-26**|**Intrinsic Subgraph Generation for Interpretable Graph based Visual Question Answering**|Pascal Tilli et.al.|[2403.17647v1](http://arxiv.org/abs/2403.17647v1)|[link](https://github.com/digitalphonetics/intrinsic-subgraph-generation-for-vqa)|
+|**2024-03-26**|**ChatGPT Rates Natural Language Explanation Quality Like Humans: But on Which Scales?**|Fan Huang et.al.|[2403.17368v1](http://arxiv.org/abs/2403.17368v1)|[link](https://github.com/muyuhuatang/chatgptrater)|
+|**2024-03-25**|**Grounding Language Plans in Demonstrations Through Counterfactual Perturbations**|Yanwei Wang et.al.|[2403.17124v1](http://arxiv.org/abs/2403.17124v1)|null|
+|**2024-03-25**|**Towards Explainability in Legal Outcome Prediction Models**|Josef Valvoda et.al.|[2403.16852v1](http://arxiv.org/abs/2403.16852v1)|null|
+|**2024-03-25**|**ToXCL: A Unified Framework for Toxic Speech Detection and Explanation**|Nhat M. Hoang et.al.|[2403.16685v1](http://arxiv.org/abs/2403.16685v1)|[link](https://github.com/nhathoang2002/toxcl)|
+|**2024-03-25**|**RU22Fact: Optimizing Evidence for Multilingual Explainable Fact-Checking on Russia-Ukraine Conflict**|Yirong Zeng et.al.|[2403.16662v2](http://arxiv.org/abs/2403.16662v2)|[link](https://github.com/zeng-yirong/ru22fact)|
+|**2024-03-25**|**PE: A Poincare Explanation Method for Fast Text Hierarchy Generation**|Qian Chen et.al.|[2403.16554v1](http://arxiv.org/abs/2403.16554v1)|[link](https://github.com/qq31415926/pe)|
+|**2024-03-23**|**Leveraging Zero-Shot Prompting for Efficient Language Model Distillation**|Lukas Vöge et.al.|[2403.15886v1](http://arxiv.org/abs/2403.15886v1)|null|
+|**2024-03-23**|**Towards a RAG-based Summarization Agent for the Electron-Ion Collider**|Karthik Suresh et.al.|[2403.15729v2](http://arxiv.org/abs/2403.15729v2)|null|
+|**2024-03-22**|**Stance Reasoner: Zero-Shot Stance Detection on Social Media with Explicit Reasoning**|Maksym Taranukhin et.al.|[2403.14895v1](http://arxiv.org/abs/2403.14895v1)|null|
+|**2024-03-21**|**ReAct Meets ActRe: Autonomous Annotation of Agent Trajectories for Contrastive Self-Training**|Zonghan Yang et.al.|[2403.14589v2](http://arxiv.org/abs/2403.14589v2)|null|
+|**2024-03-21**|**Visual Analytics for Fine-grained Text Classification Models and Datasets**|Munkhtulga Battogtokh et.al.|[2403.15492v1](http://arxiv.org/abs/2403.15492v1)|null|
+|**2024-03-21**|**A Chain-of-Thought Prompting Approach with LLMs for Evaluating Students' Formative Assessment Responses in Science**|Clayton Cohn et.al.|[2403.14565v1](http://arxiv.org/abs/2403.14565v1)|null|
+|**2024-03-21**|**Multi-Level Explanations for Generative Language Models**|Lucas Monteiro Paes et.al.|[2403.14459v1](http://arxiv.org/abs/2403.14459v1)|null|
+|**2024-03-21**|**MMIDR: Teaching Large Language Model to Interpret Multimodal Misinformation via Knowledge Distillation**|Longzheng Wang et.al.|[2403.14171v1](http://arxiv.org/abs/2403.14171v1)|[link](https://github.com/wishever/mmidr)|
+|**2024-03-21**|**From Handcrafted Features to LLMs: A Brief Survey for Machine Translation Quality Estimation**|Haofei Zhao et.al.|[2403.14118v1](http://arxiv.org/abs/2403.14118v1)|null|
+|**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804v1](http://arxiv.org/abs/2403.13804v1)|null|
+|**2024-03-20**|**PARAMANU-AYN: An Efficient Novel Generative and Instruction-tuned Language Model for Indian Legal Case Documents**|Mitodru Niyogi et.al.|[2403.13681v1](http://arxiv.org/abs/2403.13681v1)|null|
+|**2024-03-20**|**eRST: A Signaled Graph Theory of Discourse Relations and Organization**|Amir Zeldes et.al.|[2403.13560v1](http://arxiv.org/abs/2403.13560v1)|null|
+|**2024-03-20**|**What explains the success of cross-modal fine-tuning with ORCA?**|Paloma García-de-Herreros et.al.|[2403.13537v1](http://arxiv.org/abs/2403.13537v1)|null|
+|**2024-03-19**|**Towards Unsupervised Question Answering System with Multi-level Summarization for Legal Text**|M Manvith Prabhu et.al.|[2403.13107v1](http://arxiv.org/abs/2403.13107v1)|null|
+|**2024-03-19**|**Epistemology of Language Models: Do Language Models Have Holistic Knowledge?**|Minsu Kim et.al.|[2403.12862v1](http://arxiv.org/abs/2403.12862v1)|null|
+|**2024-03-19**|**Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models**|Zhixue Zhao et.al.|[2403.12809v1](http://arxiv.org/abs/2403.12809v1)|[link](https://github.com/casszhao/multilingual-faith)|
+|**2024-03-19**|**Investigating Text Shortening Strategy in BERT: Truncation vs Summarization**|Mirza Alim Mutasodirin et.al.|[2403.12799v1](http://arxiv.org/abs/2403.12799v1)|[link](https://github.com/mirzaalimm/truncationvssummarization)|
+|**2024-03-19**|**CLASSLA-web: Comparable Web Corpora of South Slavic Languages Enriched with Linguistic and Genre Annotation**|Nikola Ljubešić et.al.|[2403.12721v2](http://arxiv.org/abs/2403.12721v2)|null|
 
 ## Question Answering
 
@@ -73,39 +106,6 @@
 |**2024-03-20**|**Information-Theoretic Distillation for Reference-less Summarization**|Jaehun Jung et.al.|[2403.13780v1](http://arxiv.org/abs/2403.13780v1)|null|
 |**2024-03-20**|**PARAMANU-AYN: An Efficient Novel Generative and Instruction-tuned Language Model for Indian Legal Case Documents**|Mitodru Niyogi et.al.|[2403.13681v1](http://arxiv.org/abs/2403.13681v1)|null|
 |**2024-03-20**|**RoleInteract: Evaluating the Social Interaction of Role-Playing Agents**|Hongzhan Chen et.al.|[2403.13679v3](http://arxiv.org/abs/2403.13679v3)|[link](https://github.com/x-plug/roleinteract)|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-26**|**Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms**|Michael Hanna et.al.|[2403.17806v1](http://arxiv.org/abs/2403.17806v1)|null|
-|**2024-03-26**|**Constructions Are So Difficult That Even Large Language Models Get Them Right for the Wrong Reasons**|Shijia Zhou et.al.|[2403.17760v1](http://arxiv.org/abs/2403.17760v1)|null|
-|**2024-03-26**|**Intrinsic Subgraph Generation for Interpretable Graph based Visual Question Answering**|Pascal Tilli et.al.|[2403.17647v1](http://arxiv.org/abs/2403.17647v1)|[link](https://github.com/digitalphonetics/intrinsic-subgraph-generation-for-vqa)|
-|**2024-03-26**|**ChatGPT Rates Natural Language Explanation Quality Like Humans: But on Which Scales?**|Fan Huang et.al.|[2403.17368v1](http://arxiv.org/abs/2403.17368v1)|[link](https://github.com/muyuhuatang/chatgptrater)|
-|**2024-03-25**|**Grounding Language Plans in Demonstrations Through Counterfactual Perturbations**|Yanwei Wang et.al.|[2403.17124v1](http://arxiv.org/abs/2403.17124v1)|null|
-|**2024-03-25**|**Towards Explainability in Legal Outcome Prediction Models**|Josef Valvoda et.al.|[2403.16852v1](http://arxiv.org/abs/2403.16852v1)|null|
-|**2024-03-25**|**ToXCL: A Unified Framework for Toxic Speech Detection and Explanation**|Nhat M. Hoang et.al.|[2403.16685v1](http://arxiv.org/abs/2403.16685v1)|[link](https://github.com/nhathoang2002/toxcl)|
-|**2024-03-25**|**RU22Fact: Optimizing Evidence for Multilingual Explainable Fact-Checking on Russia-Ukraine Conflict**|Yirong Zeng et.al.|[2403.16662v2](http://arxiv.org/abs/2403.16662v2)|[link](https://github.com/zeng-yirong/ru22fact)|
-|**2024-03-25**|**PE: A Poincare Explanation Method for Fast Text Hierarchy Generation**|Qian Chen et.al.|[2403.16554v1](http://arxiv.org/abs/2403.16554v1)|[link](https://github.com/qq31415926/pe)|
-|**2024-03-23**|**Leveraging Zero-Shot Prompting for Efficient Language Model Distillation**|Lukas Vöge et.al.|[2403.15886v1](http://arxiv.org/abs/2403.15886v1)|null|
-|**2024-03-23**|**Towards a RAG-based Summarization Agent for the Electron-Ion Collider**|Karthik Suresh et.al.|[2403.15729v2](http://arxiv.org/abs/2403.15729v2)|null|
-|**2024-03-22**|**Stance Reasoner: Zero-Shot Stance Detection on Social Media with Explicit Reasoning**|Maksym Taranukhin et.al.|[2403.14895v1](http://arxiv.org/abs/2403.14895v1)|null|
-|**2024-03-21**|**ReAct Meets ActRe: Autonomous Annotation of Agent Trajectories for Contrastive Self-Training**|Zonghan Yang et.al.|[2403.14589v2](http://arxiv.org/abs/2403.14589v2)|null|
-|**2024-03-21**|**Visual Analytics for Fine-grained Text Classification Models and Datasets**|Munkhtulga Battogtokh et.al.|[2403.15492v1](http://arxiv.org/abs/2403.15492v1)|null|
-|**2024-03-21**|**A Chain-of-Thought Prompting Approach with LLMs for Evaluating Students' Formative Assessment Responses in Science**|Clayton Cohn et.al.|[2403.14565v1](http://arxiv.org/abs/2403.14565v1)|null|
-|**2024-03-21**|**Multi-Level Explanations for Generative Language Models**|Lucas Monteiro Paes et.al.|[2403.14459v1](http://arxiv.org/abs/2403.14459v1)|null|
-|**2024-03-21**|**MMIDR: Teaching Large Language Model to Interpret Multimodal Misinformation via Knowledge Distillation**|Longzheng Wang et.al.|[2403.14171v1](http://arxiv.org/abs/2403.14171v1)|[link](https://github.com/wishever/mmidr)|
-|**2024-03-21**|**From Handcrafted Features to LLMs: A Brief Survey for Machine Translation Quality Estimation**|Haofei Zhao et.al.|[2403.14118v1](http://arxiv.org/abs/2403.14118v1)|null|
-|**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804v1](http://arxiv.org/abs/2403.13804v1)|null|
-|**2024-03-20**|**PARAMANU-AYN: An Efficient Novel Generative and Instruction-tuned Language Model for Indian Legal Case Documents**|Mitodru Niyogi et.al.|[2403.13681v1](http://arxiv.org/abs/2403.13681v1)|null|
-|**2024-03-20**|**eRST: A Signaled Graph Theory of Discourse Relations and Organization**|Amir Zeldes et.al.|[2403.13560v1](http://arxiv.org/abs/2403.13560v1)|null|
-|**2024-03-20**|**What explains the success of cross-modal fine-tuning with ORCA?**|Paloma García-de-Herreros et.al.|[2403.13537v1](http://arxiv.org/abs/2403.13537v1)|null|
-|**2024-03-19**|**Towards Unsupervised Question Answering System with Multi-level Summarization for Legal Text**|M Manvith Prabhu et.al.|[2403.13107v1](http://arxiv.org/abs/2403.13107v1)|null|
-|**2024-03-19**|**Epistemology of Language Models: Do Language Models Have Holistic Knowledge?**|Minsu Kim et.al.|[2403.12862v1](http://arxiv.org/abs/2403.12862v1)|null|
-|**2024-03-19**|**Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models**|Zhixue Zhao et.al.|[2403.12809v1](http://arxiv.org/abs/2403.12809v1)|[link](https://github.com/casszhao/multilingual-faith)|
-|**2024-03-19**|**Investigating Text Shortening Strategy in BERT: Truncation vs Summarization**|Mirza Alim Mutasodirin et.al.|[2403.12799v1](http://arxiv.org/abs/2403.12799v1)|[link](https://github.com/mirzaalimm/truncationvssummarization)|
-|**2024-03-19**|**CLASSLA-web: Comparable Web Corpora of South Slavic Languages Enriched with Linguistic and Genre Annotation**|Nikola Ljubešić et.al.|[2403.12721v2](http://arxiv.org/abs/2403.12721v2)|null|
 
 ## Reasoning
 
