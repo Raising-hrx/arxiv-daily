@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-30 09:02:37
+ Automated deployment @ 2024-03-30 20:25:27
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -91,7 +91,7 @@
 |**2024-03-24**|**SQL-Encoder: Improving NL2SQL In-Context Learning Through a Context-Aware Encoder**|Mohammadreza Pourreza et.al.|[2403.16204v1](http://arxiv.org/abs/2403.16204v1)|null|
 |**2024-03-24**|**What Happens to a Dataset Transformed by a Projection-based Concept Removal Method?**|Richard Johansson et.al.|[2403.16142v1](http://arxiv.org/abs/2403.16142v1)|null|
 |**2024-03-24**|**WangchanLion and WangchanX MRC Eval**|Wannaphong Phatthiyaphaibun et.al.|[2403.16127v1](http://arxiv.org/abs/2403.16127v1)|null|
-|**2024-03-24**|**CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health Question Answering**|Hongbin Na et.al.|[2403.16008v1](http://arxiv.org/abs/2403.16008v1)|null|
+|**2024-03-24**|**CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health Question Answering**|Hongbin Na et.al.|[2403.16008v1](http://arxiv.org/abs/2403.16008v1)|[link](https://github.com/hiyouga/llama-factory)|
 |**2024-03-23**|**IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models**|Haz Sameen Shahgir et.al.|[2403.15952v1](http://arxiv.org/abs/2403.15952v1)|[link](https://github.com/csebuetnlp/illusionvqa)|
 |**2024-03-23**|**MRC-based Nested Medical NER with Co-prediction and Adaptive Pre-training**|Xiaojing Du et.al.|[2403.15800v1](http://arxiv.org/abs/2403.15800v1)|null|
 |**2024-03-23**|**Understanding Emergent Abilities of Language Models from the Loss Perspective**|Zhengxiao Du et.al.|[2403.15796v1](http://arxiv.org/abs/2403.15796v1)|null|
