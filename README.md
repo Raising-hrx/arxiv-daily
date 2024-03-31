@@ -1,7 +1,39 @@
 # arxiv-daily
- Automated deployment @ 2024-03-31 09:10:31
+ Automated deployment @ 2024-03-31 20:26:09
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-28**|**Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models**|Samuel Marks et.al.|[2403.19647v1](http://arxiv.org/abs/2403.19647v1)|[link](https://github.com/saprmarks/feature-circuits)|
+|**2024-03-28**|**The Role of Syntactic Span Preferences in Post-Hoc Explanation Disagreement**|Jonathan Kamp et.al.|[2403.19424v1](http://arxiv.org/abs/2403.19424v1)|null|
+|**2024-03-28**|**BP4ER: Bootstrap Prompting for Explicit Reasoning in Medical Dialogue Generation**|Yuhong He et.al.|[2403.19414v1](http://arxiv.org/abs/2403.19414v1)|null|
+|**2024-03-27**|**Measuring Political Bias in Large Language Models: What Is Said and How It Is Said**|Yejin Bang et.al.|[2403.18932v1](http://arxiv.org/abs/2403.18932v1)|null|
+|**2024-03-27**|**A Path Towards Legal Autonomy: An interoperable and explainable approach to extracting, transforming, loading and computing legal information using large language models, expert systems and Bayesian networks**|Axel Constant et.al.|[2403.18537v1](http://arxiv.org/abs/2403.18537v1)|null|
+|**2024-03-27**|**Exploring language relations through syntactic distances and geographic proximity**|Juan De Gregorio et.al.|[2403.18430v1](http://arxiv.org/abs/2403.18430v1)|null|
+|**2024-03-26**|**The Impact of Syntactic and Semantic Proximity on Machine Translation with Back-Translation**|Nicolas Guerin et.al.|[2403.18031v1](http://arxiv.org/abs/2403.18031v1)|null|
+|**2024-03-26**|**Enriching Word Usage Graphs with Cluster Definitions**|Mariia Fedorova et.al.|[2403.18024v1](http://arxiv.org/abs/2403.18024v1)|null|
+|**2024-03-26**|**Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms**|Michael Hanna et.al.|[2403.17806v1](http://arxiv.org/abs/2403.17806v1)|null|
+|**2024-03-26**|**Constructions Are So Difficult That Even Large Language Models Get Them Right for the Wrong Reasons**|Shijia Zhou et.al.|[2403.17760v1](http://arxiv.org/abs/2403.17760v1)|null|
+|**2024-03-26**|**Targeted Visualization of the Backbone of Encoder LLMs**|Isaac Roberts et.al.|[2403.18872v1](http://arxiv.org/abs/2403.18872v1)|null|
+|**2024-03-26**|**Intrinsic Subgraph Generation for Interpretable Graph based Visual Question Answering**|Pascal Tilli et.al.|[2403.17647v2](http://arxiv.org/abs/2403.17647v2)|[link](https://github.com/digitalphonetics/intrinsic-subgraph-generation-for-vqa)|
+|**2024-03-26**|**ChatGPT Rates Natural Language Explanation Quality Like Humans: But on Which Scales?**|Fan Huang et.al.|[2403.17368v1](http://arxiv.org/abs/2403.17368v1)|[link](https://github.com/muyuhuatang/chatgptrater)|
+|**2024-03-25**|**Grounding Language Plans in Demonstrations Through Counterfactual Perturbations**|Yanwei Wang et.al.|[2403.17124v1](http://arxiv.org/abs/2403.17124v1)|null|
+|**2024-03-25**|**Towards Explainability in Legal Outcome Prediction Models**|Josef Valvoda et.al.|[2403.16852v1](http://arxiv.org/abs/2403.16852v1)|null|
+|**2024-03-25**|**ToXCL: A Unified Framework for Toxic Speech Detection and Explanation**|Nhat M. Hoang et.al.|[2403.16685v1](http://arxiv.org/abs/2403.16685v1)|[link](https://github.com/nhathoang2002/toxcl)|
+|**2024-03-25**|**RU22Fact: Optimizing Evidence for Multilingual Explainable Fact-Checking on Russia-Ukraine Conflict**|Yirong Zeng et.al.|[2403.16662v2](http://arxiv.org/abs/2403.16662v2)|[link](https://github.com/zeng-yirong/ru22fact)|
+|**2024-03-25**|**PE: A Poincare Explanation Method for Fast Text Hierarchy Generation**|Qian Chen et.al.|[2403.16554v1](http://arxiv.org/abs/2403.16554v1)|[link](https://github.com/qq31415926/pe)|
+|**2024-03-23**|**Leveraging Zero-Shot Prompting for Efficient Language Model Distillation**|Lukas Vöge et.al.|[2403.15886v1](http://arxiv.org/abs/2403.15886v1)|null|
+|**2024-03-23**|**Towards a RAG-based Summarization Agent for the Electron-Ion Collider**|Karthik Suresh et.al.|[2403.15729v2](http://arxiv.org/abs/2403.15729v2)|null|
+|**2024-03-22**|**Stance Reasoner: Zero-Shot Stance Detection on Social Media with Explicit Reasoning**|Maksym Taranukhin et.al.|[2403.14895v1](http://arxiv.org/abs/2403.14895v1)|[link](https://github.com/maksym-taranukhin/stance_reasoner)|
+|**2024-03-21**|**ReAct Meets ActRe: Autonomous Annotation of Agent Trajectories for Contrastive Self-Training**|Zonghan Yang et.al.|[2403.14589v2](http://arxiv.org/abs/2403.14589v2)|null|
+|**2024-03-21**|**Visual Analytics for Fine-grained Text Classification Models and Datasets**|Munkhtulga Battogtokh et.al.|[2403.15492v1](http://arxiv.org/abs/2403.15492v1)|null|
+|**2024-03-21**|**A Chain-of-Thought Prompting Approach with LLMs for Evaluating Students' Formative Assessment Responses in Science**|Clayton Cohn et.al.|[2403.14565v1](http://arxiv.org/abs/2403.14565v1)|null|
+|**2024-03-21**|**Multi-Level Explanations for Generative Language Models**|Lucas Monteiro Paes et.al.|[2403.14459v1](http://arxiv.org/abs/2403.14459v1)|null|
+|**2024-03-21**|**MMIDR: Teaching Large Language Model to Interpret Multimodal Misinformation via Knowledge Distillation**|Longzheng Wang et.al.|[2403.14171v1](http://arxiv.org/abs/2403.14171v1)|[link](https://github.com/wishever/mmidr)|
 
 ## Question Answering
 
@@ -32,7 +64,7 @@
 |**2024-03-27**|**Quantifying and Mitigating Unimodal Biases in Multimodal Large Language Models: A Causal Perspective**|Meiqi Chen et.al.|[2403.18346v2](http://arxiv.org/abs/2403.18346v2)|null|
 |**2024-03-27**|**Dual Instruction Tuning with Large Language Models for Mathematical Reasoning**|Yongwei Zhou et.al.|[2403.18295v1](http://arxiv.org/abs/2403.18295v1)|null|
 |**2024-03-26**|**For those who don't know (how) to ask: Building a dataset of technology questions for digital newcomers**|Evan Lucas et.al.|[2403.18125v1](http://arxiv.org/abs/2403.18125v1)|null|
-|**2024-03-26**|**Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization**|Jin Peng Zhou et.al.|[2403.18120v1](http://arxiv.org/abs/2403.18120v1)|null|
+|**2024-03-26**|**Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization**|Jin Peng Zhou et.al.|[2403.18120v1](http://arxiv.org/abs/2403.18120v1)|[link](https://github.com/jinpz/dtv)|
 |**2024-03-26**|**GPTs and Language Barrier: A Cross-Lingual Legal QA Examination**|Ha-Thanh Nguyen et.al.|[2403.18098v1](http://arxiv.org/abs/2403.18098v1)|null|
 |**2024-03-26**|**The Unreasonable Ineffectiveness of the Deeper Layers**|Andrey Gromov et.al.|[2403.17887v1](http://arxiv.org/abs/2403.17887v1)|null|
 |**2024-03-26**|**ChroniclingAmericaQA: A Large-scale Question Answering Dataset based on Historical American Newspaper Pages**|Bhawna Piryani et.al.|[2403.17859v1](http://arxiv.org/abs/2403.17859v1)|[link](https://github.com/datascienceuibk/chroniclingamericaqa)|
@@ -71,38 +103,6 @@
 |**2024-03-22**|**Human behaviour through a LENS: How Linguistic content triggers Emotions and Norms and determines Strategy choices**|Valerio Capraro et.al.|[2403.15293v1](http://arxiv.org/abs/2403.15293v1)|null|
 |**2024-03-22**|**Imagination Augmented Generation: Learning to Imagine Richer Context for Question Answering over Large Language Models**|Huanxuan Liao et.al.|[2403.15268v2](http://arxiv.org/abs/2403.15268v2)|[link](https://github.com/xnhyacinth/iag)|
 
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-28**|**Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models**|Samuel Marks et.al.|[2403.19647v1](http://arxiv.org/abs/2403.19647v1)|[link](https://github.com/saprmarks/feature-circuits)|
-|**2024-03-28**|**The Role of Syntactic Span Preferences in Post-Hoc Explanation Disagreement**|Jonathan Kamp et.al.|[2403.19424v1](http://arxiv.org/abs/2403.19424v1)|null|
-|**2024-03-28**|**BP4ER: Bootstrap Prompting for Explicit Reasoning in Medical Dialogue Generation**|Yuhong He et.al.|[2403.19414v1](http://arxiv.org/abs/2403.19414v1)|null|
-|**2024-03-27**|**Measuring Political Bias in Large Language Models: What Is Said and How It Is Said**|Yejin Bang et.al.|[2403.18932v1](http://arxiv.org/abs/2403.18932v1)|null|
-|**2024-03-27**|**A Path Towards Legal Autonomy: An interoperable and explainable approach to extracting, transforming, loading and computing legal information using large language models, expert systems and Bayesian networks**|Axel Constant et.al.|[2403.18537v1](http://arxiv.org/abs/2403.18537v1)|null|
-|**2024-03-27**|**Exploring language relations through syntactic distances and geographic proximity**|Juan De Gregorio et.al.|[2403.18430v1](http://arxiv.org/abs/2403.18430v1)|null|
-|**2024-03-26**|**The Impact of Syntactic and Semantic Proximity on Machine Translation with Back-Translation**|Nicolas Guerin et.al.|[2403.18031v1](http://arxiv.org/abs/2403.18031v1)|null|
-|**2024-03-26**|**Enriching Word Usage Graphs with Cluster Definitions**|Mariia Fedorova et.al.|[2403.18024v1](http://arxiv.org/abs/2403.18024v1)|null|
-|**2024-03-26**|**Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms**|Michael Hanna et.al.|[2403.17806v1](http://arxiv.org/abs/2403.17806v1)|null|
-|**2024-03-26**|**Constructions Are So Difficult That Even Large Language Models Get Them Right for the Wrong Reasons**|Shijia Zhou et.al.|[2403.17760v1](http://arxiv.org/abs/2403.17760v1)|null|
-|**2024-03-26**|**Targeted Visualization of the Backbone of Encoder LLMs**|Isaac Roberts et.al.|[2403.18872v1](http://arxiv.org/abs/2403.18872v1)|null|
-|**2024-03-26**|**Intrinsic Subgraph Generation for Interpretable Graph based Visual Question Answering**|Pascal Tilli et.al.|[2403.17647v2](http://arxiv.org/abs/2403.17647v2)|[link](https://github.com/digitalphonetics/intrinsic-subgraph-generation-for-vqa)|
-|**2024-03-26**|**ChatGPT Rates Natural Language Explanation Quality Like Humans: But on Which Scales?**|Fan Huang et.al.|[2403.17368v1](http://arxiv.org/abs/2403.17368v1)|[link](https://github.com/muyuhuatang/chatgptrater)|
-|**2024-03-25**|**Grounding Language Plans in Demonstrations Through Counterfactual Perturbations**|Yanwei Wang et.al.|[2403.17124v1](http://arxiv.org/abs/2403.17124v1)|null|
-|**2024-03-25**|**Towards Explainability in Legal Outcome Prediction Models**|Josef Valvoda et.al.|[2403.16852v1](http://arxiv.org/abs/2403.16852v1)|null|
-|**2024-03-25**|**ToXCL: A Unified Framework for Toxic Speech Detection and Explanation**|Nhat M. Hoang et.al.|[2403.16685v1](http://arxiv.org/abs/2403.16685v1)|[link](https://github.com/nhathoang2002/toxcl)|
-|**2024-03-25**|**RU22Fact: Optimizing Evidence for Multilingual Explainable Fact-Checking on Russia-Ukraine Conflict**|Yirong Zeng et.al.|[2403.16662v2](http://arxiv.org/abs/2403.16662v2)|[link](https://github.com/zeng-yirong/ru22fact)|
-|**2024-03-25**|**PE: A Poincare Explanation Method for Fast Text Hierarchy Generation**|Qian Chen et.al.|[2403.16554v1](http://arxiv.org/abs/2403.16554v1)|[link](https://github.com/qq31415926/pe)|
-|**2024-03-23**|**Leveraging Zero-Shot Prompting for Efficient Language Model Distillation**|Lukas Vöge et.al.|[2403.15886v1](http://arxiv.org/abs/2403.15886v1)|null|
-|**2024-03-23**|**Towards a RAG-based Summarization Agent for the Electron-Ion Collider**|Karthik Suresh et.al.|[2403.15729v2](http://arxiv.org/abs/2403.15729v2)|null|
-|**2024-03-22**|**Stance Reasoner: Zero-Shot Stance Detection on Social Media with Explicit Reasoning**|Maksym Taranukhin et.al.|[2403.14895v1](http://arxiv.org/abs/2403.14895v1)|[link](https://github.com/maksym-taranukhin/stance_reasoner)|
-|**2024-03-21**|**ReAct Meets ActRe: Autonomous Annotation of Agent Trajectories for Contrastive Self-Training**|Zonghan Yang et.al.|[2403.14589v2](http://arxiv.org/abs/2403.14589v2)|null|
-|**2024-03-21**|**Visual Analytics for Fine-grained Text Classification Models and Datasets**|Munkhtulga Battogtokh et.al.|[2403.15492v1](http://arxiv.org/abs/2403.15492v1)|null|
-|**2024-03-21**|**A Chain-of-Thought Prompting Approach with LLMs for Evaluating Students' Formative Assessment Responses in Science**|Clayton Cohn et.al.|[2403.14565v1](http://arxiv.org/abs/2403.14565v1)|null|
-|**2024-03-21**|**Multi-Level Explanations for Generative Language Models**|Lucas Monteiro Paes et.al.|[2403.14459v1](http://arxiv.org/abs/2403.14459v1)|null|
-|**2024-03-21**|**MMIDR: Teaching Large Language Model to Interpret Multimodal Misinformation via Knowledge Distillation**|Longzheng Wang et.al.|[2403.14171v1](http://arxiv.org/abs/2403.14171v1)|[link](https://github.com/wishever/mmidr)|
-
 ## Reasoning
 
 ### Reasoning
@@ -127,7 +127,7 @@
 |**2024-03-27**|**Dual Instruction Tuning with Large Language Models for Mathematical Reasoning**|Yongwei Zhou et.al.|[2403.18295v1](http://arxiv.org/abs/2403.18295v1)|null|
 |**2024-03-27**|**Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models**|Yiwu Zhong et.al.|[2403.18252v1](http://arxiv.org/abs/2403.18252v1)|[link](https://github.com/lavi-lab/visual-table)|
 |**2024-03-26**|**Oh! We Freeze: Improving Quantized Knowledge Distillation via Signal Propagation Analysis for Large Language Models**|Kartikeya Bhardwaj et.al.|[2403.18159v2](http://arxiv.org/abs/2403.18159v2)|null|
-|**2024-03-26**|**Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization**|Jin Peng Zhou et.al.|[2403.18120v1](http://arxiv.org/abs/2403.18120v1)|null|
+|**2024-03-26**|**Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization**|Jin Peng Zhou et.al.|[2403.18120v1](http://arxiv.org/abs/2403.18120v1)|[link](https://github.com/jinpz/dtv)|
 |**2024-03-26**|**Constructions Are So Difficult That Even Large Language Models Get Them Right for the Wrong Reasons**|Shijia Zhou et.al.|[2403.17760v1](http://arxiv.org/abs/2403.17760v1)|null|
 |**2024-03-26**|**Denoising Table-Text Retrieval for Open-Domain Question Answering**|Deokhyung Kang et.al.|[2403.17611v1](http://arxiv.org/abs/2403.17611v1)|[link](https://github.com/deokhk/dotter)|
 |**2024-03-26**|**Sharing the Cost of Success: A Game for Evaluating and Learning Collaborative Multi-Agent Instruction Giving and Following Policies**|Philipp Sadler et.al.|[2403.17497v1](http://arxiv.org/abs/2403.17497v1)|[link](https://github.com/clp-research/cost-sharing-reference-game)|
