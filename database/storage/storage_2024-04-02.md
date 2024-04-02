@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-02 09:07:59
+ Automated deployment @ 2024-04-02 20:28:45
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -10,7 +10,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-03-29**|**Towards a Framework for Evaluating Explanations in Automated Fact Verification**|Neema Kotonya et.al.|[2403.20322v1](http://arxiv.org/abs/2403.20322v1)|[link](https://github.com/neemakot/evaluating-explanations)|
 |**2024-03-29**|**Measuring Taiwanese Mandarin Language Understanding**|Po-Heng Chen et.al.|[2403.20180v1](http://arxiv.org/abs/2403.20180v1)|null|
-|**2024-03-28**|**Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models**|Samuel Marks et.al.|[2403.19647v1](http://arxiv.org/abs/2403.19647v1)|[link](https://github.com/saprmarks/feature-circuits)|
+|**2024-03-28**|**Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models**|Samuel Marks et.al.|[2403.19647v2](http://arxiv.org/abs/2403.19647v2)|[link](https://github.com/saprmarks/feature-circuits)|
 |**2024-03-28**|**The Role of Syntactic Span Preferences in Post-Hoc Explanation Disagreement**|Jonathan Kamp et.al.|[2403.19424v1](http://arxiv.org/abs/2403.19424v1)|null|
 |**2024-03-28**|**BP4ER: Bootstrap Prompting for Explicit Reasoning in Medical Dialogue Generation**|Yuhong He et.al.|[2403.19414v1](http://arxiv.org/abs/2403.19414v1)|null|
 |**2024-03-27**|**Measuring Political Bias in Large Language Models: What Is Said and How It Is Said**|Yejin Bang et.al.|[2403.18932v1](http://arxiv.org/abs/2403.18932v1)|null|
@@ -31,7 +31,7 @@
 |**2024-03-23**|**Leveraging Zero-Shot Prompting for Efficient Language Model Distillation**|Lukas Vöge et.al.|[2403.15886v1](http://arxiv.org/abs/2403.15886v1)|null|
 |**2024-03-23**|**Towards a RAG-based Summarization Agent for the Electron-Ion Collider**|Karthik Suresh et.al.|[2403.15729v2](http://arxiv.org/abs/2403.15729v2)|null|
 |**2024-03-22**|**Stance Reasoner: Zero-Shot Stance Detection on Social Media with Explicit Reasoning**|Maksym Taranukhin et.al.|[2403.14895v1](http://arxiv.org/abs/2403.14895v1)|[link](https://github.com/maksym-taranukhin/stance_reasoner)|
-|**2024-03-21**|**ReAct Meets ActRe: Autonomous Annotation of Agent Trajectories for Contrastive Self-Training**|Zonghan Yang et.al.|[2403.14589v2](http://arxiv.org/abs/2403.14589v2)|null|
+|**2024-03-21**|**ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy**|Zonghan Yang et.al.|[2403.14589v3](http://arxiv.org/abs/2403.14589v3)|null|
 
 ## Question Answering
 
@@ -91,7 +91,7 @@
 |**2024-03-26**|**Automate Knowledge Concept Tagging on Math Questions with LLMs**|Hang Li et.al.|[2403.17281v1](http://arxiv.org/abs/2403.17281v1)|null|
 |**2024-03-25**|**GPT-4 Understands Discourse at Least as Well as Humans Do**|Thomas Shultz et.al.|[2403.17196v1](http://arxiv.org/abs/2403.17196v1)|null|
 |**2024-03-25**|**Task-Agnostic Detector for Insertion-Based Backdoor Attacks**|Weimin Lyu et.al.|[2403.17155v1](http://arxiv.org/abs/2403.17155v1)|null|
-|**2024-03-25**|**Attribute First, then Generate: Locally-attributable Grounded Text Generation**|Aviv Slobodkin et.al.|[2403.17104v1](http://arxiv.org/abs/2403.17104v1)|null|
+|**2024-03-25**|**Attribute First, then Generate: Locally-attributable Grounded Text Generation**|Aviv Slobodkin et.al.|[2403.17104v2](http://arxiv.org/abs/2403.17104v2)|null|
 |**2024-03-25**|**Can Machine Translation Bridge Multilingual Pretraining and Cross-lingual Transfer Learning?**|Shaoxiong Ji et.al.|[2403.16777v1](http://arxiv.org/abs/2403.16777v1)|null|
 |**2024-03-25**|**ProCQA: A Large-scale Community-based Programming Question Answering Dataset for Code Search**|Zehan Li et.al.|[2403.16702v1](http://arxiv.org/abs/2403.16702v1)|null|
 |**2024-03-25**|**Can Large Language Models (or Humans) Distill Text?**|Nicolas Audinet de Pieuchon et.al.|[2403.16584v1](http://arxiv.org/abs/2403.16584v1)|null|
@@ -101,6 +101,7 @@
 |**2024-03-24**|**SQL-Encoder: Improving NL2SQL In-Context Learning Through a Context-Aware Encoder**|Mohammadreza Pourreza et.al.|[2403.16204v1](http://arxiv.org/abs/2403.16204v1)|null|
 |**2024-03-24**|**What Happens to a Dataset Transformed by a Projection-based Concept Removal Method?**|Richard Johansson et.al.|[2403.16142v1](http://arxiv.org/abs/2403.16142v1)|null|
 |**2024-03-24**|**WangchanLion and WangchanX MRC Eval**|Wannaphong Phatthiyaphaibun et.al.|[2403.16127v1](http://arxiv.org/abs/2403.16127v1)|null|
+|**2024-03-24**|**CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health Question Answering**|Hongbin Na et.al.|[2403.16008v1](http://arxiv.org/abs/2403.16008v1)|[link](https://github.com/hiyouga/llama-factory)|
 
 ## Reasoning
 
@@ -117,7 +118,7 @@
 |**2024-03-28**|**Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**|Yucheng Shi et.al.|[2403.19631v1](http://arxiv.org/abs/2403.19631v1)|null|
 |**2024-03-28**|**BP4ER: Bootstrap Prompting for Explicit Reasoning in Medical Dialogue Generation**|Yuhong He et.al.|[2403.19414v1](http://arxiv.org/abs/2403.19414v1)|null|
 |**2024-03-28**|**Plug-and-Play Grounding of Reasoning in Multimodal Large Language Models**|Jiaxing Chen et.al.|[2403.19322v1](http://arxiv.org/abs/2403.19322v1)|null|
-|**2024-03-28**|**TableLLM: Enabling Tabular Data Manipulation by LLMs in Real Office Usage Scenarios**|Xiaokang Zhang et.al.|[2403.19318v1](http://arxiv.org/abs/2403.19318v1)|[link](https://github.com/TableLLM/TableLLM)|
+|**2024-03-28**|**TableLLM: Enabling Tabular Data Manipulation by LLMs in Real Office Usage Scenarios**|Xiaokang Zhang et.al.|[2403.19318v2](http://arxiv.org/abs/2403.19318v2)|[link](https://github.com/TableLLM/TableLLM)|
 |**2024-03-28**|**Mitigating Misleading Chain-of-Thought Reasoning with Selective Filtering**|Yexin Wu et.al.|[2403.19167v1](http://arxiv.org/abs/2403.19167v1)|null|
 |**2024-03-28**|**MFORT-QA: Multi-hop Few-shot Open Rich Table Question Answering**|Che Guan et.al.|[2403.19116v1](http://arxiv.org/abs/2403.19116v1)|null|
 |**2024-03-28**|**Learning From Correctness Without Prompting Makes LLM Efficient Reasoner**|Yuxuan Yao et.al.|[2403.19094v1](http://arxiv.org/abs/2403.19094v1)|null|
@@ -152,7 +153,7 @@
 |**2024-03-23**|**Leveraging Zero-Shot Prompting for Efficient Language Model Distillation**|Lukas Vöge et.al.|[2403.15886v1](http://arxiv.org/abs/2403.15886v1)|null|
 |**2024-03-23**|**Few-shot Dialogue Strategy Learning for Motivational Interviewing via Inductive Reasoning**|Zhouhang Xie et.al.|[2403.15737v1](http://arxiv.org/abs/2403.15737v1)|null|
 |**2024-03-23**|**LLMs Instruct LLMs:An Extraction and Editing Method**|Xin Zhang et.al.|[2403.15736v1](http://arxiv.org/abs/2403.15736v1)|null|
-|**2024-03-22**|**LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models**|Yuzhang Shang et.al.|[2403.15388v2](http://arxiv.org/abs/2403.15388v2)|null|
+|**2024-03-22**|**LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models**|Yuzhang Shang et.al.|[2403.15388v3](http://arxiv.org/abs/2403.15388v3)|null|
 |**2024-03-22**|**Can large language models explore in-context?**|Akshay Krishnamurthy et.al.|[2403.15371v1](http://arxiv.org/abs/2403.15371v1)|null|
 |**2024-03-22**|**CoLLEGe: Concept Embedding Generation for Large Language Models**|Ryan Teehan et.al.|[2403.15362v1](http://arxiv.org/abs/2403.15362v1)|null|
 |**2024-03-22**|**CACA Agent: Capability Collaboration based AI Agent**|Peng Xu et.al.|[2403.15137v1](http://arxiv.org/abs/2403.15137v1)|null|
@@ -163,13 +164,13 @@
 |**2024-03-22**|**Stance Reasoner: Zero-Shot Stance Detection on Social Media with Explicit Reasoning**|Maksym Taranukhin et.al.|[2403.14895v1](http://arxiv.org/abs/2403.14895v1)|[link](https://github.com/maksym-taranukhin/stance_reasoner)|
 |**2024-03-21**|**Sequential Decision-Making for Inline Text Autocomplete**|Rohan Chitnis et.al.|[2403.15502v1](http://arxiv.org/abs/2403.15502v1)|null|
 |**2024-03-21**|**MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**|Renrui Zhang et.al.|[2403.14624v1](http://arxiv.org/abs/2403.14624v1)|null|
-|**2024-03-21**|**ReAct Meets ActRe: Autonomous Annotation of Agent Trajectories for Contrastive Self-Training**|Zonghan Yang et.al.|[2403.14589v2](http://arxiv.org/abs/2403.14589v2)|null|
+|**2024-03-21**|**ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy**|Zonghan Yang et.al.|[2403.14589v3](http://arxiv.org/abs/2403.14589v3)|null|
 |**2024-03-21**|**Visual Analytics for Fine-grained Text Classification Models and Datasets**|Munkhtulga Battogtokh et.al.|[2403.15492v1](http://arxiv.org/abs/2403.15492v1)|null|
 |**2024-03-21**|**A Chain-of-Thought Prompting Approach with LLMs for Evaluating Students' Formative Assessment Responses in Science**|Clayton Cohn et.al.|[2403.14565v1](http://arxiv.org/abs/2403.14565v1)|null|
 |**2024-03-21**|**Open Source Conversational LLMs do not know most Spanish words**|Javier Conde et.al.|[2403.15491v1](http://arxiv.org/abs/2403.15491v1)|null|
 |**2024-03-21**|**ChainLM: Empowering Large Language Models with Improved Chain-of-Thought Prompting**|Xiaoxue Cheng et.al.|[2403.14312v1](http://arxiv.org/abs/2403.14312v1)|[link](https://github.com/rucaibox/chainlm)|
 |**2024-03-21**|**ERD: A Framework for Improving LLM Reasoning for Cognitive Distortion Classification**|Sehee Lim et.al.|[2403.14255v1](http://arxiv.org/abs/2403.14255v1)|null|
-|**2024-03-21**|**K-Act2Emo: Korean Commonsense Knowledge Graph for Indirect Emotional Expression**|Kyuhee Kim et.al.|[2403.14253v2](http://arxiv.org/abs/2403.14253v2)|null|
+|**2024-03-21**|**K-Act2Emo: Korean Commonsense Knowledge Graph for Indirect Emotional Expression**|Kyuhee Kim et.al.|[2403.14253v2](http://arxiv.org/abs/2403.14253v2)|[link](https://github.com/koreankiwi99/k-act2emo)|
 |**2024-03-21**|**Reinforcement Learning from Reflective Feedback (RLRF): Aligning and Improving LLMs via Fine-Grained Self-Reflection**|Kyungjae Lee et.al.|[2403.14238v1](http://arxiv.org/abs/2403.14238v1)|null|
 |**2024-03-21**|**Benchmarking Chinese Commonsense Reasoning of LLMs: From Chinese-Specifics to Reasoning-Memorization Correlations**|Jiaxing Sun et.al.|[2403.14112v1](http://arxiv.org/abs/2403.14112v1)|[link](https://github.com/opendatalab/charm)|
 |**2024-03-20**|**Natural Language as Polices: Reasoning for Coordinate-Level Embodied Control with LLMs**|Yusuke Mikami et.al.|[2403.13801v1](http://arxiv.org/abs/2403.13801v1)|[link](https://github.com/shure-dev/NLaP)|
