@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-06 09:03:42
+ Automated deployment @ 2024-04-06 20:26:05
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -71,7 +71,7 @@
 |**2024-04-02**|**Rematch: Robust and Efficient Matching of Local Knowledge Graphs to Improve Structural and Semantic Similarity**|Zoher Kachwala et.al.|[2404.02126v1](http://arxiv.org/abs/2404.02126v1)|[link](https://github.com/osome-iu/Rematch-RARE)|
 |**2024-04-02**|**Exploring Automated Distractor Generation for Math Multiple-choice Questions via Large Language Models**|Wanyong Feng et.al.|[2404.02124v1](http://arxiv.org/abs/2404.02124v1)|null|
 |**2024-04-02**|**CLAPNQ: Cohesive Long-form Answers from Passages in Natural Questions for RAG systems**|Sara Rosenthal et.al.|[2404.02103v1](http://arxiv.org/abs/2404.02103v1)|[link](https://github.com/primeqa/clapnq)|
-|**2024-04-02**|**READ: Improving Relation Extraction from an ADversarial Perspective**|Dawei Li et.al.|[2404.02931v1](http://arxiv.org/abs/2404.02931v1)|null|
+|**2024-04-02**|**READ: Improving Relation Extraction from an ADversarial Perspective**|Dawei Li et.al.|[2404.02931v1](http://arxiv.org/abs/2404.02931v1)|[link](https://github.com/david-li0406/read)|
 |**2024-04-02**|**Improving Retrieval Augmented Open-Domain Question-Answering with Vectorized Contexts**|Zhuo Chen et.al.|[2404.02022v1](http://arxiv.org/abs/2404.02022v1)|null|
 |**2024-04-02**|**Team UTSA-NLP at SemEval 2024 Task 5: Prompt Ensembling for Argument Reasoning in Civil Procedures with GPT4**|Dan Schumacher et.al.|[2404.01961v1](http://arxiv.org/abs/2404.01961v1)|[link](https://github.com/danschumac1/civilpromptreasoninggpt4)|
 |**2024-04-02**|**SGSH: Stimulate Large Language Models with Skeleton Heuristics for Knowledge Base Question Generation**|Shasha Guo et.al.|[2404.01923v1](http://arxiv.org/abs/2404.01923v1)|[link](https://github.com/ruckbreasoning/sgsh)|
@@ -138,7 +138,7 @@
 |**2024-04-04**|**Probing Large Language Models for Scalar Adjective Lexical Semantics and Scalar Diversity Pragmatics**|Fangru Lin et.al.|[2404.03301v1](http://arxiv.org/abs/2404.03301v1)|[link](https://github.com/fangru-lin/llm_scalar_adj)|
 |**2024-04-04**|**The Probabilities Also Matter: A More Faithful Metric for Faithfulness of Free-Text Explanations in Large Language Models**|Noah Y. Siegel et.al.|[2404.03189v1](http://arxiv.org/abs/2404.03189v1)|null|
 |**2024-04-04**|**NLP at UC Santa Cruz at SemEval-2024 Task 5: Legal Answer Validation using Few-Shot Multi-Choice QA**|Anish Pahilajani et.al.|[2404.03150v1](http://arxiv.org/abs/2404.03150v1)|[link](https://github.com/devashat/ucsc-nlp-semeval-2024-task-5)|
-|**2024-04-04**|**Robust Pronoun Use Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?**|Vagrant Gautam et.al.|[2404.03134v1](http://arxiv.org/abs/2404.03134v1)|null|
+|**2024-04-04**|**Robust Pronoun Use Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?**|Vagrant Gautam et.al.|[2404.03134v1](http://arxiv.org/abs/2404.03134v1)|[link](https://github.com/uds-lsv/pronoun-use-fidelity)|
 |**2024-04-03**|**Exploring the Trade-off Between Model Performance and Explanation Plausibility of Text Classifiers Using Human Rationales**|Lucas E. Resck et.al.|[2404.03098v1](http://arxiv.org/abs/2404.03098v1)|[link](https://github.com/visual-ds/plausible-nlp-explanations)|
 |**2024-04-03**|**An Incomplete Loop: Deductive, Inductive, and Abductive Learning in Large Language Models**|Emmy Liu et.al.|[2404.03028v1](http://arxiv.org/abs/2404.03028v1)|null|
 |**2024-04-03**|**Towards a Fully Interpretable and More Scalable RSA Model for Metaphor Understanding**|Gaia Carenini et.al.|[2404.02983v1](http://arxiv.org/abs/2404.02983v1)|null|
