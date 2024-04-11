@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-11 09:06:16
+ Automated deployment @ 2024-04-11 20:27:47
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,10 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-10**|**From Model-centered to Human-Centered: Revision Distance as a Metric for Text Evaluation in LLMs-based Applications**|Yongqiang Ma et.al.|[2404.07108v1](http://arxiv.org/abs/2404.07108v1)|null|
+|**2024-04-10**|**A Mathematical Theory for Learning Semantic Languages by Abstract Learners**|Kuo-Yu Liao et.al.|[2404.07009v1](http://arxiv.org/abs/2404.07009v1)|null|
+|**2024-04-10**|**WordDecipher: Enhancing Digital Workspace Communication with Explainable AI for Non-native English Speakers**|Yuexi Chen et.al.|[2404.07005v1](http://arxiv.org/abs/2404.07005v1)|null|
+|**2024-04-10**|**Event Grounded Criminal Court View Generation withCooperative (Large) Language Models**|Linan Yue et.al.|[2404.07001v1](http://arxiv.org/abs/2404.07001v1)|null|
 |**2024-04-09**|**[Call for Papers] The 2nd BabyLM Challenge: Sample-efficient pretraining on a developmentally plausible corpus**|Leshem Choshen et.al.|[2404.06214v1](http://arxiv.org/abs/2404.06214v1)|null|
 |**2024-04-08**|**MedExpQA: Multilingual Benchmarking of Large Language Models for Medical Question Answering**|Iñigo Alonso et.al.|[2404.05590v1](http://arxiv.org/abs/2404.05590v1)|null|
 |**2024-04-07**|**How much reliable is ChatGPT's prediction on Information Extraction under Input Perturbations?**|Ishani Mondal et.al.|[2404.05088v1](http://arxiv.org/abs/2404.05088v1)|null|
@@ -24,13 +28,22 @@
 |**2024-04-03**|**Exploring the Trade-off Between Model Performance and Explanation Plausibility of Text Classifiers Using Human Rationales**|Lucas E. Resck et.al.|[2404.03098v1](http://arxiv.org/abs/2404.03098v1)|[link](https://github.com/visual-ds/plausible-nlp-explanations)|
 |**2024-04-03**|**An Incomplete Loop: Deductive, Inductive, and Abductive Learning in Large Language Models**|Emmy Liu et.al.|[2404.03028v1](http://arxiv.org/abs/2404.03028v1)|null|
 |**2024-04-03**|**Towards detecting unanticipated bias in Large Language Models**|Anna Kruspe et.al.|[2404.02650v1](http://arxiv.org/abs/2404.02650v1)|null|
-|**2024-04-03**|**A Differentiable Integer Linear Programming Solver for Explanation-Based Natural Language Inference**|Mokanarangan Thayaparan et.al.|[2404.02625v1](http://arxiv.org/abs/2404.02625v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-10**|**Towards Robustness of Text-to-Visualization Translation against Lexical and Phrasal Variability**|Jinwei Lu et.al.|[2404.07135v1](http://arxiv.org/abs/2404.07135v1)|null|
+|**2024-04-10**|**Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs**|Bowen Jin et.al.|[2404.07103v1](http://arxiv.org/abs/2404.07103v1)|null|
+|**2024-04-10**|**Groundedness in Retrieval-augmented Long-form Generation: An Empirical Study**|Alessandro Stolfo et.al.|[2404.07060v1](http://arxiv.org/abs/2404.07060v1)|null|
+|**2024-04-10**|**GoEX: Perspectives and Designs Towards a Runtime for Autonomous LLM Applications**|Shishir G. Patil et.al.|[2404.06921v1](http://arxiv.org/abs/2404.06921v1)|[link](https://github.com/ShishirPatil/gorilla)|
+|**2024-04-10**|**Superposition Prompting: Improving and Accelerating Retrieval-Augmented Generation**|Thomas Merth et.al.|[2404.06910v1](http://arxiv.org/abs/2404.06910v1)|null|
+|**2024-04-10**|**Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge**|Li Zhou et.al.|[2404.06833v1](http://arxiv.org/abs/2404.06833v1)|null|
+|**2024-04-10**|**Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking**|Xiaokang Zhang et.al.|[2404.06742v1](http://arxiv.org/abs/2404.06742v1)|[link](https://github.com/pinocchio42/pinose)|
+|**2024-04-10**|**Onco-Retriever: Generative Classifier for Retrieval of EHR Records in Oncology**|Shashi Kant Gupta et.al.|[2404.06680v1](http://arxiv.org/abs/2404.06680v1)|null|
+|**2024-04-10**|**CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs' (Lack of) Multicultural Knowledge**|Yu Ying Chiu et.al.|[2404.06664v1](http://arxiv.org/abs/2404.06664v1)|null|
+|**2024-04-09**|**Khayyam Challenge (PersianMMLU): Is Your LLM Truly Wise to The Persian Language?**|Omid Ghahroodi et.al.|[2404.06644v1](http://arxiv.org/abs/2404.06644v1)|null|
 |**2024-04-09**|**Text-Based Reasoning About Vector Graphics**|Zhenhailong Wang et.al.|[2404.06479v2](http://arxiv.org/abs/2404.06479v2)|null|
 |**2024-04-09**|**SurveyAgent: A Conversational System for Personalized and Efficient Research Survey**|Xintao Wang et.al.|[2404.06364v1](http://arxiv.org/abs/2404.06364v1)|null|
 |**2024-04-09**|**RAR-b: Reasoning as Retrieval Benchmark**|Chenghao Xiao et.al.|[2404.06347v1](http://arxiv.org/abs/2404.06347v1)|null|
@@ -80,22 +93,15 @@
 |**2024-04-04**|**Evaluating Generative Language Models in Information Extraction as Subjective Question Correction**|Yuchen Fan et.al.|[2404.03532v1](http://arxiv.org/abs/2404.03532v1)|[link](https://github.com/thu-keg/sqc-score)|
 |**2024-04-04**|**Learn When (not) to Trust Language Models: A Privacy-Centric Adaptive Model-Aware Approach**|Chengkai Huang et.al.|[2404.03514v1](http://arxiv.org/abs/2404.03514v1)|null|
 |**2024-04-04**|**Generative AI and Teachers -- For Us or Against Us? A Case Study**|Jenny Pettersson et.al.|[2404.03486v1](http://arxiv.org/abs/2404.03486v1)|null|
-|**2024-04-04**|**Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought**|Jooyoung Lee et.al.|[2404.03414v1](http://arxiv.org/abs/2404.03414v1)|null|
-|**2024-04-04**|**Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?**|Shuo Chen et.al.|[2404.03411v1](http://arxiv.org/abs/2404.03411v1)|null|
-|**2024-04-04**|**Learning to Plan and Generate Text with Citations**|Constanza Fierro et.al.|[2404.03381v1](http://arxiv.org/abs/2404.03381v1)|null|
-|**2024-04-04**|**nicolay-r at SemEval-2024 Task 3: Using Flan-T5 for Reasoning Emotion Cause in Conversations with Chain-of-Thought on Emotion States**|Nicolay Rusnachenko et.al.|[2404.03361v1](http://arxiv.org/abs/2404.03361v1)|[link](https://github.com/nicolay-r/thor-ecac)|
-|**2024-04-04**|**How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?**|Siye Wu et.al.|[2404.03302v1](http://arxiv.org/abs/2404.03302v1)|[link](https://github.com/di-viner/llm-robustness-to-irrelevant-information)|
-|**2024-04-04**|**The Death of Feature Engineering? BERT with Linguistic Features on SQuAD 2.0**|Jiawei Li et.al.|[2404.03184v1](http://arxiv.org/abs/2404.03184v1)|null|
-|**2024-04-04**|**CONFLARE: CONFormal LArge language model REtrieval**|Pouria Rouzrokh et.al.|[2404.04287v1](http://arxiv.org/abs/2404.04287v1)|[link](https://github.com/mayo-radiology-informatics-lab/conflare)|
-|**2024-04-04**|**NLP at UC Santa Cruz at SemEval-2024 Task 5: Legal Answer Validation using Few-Shot Multi-Choice QA**|Anish Pahilajani et.al.|[2404.03150v1](http://arxiv.org/abs/2404.03150v1)|[link](https://github.com/devashat/ucsc-nlp-semeval-2024-task-5)|
-|**2024-04-03**|**JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks**|Weidi Luo et.al.|[2404.03027v1](http://arxiv.org/abs/2404.03027v1)|null|
-|**2024-04-03**|**On Few-Shot Prompting for Controllable Question-Answer Generation in Narrative Comprehension**|Bernardo Leite et.al.|[2404.02800v1](http://arxiv.org/abs/2404.02800v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-10**|**Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs**|Bowen Jin et.al.|[2404.07103v1](http://arxiv.org/abs/2404.07103v1)|null|
+|**2024-04-10**|**Improving Language Model Reasoning with Self-motivated Learning**|Yunlong Feng et.al.|[2404.07017v1](http://arxiv.org/abs/2404.07017v1)|null|
+|**2024-04-09**|**Khayyam Challenge (PersianMMLU): Is Your LLM Truly Wise to The Persian Language?**|Omid Ghahroodi et.al.|[2404.06644v1](http://arxiv.org/abs/2404.06644v1)|null|
 |**2024-04-09**|**Text-Based Reasoning About Vector Graphics**|Zhenhailong Wang et.al.|[2404.06479v2](http://arxiv.org/abs/2404.06479v2)|null|
 |**2024-04-09**|**AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents**|Luca Gioacchini et.al.|[2404.06411v1](http://arxiv.org/abs/2404.06411v1)|[link](https://github.com/nec-research/agentquest)|
 |**2024-04-09**|**Wu's Method can Boost Symbolic AI to Rival Silver Medalists and AlphaGeometry to Outperform Gold Medalists at IMO Geometry**|Shiven Sinha et.al.|[2404.06405v1](http://arxiv.org/abs/2404.06405v1)|null|
@@ -219,8 +225,3 @@
 |**2024-03-26**|**Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization**|Jin Peng Zhou et.al.|[2403.18120v1](http://arxiv.org/abs/2403.18120v1)|[link](https://github.com/jinpz/dtv)|
 |**2024-03-26**|**Constructions Are So Difficult That Even Large Language Models Get Them Right for the Wrong Reasons**|Shijia Zhou et.al.|[2403.17760v1](http://arxiv.org/abs/2403.17760v1)|[link](https://github.com/shijiazh/constructions-are-so-difficult)|
 |**2024-03-26**|**Denoising Table-Text Retrieval for Open-Domain Question Answering**|Deokhyung Kang et.al.|[2403.17611v1](http://arxiv.org/abs/2403.17611v1)|[link](https://github.com/deokhk/dotter)|
-|**2024-03-26**|**Sharing the Cost of Success: A Game for Evaluating and Learning Collaborative Multi-Agent Instruction Giving and Following Policies**|Philipp Sadler et.al.|[2403.17497v1](http://arxiv.org/abs/2403.17497v1)|[link](https://github.com/clp-research/cost-sharing-reference-game)|
-|**2024-03-26**|**DGoT: Dynamic Graph of Thoughts for Scientific Abstract Generation**|Xinyu Ning et.al.|[2403.17491v1](http://arxiv.org/abs/2403.17491v1)|[link](https://github.com/jaycening/dgot)|
-|**2024-03-26**|**ChatGPT Rates Natural Language Explanation Quality Like Humans: But on Which Scales?**|Fan Huang et.al.|[2403.17368v1](http://arxiv.org/abs/2403.17368v1)|[link](https://github.com/muyuhuatang/chatgptrater)|
-|**2024-03-26**|**Chain-of-Action: Faithful and Multimodal Question Answering through Large Language Models**|Zhenyu Pan et.al.|[2403.17359v1](http://arxiv.org/abs/2403.17359v1)|null|
-|**2024-03-25**|**TwoStep: Multi-agent Task Planning using Classical Planners and Large Language Models**|Ishika Singh et.al.|[2403.17246v1](http://arxiv.org/abs/2403.17246v1)|null|
