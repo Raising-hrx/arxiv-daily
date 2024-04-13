@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-13 09:32:23
+ Automated deployment @ 2024-04-13 20:23:22
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -31,7 +31,7 @@
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979v1](http://arxiv.org/abs/2404.07979v1)|null|
+|**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979v1](http://arxiv.org/abs/2404.07979v1)|[link](https://github.com/jeffreysijuntan/lloco)|
 |**2024-04-11**|**DesignQA: A Multimodal Benchmark for Evaluating Large Language Models' Understanding of Engineering Documentation**|Anna C. Doris et.al.|[2404.07917v1](http://arxiv.org/abs/2404.07917v1)|[link](https://github.com/anniedoris/design_qa)|
 |**2024-04-11**|**Question Generation in Knowledge-Driven Dialog: Explainability and Evaluation**|Juliette Faille et.al.|[2404.07836v1](http://arxiv.org/abs/2404.07836v1)|null|
 |**2024-04-11**|**Heron-Bench: A Benchmark for Evaluating Vision Language Models in Japanese**|Yuichi Inoue et.al.|[2404.07824v1](http://arxiv.org/abs/2404.07824v1)|[link](https://github.com/turingmotors/heron)|
@@ -40,7 +40,7 @@
 |**2024-04-11**|**Multi-Image Visual Question Answering for Unsupervised Anomaly Detection**|Jun Li et.al.|[2404.07622v1](http://arxiv.org/abs/2404.07622v1)|null|
 |**2024-04-11**|**Audio Dialogues: Dialogues dataset for audio and music understanding**|Arushi Goel et.al.|[2404.07616v1](http://arxiv.org/abs/2404.07616v1)|null|
 |**2024-04-10**|**Towards Robustness of Text-to-Visualization Translation against Lexical and Phrasal Variability**|Jinwei Lu et.al.|[2404.07135v2](http://arxiv.org/abs/2404.07135v2)|null|
-|**2024-04-10**|**Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs**|Bowen Jin et.al.|[2404.07103v1](http://arxiv.org/abs/2404.07103v1)|null|
+|**2024-04-10**|**Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs**|Bowen Jin et.al.|[2404.07103v1](http://arxiv.org/abs/2404.07103v1)|[link](https://github.com/petergriffinjin/graph-cot)|
 |**2024-04-10**|**Groundedness in Retrieval-augmented Long-form Generation: An Empirical Study**|Alessandro Stolfo et.al.|[2404.07060v1](http://arxiv.org/abs/2404.07060v1)|null|
 |**2024-04-10**|**GoEX: Perspectives and Designs Towards a Runtime for Autonomous LLM Applications**|Shishir G. Patil et.al.|[2404.06921v1](http://arxiv.org/abs/2404.06921v1)|[link](https://github.com/ShishirPatil/gorilla)|
 |**2024-04-10**|**Superposition Prompting: Improving and Accelerating Retrieval-Augmented Generation**|Thomas Merth et.al.|[2404.06910v1](http://arxiv.org/abs/2404.06910v1)|null|
@@ -52,7 +52,7 @@
 |**2024-04-09**|**Sandwich attack: Multi-language Mixture Adaptive Attack on LLMs**|Bibek Upadhayay et.al.|[2404.07242v1](http://arxiv.org/abs/2404.07242v1)|null|
 |**2024-04-09**|**Text-Based Reasoning About Vector Graphics**|Zhenhailong Wang et.al.|[2404.06479v2](http://arxiv.org/abs/2404.06479v2)|null|
 |**2024-04-09**|**SurveyAgent: A Conversational System for Personalized and Efficient Research Survey**|Xintao Wang et.al.|[2404.06364v1](http://arxiv.org/abs/2404.06364v1)|null|
-|**2024-04-09**|**RAR-b: Reasoning as Retrieval Benchmark**|Chenghao Xiao et.al.|[2404.06347v1](http://arxiv.org/abs/2404.06347v1)|null|
+|**2024-04-09**|**RAR-b: Reasoning as Retrieval Benchmark**|Chenghao Xiao et.al.|[2404.06347v1](http://arxiv.org/abs/2404.06347v1)|[link](https://github.com/gowitheflow-1998/rar-b)|
 |**2024-04-09**|**LLMs' Reading Comprehension Is Affected by Parametric Knowledge and Struggles with Hypothetical Statements**|Victoria Basmov et.al.|[2404.06283v1](http://arxiv.org/abs/2404.06283v1)|null|
 |**2024-04-09**|**[Call for Papers] The 2nd BabyLM Challenge: Sample-efficient pretraining on a developmentally plausible corpus**|Leshem Choshen et.al.|[2404.06214v1](http://arxiv.org/abs/2404.06214v1)|null|
 |**2024-04-09**|**Clue-Instruct: Text-Based Clue Generation for Educational Crossword Puzzles**|Andrea Zugarini et.al.|[2404.06186v1](http://arxiv.org/abs/2404.06186v1)|null|
@@ -90,14 +90,14 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-11**|**LaVy: Vietnamese Multimodal Large Language Model**|Chi Tran et.al.|[2404.07922v1](http://arxiv.org/abs/2404.07922v1)|null|
 |**2024-04-11**|**ODA: Observation-Driven Agent for integrating LLMs and Knowledge Graphs**|Lei Sun et.al.|[2404.07677v1](http://arxiv.org/abs/2404.07677v1)|null|
-|**2024-04-10**|**Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs**|Bowen Jin et.al.|[2404.07103v1](http://arxiv.org/abs/2404.07103v1)|null|
+|**2024-04-10**|**Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs**|Bowen Jin et.al.|[2404.07103v1](http://arxiv.org/abs/2404.07103v1)|[link](https://github.com/petergriffinjin/graph-cot)|
 |**2024-04-10**|**Improving Language Model Reasoning with Self-motivated Learning**|Yunlong Feng et.al.|[2404.07017v1](http://arxiv.org/abs/2404.07017v1)|null|
 |**2024-04-09**|**Khayyam Challenge (PersianMMLU): Is Your LLM Truly Wise to The Persian Language?**|Omid Ghahroodi et.al.|[2404.06644v1](http://arxiv.org/abs/2404.06644v1)|null|
 |**2024-04-09**|**Text-Based Reasoning About Vector Graphics**|Zhenhailong Wang et.al.|[2404.06479v2](http://arxiv.org/abs/2404.06479v2)|null|
 |**2024-04-09**|**AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents**|Luca Gioacchini et.al.|[2404.06411v1](http://arxiv.org/abs/2404.06411v1)|[link](https://github.com/nec-research/agentquest)|
 |**2024-04-09**|**Wu's Method can Boost Symbolic AI to Rival Silver Medalists and AlphaGeometry to Outperform Gold Medalists at IMO Geometry**|Shiven Sinha et.al.|[2404.06405v2](http://arxiv.org/abs/2404.06405v2)|null|
 |**2024-04-09**|**Model Generation from Requirements with LLMs: an Exploratory Study**|Alessio Ferrari et.al.|[2404.06371v1](http://arxiv.org/abs/2404.06371v1)|null|
-|**2024-04-09**|**RAR-b: Reasoning as Retrieval Benchmark**|Chenghao Xiao et.al.|[2404.06347v1](http://arxiv.org/abs/2404.06347v1)|null|
+|**2024-04-09**|**RAR-b: Reasoning as Retrieval Benchmark**|Chenghao Xiao et.al.|[2404.06347v1](http://arxiv.org/abs/2404.06347v1)|[link](https://github.com/gowitheflow-1998/rar-b)|
 |**2024-04-09**|**(Not) Understanding Latin Poetic Style with Deep Learning**|Ben Nagy et.al.|[2404.06150v1](http://arxiv.org/abs/2404.06150v1)|[link](https://github.com/bnagy/fail-paper)|
 |**2024-04-09**|**Making Old Kurdish Publications Processable by Augmenting Available Optical Character Recognition Engines**|Blnd Yaseen et.al.|[2404.06101v1](http://arxiv.org/abs/2404.06101v1)|null|
 |**2024-04-09**|**THOUGHTSCULPT: Reasoning with Intermediate Revision and Search**|Yizhou Chi et.al.|[2404.05966v1](http://arxiv.org/abs/2404.05966v1)|[link](https://github.com/cyzus/thoughtsculpt)|
@@ -184,7 +184,7 @@
 |**2024-03-30**|**Your Co-Workers Matter: Evaluating Collaborative Capabilities of Language Models in Blocks World**|Guande Wu et.al.|[2404.00246v1](http://arxiv.org/abs/2404.00246v1)|[link](https://github.com/jnzs1836/coblocks)|
 |**2024-03-30**|**DeFT: Flash Tree-attention with IO-Awareness for Efficient Tree-search-based LLM Inference**|Jinwei Yao et.al.|[2404.00242v1](http://arxiv.org/abs/2404.00242v1)|null|
 |**2024-03-30**|**Multi-Conditional Ranking with Large Language Models**|Pouya Pezeshkpour et.al.|[2404.00211v1](http://arxiv.org/abs/2404.00211v1)|[link](https://github.com/megagonlabs/mcr)|
-|**2024-03-30**|**EventGround: Narrative Reasoning by Grounding to Eventuality-centric Knowledge Graphs**|Cheng Jiayang et.al.|[2404.00209v1](http://arxiv.org/abs/2404.00209v1)|null|
+|**2024-03-30**|**EventGround: Narrative Reasoning by Grounding to Eventuality-centric Knowledge Graphs**|Cheng Jiayang et.al.|[2404.00209v1](http://arxiv.org/abs/2404.00209v1)|[link](https://github.com/hkust-knowcomp/eventground)|
 |**2024-03-30**|**Conceptual and Unbiased Reasoning in Language Models**|Ben Zhou et.al.|[2404.00205v1](http://arxiv.org/abs/2404.00205v1)|null|
 |**2024-03-29**|**Classifying Conspiratorial Narratives At Scale: False Alarms and Erroneous Connections**|Ahmad Diab et.al.|[2404.00141v1](http://arxiv.org/abs/2404.00141v1)|null|
 |**2024-03-29**|**Shallow Cross-Encoders for Low-Latency Retrieval**|Aleksandr V. Petrov et.al.|[2403.20222v1](http://arxiv.org/abs/2403.20222v1)|[link](https://github.com/asash/shallow-cross-encoders)|
