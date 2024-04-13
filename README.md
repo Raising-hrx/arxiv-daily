@@ -1,30 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2024-04-13 20:23:22
+ Automated deployment @ 2024-04-13 20:41:00
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-11**|**Question Generation in Knowledge-Driven Dialog: Explainability and Evaluation**|Juliette Faille et.al.|[2404.07836v1](http://arxiv.org/abs/2404.07836v1)|null|
-|**2024-04-11**|**Why do small language models underperform? Studying Language Model Saturation via the Softmax Bottleneck**|Nathan Godey et.al.|[2404.07647v1](http://arxiv.org/abs/2404.07647v1)|null|
-|**2024-04-11**|**Multi-Image Visual Question Answering for Unsupervised Anomaly Detection**|Jun Li et.al.|[2404.07622v1](http://arxiv.org/abs/2404.07622v1)|null|
-|**2024-04-10**|**From Model-centered to Human-Centered: Revision Distance as a Metric for Text Evaluation in LLMs-based Applications**|Yongqiang Ma et.al.|[2404.07108v2](http://arxiv.org/abs/2404.07108v2)|null|
-|**2024-04-10**|**A Mathematical Theory for Learning Semantic Languages by Abstract Learners**|Kuo-Yu Liao et.al.|[2404.07009v1](http://arxiv.org/abs/2404.07009v1)|null|
-|**2024-04-10**|**WordDecipher: Enhancing Digital Workspace Communication with Explainable AI for Non-native English Speakers**|Yuexi Chen et.al.|[2404.07005v1](http://arxiv.org/abs/2404.07005v1)|null|
-|**2024-04-10**|**Event Grounded Criminal Court View Generation withCooperative (Large) Language Models**|Linan Yue et.al.|[2404.07001v1](http://arxiv.org/abs/2404.07001v1)|[link](https://github.com/yuelinan/codes-of-egg)|
-|**2024-04-09**|**[Call for Papers] The 2nd BabyLM Challenge: Sample-efficient pretraining on a developmentally plausible corpus**|Leshem Choshen et.al.|[2404.06214v1](http://arxiv.org/abs/2404.06214v1)|null|
-|**2024-04-08**|**MedExpQA: Multilingual Benchmarking of Large Language Models for Medical Question Answering**|Iñigo Alonso et.al.|[2404.05590v1](http://arxiv.org/abs/2404.05590v1)|null|
-|**2024-04-07**|**How much reliable is ChatGPT's prediction on Information Extraction under Input Perturbations?**|Ishani Mondal et.al.|[2404.05088v1](http://arxiv.org/abs/2404.05088v1)|null|
-|**2024-04-07**|**Data Bias According to Bipol: Men are Naturally Right and It is the Role of Women to Follow Their Lead**|Irene Pagliai et.al.|[2404.04838v1](http://arxiv.org/abs/2404.04838v1)|[link](https://github.com/ltu-machine-learning/bipolmulti)|
-|**2024-04-06**|**Binary Classifier Optimization for Large Language Model Alignment**|Seungjae Jung et.al.|[2404.04656v1](http://arxiv.org/abs/2404.04656v1)|null|
-|**2024-04-04**|**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**|Marco Bronzini et.al.|[2404.03623v1](http://arxiv.org/abs/2404.03623v1)|null|
-|**2024-04-04**|**Evaluating LLMs at Detecting Errors in LLM Responses**|Ryo Kamoi et.al.|[2404.03602v1](http://arxiv.org/abs/2404.03602v1)|[link](https://github.com/psunlpgroup/realmistake)|
-|**2024-04-04**|**Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models**|Yantao Liu et.al.|[2404.03577v1](http://arxiv.org/abs/2404.03577v1)|[link](https://github.com/thu-keg/knot)|
-|**2024-04-04**|**Knowledge Graph Representation for Political Information Sources**|Tinatin Osmonova et.al.|[2404.03437v1](http://arxiv.org/abs/2404.03437v1)|null|
-|**2024-04-04**|**Edisum: Summarizing and Explaining Wikipedia Edits at Scale**|Marija Šakota et.al.|[2404.03428v1](http://arxiv.org/abs/2404.03428v1)|[link](https://github.com/epfl-dlab/edisum)|
 
 ## Question Answering
 
@@ -82,6 +59,29 @@
 |**2024-04-06**|**Joint Visual and Text Prompting for Improved Object-Centric Perception with Multimodal Large Language Models**|Songtao Jiang et.al.|[2404.04514v1](http://arxiv.org/abs/2404.04514v1)|[link](https://github.com/jiangsongtao/vtprompt)|
 |**2024-04-06**|**KazQAD: Kazakh Open-Domain Question Answering Dataset**|Rustem Yeshpanov et.al.|[2404.04487v1](http://arxiv.org/abs/2404.04487v1)|[link](https://github.com/is2ai/kazqad)|
 |**2024-04-06**|**Length-Controlled AlpacaEval: A Simple Way to Debias Automatic Evaluators**|Yann Dubois et.al.|[2404.04475v1](http://arxiv.org/abs/2404.04475v1)|[link](https://github.com/tatsu-lab/alpaca_eval)|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-11**|**Question Generation in Knowledge-Driven Dialog: Explainability and Evaluation**|Juliette Faille et.al.|[2404.07836v1](http://arxiv.org/abs/2404.07836v1)|null|
+|**2024-04-11**|**Why do small language models underperform? Studying Language Model Saturation via the Softmax Bottleneck**|Nathan Godey et.al.|[2404.07647v1](http://arxiv.org/abs/2404.07647v1)|null|
+|**2024-04-11**|**Multi-Image Visual Question Answering for Unsupervised Anomaly Detection**|Jun Li et.al.|[2404.07622v1](http://arxiv.org/abs/2404.07622v1)|null|
+|**2024-04-10**|**From Model-centered to Human-Centered: Revision Distance as a Metric for Text Evaluation in LLMs-based Applications**|Yongqiang Ma et.al.|[2404.07108v2](http://arxiv.org/abs/2404.07108v2)|null|
+|**2024-04-10**|**A Mathematical Theory for Learning Semantic Languages by Abstract Learners**|Kuo-Yu Liao et.al.|[2404.07009v1](http://arxiv.org/abs/2404.07009v1)|null|
+|**2024-04-10**|**WordDecipher: Enhancing Digital Workspace Communication with Explainable AI for Non-native English Speakers**|Yuexi Chen et.al.|[2404.07005v1](http://arxiv.org/abs/2404.07005v1)|null|
+|**2024-04-10**|**Event Grounded Criminal Court View Generation withCooperative (Large) Language Models**|Linan Yue et.al.|[2404.07001v1](http://arxiv.org/abs/2404.07001v1)|[link](https://github.com/yuelinan/codes-of-egg)|
+|**2024-04-09**|**[Call for Papers] The 2nd BabyLM Challenge: Sample-efficient pretraining on a developmentally plausible corpus**|Leshem Choshen et.al.|[2404.06214v1](http://arxiv.org/abs/2404.06214v1)|null|
+|**2024-04-08**|**MedExpQA: Multilingual Benchmarking of Large Language Models for Medical Question Answering**|Iñigo Alonso et.al.|[2404.05590v1](http://arxiv.org/abs/2404.05590v1)|null|
+|**2024-04-07**|**How much reliable is ChatGPT's prediction on Information Extraction under Input Perturbations?**|Ishani Mondal et.al.|[2404.05088v1](http://arxiv.org/abs/2404.05088v1)|null|
+|**2024-04-07**|**Data Bias According to Bipol: Men are Naturally Right and It is the Role of Women to Follow Their Lead**|Irene Pagliai et.al.|[2404.04838v1](http://arxiv.org/abs/2404.04838v1)|[link](https://github.com/ltu-machine-learning/bipolmulti)|
+|**2024-04-06**|**Binary Classifier Optimization for Large Language Model Alignment**|Seungjae Jung et.al.|[2404.04656v1](http://arxiv.org/abs/2404.04656v1)|null|
+|**2024-04-04**|**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**|Marco Bronzini et.al.|[2404.03623v1](http://arxiv.org/abs/2404.03623v1)|null|
+|**2024-04-04**|**Evaluating LLMs at Detecting Errors in LLM Responses**|Ryo Kamoi et.al.|[2404.03602v1](http://arxiv.org/abs/2404.03602v1)|[link](https://github.com/psunlpgroup/realmistake)|
+|**2024-04-04**|**Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models**|Yantao Liu et.al.|[2404.03577v1](http://arxiv.org/abs/2404.03577v1)|[link](https://github.com/thu-keg/knot)|
+|**2024-04-04**|**Knowledge Graph Representation for Political Information Sources**|Tinatin Osmonova et.al.|[2404.03437v1](http://arxiv.org/abs/2404.03437v1)|null|
+|**2024-04-04**|**Edisum: Summarizing and Explaining Wikipedia Edits at Scale**|Marija Šakota et.al.|[2404.03428v1](http://arxiv.org/abs/2404.03428v1)|[link](https://github.com/epfl-dlab/edisum)|
 
 ## Reasoning
 
