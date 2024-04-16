@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-16 20:50:36
+ Automated deployment @ 2024-04-16 21:06:37
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -21,7 +21,6 @@
 |**2024-04-09**|**[Call for Papers] The 2nd BabyLM Challenge: Sample-efficient pretraining on a developmentally plausible corpus**|Leshem Choshen et.al.|[2404.06214v1](http://arxiv.org/abs/2404.06214v1)|null|
 |**2024-04-08**|**MedExpQA: Multilingual Benchmarking of Large Language Models for Medical Question Answering**|Iñigo Alonso et.al.|[2404.05590v1](http://arxiv.org/abs/2404.05590v1)|null|
 |**2024-04-07**|**How much reliable is ChatGPT's prediction on Information Extraction under Input Perturbations?**|Ishani Mondal et.al.|[2404.05088v1](http://arxiv.org/abs/2404.05088v1)|null|
-|**2024-04-07**|**Data Bias According to Bipol: Men are Naturally Right and It is the Role of Women to Follow Their Lead**|Irene Pagliai et.al.|[2404.04838v1](http://arxiv.org/abs/2404.04838v1)|[link](https://github.com/ltu-machine-learning/bipolmulti)|
 
 ## Question Answering
 
@@ -85,7 +84,6 @@
 |**2024-04-08**|**The Hallucinations Leaderboard -- An Open Effort to Measure Hallucinations in Large Language Models**|Giwon Hong et.al.|[2404.05904v1](http://arxiv.org/abs/2404.05904v1)|null|
 |**2024-04-08**|**Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge**|Weikai Lu et.al.|[2404.05880v1](http://arxiv.org/abs/2404.05880v1)|null|
 |**2024-04-08**|**SambaLingo: Teaching Large Language Models New Languages**|Zoltan Csaki et.al.|[2404.05829v1](http://arxiv.org/abs/2404.05829v1)|null|
-|**2024-04-08**|**Responsible Generative AI: What to Generate and What Not**|Jindong Gu et.al.|[2404.05783v1](http://arxiv.org/abs/2404.05783v1)|null|
 
 ## Reasoning
 
