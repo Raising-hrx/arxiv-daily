@@ -1,28 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2024-04-23 20:51:35
+ Automated deployment @ 2024-04-23 21:09:22
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-22**|**A Multimodal Automated Interpretability Agent**|Tamar Rott Shaham et.al.|[2404.14394v1](http://arxiv.org/abs/2404.14394v1)|null|
-|**2024-04-22**|**EventLens: Leveraging Event-Aware Pretraining and Cross-modal Linking Enhances Visual Commonsense Reasoning**|Mingjie Ma et.al.|[2404.13847v1](http://arxiv.org/abs/2404.13847v1)|null|
-|**2024-04-21**|**PEACH: Pretrained-embedding Explanation Across Contextual and Hierarchical Structure**|Feiqi Cao et.al.|[2404.13645v1](http://arxiv.org/abs/2404.13645v1)|[link](https://github.com/adlnlp/peach)|
-|**2024-04-21**|**"A good pun is its own reword": Can Large Language Models Understand Puns?**|Zhijun Xu et.al.|[2404.13599v1](http://arxiv.org/abs/2404.13599v1)|[link](https://github.com/zhijun-xu/puneval)|
-|**2024-04-20**|**Explanation based Bias Decoupling Regularization for Natural Language Inference**|Jianxiang Zang et.al.|[2404.13390v1](http://arxiv.org/abs/2404.13390v1)|null|
-|**2024-04-20**|**Beyond Accuracy: Investigating Error Types in GPT-4 Responses to USMLE Questions**|Soumyadeep Roy et.al.|[2404.13307v1](http://arxiv.org/abs/2404.13307v1)|[link](https://github.com/roysoumya/usmle-gpt4-error-taxonomy)|
-|**2024-04-19**|**Rethinking the Evaluation of Dialogue Systems: Effects of User Feedback on Crowdworkers and LLMs**|Clemencia Siro et.al.|[2404.12994v1](http://arxiv.org/abs/2404.12994v1)|[link](https://github.com/clemenciah/llmcrowddialogueeval)|
-|**2024-04-19**|**Multi Class Depression Detection Through Tweets using Artificial Intelligence**|Muhammad Osama Nusrat et.al.|[2404.13104v1](http://arxiv.org/abs/2404.13104v1)|null|
-|**2024-04-18**|**Latent Concept-based Explanation of NLP Models**|Xuemin Yu et.al.|[2404.12545v1](http://arxiv.org/abs/2404.12545v1)|null|
-|**2024-04-18**|**RAGAR, Your Falsehood RADAR: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models**|M. Abdul Khaliq et.al.|[2404.12065v1](http://arxiv.org/abs/2404.12065v1)|null|
-|**2024-04-18**|**Uncovering Safety Risks in Open-source LLMs through Concept Activation Vector**|Zhihao Xu et.al.|[2404.12038v1](http://arxiv.org/abs/2404.12038v1)|null|
-|**2024-04-17**|**How Well Can You Articulate that Idea? Insights from Automated Formative Assessment**|Mahsa Sheikhi Karizaki et.al.|[2404.11682v1](http://arxiv.org/abs/2404.11682v1)|null|
-|**2024-04-17**|**To Drop or Not to Drop? Predicting Argument Ellipsis Judgments: A Case Study in Japanese**|Yukiko Ishizuki et.al.|[2404.11315v1](http://arxiv.org/abs/2404.11315v1)|null|
-|**2024-04-16**|**Balancing Speciality and Versatility: a Coarse to Fine Framework for Supervised Fine-tuning Large Language Model**|Hengyuan Zhang et.al.|[2404.10306v1](http://arxiv.org/abs/2404.10306v1)|[link](https://github.com/rattlesnakey/cofitune)|
-|**2024-04-15**|**LLM Evaluators Recognize and Favor Their Own Generations**|Arjun Panickssery et.al.|[2404.13076v1](http://arxiv.org/abs/2404.13076v1)|null|
 
 ## Question Answering
 
@@ -82,6 +61,27 @@
 |**2024-04-16**|**Which questions should I answer? Salience Prediction of Inquisitive Questions**|Yating Wu et.al.|[2404.10917v1](http://arxiv.org/abs/2404.10917v1)|[link](https://github.com/ritikamangla/qsalience)|
 |**2024-04-16**|**Question Difficulty Ranking for Multiple-Choice Reading Comprehension**|Vatsal Raina et.al.|[2404.10704v1](http://arxiv.org/abs/2404.10704v1)|null|
 |**2024-04-16**|**ViTextVQA: A Large-Scale Visual Question Answering Dataset for Evaluating Vietnamese Text Comprehension in Images**|Quan Van Nguyen et.al.|[2404.10652v1](http://arxiv.org/abs/2404.10652v1)|[link](https://github.com/minhquan6203/vitextvqa-dataset)|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-22**|**A Multimodal Automated Interpretability Agent**|Tamar Rott Shaham et.al.|[2404.14394v1](http://arxiv.org/abs/2404.14394v1)|null|
+|**2024-04-22**|**EventLens: Leveraging Event-Aware Pretraining and Cross-modal Linking Enhances Visual Commonsense Reasoning**|Mingjie Ma et.al.|[2404.13847v1](http://arxiv.org/abs/2404.13847v1)|null|
+|**2024-04-21**|**PEACH: Pretrained-embedding Explanation Across Contextual and Hierarchical Structure**|Feiqi Cao et.al.|[2404.13645v1](http://arxiv.org/abs/2404.13645v1)|[link](https://github.com/adlnlp/peach)|
+|**2024-04-21**|**"A good pun is its own reword": Can Large Language Models Understand Puns?**|Zhijun Xu et.al.|[2404.13599v1](http://arxiv.org/abs/2404.13599v1)|[link](https://github.com/zhijun-xu/puneval)|
+|**2024-04-20**|**Explanation based Bias Decoupling Regularization for Natural Language Inference**|Jianxiang Zang et.al.|[2404.13390v1](http://arxiv.org/abs/2404.13390v1)|null|
+|**2024-04-20**|**Beyond Accuracy: Investigating Error Types in GPT-4 Responses to USMLE Questions**|Soumyadeep Roy et.al.|[2404.13307v1](http://arxiv.org/abs/2404.13307v1)|[link](https://github.com/roysoumya/usmle-gpt4-error-taxonomy)|
+|**2024-04-19**|**Rethinking the Evaluation of Dialogue Systems: Effects of User Feedback on Crowdworkers and LLMs**|Clemencia Siro et.al.|[2404.12994v1](http://arxiv.org/abs/2404.12994v1)|[link](https://github.com/clemenciah/llmcrowddialogueeval)|
+|**2024-04-19**|**Multi Class Depression Detection Through Tweets using Artificial Intelligence**|Muhammad Osama Nusrat et.al.|[2404.13104v1](http://arxiv.org/abs/2404.13104v1)|null|
+|**2024-04-18**|**Latent Concept-based Explanation of NLP Models**|Xuemin Yu et.al.|[2404.12545v1](http://arxiv.org/abs/2404.12545v1)|null|
+|**2024-04-18**|**RAGAR, Your Falsehood RADAR: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models**|M. Abdul Khaliq et.al.|[2404.12065v1](http://arxiv.org/abs/2404.12065v1)|null|
+|**2024-04-18**|**Uncovering Safety Risks in Open-source LLMs through Concept Activation Vector**|Zhihao Xu et.al.|[2404.12038v1](http://arxiv.org/abs/2404.12038v1)|null|
+|**2024-04-17**|**How Well Can You Articulate that Idea? Insights from Automated Formative Assessment**|Mahsa Sheikhi Karizaki et.al.|[2404.11682v1](http://arxiv.org/abs/2404.11682v1)|null|
+|**2024-04-17**|**To Drop or Not to Drop? Predicting Argument Ellipsis Judgments: A Case Study in Japanese**|Yukiko Ishizuki et.al.|[2404.11315v1](http://arxiv.org/abs/2404.11315v1)|null|
+|**2024-04-16**|**Balancing Speciality and Versatility: a Coarse to Fine Framework for Supervised Fine-tuning Large Language Model**|Hengyuan Zhang et.al.|[2404.10306v1](http://arxiv.org/abs/2404.10306v1)|[link](https://github.com/rattlesnakey/cofitune)|
+|**2024-04-15**|**LLM Evaluators Recognize and Favor Their Own Generations**|Arjun Panickssery et.al.|[2404.13076v1](http://arxiv.org/abs/2404.13076v1)|null|
 
 ## Reasoning
 
