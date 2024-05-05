@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-05 09:11:55
+ Automated deployment @ 2024-05-05 20:27:26
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -105,7 +105,7 @@
 |**2024-05-02**|**Bayesian Optimization with LLM-Based Acquisition Functions for Natural Language Preference Elicitation**|David Eric Austin et.al.|[2405.00981v1](http://arxiv.org/abs/2405.00981v1)|null|
 |**2024-05-02**|**CACTUS: Chemistry Agent Connecting Tool-Usage to Science**|Andrew D. McNaughton et.al.|[2405.00972v1](http://arxiv.org/abs/2405.00972v1)|null|
 |**2024-05-02**|**Modeling Empathetic Alignment in Conversation**|Jiamin Yang et.al.|[2405.00948v1](http://arxiv.org/abs/2405.00948v1)|null|
-|**2024-05-01**|**Causal Evaluation of Language Models**|Sirui Chen et.al.|[2405.00622v1](http://arxiv.org/abs/2405.00622v1)|null|
+|**2024-05-01**|**Causal Evaluation of Language Models**|Sirui Chen et.al.|[2405.00622v1](http://arxiv.org/abs/2405.00622v1)|[link](https://github.com/OpenCausaLab/CaLM)|
 |**2024-05-01**|**Harnessing the Power of Multiple Minds: Lessons Learned from LLM Routing**|KV Aditya Srivatsa et.al.|[2405.00467v1](http://arxiv.org/abs/2405.00467v1)|[link](https://github.com/kvadityasrivatsa/llm-routing)|
 |**2024-05-01**|**RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models**|Mohamed Manzour Hussien et.al.|[2405.00449v1](http://arxiv.org/abs/2405.00449v1)|null|
 |**2024-05-01**|**Self-Refine Instruction-Tuning for Aligning Reasoning in Language Models**|Leonardo Ranaldi et.al.|[2405.00402v1](http://arxiv.org/abs/2405.00402v1)|null|
@@ -183,7 +183,7 @@
 |**2024-04-22**|**Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training**|Mengzhao Jia et.al.|[2404.14604v3](http://arxiv.org/abs/2404.14604v3)|null|
 |**2024-04-22**|**PARAMANU-GANITA: Language Model with Mathematical Capabilities**|Mitodru Niyogi et.al.|[2404.14395v1](http://arxiv.org/abs/2404.14395v1)|null|
 |**2024-04-22**|**Calc-CMU at SemEval-2024 Task 7: Pre-Calc -- Learning to Use the Calculator Improves Numeracy in Language Models**|Vishruth Veerendranath et.al.|[2404.14355v2](http://arxiv.org/abs/2404.14355v2)|[link](https://github.com/calc-cmu/pre-calc)|
-|**2024-04-22**|**Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction**|Zheye Deng et.al.|[2404.14215v1](http://arxiv.org/abs/2404.14215v1)|[link](https://github.com/hkust-knowcomp/livesum-ttt)|
+|**2024-04-22**|**Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction**|Zheye Deng et.al.|[2404.14215v1](http://arxiv.org/abs/2404.14215v1)|[link](https://github.com/hiyouga/llama-factory)|
 |**2024-04-22**|**LLMs Know What They Need: Leveraging a Missing Information Guided Framework to Empower Retrieval-Augmented Generation**|Keheng Wang et.al.|[2404.14043v1](http://arxiv.org/abs/2404.14043v1)|[link](https://github.com/adelwang/migres)|
 |**2024-04-22**|**Tree of Reviews: A Tree-based Dynamic Iterative Retrieval Framework for Multi-hop Question Answering**|Li Jiapeng et.al.|[2404.14464v1](http://arxiv.org/abs/2404.14464v1)|null|
 |**2024-04-22**|**Information Re-Organization Improves Reasoning in Large Language Models**|Xiaoxia Cheng et.al.|[2404.13985v1](http://arxiv.org/abs/2404.13985v1)|null|
