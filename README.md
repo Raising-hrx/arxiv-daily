@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-06 09:08:35
+ Automated deployment @ 2024-05-06 20:29:44
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,9 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-03**|**Argumentative Large Language Models for Explainable and Contestable Decision-Making**|Gabriel Freedman et.al.|[2405.02079v1](http://arxiv.org/abs/2405.02079v1)|null|
+|**2024-05-03**|**A quantitative and typological study of Early Slavic participle clauses and their competition**|Nilo Pedrazzini et.al.|[2405.01972v1](http://arxiv.org/abs/2405.01972v1)|null|
+|**2024-05-02**|**CoS: Enhancing Personalization and Mitigating Bias with Context Steering**|Jerry Zhi-Yang He et.al.|[2405.01768v1](http://arxiv.org/abs/2405.01768v1)|null|
 |**2024-05-02**|**V-FLUTE: Visual Figurative Language Understanding with Textual Explanations**|Arkadiy Saakyan et.al.|[2405.01474v1](http://arxiv.org/abs/2405.01474v1)|null|
 |**2024-05-02**|**Verification and Refinement of Natural Language Explanations through LLM-Symbolic Theorem Proving**|Xin Quan et.al.|[2405.01379v1](http://arxiv.org/abs/2405.01379v1)|null|
 |**2024-05-02**|**Identification of Entailment and Contradiction Relations between Natural Language Sentences: A Neurosymbolic Approach**|Xuyao Feng et.al.|[2405.01259v1](http://arxiv.org/abs/2405.01259v1)|null|
@@ -20,6 +23,7 @@
 |**2024-04-30**|**Harmonic LLMs are Trustworthy**|Nicholas S. Kersting et.al.|[2404.19708v1](http://arxiv.org/abs/2404.19708v1)|null|
 |**2024-04-30**|**Do Large Language Models Understand Conversational Implicature -- A case study with a chinese sitcom**|Shisen Yue et.al.|[2404.19509v1](http://arxiv.org/abs/2404.19509v1)|null|
 |**2024-04-30**|**Context-Aware Machine Translation with Source Coreference Explanation**|Huy Hien Vu et.al.|[2404.19505v1](http://arxiv.org/abs/2404.19505v1)|[link](https://github.com/hienvuhuy/transcoref)|
+|**2024-04-30**|**Large Language Model Agent for Fake News Detection**|Xinyi Li et.al.|[2405.01593v1](http://arxiv.org/abs/2405.01593v1)|null|
 |**2024-04-29**|**Q-GroundCAM: Quantifying Grounding in Vision Language Models via GradCAM**|Navid Rajabi et.al.|[2404.19128v1](http://arxiv.org/abs/2404.19128v1)|null|
 |**2024-04-29**|**Work Smarter...Not Harder: Efficient Minimization of Dependency Length in SOV Languages**|Sidharth Ranjan et.al.|[2404.18684v1](http://arxiv.org/abs/2404.18684v1)|null|
 |**2024-04-29**|**Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods**|Haeun Yu et.al.|[2404.18655v1](http://arxiv.org/abs/2404.18655v1)|null|
@@ -27,16 +31,20 @@
 |**2024-04-29**|**Explainability of Machine Learning Approaches in Forensic Linguistics: A Case Study in Geolinguistic Authorship Profiling**|Dana Roemling et.al.|[2404.18510v1](http://arxiv.org/abs/2404.18510v1)|null|
 |**2024-04-28**|**Comparing LLM prompting with Cross-lingual transfer performance on Indigenous and Low-resource Brazilian Languages**|David Ifeoluwa Adelani et.al.|[2404.18286v2](http://arxiv.org/abs/2404.18286v2)|null|
 |**2024-04-28**|**Explaining vague language**|Paul Égré et.al.|[2404.18154v1](http://arxiv.org/abs/2404.18154v1)|null|
-|**2024-04-26**|**ReproHum #0087-01: Human Evaluation Reproduction Report for Generating Fact Checking Explanations**|Tyler Loakman et.al.|[2404.17481v1](http://arxiv.org/abs/2404.17481v1)|null|
-|**2024-04-26**|**LLMs for Generating and Evaluating Counterfactuals: A Comprehensive Study**|Van Bach Nguyen et.al.|[2405.00722v1](http://arxiv.org/abs/2405.00722v1)|null|
-|**2024-04-26**|**CoSD: Collaborative Stance Detection with Contrastive Heterogeneous Topic Graph Learning**|Yinghan Cheng et.al.|[2404.17609v1](http://arxiv.org/abs/2404.17609v1)|null|
-|**2024-04-25**|**Análise de ambiguidade linguística em modelos de linguagem de grande escala (LLMs)**|Lavínia de Carvalho Moraes et.al.|[2404.16653v1](http://arxiv.org/abs/2404.16653v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-03**|**Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models**|Piotr Padlewski et.al.|[2405.02287v1](http://arxiv.org/abs/2405.02287v1)|[link](https://github.com/reka-ai/reka-vibe-eval)|
+|**2024-05-03**|**Single and Multi-Hop Question-Answering Datasets for Reticular Chemistry with GPT-4-Turbo**|Nakul Rampal et.al.|[2405.02128v1](http://arxiv.org/abs/2405.02128v1)|null|
+|**2024-05-03**|**Semi-Parametric Retrieval via Binary Token Index**|Jiawei Zhou et.al.|[2405.01924v1](http://arxiv.org/abs/2405.01924v1)|null|
+|**2024-05-03**|**SUKHSANDESH: An Avatar Therapeutic Question Answering Platform for Sexual Education in Rural India**|Salam Michael Singh et.al.|[2405.01858v1](http://arxiv.org/abs/2405.01858v1)|null|
+|**2024-05-02**|**CoS: Enhancing Personalization and Mitigating Bias with Context Steering**|Jerry Zhi-Yang He et.al.|[2405.01768v1](http://arxiv.org/abs/2405.01768v1)|null|
+|**2024-05-02**|**ALCM: Autonomous LLM-Augmented Causal Discovery Framework**|Elahe Khatibi et.al.|[2405.01744v1](http://arxiv.org/abs/2405.01744v1)|null|
+|**2024-05-02**|**Question Suggestion for Conversational Shopping Assistants Using Product Metadata**|Nikhita Vedula et.al.|[2405.01738v1](http://arxiv.org/abs/2405.01738v1)|null|
+|**2024-05-02**|**Improving Complex Reasoning over Knowledge Graph with Logic-Aware Curriculum Tuning**|Tianle Xia et.al.|[2405.01649v1](http://arxiv.org/abs/2405.01649v1)|null|
 |**2024-05-02**|**D2PO: Discriminator-Guided DPO with Response Evaluation Models**|Prasann Singhal et.al.|[2405.01511v1](http://arxiv.org/abs/2405.01511v1)|[link](https://github.com/PrasannS/d2po)|
 |**2024-05-02**|**Analyzing the Role of Semantic Representations in the Era of Large Language Models**|Zhijing Jin et.al.|[2405.01502v1](http://arxiv.org/abs/2405.01502v1)|[link](https://github.com/causalnlp/amr_llm)|
 |**2024-05-02**|**V-FLUTE: Visual Figurative Language Understanding with Textual Explanations**|Arkadiy Saakyan et.al.|[2405.01474v1](http://arxiv.org/abs/2405.01474v1)|null|
@@ -73,28 +81,30 @@
 |**2024-04-29**|**HELPER-X: A Unified Instructable Embodied Agent to Tackle Four Interactive Vision-Language Domains with Memory-Augmented Language Models**|Gabriel Sarch et.al.|[2404.19065v1](http://arxiv.org/abs/2404.19065v1)|null|
 |**2024-04-29**|**SuperCLUE-Fin: Graded Fine-Grained Analysis of Chinese LLMs on Diverse Financial Tasks and Applications**|Liang Xu et.al.|[2404.19063v1](http://arxiv.org/abs/2404.19063v1)|null|
 |**2024-04-29**|**Markovian Agents for Truthful Language Modeling**|Scott Viteri et.al.|[2404.18988v1](http://arxiv.org/abs/2404.18988v1)|null|
+|**2024-04-29**|**Simplifying Multimodality: Unimodal Approach to Multimodal Challenges in Radiology with General-Domain Large Language Model**|Seonhee Cho et.al.|[2405.01591v1](http://arxiv.org/abs/2405.01591v1)|null|
 |**2024-04-29**|**Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations?**|Letitia Parcalabescu et.al.|[2404.18624v1](http://arxiv.org/abs/2404.18624v1)|null|
 |**2024-04-29**|**FREB-TQA: A Fine-Grained Robustness Evaluation Benchmark for Table Question Answering**|Wei Zhou et.al.|[2404.18585v1](http://arxiv.org/abs/2404.18585v1)|[link](https://github.com/hiyouga/llama-factory)|
 |**2024-04-29**|**Capabilities of Gemini Models in Medicine**|Khaled Saab et.al.|[2404.18416v2](http://arxiv.org/abs/2404.18416v2)|null|
+|**2024-04-29**|**Towards Unbiased Evaluation of Detecting Unanswerable Questions in EHRSQL**|Yongjin Yang et.al.|[2405.01588v1](http://arxiv.org/abs/2405.01588v1)|null|
 |**2024-04-29**|**QANA: LLM-based Question Generation and Network Analysis for Zero-shot Key Point Analysis and Beyond**|Tomoki Fukuma et.al.|[2404.18371v1](http://arxiv.org/abs/2404.18371v1)|null|
 |**2024-04-29**|**FoundaBench: Evaluating Chinese Fundamental Knowledge Capabilities of Large Language Models**|Wei Li et.al.|[2404.18359v1](http://arxiv.org/abs/2404.18359v1)|null|
+|**2024-04-28**|**Improve Academic Query Resolution through BERT-based Question Extraction from Images**|Nidhi Kamal et.al.|[2405.01587v1](http://arxiv.org/abs/2405.01587v1)|null|
 |**2024-04-27**|**MediFact at MEDIQA-CORR 2024: Why AI Needs a Human Touch**|Nadia Saeed et.al.|[2404.17999v1](http://arxiv.org/abs/2404.17999v1)|[link](https://github.com/nadiasaeed/medifact-mediqa-corr-2024)|
+|**2024-04-27**|**MediFact at MEDIQA-M3G 2024: Medical Question Answering in Dermatology with Multimodal Learning**|Nadia Saeed et.al.|[2405.01583v1](http://arxiv.org/abs/2405.01583v1)|null|
 |**2024-04-27**|**Enhancing Pre-Trained Generative Language Models with Question Attended Span Extraction on Machine Reading Comprehension**|Lin Ai et.al.|[2404.17991v1](http://arxiv.org/abs/2404.17991v1)|null|
-|**2024-04-27**|**Transfer Learning Enhanced Single-choice Decision for Multi-choice Question Answering**|Chenhao Cui et.al.|[2404.17949v1](http://arxiv.org/abs/2404.17949v1)|null|
-|**2024-04-27**|**Tool Calling: Enhancing Medication Consultation via Retrieval-Augmented Large Language Models**|Zhongzhen Huang et.al.|[2404.17897v1](http://arxiv.org/abs/2404.17897v1)|null|
-|**2024-04-27**|**Continual Pre-Training for Cross-Lingual LLM Adaptation: Enhancing Japanese Language Capabilities**|Kazuki Fujii et.al.|[2404.17790v1](http://arxiv.org/abs/2404.17790v1)|null|
-|**2024-04-26**|**Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering**|Zhentao Xu et.al.|[2404.17723v1](http://arxiv.org/abs/2404.17723v1)|null|
-|**2024-04-26**|**PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games**|Qinglin Zhu et.al.|[2404.17662v1](http://arxiv.org/abs/2404.17662v1)|[link](https://github.com/alickzhu/player)|
-|**2024-04-26**|**Can a Multichoice Dataset be Repurposed for Extractive Question Answering?**|Teresa Lynn et.al.|[2404.17342v1](http://arxiv.org/abs/2404.17342v1)|null|
-|**2024-04-26**|**TIGQA:An Expert Annotated Question Answering Dataset in Tigrinya**|Hailay Teklehaymanot et.al.|[2404.17194v1](http://arxiv.org/abs/2404.17194v1)|null|
-|**2024-04-26**|**2M-NER: Contrastive Learning for Multilingual and Multimodal NER with Language and Modal Fusion**|Dongsheng Wang et.al.|[2404.17122v1](http://arxiv.org/abs/2404.17122v1)|null|
-|**2024-04-26**|**Talking Nonsense: Probing Large Language Models' Understanding of Adversarial Gibberish Inputs**|Valeriia Cherepanova et.al.|[2404.17120v2](http://arxiv.org/abs/2404.17120v2)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-03**|**REASONS: A benchmark for REtrieval and Automated citationS Of scieNtific Sentences using Public and Proprietary LLMs**|Deepa Tilwani et.al.|[2405.02228v1](http://arxiv.org/abs/2405.02228v1)|null|
+|**2024-05-03**|**Argumentative Large Language Models for Explainable and Contestable Decision-Making**|Gabriel Freedman et.al.|[2405.02079v1](http://arxiv.org/abs/2405.02079v1)|null|
+|**2024-05-03**|**Exploring Combinatorial Problem Solving with Large Language Models: A Case Study on the Travelling Salesman Problem Using GPT-3.5 Turbo**|Mahmoud Masoud et.al.|[2405.01997v1](http://arxiv.org/abs/2405.01997v1)|null|
+|**2024-05-03**|**A quantitative and typological study of Early Slavic participle clauses and their competition**|Nilo Pedrazzini et.al.|[2405.01972v1](http://arxiv.org/abs/2405.01972v1)|null|
+|**2024-05-03**|**Incorporating External Knowledge and Goal Guidance for LLM-based Conversational Recommender Systems**|Chuang Li et.al.|[2405.01868v1](http://arxiv.org/abs/2405.01868v1)|null|
+|**2024-05-02**|**ALCM: Autonomous LLM-Augmented Causal Discovery Framework**|Elahe Khatibi et.al.|[2405.01744v1](http://arxiv.org/abs/2405.01744v1)|null|
+|**2024-05-02**|**Improving Complex Reasoning over Knowledge Graph with Logic-Aware Curriculum Tuning**|Tianle Xia et.al.|[2405.01649v1](http://arxiv.org/abs/2405.01649v1)|null|
 |**2024-05-02**|**Analyzing the Role of Semantic Representations in the Era of Large Language Models**|Zhijing Jin et.al.|[2405.01502v1](http://arxiv.org/abs/2405.01502v1)|[link](https://github.com/causalnlp/amr_llm)|
 |**2024-05-02**|**MANTIS: Interleaved Multi-Image Instruction Tuning**|Dongfu Jiang et.al.|[2405.01483v1](http://arxiv.org/abs/2405.01483v1)|null|
 |**2024-05-02**|**V-FLUTE: Visual Figurative Language Understanding with Textual Explanations**|Arkadiy Saakyan et.al.|[2405.01474v1](http://arxiv.org/abs/2405.01474v1)|null|
@@ -122,6 +132,7 @@
 |**2024-04-30**|**Context-Aware Machine Translation with Source Coreference Explanation**|Huy Hien Vu et.al.|[2404.19505v1](http://arxiv.org/abs/2404.19505v1)|[link](https://github.com/hienvuhuy/transcoref)|
 |**2024-04-30**|**Can Large Language Models put 2 and 2 together? Probing for Entailed Arithmetical Relationships**|D. Panas et.al.|[2404.19432v1](http://arxiv.org/abs/2404.19432v1)|null|
 |**2024-04-30**|**Evaluating Telugu Proficiency in Large Language Models_ A Comparative Analysis of ChatGPT and Gemini**|Katikela Sreeharsha Kishore et.al.|[2404.19369v1](http://arxiv.org/abs/2404.19369v1)|null|
+|**2024-04-30**|**Large Language Model Agent for Fake News Detection**|Xinyi Li et.al.|[2405.01593v1](http://arxiv.org/abs/2405.01593v1)|null|
 |**2024-04-30**|**Multi-hop Question Answering over Knowledge Graphs using Large Language Models**|Abir Chakraborty et.al.|[2404.19234v1](http://arxiv.org/abs/2404.19234v1)|null|
 |**2024-04-30**|**Transcrib3D: 3D Referring Expression Resolution through Large Language Models**|Jiading Fang et.al.|[2404.19221v1](http://arxiv.org/abs/2404.19221v1)|null|
 |**2024-04-29**|**SuperCLUE-Fin: Graded Fine-Grained Analysis of Chinese LLMs on Diverse Financial Tasks and Applications**|Liang Xu et.al.|[2404.19063v1](http://arxiv.org/abs/2404.19063v1)|null|
@@ -137,6 +148,7 @@
 |**2024-04-29**|**Exploring the Limits of Fine-grained LLM-based Physics Inference via Premise Removal Interventions**|Jordan Meadows et.al.|[2404.18384v1](http://arxiv.org/abs/2404.18384v1)|null|
 |**2024-04-29**|**FoundaBench: Evaluating Chinese Fundamental Knowledge Capabilities of Large Language Models**|Wei Li et.al.|[2404.18359v1](http://arxiv.org/abs/2404.18359v1)|null|
 |**2024-04-28**|**Comparing LLM prompting with Cross-lingual transfer performance on Indigenous and Low-resource Brazilian Languages**|David Ifeoluwa Adelani et.al.|[2404.18286v2](http://arxiv.org/abs/2404.18286v2)|null|
+|**2024-04-28**|**Tabular Embedding Model (TEM): Finetuning Embedding Models For Tabular RAG Applications**|Sujit Khanna et.al.|[2405.01585v1](http://arxiv.org/abs/2405.01585v1)|null|
 |**2024-04-28**|**Logic Agent: Enhancing Validity with Logic Rule Invocation**|Hanmeng Liu et.al.|[2404.18130v1](http://arxiv.org/abs/2404.18130v1)|null|
 |**2024-04-28**|**ComposerX: Multi-Agent Symbolic Music Composition with LLMs**|Qixin Deng et.al.|[2404.18081v2](http://arxiv.org/abs/2404.18081v2)|[link](https://github.com/lllindsey0615/composerx)|
 |**2024-04-27**|**CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments**|Kaixuan Huang et.al.|[2404.18021v1](http://arxiv.org/abs/2404.18021v1)|null|
@@ -228,9 +240,3 @@
 |**2024-04-17**|**ViLLM-Eval: A Comprehensive Evaluation Suite for Vietnamese Large Language Models**|Trong-Hieu Nguyen et.al.|[2404.11086v2](http://arxiv.org/abs/2404.11086v2)|null|
 |**2024-04-17**|**TREACLE: Thrifty Reasoning via Context-Aware LLM and Prompt Selection**|Xuechen Zhang et.al.|[2404.13082v1](http://arxiv.org/abs/2404.13082v1)|null|
 |**2024-04-17**|**Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions**|Leena Mathur et.al.|[2404.11023v1](http://arxiv.org/abs/2404.11023v1)|null|
-|**2024-04-17**|**Many-Shot In-Context Learning**|Rishabh Agarwal et.al.|[2404.11018v1](http://arxiv.org/abs/2404.11018v1)|null|
-|**2024-04-17**|**Procedural Dilemma Generation for Evaluating Moral Reasoning in Humans and Language Models**|Jan-Philipp Fränken et.al.|[2404.10975v1](http://arxiv.org/abs/2404.10975v1)|[link](https://github.com/cicl-stanford/moral-evals)|
-|**2024-04-16**|**Can Language Models Solve Olympiad Programming?**|Quan Shi et.al.|[2404.10952v1](http://arxiv.org/abs/2404.10952v1)|[link](https://github.com/princeton-nlp/USACO)|
-|**2024-04-16**|**Self-playing Adversarial Language Game Enhances LLM Reasoning**|Pengyu Cheng et.al.|[2404.10642v1](http://arxiv.org/abs/2404.10642v1)|[link](https://github.com/linear95/spag)|
-|**2024-04-16**|**CoTAR: Chain-of-Thought Attribution Reasoning with Multi-level Granularity**|Moshe Berchansky et.al.|[2404.10513v1](http://arxiv.org/abs/2404.10513v1)|null|
-|**2024-04-16**|**Self-Supervised Visual Preference Alignment**|Ke Zhu et.al.|[2404.10501v1](http://arxiv.org/abs/2404.10501v1)|[link](https://github.com/Kevinz-code/SeVa)|
