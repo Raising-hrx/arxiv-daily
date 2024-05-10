@@ -1,7 +1,30 @@
 # arxiv-daily
- Automated deployment @ 2024-05-10 20:28:35
+ Automated deployment @ 2024-05-10 20:52:33
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-08**|**Interpretability Needs a New Paradigm**|Andreas Madsen et.al.|[2405.05386v1](http://arxiv.org/abs/2405.05386v1)|null|
+|**2024-05-08**|**The Effect of Model Size on LLM Post-hoc Explainability via LIME**|Henning Heyen et.al.|[2405.05348v1](http://arxiv.org/abs/2405.05348v1)|[link](https://github.com/henningheyen/scalability-of-llm-posthoc-explanations)|
+|**2024-05-08**|**LLMs with Personalities in Multi-issue Negotiation Games**|Sean Noh et.al.|[2405.05248v2](http://arxiv.org/abs/2405.05248v2)|null|
+|**2024-05-08**|**MIDGARD: Self-Consistency Using Minimum Description Length for Structured Commonsense Reasoning**|Inderjeet Nair et.al.|[2405.05189v1](http://arxiv.org/abs/2405.05189v1)|null|
+|**2024-05-08**|**ACORN: Aspect-wise Commonsense Reasoning Explanation Evaluation**|Ana Brassard et.al.|[2405.04818v1](http://arxiv.org/abs/2405.04818v1)|null|
+|**2024-05-08**|**Zero-shot LLM-guided Counterfactual Generation for Text**|Amrita Bhattacharjee et.al.|[2405.04793v1](http://arxiv.org/abs/2405.04793v1)|null|
+|**2024-05-07**|**Deception in Reinforced Autonomous Agents: The Unconventional Rabbit Hat Trick in Legislation**|Atharvan Dogra et.al.|[2405.04325v1](http://arxiv.org/abs/2405.04325v1)|null|
+|**2024-05-07**|**Granite Code Models: A Family of Open Foundation Models for Code Intelligence**|Mayank Mishra et.al.|[2405.04324v1](http://arxiv.org/abs/2405.04324v1)|[link](https://github.com/ibm-granite/granite-code-models)|
+|**2024-05-07**|**LingML: Linguistic-Informed Machine Learning for Enhanced Fake News Detection**|Jasraj Singh et.al.|[2405.04165v1](http://arxiv.org/abs/2405.04165v1)|null|
+|**2024-05-07**|**A Causal Explainable Guardrails for Large Language Models**|Zhixuan Chu et.al.|[2405.04160v1](http://arxiv.org/abs/2405.04160v1)|null|
+|**2024-05-07**|**Optimizing Language Model's Reasoning Abilities with Weak Supervision**|Yongqi Tong et.al.|[2405.04086v1](http://arxiv.org/abs/2405.04086v1)|null|
+|**2024-05-06**|**GREEN: Generative Radiology Report Evaluation and Error Notation**|Sophie Ostmeier et.al.|[2405.03595v1](http://arxiv.org/abs/2405.03595v1)|null|
+|**2024-05-06**|**Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom**|Bo Wang et.al.|[2405.03371v1](http://arxiv.org/abs/2405.03371v1)|[link](https://github.com/wangbo9719/L-Defense_EFND)|
+|**2024-05-03**|**What does the Knowledge Neuron Thesis Have to do with Knowledge?**|Jingcheng Niu et.al.|[2405.02421v1](http://arxiv.org/abs/2405.02421v1)|[link](https://github.com/frankniujc/kn_thesis)|
+|**2024-05-03**|**Argumentative Large Language Models for Explainable and Contestable Decision-Making**|Gabriel Freedman et.al.|[2405.02079v1](http://arxiv.org/abs/2405.02079v1)|null|
+|**2024-05-03**|**A quantitative and typological study of Early Slavic participle clauses and their competition**|Nilo Pedrazzini et.al.|[2405.01972v3](http://arxiv.org/abs/2405.01972v3)|null|
+|**2024-05-02**|**CoS: Enhancing Personalization and Mitigating Bias with Context Steering**|Jerry Zhi-Yang He et.al.|[2405.01768v1](http://arxiv.org/abs/2405.01768v1)|null|
 
 ## Question Answering
 
@@ -50,29 +73,6 @@
 |**2024-05-03**|**Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models**|Piotr Padlewski et.al.|[2405.02287v1](http://arxiv.org/abs/2405.02287v1)|[link](https://github.com/reka-ai/reka-vibe-eval)|
 |**2024-05-03**|**Single and Multi-Hop Question-Answering Datasets for Reticular Chemistry with GPT-4-Turbo**|Nakul Rampal et.al.|[2405.02128v1](http://arxiv.org/abs/2405.02128v1)|null|
 |**2024-05-03**|**Semi-Parametric Retrieval via Binary Token Index**|Jiawei Zhou et.al.|[2405.01924v1](http://arxiv.org/abs/2405.01924v1)|[link](https://github.com/jzhoubu/vdr)|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-08**|**Interpretability Needs a New Paradigm**|Andreas Madsen et.al.|[2405.05386v1](http://arxiv.org/abs/2405.05386v1)|null|
-|**2024-05-08**|**The Effect of Model Size on LLM Post-hoc Explainability via LIME**|Henning Heyen et.al.|[2405.05348v1](http://arxiv.org/abs/2405.05348v1)|[link](https://github.com/henningheyen/scalability-of-llm-posthoc-explanations)|
-|**2024-05-08**|**LLMs with Personalities in Multi-issue Negotiation Games**|Sean Noh et.al.|[2405.05248v2](http://arxiv.org/abs/2405.05248v2)|null|
-|**2024-05-08**|**MIDGARD: Self-Consistency Using Minimum Description Length for Structured Commonsense Reasoning**|Inderjeet Nair et.al.|[2405.05189v1](http://arxiv.org/abs/2405.05189v1)|null|
-|**2024-05-08**|**ACORN: Aspect-wise Commonsense Reasoning Explanation Evaluation**|Ana Brassard et.al.|[2405.04818v1](http://arxiv.org/abs/2405.04818v1)|null|
-|**2024-05-08**|**Zero-shot LLM-guided Counterfactual Generation for Text**|Amrita Bhattacharjee et.al.|[2405.04793v1](http://arxiv.org/abs/2405.04793v1)|null|
-|**2024-05-07**|**Deception in Reinforced Autonomous Agents: The Unconventional Rabbit Hat Trick in Legislation**|Atharvan Dogra et.al.|[2405.04325v1](http://arxiv.org/abs/2405.04325v1)|null|
-|**2024-05-07**|**Granite Code Models: A Family of Open Foundation Models for Code Intelligence**|Mayank Mishra et.al.|[2405.04324v1](http://arxiv.org/abs/2405.04324v1)|[link](https://github.com/ibm-granite/granite-code-models)|
-|**2024-05-07**|**LingML: Linguistic-Informed Machine Learning for Enhanced Fake News Detection**|Jasraj Singh et.al.|[2405.04165v1](http://arxiv.org/abs/2405.04165v1)|null|
-|**2024-05-07**|**A Causal Explainable Guardrails for Large Language Models**|Zhixuan Chu et.al.|[2405.04160v1](http://arxiv.org/abs/2405.04160v1)|null|
-|**2024-05-07**|**Optimizing Language Model's Reasoning Abilities with Weak Supervision**|Yongqi Tong et.al.|[2405.04086v1](http://arxiv.org/abs/2405.04086v1)|null|
-|**2024-05-06**|**GREEN: Generative Radiology Report Evaluation and Error Notation**|Sophie Ostmeier et.al.|[2405.03595v1](http://arxiv.org/abs/2405.03595v1)|null|
-|**2024-05-06**|**Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom**|Bo Wang et.al.|[2405.03371v1](http://arxiv.org/abs/2405.03371v1)|[link](https://github.com/wangbo9719/L-Defense_EFND)|
-|**2024-05-03**|**What does the Knowledge Neuron Thesis Have to do with Knowledge?**|Jingcheng Niu et.al.|[2405.02421v1](http://arxiv.org/abs/2405.02421v1)|[link](https://github.com/frankniujc/kn_thesis)|
-|**2024-05-03**|**Argumentative Large Language Models for Explainable and Contestable Decision-Making**|Gabriel Freedman et.al.|[2405.02079v1](http://arxiv.org/abs/2405.02079v1)|null|
-|**2024-05-03**|**A quantitative and typological study of Early Slavic participle clauses and their competition**|Nilo Pedrazzini et.al.|[2405.01972v3](http://arxiv.org/abs/2405.01972v3)|null|
-|**2024-05-02**|**CoS: Enhancing Personalization and Mitigating Bias with Context Steering**|Jerry Zhi-Yang He et.al.|[2405.01768v1](http://arxiv.org/abs/2405.01768v1)|null|
 
 ## Reasoning
 
