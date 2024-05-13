@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-13 09:10:24
+ Automated deployment @ 2024-05-13 20:30:18
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,12 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-10**|**Explaining Text Similarity in Transformer Models**|Alexandros Vasileiou et.al.|[2405.06604v1](http://arxiv.org/abs/2405.06604v1)|null|
+|**2024-05-10**|**ADSumm: Annotated Ground-truth Summary Datasets for Disaster Tweet Summarization**|Piyush Kumar Garg et.al.|[2405.06551v1](http://arxiv.org/abs/2405.06551v1)|null|
+|**2024-05-10**|**LMD3: Language Model Data Density Dependence**|John Kirchenbauer et.al.|[2405.06331v1](http://arxiv.org/abs/2405.06331v1)|null|
+|**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270v1](http://arxiv.org/abs/2405.06270v1)|null|
+|**2024-05-09**|**Can Perplexity Reflect Large Language Model's Ability in Long Text Understanding?**|Yutong Hu et.al.|[2405.06105v1](http://arxiv.org/abs/2405.06105v1)|null|
+|**2024-05-09**|**LLMs for XAI: Future Directions for Explaining Explanations**|Alexandra Zytek et.al.|[2405.06064v1](http://arxiv.org/abs/2405.06064v1)|null|
 |**2024-05-08**|**Interpretability Needs a New Paradigm**|Andreas Madsen et.al.|[2405.05386v1](http://arxiv.org/abs/2405.05386v1)|null|
 |**2024-05-08**|**The Effect of Model Size on LLM Post-hoc Explainability via LIME**|Henning Heyen et.al.|[2405.05348v1](http://arxiv.org/abs/2405.05348v1)|[link](https://github.com/henningheyen/scalability-of-llm-posthoc-explanations)|
 |**2024-05-08**|**LLMs with Personalities in Multi-issue Negotiation Games**|Sean Noh et.al.|[2405.05248v2](http://arxiv.org/abs/2405.05248v2)|null|
@@ -22,15 +28,19 @@
 |**2024-05-06**|**GREEN: Generative Radiology Report Evaluation and Error Notation**|Sophie Ostmeier et.al.|[2405.03595v1](http://arxiv.org/abs/2405.03595v1)|null|
 |**2024-05-06**|**Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom**|Bo Wang et.al.|[2405.03371v1](http://arxiv.org/abs/2405.03371v1)|[link](https://github.com/wangbo9719/L-Defense_EFND)|
 |**2024-05-03**|**What does the Knowledge Neuron Thesis Have to do with Knowledge?**|Jingcheng Niu et.al.|[2405.02421v1](http://arxiv.org/abs/2405.02421v1)|[link](https://github.com/frankniujc/kn_thesis)|
-|**2024-05-03**|**Argumentative Large Language Models for Explainable and Contestable Decision-Making**|Gabriel Freedman et.al.|[2405.02079v1](http://arxiv.org/abs/2405.02079v1)|null|
-|**2024-05-03**|**A quantitative and typological study of Early Slavic participle clauses and their competition**|Nilo Pedrazzini et.al.|[2405.01972v3](http://arxiv.org/abs/2405.01972v3)|null|
-|**2024-05-02**|**CoS: Enhancing Personalization and Mitigating Bias with Context Steering**|Jerry Zhi-Yang He et.al.|[2405.01768v1](http://arxiv.org/abs/2405.01768v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-10**|**Federated Document Visual Question Answering: A Pilot Study**|Khanh Nguyen et.al.|[2405.06636v1](http://arxiv.org/abs/2405.06636v1)|null|
+|**2024-05-10**|**Prompting Large Language Models with Knowledge Graphs for Question Answering Involving Long-tail Facts**|Wenyu Huang et.al.|[2405.06524v1](http://arxiv.org/abs/2405.06524v1)|null|
+|**2024-05-10**|**Can Large Language Models Replicate ITS Feedback on Open-Ended Math Questions?**|Hunter McNichols et.al.|[2405.06414v1](http://arxiv.org/abs/2405.06414v1)|null|
+|**2024-05-10**|**LLM Discussion: Enhancing the Creativity of Large Language Models via Discussion Framework and Role-Play**|Li-Chun Lu et.al.|[2405.06373v1](http://arxiv.org/abs/2405.06373v1)|null|
+|**2024-05-10**|**Aspect-oriented Consumer Health Answer Summarization**|Rochana Chaturvedi et.al.|[2405.06295v1](http://arxiv.org/abs/2405.06295v1)|null|
+|**2024-05-09**|**HMT: Hierarchical Memory Transformer for Long Context Language Processing**|Zifan He et.al.|[2405.06067v1](http://arxiv.org/abs/2405.06067v1)|[link](https://github.com/OswaldHe/HMT-pytorch)|
+|**2024-05-09**|**Large Language Models Show Human-like Social Desirability Biases in Survey Responses**|Aadesh Salecha et.al.|[2405.06058v1](http://arxiv.org/abs/2405.06058v1)|null|
 |**2024-05-09**|**Can large language models understand uncommon meanings of common words?**|Jinyang Wu et.al.|[2405.05741v1](http://arxiv.org/abs/2405.05741v1)|null|
 |**2024-05-09**|**G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous Knowledge for Commonsense Reasoning**|Ruiting Dai et.al.|[2405.05616v1](http://arxiv.org/abs/2405.05616v1)|null|
 |**2024-05-09**|**One vs. Many: Comprehending Accurate Information from Multiple Erroneous and Inconsistent AI Generations**|Yoonjoo Lee et.al.|[2405.05581v1](http://arxiv.org/abs/2405.05581v1)|null|
@@ -70,16 +80,15 @@
 |**2024-05-04**|**R4: Reinforced Retriever-Reorder-Responder for Retrieval-Augmented Large Language Models**|Taolin Zhang et.al.|[2405.02659v1](http://arxiv.org/abs/2405.02659v1)|null|
 |**2024-05-04**|**Identifying Narrative Patterns and Outliers in Holocaust Testimonies Using Topic Modeling**|Maxim Ifergan et.al.|[2405.02650v1](http://arxiv.org/abs/2405.02650v1)|null|
 |**2024-05-03**|**What is Sentiment Meant to Mean to Language Models?**|Michael Burnham et.al.|[2405.02454v1](http://arxiv.org/abs/2405.02454v1)|null|
-|**2024-05-03**|**Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models**|Piotr Padlewski et.al.|[2405.02287v1](http://arxiv.org/abs/2405.02287v1)|[link](https://github.com/reka-ai/reka-vibe-eval)|
-|**2024-05-03**|**Single and Multi-Hop Question-Answering Datasets for Reticular Chemistry with GPT-4-Turbo**|Nakul Rampal et.al.|[2405.02128v1](http://arxiv.org/abs/2405.02128v1)|null|
-|**2024-05-03**|**Semi-Parametric Retrieval via Binary Token Index**|Jiawei Zhou et.al.|[2405.01924v1](http://arxiv.org/abs/2405.01924v1)|[link](https://github.com/jzhoubu/vdr)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-10**|**Federated Document Visual Question Answering: A Pilot Study**|Khanh Nguyen et.al.|[2405.06636v1](http://arxiv.org/abs/2405.06636v1)|null|
 |**2024-05-09**|**OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning**|Dan Qiao et.al.|[2405.05957v1](http://arxiv.org/abs/2405.05957v1)|[link](https://github.com/opennlg/openba-v2)|
+|**2024-05-09**|**LLM-QBench: A Benchmark Towards the Best Practice for Post-training Quantization of Large Language Models**|Ruihao Gong et.al.|[2405.06001v1](http://arxiv.org/abs/2405.06001v1)|[link](https://github.com/modeltc/llmc)|
 |**2024-05-09**|**G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous Knowledge for Commonsense Reasoning**|Ruiting Dai et.al.|[2405.05616v1](http://arxiv.org/abs/2405.05616v1)|null|
 |**2024-05-08**|**MIDGARD: Self-Consistency Using Minimum Description Length for Structured Commonsense Reasoning**|Inderjeet Nair et.al.|[2405.05189v1](http://arxiv.org/abs/2405.05189v1)|null|
 |**2024-05-08**|**QFMTS: Generating Query-Focused Summaries over Multi-Table Inputs**|Weijia Zhang et.al.|[2405.05109v1](http://arxiv.org/abs/2405.05109v1)|null|
@@ -210,7 +219,3 @@
 |**2024-04-22**|**Adaptive Collaboration Strategy for LLMs in Medical Decision Making**|Yubin Kim et.al.|[2404.15155v1](http://arxiv.org/abs/2404.15155v1)|[link](https://github.com/mitmedialab/mdagents)|
 |**2024-04-22**|**EventLens: Leveraging Event-Aware Pretraining and Cross-modal Linking Enhances Visual Commonsense Reasoning**|Mingjie Ma et.al.|[2404.13847v1](http://arxiv.org/abs/2404.13847v1)|null|
 |**2024-04-21**|**Counterfactual Reasoning Using Predicted Latent Personality Dimensions for Optimizing Persuasion Outcome**|Donghuo Zeng et.al.|[2404.13792v1](http://arxiv.org/abs/2404.13792v1)|null|
-|**2024-04-21**|**The Branch Not Taken: Predicting Branching in Online Conversations**|Shai Meital et.al.|[2404.13613v1](http://arxiv.org/abs/2404.13613v1)|null|
-|**2024-04-21**|**Reinforcement of Explainability of ChatGPT Prompts by Embedding Breast Cancer Self-Screening Rules into AI Responses**|Yousef Khan et.al.|[2404.14454v1](http://arxiv.org/abs/2404.14454v1)|null|
-|**2024-04-21**|**Listen Then See: Video Alignment with Speaker Attention**|Aviral Agrawal et.al.|[2404.13530v1](http://arxiv.org/abs/2404.13530v1)|[link](https://github.com/sts-vlcc/sts-vlcc)|
-|**2024-04-20**|**Beyond Accuracy: Investigating Error Types in GPT-4 Responses to USMLE Questions**|Soumyadeep Roy et.al.|[2404.13307v1](http://arxiv.org/abs/2404.13307v1)|[link](https://github.com/roysoumya/usmle-gpt4-error-taxonomy)|
