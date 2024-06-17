@@ -1,40 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2024-06-17 20:31:47
+ Automated deployment @ 2024-06-17 20:56:43
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-14**|**On the Encoding of Gender in Transformer-based ASR Representations**|Aravind Krishnan et.al.|[2406.09855v1](http://arxiv.org/abs/2406.09855v1)|null|
-|**2024-06-14**|**Retrieval Augmented Fact Verification by Synthesizing Contrastive Arguments**|Zhenrui Yue et.al.|[2406.09815v1](http://arxiv.org/abs/2406.09815v1)|null|
-|**2024-06-13**|**Talking Heads: Understanding Inter-layer Communication in Transformer Language Models**|Jack Merullo et.al.|[2406.09519v1](http://arxiv.org/abs/2406.09519v1)|null|
-|**2024-06-13**|**Learning from Natural Language Explanations for Generalizable Entity Matching**|Somin Wadhwa et.al.|[2406.09330v1](http://arxiv.org/abs/2406.09330v1)|null|
-|**2024-06-13**|**No perspective, no perception!! Perspective-aware Healthcare Answer Summarization**|Gauri Naik et.al.|[2406.08881v1](http://arxiv.org/abs/2406.08881v1)|null|
-|**2024-06-12**|**TasTe: Teaching Large Language Models to Translate through Self-Reflection**|Yutong Wang et.al.|[2406.08434v1](http://arxiv.org/abs/2406.08434v1)|[link](https://github.com/yutongwang1216/reflectionllmmt)|
-|**2024-06-12**|**MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos**|Xuehai He et.al.|[2406.08407v2](http://arxiv.org/abs/2406.08407v2)|[link](https://github.com/eric-ai-lab/mmworld)|
-|**2024-06-12**|**Underneath the Numbers: Quantitative and Qualitative Gender Fairness in LLMs for Depression Prediction**|Micol Spitale et.al.|[2406.08183v2](http://arxiv.org/abs/2406.08183v2)|null|
-|**2024-06-12**|**CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems**|Qianli Wang et.al.|[2406.08101v2](http://arxiv.org/abs/2406.08101v2)|[link](https://github.com/DFKI-NLP/CoXQL)|
-|**2024-06-12**|**A Concept-Based Explainability Framework for Large Multimodal Models**|Jayneel Parekh et.al.|[2406.08074v1](http://arxiv.org/abs/2406.08074v1)|null|
-|**2024-06-12**|**Blowfish: Topological and statistical signatures for quantifying ambiguity in semantic search**|Thomas Roland Barillot et.al.|[2406.07990v1](http://arxiv.org/abs/2406.07990v1)|null|
-|**2024-06-11**|**Toxic Memes: A Survey of Computational Perspectives on the Detection and Explanation of Meme Toxicities**|Delfina Sol Martinez Pandiani et.al.|[2406.07353v1](http://arxiv.org/abs/2406.07353v1)|null|
-|**2024-06-11**|**3D-Properties: Identifying Challenges in DPO and Charting a Path Forward**|Yuzi Yan et.al.|[2406.07327v1](http://arxiv.org/abs/2406.07327v1)|null|
-|**2024-06-11**|**What's in an embedding? Would a rose by any embedding smell as sweet?**|Venkat Venkatasubramanian et.al.|[2406.06870v2](http://arxiv.org/abs/2406.06870v2)|null|
-|**2024-06-10**|**Evaluating Zero-Shot Long-Context LLM Compression**|Chenyu Wang et.al.|[2406.06773v1](http://arxiv.org/abs/2406.06773v1)|null|
-|**2024-06-10**|**Interpretability of Language Models via Task Spaces**|Lucas Weber et.al.|[2406.06441v1](http://arxiv.org/abs/2406.06441v1)|null|
-|**2024-06-10**|**Should We Fine-Tune or RAG? Evaluating Different Techniques to Adapt LLMs for Dialogue**|Simone Alghisi et.al.|[2406.06399v1](http://arxiv.org/abs/2406.06399v1)|null|
-|**2024-06-10**|**MedExQA: Medical Question Answering Benchmark with Multiple Explanations**|Yunsoo Kim et.al.|[2406.06331v1](http://arxiv.org/abs/2406.06331v1)|null|
-|**2024-06-10**|**FLEUR: An Explainable Reference-Free Evaluation Metric for Image Captioning Using a Large Multimodal Model**|Yebin Lee et.al.|[2406.06004v1](http://arxiv.org/abs/2406.06004v1)|[link](https://github.com/yebin46/fleur)|
-|**2024-06-09**|**How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States**|Zhenhong Zhou et.al.|[2406.05644v2](http://arxiv.org/abs/2406.05644v2)|[link](https://github.com/ydyjya/llm-ihs-explanation)|
-|**2024-06-08**|**Automata Extraction from Transformers**|Yihao Zhang et.al.|[2406.05564v1](http://arxiv.org/abs/2406.05564v1)|[link](https://github.com/zhang-yihao/transfomer2dfa)|
-|**2024-06-08**|**ThatiAR: Subjectivity Detection in Arabic News Sentences**|Reem Suwaileh et.al.|[2406.05559v1](http://arxiv.org/abs/2406.05559v1)|null|
-|**2024-06-08**|**Exploring the Benefits of Tokenization of Discrete Acoustic Units**|Avihu Dekel et.al.|[2406.05547v1](http://arxiv.org/abs/2406.05547v1)|null|
-|**2024-06-08**|**Design of reliable technology valuation model with calibrated machine learning of patent indicators**|Seunghyun Lee et.al.|[2406.05446v1](http://arxiv.org/abs/2406.05446v1)|null|
-|**2024-06-08**|**Concept Formation and Alignment in Language Models: Bridging Statistical Patterns in Latent Space to Concept Taxonomy**|Mehrdad Khatir et.al.|[2406.05315v1](http://arxiv.org/abs/2406.05315v1)|null|
-|**2024-06-07**|**LLMs Are Not Intelligent Thinkers: Introducing Mathematical Topic Tree Benchmark for Comprehensive Evaluation of LLMs**|Arash Gholami Davoodi et.al.|[2406.05194v1](http://arxiv.org/abs/2406.05194v1)|[link](https://github.com/arashgholami/MaTT)|
-|**2024-06-07**|**Scenarios and Approaches for Situated Natural Language Explanations**|Pengshuo Qiu et.al.|[2406.05035v1](http://arxiv.org/abs/2406.05035v1)|null|
 
 ## Question Answering
 
@@ -105,6 +72,39 @@
 |**2024-06-11**|**BertaQA: How Much Do Language Models Know About Local Culture?**|Julen Etxaniz et.al.|[2406.07302v1](http://arxiv.org/abs/2406.07302v1)|[link](https://github.com/juletx/bertaqa)|
 |**2024-06-11**|**Scholarly Question Answering using Large Language Models in the NFDI4DataScience Gateway**|Hamed Babaei Giglou et.al.|[2406.07257v1](http://arxiv.org/abs/2406.07257v1)|[link](https://github.com/semantic-systems/nfdi-search-engine-chatbot)|
 |**2024-06-11**|**MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs**|Vera Neplenbroek et.al.|[2406.07243v1](http://arxiv.org/abs/2406.07243v1)|[link](https://github.com/veranep/mbbq)|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-14**|**On the Encoding of Gender in Transformer-based ASR Representations**|Aravind Krishnan et.al.|[2406.09855v1](http://arxiv.org/abs/2406.09855v1)|null|
+|**2024-06-14**|**Retrieval Augmented Fact Verification by Synthesizing Contrastive Arguments**|Zhenrui Yue et.al.|[2406.09815v1](http://arxiv.org/abs/2406.09815v1)|null|
+|**2024-06-13**|**Talking Heads: Understanding Inter-layer Communication in Transformer Language Models**|Jack Merullo et.al.|[2406.09519v1](http://arxiv.org/abs/2406.09519v1)|null|
+|**2024-06-13**|**Learning from Natural Language Explanations for Generalizable Entity Matching**|Somin Wadhwa et.al.|[2406.09330v1](http://arxiv.org/abs/2406.09330v1)|null|
+|**2024-06-13**|**No perspective, no perception!! Perspective-aware Healthcare Answer Summarization**|Gauri Naik et.al.|[2406.08881v1](http://arxiv.org/abs/2406.08881v1)|null|
+|**2024-06-12**|**TasTe: Teaching Large Language Models to Translate through Self-Reflection**|Yutong Wang et.al.|[2406.08434v1](http://arxiv.org/abs/2406.08434v1)|[link](https://github.com/yutongwang1216/reflectionllmmt)|
+|**2024-06-12**|**MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos**|Xuehai He et.al.|[2406.08407v2](http://arxiv.org/abs/2406.08407v2)|[link](https://github.com/eric-ai-lab/mmworld)|
+|**2024-06-12**|**Underneath the Numbers: Quantitative and Qualitative Gender Fairness in LLMs for Depression Prediction**|Micol Spitale et.al.|[2406.08183v2](http://arxiv.org/abs/2406.08183v2)|null|
+|**2024-06-12**|**CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems**|Qianli Wang et.al.|[2406.08101v2](http://arxiv.org/abs/2406.08101v2)|[link](https://github.com/DFKI-NLP/CoXQL)|
+|**2024-06-12**|**A Concept-Based Explainability Framework for Large Multimodal Models**|Jayneel Parekh et.al.|[2406.08074v1](http://arxiv.org/abs/2406.08074v1)|null|
+|**2024-06-12**|**Blowfish: Topological and statistical signatures for quantifying ambiguity in semantic search**|Thomas Roland Barillot et.al.|[2406.07990v1](http://arxiv.org/abs/2406.07990v1)|null|
+|**2024-06-11**|**Toxic Memes: A Survey of Computational Perspectives on the Detection and Explanation of Meme Toxicities**|Delfina Sol Martinez Pandiani et.al.|[2406.07353v1](http://arxiv.org/abs/2406.07353v1)|null|
+|**2024-06-11**|**3D-Properties: Identifying Challenges in DPO and Charting a Path Forward**|Yuzi Yan et.al.|[2406.07327v1](http://arxiv.org/abs/2406.07327v1)|null|
+|**2024-06-11**|**What's in an embedding? Would a rose by any embedding smell as sweet?**|Venkat Venkatasubramanian et.al.|[2406.06870v2](http://arxiv.org/abs/2406.06870v2)|null|
+|**2024-06-10**|**Evaluating Zero-Shot Long-Context LLM Compression**|Chenyu Wang et.al.|[2406.06773v1](http://arxiv.org/abs/2406.06773v1)|null|
+|**2024-06-10**|**Interpretability of Language Models via Task Spaces**|Lucas Weber et.al.|[2406.06441v1](http://arxiv.org/abs/2406.06441v1)|null|
+|**2024-06-10**|**Should We Fine-Tune or RAG? Evaluating Different Techniques to Adapt LLMs for Dialogue**|Simone Alghisi et.al.|[2406.06399v1](http://arxiv.org/abs/2406.06399v1)|null|
+|**2024-06-10**|**MedExQA: Medical Question Answering Benchmark with Multiple Explanations**|Yunsoo Kim et.al.|[2406.06331v1](http://arxiv.org/abs/2406.06331v1)|null|
+|**2024-06-10**|**FLEUR: An Explainable Reference-Free Evaluation Metric for Image Captioning Using a Large Multimodal Model**|Yebin Lee et.al.|[2406.06004v1](http://arxiv.org/abs/2406.06004v1)|[link](https://github.com/yebin46/fleur)|
+|**2024-06-09**|**How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States**|Zhenhong Zhou et.al.|[2406.05644v2](http://arxiv.org/abs/2406.05644v2)|[link](https://github.com/ydyjya/llm-ihs-explanation)|
+|**2024-06-08**|**Automata Extraction from Transformers**|Yihao Zhang et.al.|[2406.05564v1](http://arxiv.org/abs/2406.05564v1)|[link](https://github.com/zhang-yihao/transfomer2dfa)|
+|**2024-06-08**|**ThatiAR: Subjectivity Detection in Arabic News Sentences**|Reem Suwaileh et.al.|[2406.05559v1](http://arxiv.org/abs/2406.05559v1)|null|
+|**2024-06-08**|**Exploring the Benefits of Tokenization of Discrete Acoustic Units**|Avihu Dekel et.al.|[2406.05547v1](http://arxiv.org/abs/2406.05547v1)|null|
+|**2024-06-08**|**Design of reliable technology valuation model with calibrated machine learning of patent indicators**|Seunghyun Lee et.al.|[2406.05446v1](http://arxiv.org/abs/2406.05446v1)|null|
+|**2024-06-08**|**Concept Formation and Alignment in Language Models: Bridging Statistical Patterns in Latent Space to Concept Taxonomy**|Mehrdad Khatir et.al.|[2406.05315v1](http://arxiv.org/abs/2406.05315v1)|null|
+|**2024-06-07**|**LLMs Are Not Intelligent Thinkers: Introducing Mathematical Topic Tree Benchmark for Comprehensive Evaluation of LLMs**|Arash Gholami Davoodi et.al.|[2406.05194v1](http://arxiv.org/abs/2406.05194v1)|[link](https://github.com/arashgholami/MaTT)|
+|**2024-06-07**|**Scenarios and Approaches for Situated Natural Language Explanations**|Pengshuo Qiu et.al.|[2406.05035v1](http://arxiv.org/abs/2406.05035v1)|null|
 
 ## Reasoning
 
