@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-19 09:12:39
+ Automated deployment @ 2024-06-19 20:32:08
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,10 +8,22 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-18**|**Chumor 1.0: A Truly Funny and Challenging Chinese Humor Understanding Dataset from Ruo Zhi Ba**|Ruiqi He et.al.|[2406.12754v1](http://arxiv.org/abs/2406.12754v1)|null|
+|**2024-06-18**|**Evaluating Transparency of Machine Generated Fact Checking Explanations**|Rui Xing et.al.|[2406.12645v1](http://arxiv.org/abs/2406.12645v1)|[link](https://github.com/ruixing76/transparent-fcexp)|
+|**2024-06-18**|**Flee the Flaw: Annotating the Underlying Logic of Fallacious Arguments Through Templates and Slot-filling**|Irfan Robbani et.al.|[2406.12402v1](http://arxiv.org/abs/2406.12402v1)|null|
+|**2024-06-18**|**Unveiling Implicit Table Knowledge with Question-Then-Pinpoint Reasoner for Insightful Table Summarization**|Kwangwook Seo et.al.|[2406.12269v1](http://arxiv.org/abs/2406.12269v1)|null|
+|**2024-06-18**|**A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning**|Lijie Hu et.al.|[2406.12255v1](http://arxiv.org/abs/2406.12255v1)|null|
+|**2024-06-18**|**Language and Multimodal Models in Sports: A Survey of Datasets and Applications**|Haotian Xia et.al.|[2406.12252v1](http://arxiv.org/abs/2406.12252v1)|null|
+|**2024-06-18**|**ToxiCloakCN: Evaluating Robustness of Offensive Language Detection in Chinese with Cloaking Perturbations**|Yunze Xiao et.al.|[2406.12223v1](http://arxiv.org/abs/2406.12223v1)|null|
+|**2024-06-17**|**Gram2Vec: An Interpretable Document Vectorizer**|Peter Zeng et.al.|[2406.12131v1](http://arxiv.org/abs/2406.12131v1)|null|
+|**2024-06-17**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058v1](http://arxiv.org/abs/2406.12058v1)|null|
+|**2024-06-17**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036v1](http://arxiv.org/abs/2406.12036v1)|[link](https://github.com/ncbi-nlp/medcalc-bench)|
+|**2024-06-17**|**Reframing linguistic bootstrapping as joint inference using visually-grounded grammar induction models**|Eva Portelance et.al.|[2406.11977v1](http://arxiv.org/abs/2406.11977v1)|null|
 |**2024-06-17**|**How Do Large Language Models Acquire Factual Knowledge During Pretraining?**|Hoyeon Chang et.al.|[2406.11813v1](http://arxiv.org/abs/2406.11813v1)|null|
 |**2024-06-17**|**CELL your Model: Contrastive Explanation Methods for Large Language Models**|Ronny Luss et.al.|[2406.11785v1](http://arxiv.org/abs/2406.11785v1)|null|
 |**2024-06-17**|**GECOBench: A Gender-Controlled Text Dataset and Benchmark for Quantifying Biases in Explanations**|Rick Wilming et.al.|[2406.11547v1](http://arxiv.org/abs/2406.11547v1)|[link](https://github.com/braindatalab/gecobench)|
 |**2024-06-17**|**A Systematic Analysis of Large Language Models as Soft Reasoners: The Case of Syllogistic Inferences**|Leonardo Bertolazzi et.al.|[2406.11341v1](http://arxiv.org/abs/2406.11341v1)|null|
+|**2024-06-17**|**Explainable assessment of financial experts' credibility by classifying social media forecasts and checking the predictions with actual market data**|Silvia García-Méndez et.al.|[2406.11924v1](http://arxiv.org/abs/2406.11924v1)|null|
 |**2024-06-17**|**TIFG: Text-Informed Feature Generation with Large Language Models**|Xinhao Zhang et.al.|[2406.11177v1](http://arxiv.org/abs/2406.11177v1)|null|
 |**2024-06-16**|**Towards Supporting Legal Argumentation with NLP: Is More Data Really All You Need?**|T. Y. S. S Santosh et.al.|[2406.10974v1](http://arxiv.org/abs/2406.10974v1)|null|
 |**2024-06-16**|**Understanding Understanding: A Pragmatic Framework Motivated by Large Language Models**|Kevin Leyton-Brown et.al.|[2406.10937v1](http://arxiv.org/abs/2406.10937v1)|null|
@@ -31,19 +43,48 @@
 |**2024-06-12**|**CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems**|Qianli Wang et.al.|[2406.08101v2](http://arxiv.org/abs/2406.08101v2)|[link](https://github.com/DFKI-NLP/CoXQL)|
 |**2024-06-12**|**A Concept-Based Explainability Framework for Large Multimodal Models**|Jayneel Parekh et.al.|[2406.08074v1](http://arxiv.org/abs/2406.08074v1)|null|
 |**2024-06-12**|**Blowfish: Topological and statistical signatures for quantifying ambiguity in semantic search**|Thomas Roland Barillot et.al.|[2406.07990v1](http://arxiv.org/abs/2406.07990v1)|null|
-|**2024-06-11**|**Toxic Memes: A Survey of Computational Perspectives on the Detection and Explanation of Meme Toxicities**|Delfina Sol Martinez Pandiani et.al.|[2406.07353v1](http://arxiv.org/abs/2406.07353v1)|null|
-|**2024-06-11**|**3D-Properties: Identifying Challenges in DPO and Charting a Path Forward**|Yuzi Yan et.al.|[2406.07327v1](http://arxiv.org/abs/2406.07327v1)|null|
-|**2024-06-11**|**Large Language Model-empowered multimodal strain sensory system for shape recognition, monitoring, and human interaction of tensegrity**|Zebing Mao et.al.|[2406.10264v1](http://arxiv.org/abs/2406.10264v1)|null|
-|**2024-06-11**|**What's in an embedding? Would a rose by any embedding smell as sweet?**|Venkat Venkatasubramanian et.al.|[2406.06870v3](http://arxiv.org/abs/2406.06870v3)|null|
-|**2024-06-10**|**Evaluating Zero-Shot Long-Context LLM Compression**|Chenyu Wang et.al.|[2406.06773v1](http://arxiv.org/abs/2406.06773v1)|null|
-|**2024-06-10**|**Interpretability of Language Models via Task Spaces**|Lucas Weber et.al.|[2406.06441v1](http://arxiv.org/abs/2406.06441v1)|null|
-|**2024-06-10**|**Should We Fine-Tune or RAG? Evaluating Different Techniques to Adapt LLMs for Dialogue**|Simone Alghisi et.al.|[2406.06399v1](http://arxiv.org/abs/2406.06399v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-18**|**What Are the Odds? Language Models Are Capable of Probabilistic Reasoning**|Akshay Paruchuri et.al.|[2406.12830v1](http://arxiv.org/abs/2406.12830v1)|null|
+|**2024-06-18**|**From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries**|Hitesh Wadhwa et.al.|[2406.12824v1](http://arxiv.org/abs/2406.12824v1)|null|
+|**2024-06-18**|**Is It Good Data for Multilingual Instruction Tuning or Just Bad Multilingual Evaluation for Large Language Models?**|Pinzhen Chen et.al.|[2406.12822v1](http://arxiv.org/abs/2406.12822v1)|null|
+|**2024-06-18**|**Can Large Language Models Always Solve Easy Problems if They Can Solve Harder Ones?**|Zhe Yang et.al.|[2406.12809v1](http://arxiv.org/abs/2406.12809v1)|null|
+|**2024-06-18**|**UBENCH: Benchmarking Uncertainty in Large Language Models with Multiple Choice Questions**|Xunzhi Wang et.al.|[2406.12784v1](http://arxiv.org/abs/2406.12784v1)|null|
+|**2024-06-18**|**Hopping Too Late: Exploring the Limitations of Large Language Models on Multi-Hop Queries**|Eden Biran et.al.|[2406.12775v1](http://arxiv.org/abs/2406.12775v1)|null|
+|**2024-06-18**|**OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**|Zhen Huang et.al.|[2406.12753v1](http://arxiv.org/abs/2406.12753v1)|[link](https://github.com/gair-nlp/olympicarena)|
+|**2024-06-18**|**Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**|Miaoyu Li et.al.|[2406.12746v1](http://arxiv.org/abs/2406.12746v1)|null|
+|**2024-06-18**|**On the Robustness of Language Models for Tabular Question Answering**|Kushal Raj Bhandari et.al.|[2406.12719v1](http://arxiv.org/abs/2406.12719v1)|null|
+|**2024-06-18**|**Estimating Knowledge in Large Language Models Without Generating a Single Token**|Daniela Gottesman et.al.|[2406.12673v1](http://arxiv.org/abs/2406.12673v1)|null|
+|**2024-06-18**|**DetectBench: Can Large Language Model Detect and Piece Together Implicit Evidence?**|Zhouhong Gu et.al.|[2406.12641v1](http://arxiv.org/abs/2406.12641v1)|null|
+|**2024-06-18**|**Judging the Judges: Evaluating Alignment and Vulnerabilities in LLMs-as-Judges**|Aman Singh Thakur et.al.|[2406.12624v1](http://arxiv.org/abs/2406.12624v1)|null|
+|**2024-06-18**|**What makes two models think alike?**|Jeanne Salle et.al.|[2406.12620v1](http://arxiv.org/abs/2406.12620v1)|null|
+|**2024-06-18**|**Breaking the Ceiling of the LLM Community by Treating Token Generation as a Classification for Ensembling**|Yao-Ching Yu et.al.|[2406.12585v1](http://arxiv.org/abs/2406.12585v1)|[link](https://github.com/yaoching0/gac)|
+|**2024-06-18**|**RichRAG: Crafting Rich Responses for Multi-faceted Queries in Retrieval-Augmented Generation**|Shuting Wang et.al.|[2406.12566v1](http://arxiv.org/abs/2406.12566v1)|null|
+|**2024-06-18**|**LightPAL: Lightweight Passage Retrieval for Open Domain Multi-Document Summarization**|Masafumi Enomoto et.al.|[2406.12494v1](http://arxiv.org/abs/2406.12494v1)|null|
+|**2024-06-18**|**The Power of LLM-Generated Synthetic Data for Stance Detection in Online Political Discussions**|Stefan Sylvius Wagner et.al.|[2406.12480v1](http://arxiv.org/abs/2406.12480v1)|null|
+|**2024-06-18**|**PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers**|Myeonghwa Lee et.al.|[2406.12430v1](http://arxiv.org/abs/2406.12430v1)|[link](https://github.com/myeon9h/planrag)|
+|**2024-06-18**|**PSLM: Parallel Generation of Text and Speech with LLMs for Low-Latency Spoken Dialogue Systems**|Kentaro Mitsui et.al.|[2406.12428v1](http://arxiv.org/abs/2406.12428v1)|null|
+|**2024-06-18**|**Unveiling the Flaws: Exploring Imperfections in Synthetic Data and Mitigation Strategies for Large Language Models**|Jie Chen et.al.|[2406.12397v1](http://arxiv.org/abs/2406.12397v1)|null|
+|**2024-06-18**|**IPEval: A Bilingual Intellectual Property Agency Consultation Evaluation Benchmark for Large Language Models**|Qiyao Wang et.al.|[2406.12386v1](http://arxiv.org/abs/2406.12386v1)|[link](https://github.com/Mathsion2/IPEval)|
+|**2024-06-18**|**QOG:Question and Options Generation based on Language Model**|Jincheng Zhou et.al.|[2406.12381v1](http://arxiv.org/abs/2406.12381v1)|null|
+|**2024-06-18**|**Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters**|Zhiyu Guo et.al.|[2406.12335v1](http://arxiv.org/abs/2406.12335v1)|null|
+|**2024-06-18**|**Retrieval Meets Reasoning: Dynamic In-Context Editing for Long-Text Understanding**|Weizhi Fei et.al.|[2406.12331v1](http://arxiv.org/abs/2406.12331v1)|null|
+|**2024-06-18**|**Automatic benchmarking of large multimodal models via iterative experiment programming**|Alessandro Conti et.al.|[2406.12321v1](http://arxiv.org/abs/2406.12321v1)|[link](https://github.com/altndrr/apex)|
+|**2024-06-18**|**Unveiling Implicit Table Knowledge with Question-Then-Pinpoint Reasoner for Insightful Table Summarization**|Kwangwook Seo et.al.|[2406.12269v1](http://arxiv.org/abs/2406.12269v1)|null|
+|**2024-06-18**|**A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning**|Lijie Hu et.al.|[2406.12255v1](http://arxiv.org/abs/2406.12255v1)|null|
+|**2024-06-18**|**TroL: Traversal of Layers for Large Language and Vision Models**|Byung-Kwan Lee et.al.|[2406.12246v1](http://arxiv.org/abs/2406.12246v1)|[link](https://github.com/byungkwanlee/trol)|
+|**2024-06-18**|**Debate as Optimization: Adaptive Conformal Prediction and Diverse Retrieval for Event Extraction**|Sijia Wang et.al.|[2406.12197v1](http://arxiv.org/abs/2406.12197v1)|null|
+|**2024-06-18**|**Aqulia-Med LLM: Pioneering Full-Process Open-Source Medical Language Models**|Lulu Zhao et.al.|[2406.12182v1](http://arxiv.org/abs/2406.12182v1)|null|
+|**2024-06-18**|**LLMs Are Prone to Fallacies in Causal Inference**|Nitish Joshi et.al.|[2406.12158v1](http://arxiv.org/abs/2406.12158v1)|null|
+|**2024-06-17**|**InternalInspector $I^2$: Robust Confidence Estimation in LLMs through Internal States**|Mohammad Beigi et.al.|[2406.12053v1](http://arxiv.org/abs/2406.12053v1)|null|
+|**2024-06-17**|**Learn Beyond The Answer: Training Language Models with Reflection for Mathematical Reasoning**|Zhihan Zhang et.al.|[2406.12050v1](http://arxiv.org/abs/2406.12050v1)|null|
+|**2024-06-17**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036v1](http://arxiv.org/abs/2406.12036v1)|[link](https://github.com/ncbi-nlp/medcalc-bench)|
+|**2024-06-17**|**SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model**|Yongting Zhang et.al.|[2406.12030v1](http://arxiv.org/abs/2406.12030v1)|[link](https://github.com/echosechen/spa-vl-rlhf)|
+|**2024-06-17**|**FinTruthQA: A Benchmark Dataset for Evaluating the Quality of Financial Information Disclosure**|Ziyue Xu et.al.|[2406.12009v1](http://arxiv.org/abs/2406.12009v1)|null|
 |**2024-06-17**|**Language Modeling with Editable External Knowledge**|Belinda Z. Li et.al.|[2406.11830v1](http://arxiv.org/abs/2406.11830v1)|[link](https://github.com/belindal/erase)|
 |**2024-06-17**|**On Efficient Language and Vision Assistants for Visually-Situated Natural Language Understanding: What Matters in Reading and Reasoning**|Geewook Kim et.al.|[2406.11823v1](http://arxiv.org/abs/2406.11823v1)|[link](https://github.com/naver-ai/elva)|
 |**2024-06-17**|**RepLiQA: A Question-Answering Dataset for Benchmarking LLMs on Unseen Reference Content**|Joao Monteiro et.al.|[2406.11811v1](http://arxiv.org/abs/2406.11811v1)|null|
@@ -98,36 +139,43 @@
 |**2024-06-14**|**Efficient Prompting for LLM-based Generative Internet of Things**|Bin Xiao et.al.|[2406.10382v2](http://arxiv.org/abs/2406.10382v2)|null|
 |**2024-06-14**|**VEGA: Learning Interleaved Image-Text Comprehension in Vision-Language Large Models**|Chenyu Zhou et.al.|[2406.10228v1](http://arxiv.org/abs/2406.10228v1)|null|
 |**2024-06-14**|**Short Film Dataset (SFD): A Benchmark for Story-Level Video Understanding**|Ridouane Ghermi et.al.|[2406.10221v1](http://arxiv.org/abs/2406.10221v1)|null|
-|**2024-06-14**|**GenQA: Generating Millions of Instructions from a Handful of Prompts**|Jiuhai Chen et.al.|[2406.10323v1](http://arxiv.org/abs/2406.10323v1)|null|
-|**2024-06-14**|**CHIRON: Rich Character Representations in Long-Form Narratives**|Alexander Gurung et.al.|[2406.10190v1](http://arxiv.org/abs/2406.10190v1)|null|
-|**2024-06-14**|**IntentionQA: A Benchmark for Evaluating Purchase Intention Comprehension Abilities of Language Models in E-commerce**|Wenxuan Ding et.al.|[2406.10173v1](http://arxiv.org/abs/2406.10173v1)|[link](https://github.com/hkust-knowcomp/intentionqa)|
-|**2024-06-14**|**Datasets for Multilingual Answer Sentence Selection**|Matteo Gabburo et.al.|[2406.10172v1](http://arxiv.org/abs/2406.10172v1)|null|
-|**2024-06-14**|**BABILong: Testing the Limits of LLMs with Long Context Reasoning-in-a-Haystack**|Yuri Kuratov et.al.|[2406.10149v1](http://arxiv.org/abs/2406.10149v1)|null|
-|**2024-06-14**|**Know the Unknown: An Uncertainty-Sensitive Method for LLM Instruction Tuning**|Jiaqi Li et.al.|[2406.10099v1](http://arxiv.org/abs/2406.10099v1)|null|
-|**2024-06-14**|**Enhancing Question Answering on Charts Through Effective Pre-training Tasks**|Ashim Gupta et.al.|[2406.10085v1](http://arxiv.org/abs/2406.10085v1)|null|
-|**2024-06-14**|**On the Evaluation of Speech Foundation Models for Spoken Language Understanding**|Siddhant Arora et.al.|[2406.10083v1](http://arxiv.org/abs/2406.10083v1)|null|
-|**2024-06-14**|**Detecting the terminality of speech-turn boundary for spoken interactions in French TV and Radio content**|Rémi Uro et.al.|[2406.10073v1](http://arxiv.org/abs/2406.10073v1)|null|
-|**2024-06-14**|**Precision Empowers, Excess Distracts: Visual Question Answering With Dynamically Infused Knowledge In Language Models**|Manas Jhalani et.al.|[2406.09994v1](http://arxiv.org/abs/2406.09994v1)|null|
-|**2024-06-14**|**BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages**|Junho Myung et.al.|[2406.09948v1](http://arxiv.org/abs/2406.09948v1)|[link](https://github.com/nlee0212/blend)|
-|**2024-06-14**|**HiP Attention: Sparse Sub-Quadratic Attention with Hierarchical Attention Pruning**|Heejun Lee et.al.|[2406.09827v1](http://arxiv.org/abs/2406.09827v1)|null|
-|**2024-06-14**|**CHiSafetyBench: A Chinese Hierarchical Safety Benchmark for Large Language Models**|Wenjing Zhang et.al.|[2406.10311v1](http://arxiv.org/abs/2406.10311v1)|null|
-|**2024-06-14**|**What is the best model? Application-driven Evaluation for Large Language Models**|Shiguo Lian et.al.|[2406.10307v1](http://arxiv.org/abs/2406.10307v1)|null|
-|**2024-06-14**|**Evaluating ChatGPT-4 Vision on Brazil's National Undergraduate Computer Science Exam**|Nabor C. Mendonça et.al.|[2406.09671v1](http://arxiv.org/abs/2406.09671v1)|[link](https://github.com/nabormendonca/gpt-4v-enade-cs-2021)|
-|**2024-06-13**|**Multi-Modal Retrieval For Large Language Model Based Speech Recognition**|Jari Kolehmainen et.al.|[2406.09618v1](http://arxiv.org/abs/2406.09618v1)|null|
-|**2024-06-13**|**MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding**|Fei Wang et.al.|[2406.09411v1](http://arxiv.org/abs/2406.09411v1)|null|
-|**2024-06-13**|**DiscreteSLU: A Large Language Model with Self-Supervised Discrete Speech Units for Spoken Language Understanding**|Suwon Shon et.al.|[2406.09345v1](http://arxiv.org/abs/2406.09345v1)|null|
-|**2024-06-13**|**AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models**|Yuhang Wu et.al.|[2406.09295v2](http://arxiv.org/abs/2406.09295v2)|null|
-|**2024-06-13**|**Understanding Jailbreak Success: A Study of Latent Space Dynamics in Large Language Models**|Sarah Ball et.al.|[2406.09289v1](http://arxiv.org/abs/2406.09289v1)|[link](https://github.com/s-ball-10/jailbreak_dynamics)|
-|**2024-06-13**|**Newswire: A Large-Scale Structured Database of a Century of Historical News**|Emily Silcock et.al.|[2406.09490v1](http://arxiv.org/abs/2406.09490v1)|null|
-|**2024-06-13**|**Test of Time: A Benchmark for Evaluating LLMs on Temporal Reasoning**|Bahare Fatemi et.al.|[2406.09170v1](http://arxiv.org/abs/2406.09170v1)|null|
-|**2024-06-13**|**DefAn: Definitive Answer Dataset for LLMs Hallucination Evaluation**|A B M Ashikur Rahman et.al.|[2406.09155v1](http://arxiv.org/abs/2406.09155v1)|null|
-|**2024-06-13**|**Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs**|Xuan Zhang et.al.|[2406.09136v1](http://arxiv.org/abs/2406.09136v1)|[link](https://github.com/sail-sg/cpo)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-18**|**LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation**|Seyedarmin Azizi et.al.|[2406.12832v1](http://arxiv.org/abs/2406.12832v1)|[link](https://github.com/arminazizi98/lamda)|
+|**2024-06-18**|**What Are the Odds? Language Models Are Capable of Probabilistic Reasoning**|Akshay Paruchuri et.al.|[2406.12830v1](http://arxiv.org/abs/2406.12830v1)|null|
+|**2024-06-18**|**From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries**|Hitesh Wadhwa et.al.|[2406.12824v1](http://arxiv.org/abs/2406.12824v1)|null|
+|**2024-06-18**|**UBENCH: Benchmarking Uncertainty in Large Language Models with Multiple Choice Questions**|Xunzhi Wang et.al.|[2406.12784v1](http://arxiv.org/abs/2406.12784v1)|null|
+|**2024-06-18**|**Hopping Too Late: Exploring the Limitations of Large Language Models on Multi-Hop Queries**|Eden Biran et.al.|[2406.12775v1](http://arxiv.org/abs/2406.12775v1)|null|
+|**2024-06-18**|**OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**|Zhen Huang et.al.|[2406.12753v1](http://arxiv.org/abs/2406.12753v1)|[link](https://github.com/gair-nlp/olympicarena)|
+|**2024-06-18**|**Benchmarking Multi-Image Understanding in Vision and Language Models: Perception, Knowledge, Reasoning, and Multi-Hop Reasoning**|Bingchen Zhao et.al.|[2406.12742v1](http://arxiv.org/abs/2406.12742v1)|[link](https://github.com/dtennant/mirb_eval)|
+|**2024-06-18**|**MAGIC: Generating Self-Correction Guideline for In-Context Text-to-SQL**|Arian Askari et.al.|[2406.12692v1](http://arxiv.org/abs/2406.12692v1)|null|
+|**2024-06-18**|**DetectBench: Can Large Language Model Detect and Piece Together Implicit Evidence?**|Zhouhong Gu et.al.|[2406.12641v1](http://arxiv.org/abs/2406.12641v1)|null|
+|**2024-06-18**|**Ask-before-Plan: Proactive Language Agents for Real-World Planning**|Xuan Zhang et.al.|[2406.12639v1](http://arxiv.org/abs/2406.12639v1)|[link](https://github.com/magicgh/ask-before-plan)|
+|**2024-06-18**|**Judging the Judges: Evaluating Alignment and Vulnerabilities in LLMs-as-Judges**|Aman Singh Thakur et.al.|[2406.12624v1](http://arxiv.org/abs/2406.12624v1)|null|
+|**2024-06-18**|**Breaking the Ceiling of the LLM Community by Treating Token Generation as a Classification for Ensembling**|Yao-Ching Yu et.al.|[2406.12585v1](http://arxiv.org/abs/2406.12585v1)|[link](https://github.com/yaoching0/gac)|
+|**2024-06-18**|**Mathador-LM: A Dynamic Benchmark for Mathematical Reasoning on Large Language Models**|Eldar Kurtic et.al.|[2406.12572v1](http://arxiv.org/abs/2406.12572v1)|[link](https://github.com/ist-daslab/mathador-lm)|
+|**2024-06-18**|**Liar, Liar, Logical Mire: A Benchmark for Suppositional Reasoning in Large Language Models**|Philipp Mondorf et.al.|[2406.12546v1](http://arxiv.org/abs/2406.12546v1)|null|
+|**2024-06-18**|**LightPAL: Lightweight Passage Retrieval for Open Domain Multi-Document Summarization**|Masafumi Enomoto et.al.|[2406.12494v1](http://arxiv.org/abs/2406.12494v1)|null|
+|**2024-06-18**|**Abstraction-of-Thought Makes Language Models Better Reasoners**|Ruixin Hong et.al.|[2406.12442v1](http://arxiv.org/abs/2406.12442v1)|null|
+|**2024-06-18**|**Flee the Flaw: Annotating the Underlying Logic of Fallacious Arguments Through Templates and Slot-filling**|Irfan Robbani et.al.|[2406.12402v1](http://arxiv.org/abs/2406.12402v1)|null|
+|**2024-06-18**|**EMO-KNOW: A Large Scale Dataset on Emotion and Emotion-cause**|Mia Huong Nguyen et.al.|[2406.12389v1](http://arxiv.org/abs/2406.12389v1)|null|
+|**2024-06-18**|**IPEval: A Bilingual Intellectual Property Agency Consultation Evaluation Benchmark for Large Language Models**|Qiyao Wang et.al.|[2406.12386v1](http://arxiv.org/abs/2406.12386v1)|[link](https://github.com/Mathsion2/IPEval)|
+|**2024-06-18**|**WebCanvas: Benchmarking Web Agents in Online Environments**|Yichen Pan et.al.|[2406.12373v1](http://arxiv.org/abs/2406.12373v1)|[link](https://github.com/imeanai/webcanvas)|
+|**2024-06-18**|**Retrieval Meets Reasoning: Dynamic In-Context Editing for Long-Text Understanding**|Weizhi Fei et.al.|[2406.12331v1](http://arxiv.org/abs/2406.12331v1)|null|
+|**2024-06-18**|**PRePair: Pointwise Reasoning Enhance Pairwise Evaluating for Robust Instruction-Following Assessments**|Hawon Jeong et.al.|[2406.12319v1](http://arxiv.org/abs/2406.12319v1)|null|
+|**2024-06-18**|**Unveiling Implicit Table Knowledge with Question-Then-Pinpoint Reasoner for Insightful Table Summarization**|Kwangwook Seo et.al.|[2406.12269v1](http://arxiv.org/abs/2406.12269v1)|null|
+|**2024-06-18**|**A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning**|Lijie Hu et.al.|[2406.12255v1](http://arxiv.org/abs/2406.12255v1)|null|
+|**2024-06-17**|**Is poisoning a real threat to LLM alignment? Maybe more so than you think**|Pankayaraj Pathmanathan et.al.|[2406.12091v1](http://arxiv.org/abs/2406.12091v1)|null|
+|**2024-06-17**|**When Reasoning Meets Information Aggregation: A Case Study with Sports Narratives**|Yebowen Hu et.al.|[2406.12084v1](http://arxiv.org/abs/2406.12084v1)|null|
+|**2024-06-17**|**Language Models are Surprisingly Fragile to Drug Names in Biomedical Benchmarks**|Jack Gallifant et.al.|[2406.12066v1](http://arxiv.org/abs/2406.12066v1)|null|
+|**2024-06-17**|**InternalInspector $I^2$: Robust Confidence Estimation in LLMs through Internal States**|Mohammad Beigi et.al.|[2406.12053v1](http://arxiv.org/abs/2406.12053v1)|null|
+|**2024-06-17**|**Learn Beyond The Answer: Training Language Models with Reflection for Mathematical Reasoning**|Zhihan Zhang et.al.|[2406.12050v1](http://arxiv.org/abs/2406.12050v1)|null|
+|**2024-06-17**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036v1](http://arxiv.org/abs/2406.12036v1)|[link](https://github.com/ncbi-nlp/medcalc-bench)|
+|**2024-06-17**|**Self-MoE: Towards Compositional Large Language Models with Self-Specialized Experts**|Junmo Kang et.al.|[2406.12034v1](http://arxiv.org/abs/2406.12034v1)|null|
 |**2024-06-17**|**Language Modeling with Editable External Knowledge**|Belinda Z. Li et.al.|[2406.11830v1](http://arxiv.org/abs/2406.11830v1)|[link](https://github.com/belindal/erase)|
 |**2024-06-17**|**On Efficient Language and Vision Assistants for Visually-Situated Natural Language Understanding: What Matters in Reading and Reasoning**|Geewook Kim et.al.|[2406.11823v1](http://arxiv.org/abs/2406.11823v1)|[link](https://github.com/naver-ai/elva)|
 |**2024-06-17**|**MDCR: A Dataset for Multi-Document Conditional Reasoning**|Peter Baile Chen et.al.|[2406.11784v1](http://arxiv.org/abs/2406.11784v1)|null|
@@ -158,6 +206,7 @@
 |**2024-06-16**|**Scaling Synthetic Logical Reasoning Datasets with Context-Sensitive Declarative Grammars**|Damien Sileo et.al.|[2406.11035v1](http://arxiv.org/abs/2406.11035v1)|null|
 |**2024-06-16**|**RUPBench: Benchmarking Reasoning Under Perturbations for Robustness Evaluation in Large Language Models**|Yuqing Wang et.al.|[2406.11020v1](http://arxiv.org/abs/2406.11020v1)|null|
 |**2024-06-16**|**Connecting the Dots: Evaluating Abstract Reasoning Capabilities of LLMs Using the New York Times Connections Word Game**|Prisha Samadarshi et.al.|[2406.11012v2](http://arxiv.org/abs/2406.11012v2)|null|
+|**2024-06-16**|**A Notion of Complexity for Theory of Mind via Discrete World Models**|X. Angelo Huang et.al.|[2406.11911v1](http://arxiv.org/abs/2406.11911v1)|null|
 |**2024-06-16**|**Not All Bias is Bad: Balancing Rational Deviations and Cognitive Biases in Large Language Model Reasoning**|Liman Wang et.al.|[2406.10999v1](http://arxiv.org/abs/2406.10999v1)|null|
 |**2024-06-16**|**Towards Supporting Legal Argumentation with NLP: Is More Data Really All You Need?**|T. Y. S. S Santosh et.al.|[2406.10974v1](http://arxiv.org/abs/2406.10974v1)|null|
 |**2024-06-16**|**ESCoT: Towards Interpretable Emotional Support Dialogue Systems**|Tenggan Zhang et.al.|[2406.10960v1](http://arxiv.org/abs/2406.10960v1)|[link](https://github.com/teigenzhang/escot)|
@@ -234,38 +283,3 @@
 |**2024-06-11**|**Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning**|Jeonghoon Kim et.al.|[2406.07034v1](http://arxiv.org/abs/2406.07034v1)|[link](https://github.com/kjh9503/caqr)|
 |**2024-06-11**|**FoodSky: A Food-oriented Large Language Model that Passes the Chef and Dietetic Examination**|Pengfei Zhou et.al.|[2406.10261v1](http://arxiv.org/abs/2406.10261v1)|null|
 |**2024-06-11**|**What's in an embedding? Would a rose by any embedding smell as sweet?**|Venkat Venkatasubramanian et.al.|[2406.06870v3](http://arxiv.org/abs/2406.06870v3)|null|
-|**2024-06-10**|**DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents**|Peter Jansen et.al.|[2406.06769v1](http://arxiv.org/abs/2406.06769v1)|[link](https://github.com/allenai/discoveryworld)|
-|**2024-06-10**|**Towards a Personal Health Large Language Model**|Justin Cosentino et.al.|[2406.06474v1](http://arxiv.org/abs/2406.06474v1)|null|
-|**2024-06-10**|**Husky: A Unified, Open-Source Language Agent for Multi-Step Reasoning**|Joongwon Kim et.al.|[2406.06469v1](http://arxiv.org/abs/2406.06469v1)|[link](https://github.com/agent-husky/husky-v1)|
-|**2024-06-10**|**Transforming Wearable Data into Health Insights using Large Language Model Agents**|Mike A. Merrill et.al.|[2406.06464v2](http://arxiv.org/abs/2406.06464v2)|null|
-|**2024-06-10**|**Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies**|Junlin Wang et.al.|[2406.06461v3](http://arxiv.org/abs/2406.06461v3)|null|
-|**2024-06-10**|**Self-Tuning: Instructing LLMs to Effectively Acquire New Knowledge through Self-Teaching**|Xiaoying Zhang et.al.|[2406.06326v3](http://arxiv.org/abs/2406.06326v3)|null|
-|**2024-06-10**|**WarCov -- Large multilabel and multimodal dataset from social platform**|Weronika Borek-Marciniec et.al.|[2406.10255v1](http://arxiv.org/abs/2406.10255v1)|null|
-|**2024-06-10**|**LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles in Low-Resource and Extinct Languages**|Andrew M. Bean et.al.|[2406.06196v2](http://arxiv.org/abs/2406.06196v2)|[link](https://github.com/am-bean/lingOly)|
-|**2024-06-10**|**Enhancing Long-Term Memory using Hierarchical Aggregate Tree for Retrieval Augmented Generation**|Aadharsh Aadhithya A et.al.|[2406.06124v1](http://arxiv.org/abs/2406.06124v1)|null|
-|**2024-06-10**|**The Impact of Quantization on Retrieval-Augmented Generation: An Analysis of Small LLMs**|Mert Yazan et.al.|[2406.10251v1](http://arxiv.org/abs/2406.10251v1)|null|
-|**2024-06-10**|**Prompting Large Language Models with Audio for General-Purpose Speech Summarization**|Wonjune Kang et.al.|[2406.05968v1](http://arxiv.org/abs/2406.05968v1)|[link](https://github.com/wonjune-kang/llm-speech-summarization)|
-|**2024-06-10**|**CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark**|David Romero et.al.|[2406.05967v1](http://arxiv.org/abs/2406.05967v1)|null|
-|**2024-06-09**|**Hello Again! LLM-powered Personalized Agent for Long-term Dialogue**|Hao Li et.al.|[2406.05925v1](http://arxiv.org/abs/2406.05925v1)|[link](https://github.com/leolee99/ld-agent)|
-|**2024-06-09**|**Why Don't Prompt-Based Fairness Metrics Correlate?**|Abdelrahman Zayed et.al.|[2406.05918v1](http://arxiv.org/abs/2406.05918v1)|null|
-|**2024-06-09**|**LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical Reinforcement Learning**|Utsav Singh et.al.|[2406.05881v2](http://arxiv.org/abs/2406.05881v2)|null|
-|**2024-06-09**|**Flow of Reasoning: Efficient Training of LLM Policy with Divergent Thinking**|Fangxu Yu et.al.|[2406.05673v1](http://arxiv.org/abs/2406.05673v1)|[link](https://github.com/yu-fangxu/for)|
-|**2024-06-09**|**Do LLMs Exhibit Human-Like Reasoning? Evaluating Theory of Mind in LLMs for Open-Ended Responses**|Maryam Amirizaniani et.al.|[2406.05659v1](http://arxiv.org/abs/2406.05659v1)|null|
-|**2024-06-08**|**Verbalized Probabilistic Graphical Modeling with Large Language Models**|Hengguan Huang et.al.|[2406.05516v1](http://arxiv.org/abs/2406.05516v1)|null|
-|**2024-06-08**|**Investigating and Addressing Hallucinations of LLMs in Tasks Involving Negation**|Neeraj Varshney et.al.|[2406.05494v1](http://arxiv.org/abs/2406.05494v1)|null|
-|**2024-06-08**|**Teaching-Assistant-in-the-Loop: Improving Knowledge Distillation from Imperfect Teacher Models in Low-Budget Scenarios**|Yuhang Zhou et.al.|[2406.05322v1](http://arxiv.org/abs/2406.05322v1)|null|
-|**2024-06-08**|**Concept Formation and Alignment in Language Models: Bridging Statistical Patterns in Latent Space to Concept Taxonomy**|Mehrdad Khatir et.al.|[2406.05315v1](http://arxiv.org/abs/2406.05315v1)|null|
-|**2024-06-07**|**LLMs Are Not Intelligent Thinkers: Introducing Mathematical Topic Tree Benchmark for Comprehensive Evaluation of LLMs**|Arash Gholami Davoodi et.al.|[2406.05194v1](http://arxiv.org/abs/2406.05194v1)|[link](https://github.com/arashgholami/MaTT)|
-|**2024-06-07**|**Quantifying Geospatial in the Common Crawl Corpus**|Ilya Ilyankou et.al.|[2406.04952v1](http://arxiv.org/abs/2406.04952v1)|null|
-|**2024-06-07**|**Through the Thicket: A Study of Number-Oriented LLMs derived from Random Forest Models**|Michał Romaszewski et.al.|[2406.04926v1](http://arxiv.org/abs/2406.04926v1)|null|
-|**2024-06-07**|**ComplexTempQA: A Large-Scale Dataset for Complex Temporal Question Answering**|Raphael Gruber et.al.|[2406.04866v1](http://arxiv.org/abs/2406.04866v1)|[link](https://github.com/datascienceuibk/complextempqa)|
-|**2024-06-07**|**Zero, Finite, and Infinite Belief History of Theory of Mind Reasoning in Large Language Models**|Weizhi Tang et.al.|[2406.04800v1](http://arxiv.org/abs/2406.04800v1)|null|
-|**2024-06-07**|**Think out Loud: Emotion Deducing Explanation in Dialogues**|Jiangnan Li et.al.|[2406.04758v1](http://arxiv.org/abs/2406.04758v1)|null|
-|**2024-06-07**|**What do MLLMs hear? Examining reasoning with text and sound components in Multimodal Large Language Models**|Enis Berk Çoban et.al.|[2406.04615v1](http://arxiv.org/abs/2406.04615v1)|null|
-|**2024-06-07**|**SpaRC and SpaRP: Spatial Reasoning Characterization and Path Generation for Understanding Spatial Reasoning Capability of Large Language Models**|Md Imbesat Hassan Rizvi et.al.|[2406.04566v1](http://arxiv.org/abs/2406.04566v1)|[link](https://github.com/ukplab/acl2024-sparc-and-sparp)|
-|**2024-06-07**|**GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents**|Anthony Costarelli et.al.|[2406.06613v1](http://arxiv.org/abs/2406.06613v1)|[link](https://github.com/Joshuaclymer/GameBench)|
-|**2024-06-06**|**FLUID-LLM: Learning Computational Fluid Dynamics with Spatiotemporal-aware Large Language Models**|Max Zhu et.al.|[2406.04501v1](http://arxiv.org/abs/2406.04501v1)|null|
-|**2024-06-06**|**Time Sensitive Knowledge Editing through Efficient Finetuning**|Xiou Ge et.al.|[2406.04496v1](http://arxiv.org/abs/2406.04496v1)|null|
-|**2024-06-06**|**Reinterpreting 'the Company a Word Keeps': Towards Explainable and Ontologically Grounded Language Models**|Walid S. Saba et.al.|[2406.06610v1](http://arxiv.org/abs/2406.06610v1)|null|
-|**2024-06-06**|**MAIRA-2: Grounded Radiology Report Generation**|Shruthi Bannur et.al.|[2406.04449v1](http://arxiv.org/abs/2406.04449v1)|null|
-|**2024-06-06**|**MoralBench: Moral Evaluation of LLMs**|Jianchao Ji et.al.|[2406.04428v1](http://arxiv.org/abs/2406.04428v1)|[link](https://github.com/agiresearch/moralbench)|
