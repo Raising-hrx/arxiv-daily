@@ -1,50 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2024-06-24 20:32:09
+ Automated deployment @ 2024-06-24 20:56:29
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-21**|**A SMART Mnemonic Sounds like "Glue Tonic": Mixing LLMs with Student Feedback to Make Mnemonic Learning Stick**|Nishant Balepur et.al.|[2406.15352v1](http://arxiv.org/abs/2406.15352v1)|null|
-|**2024-06-21**|**A Syntax-Injected Approach for Faster and More Accurate Sentiment Analysis**|Muhammad Imran et.al.|[2406.15163v1](http://arxiv.org/abs/2406.15163v1)|null|
-|**2024-06-21**|**Brain-Like Language Processing via a Shallow Untrained Multihead Attention Network**|Badr AlKhamissi et.al.|[2406.15109v1](http://arxiv.org/abs/2406.15109v1)|null|
-|**2024-06-21**|**A Unified Framework for Input Feature Attribution Analysis**|Jingyi Sun et.al.|[2406.15085v1](http://arxiv.org/abs/2406.15085v1)|null|
-|**2024-06-21**|**Tri-VQA: Triangular Reasoning Medical Visual Question Answering for Multi-Attribute Analysis**|Lin Fan et.al.|[2406.15050v1](http://arxiv.org/abs/2406.15050v1)|null|
-|**2024-06-21**|**Harnessing Knowledge Retrieval with Large Language Models for Clinical Report Error Correction**|Jinge Wu et.al.|[2406.15045v1](http://arxiv.org/abs/2406.15045v1)|null|
-|**2024-06-21**|**Online detection and infographic explanation of spam reviews with data drift adaptation**|Francisco de Arriba-Pérez et.al.|[2406.15038v1](http://arxiv.org/abs/2406.15038v1)|[link](https://github.com/nlpgti/data_drift)|
-|**2024-06-21**|**Direct Multi-Turn Preference Optimization for Language Agents**|Wentao Shi et.al.|[2406.14868v1](http://arxiv.org/abs/2406.14868v1)|null|
-|**2024-06-21**|**LatentExplainer: Explaining Latent Representations in Deep Generative Models with Multi-modal Foundation Models**|Mengdan Zhu et.al.|[2406.14862v1](http://arxiv.org/abs/2406.14862v1)|null|
-|**2024-06-21**|**ToVo: Toxicity Taxonomy via Voting**|Tinh Son Luong et.al.|[2406.14835v1](http://arxiv.org/abs/2406.14835v1)|null|
-|**2024-06-20**|**Dissecting the Ullman Variations with a SCALPEL: Why do LLMs fail at Trivial Alterations to the False Belief Task?**|Zhiqiang Pi et.al.|[2406.14737v1](http://arxiv.org/abs/2406.14737v1)|null|
-|**2024-06-20**|**Holistic Evaluation for Interleaved Text-and-Image Generation**|Minqian Liu et.al.|[2406.14643v1](http://arxiv.org/abs/2406.14643v1)|null|
-|**2024-06-20**|**Self-supervised Interpretable Concept-based Models for Text Classification**|Francesco De Santis et.al.|[2406.14335v1](http://arxiv.org/abs/2406.14335v1)|null|
-|**2024-06-20**|**On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning**|Franz Nowak et.al.|[2406.14197v1](http://arxiv.org/abs/2406.14197v1)|null|
-|**2024-06-20**|**Definition generation for lexical semantic change detection**|Mariia Fedorova et.al.|[2406.14167v1](http://arxiv.org/abs/2406.14167v1)|[link](https://github.com/ltgoslo/Definition-generation-for-LSCD)|
-|**2024-06-20**|**The Reason behind Good or Bad: Towards a Better Mathematical Verifier with Natural Language Feedback**|Bofei Gao et.al.|[2406.14024v1](http://arxiv.org/abs/2406.14024v1)|null|
-|**2024-06-20**|**Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment**|Kaishuai Xu et.al.|[2406.13934v1](http://arxiv.org/abs/2406.13934v1)|[link](https://github.com/kaishxu/emulation)|
-|**2024-06-19**|**Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation**|Jirui Qi et.al.|[2406.13663v1](http://arxiv.org/abs/2406.13663v1)|null|
-|**2024-06-19**|**InstructRAG: Instructing Retrieval-Augmented Generation with Explicit Denoising**|Zhepei Wei et.al.|[2406.13629v1](http://arxiv.org/abs/2406.13629v1)|null|
-|**2024-06-18**|**Chumor 1.0: A Truly Funny and Challenging Chinese Humor Understanding Dataset from Ruo Zhi Ba**|Ruiqi He et.al.|[2406.12754v1](http://arxiv.org/abs/2406.12754v1)|null|
-|**2024-06-18**|**Evaluating Transparency of Machine Generated Fact Checking Explanations**|Rui Xing et.al.|[2406.12645v1](http://arxiv.org/abs/2406.12645v1)|[link](https://github.com/ruixing76/transparent-fcexp)|
-|**2024-06-18**|**Flee the Flaw: Annotating the Underlying Logic of Fallacious Arguments Through Templates and Slot-filling**|Irfan Robbani et.al.|[2406.12402v1](http://arxiv.org/abs/2406.12402v1)|null|
-|**2024-06-18**|**Unveiling Implicit Table Knowledge with Question-Then-Pinpoint Reasoner for Insightful Table Summarization**|Kwangwook Seo et.al.|[2406.12269v1](http://arxiv.org/abs/2406.12269v1)|null|
-|**2024-06-18**|**A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning**|Lijie Hu et.al.|[2406.12255v1](http://arxiv.org/abs/2406.12255v1)|null|
-|**2024-06-18**|**Language and Multimodal Models in Sports: A Survey of Datasets and Applications**|Haotian Xia et.al.|[2406.12252v1](http://arxiv.org/abs/2406.12252v1)|null|
-|**2024-06-18**|**ToxiCloakCN: Evaluating Robustness of Offensive Language Detection in Chinese with Cloaking Perturbations**|Yunze Xiao et.al.|[2406.12223v1](http://arxiv.org/abs/2406.12223v1)|null|
-|**2024-06-17**|**Gram2Vec: An Interpretable Document Vectorizer**|Peter Zeng et.al.|[2406.12131v1](http://arxiv.org/abs/2406.12131v1)|null|
-|**2024-06-17**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058v2](http://arxiv.org/abs/2406.12058v2)|null|
-|**2024-06-17**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036v1](http://arxiv.org/abs/2406.12036v1)|[link](https://github.com/ncbi-nlp/medcalc-bench)|
-|**2024-06-17**|**Reframing linguistic bootstrapping as joint inference using visually-grounded grammar induction models**|Eva Portelance et.al.|[2406.11977v1](http://arxiv.org/abs/2406.11977v1)|null|
-|**2024-06-17**|**How Do Large Language Models Acquire Factual Knowledge During Pretraining?**|Hoyeon Chang et.al.|[2406.11813v1](http://arxiv.org/abs/2406.11813v1)|null|
-|**2024-06-17**|**CELL your Model: Contrastive Explanation Methods for Large Language Models**|Ronny Luss et.al.|[2406.11785v1](http://arxiv.org/abs/2406.11785v1)|null|
-|**2024-06-17**|**GECOBench: A Gender-Controlled Text Dataset and Benchmark for Quantifying Biases in Explanations**|Rick Wilming et.al.|[2406.11547v1](http://arxiv.org/abs/2406.11547v1)|[link](https://github.com/braindatalab/gecobench)|
-|**2024-06-17**|**A Systematic Analysis of Large Language Models as Soft Reasoners: The Case of Syllogistic Inferences**|Leonardo Bertolazzi et.al.|[2406.11341v1](http://arxiv.org/abs/2406.11341v1)|null|
-|**2024-06-17**|**Explainable assessment of financial experts' credibility by classifying social media forecasts and checking the predictions with actual market data**|Silvia García-Méndez et.al.|[2406.11924v1](http://arxiv.org/abs/2406.11924v1)|null|
-|**2024-06-17**|**TIFG: Text-Informed Feature Generation with Large Language Models**|Xinhao Zhang et.al.|[2406.11177v1](http://arxiv.org/abs/2406.11177v1)|null|
-|**2024-06-16**|**Towards Supporting Legal Argumentation with NLP: Is More Data Really All You Need?**|T. Y. S. S Santosh et.al.|[2406.10974v1](http://arxiv.org/abs/2406.10974v1)|null|
 
 ## Question Answering
 
@@ -148,6 +105,49 @@
 |**2024-06-18**|**DetectBench: Can Large Language Model Detect and Piece Together Implicit Evidence?**|Zhouhong Gu et.al.|[2406.12641v1](http://arxiv.org/abs/2406.12641v1)|[link](https://github.com/MikeGu721/DetectBench)|
 |**2024-06-18**|**Judging the Judges: Evaluating Alignment and Vulnerabilities in LLMs-as-Judges**|Aman Singh Thakur et.al.|[2406.12624v1](http://arxiv.org/abs/2406.12624v1)|null|
 |**2024-06-18**|**What makes two models think alike?**|Jeanne Salle et.al.|[2406.12620v1](http://arxiv.org/abs/2406.12620v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-21**|**A SMART Mnemonic Sounds like "Glue Tonic": Mixing LLMs with Student Feedback to Make Mnemonic Learning Stick**|Nishant Balepur et.al.|[2406.15352v1](http://arxiv.org/abs/2406.15352v1)|null|
+|**2024-06-21**|**A Syntax-Injected Approach for Faster and More Accurate Sentiment Analysis**|Muhammad Imran et.al.|[2406.15163v1](http://arxiv.org/abs/2406.15163v1)|null|
+|**2024-06-21**|**Brain-Like Language Processing via a Shallow Untrained Multihead Attention Network**|Badr AlKhamissi et.al.|[2406.15109v1](http://arxiv.org/abs/2406.15109v1)|null|
+|**2024-06-21**|**A Unified Framework for Input Feature Attribution Analysis**|Jingyi Sun et.al.|[2406.15085v1](http://arxiv.org/abs/2406.15085v1)|null|
+|**2024-06-21**|**Tri-VQA: Triangular Reasoning Medical Visual Question Answering for Multi-Attribute Analysis**|Lin Fan et.al.|[2406.15050v1](http://arxiv.org/abs/2406.15050v1)|null|
+|**2024-06-21**|**Harnessing Knowledge Retrieval with Large Language Models for Clinical Report Error Correction**|Jinge Wu et.al.|[2406.15045v1](http://arxiv.org/abs/2406.15045v1)|null|
+|**2024-06-21**|**Online detection and infographic explanation of spam reviews with data drift adaptation**|Francisco de Arriba-Pérez et.al.|[2406.15038v1](http://arxiv.org/abs/2406.15038v1)|[link](https://github.com/nlpgti/data_drift)|
+|**2024-06-21**|**Direct Multi-Turn Preference Optimization for Language Agents**|Wentao Shi et.al.|[2406.14868v1](http://arxiv.org/abs/2406.14868v1)|null|
+|**2024-06-21**|**LatentExplainer: Explaining Latent Representations in Deep Generative Models with Multi-modal Foundation Models**|Mengdan Zhu et.al.|[2406.14862v1](http://arxiv.org/abs/2406.14862v1)|null|
+|**2024-06-21**|**ToVo: Toxicity Taxonomy via Voting**|Tinh Son Luong et.al.|[2406.14835v1](http://arxiv.org/abs/2406.14835v1)|null|
+|**2024-06-20**|**Dissecting the Ullman Variations with a SCALPEL: Why do LLMs fail at Trivial Alterations to the False Belief Task?**|Zhiqiang Pi et.al.|[2406.14737v1](http://arxiv.org/abs/2406.14737v1)|null|
+|**2024-06-20**|**Holistic Evaluation for Interleaved Text-and-Image Generation**|Minqian Liu et.al.|[2406.14643v1](http://arxiv.org/abs/2406.14643v1)|null|
+|**2024-06-20**|**Self-supervised Interpretable Concept-based Models for Text Classification**|Francesco De Santis et.al.|[2406.14335v1](http://arxiv.org/abs/2406.14335v1)|null|
+|**2024-06-20**|**On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning**|Franz Nowak et.al.|[2406.14197v1](http://arxiv.org/abs/2406.14197v1)|null|
+|**2024-06-20**|**Definition generation for lexical semantic change detection**|Mariia Fedorova et.al.|[2406.14167v1](http://arxiv.org/abs/2406.14167v1)|[link](https://github.com/ltgoslo/Definition-generation-for-LSCD)|
+|**2024-06-20**|**The Reason behind Good or Bad: Towards a Better Mathematical Verifier with Natural Language Feedback**|Bofei Gao et.al.|[2406.14024v1](http://arxiv.org/abs/2406.14024v1)|null|
+|**2024-06-20**|**Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment**|Kaishuai Xu et.al.|[2406.13934v1](http://arxiv.org/abs/2406.13934v1)|[link](https://github.com/kaishxu/emulation)|
+|**2024-06-19**|**Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation**|Jirui Qi et.al.|[2406.13663v1](http://arxiv.org/abs/2406.13663v1)|null|
+|**2024-06-19**|**InstructRAG: Instructing Retrieval-Augmented Generation with Explicit Denoising**|Zhepei Wei et.al.|[2406.13629v1](http://arxiv.org/abs/2406.13629v1)|null|
+|**2024-06-18**|**Chumor 1.0: A Truly Funny and Challenging Chinese Humor Understanding Dataset from Ruo Zhi Ba**|Ruiqi He et.al.|[2406.12754v1](http://arxiv.org/abs/2406.12754v1)|null|
+|**2024-06-18**|**Evaluating Transparency of Machine Generated Fact Checking Explanations**|Rui Xing et.al.|[2406.12645v1](http://arxiv.org/abs/2406.12645v1)|[link](https://github.com/ruixing76/transparent-fcexp)|
+|**2024-06-18**|**Flee the Flaw: Annotating the Underlying Logic of Fallacious Arguments Through Templates and Slot-filling**|Irfan Robbani et.al.|[2406.12402v1](http://arxiv.org/abs/2406.12402v1)|null|
+|**2024-06-18**|**Unveiling Implicit Table Knowledge with Question-Then-Pinpoint Reasoner for Insightful Table Summarization**|Kwangwook Seo et.al.|[2406.12269v1](http://arxiv.org/abs/2406.12269v1)|null|
+|**2024-06-18**|**A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning**|Lijie Hu et.al.|[2406.12255v1](http://arxiv.org/abs/2406.12255v1)|null|
+|**2024-06-18**|**Language and Multimodal Models in Sports: A Survey of Datasets and Applications**|Haotian Xia et.al.|[2406.12252v1](http://arxiv.org/abs/2406.12252v1)|null|
+|**2024-06-18**|**ToxiCloakCN: Evaluating Robustness of Offensive Language Detection in Chinese with Cloaking Perturbations**|Yunze Xiao et.al.|[2406.12223v1](http://arxiv.org/abs/2406.12223v1)|null|
+|**2024-06-17**|**Gram2Vec: An Interpretable Document Vectorizer**|Peter Zeng et.al.|[2406.12131v1](http://arxiv.org/abs/2406.12131v1)|null|
+|**2024-06-17**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058v2](http://arxiv.org/abs/2406.12058v2)|null|
+|**2024-06-17**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036v1](http://arxiv.org/abs/2406.12036v1)|[link](https://github.com/ncbi-nlp/medcalc-bench)|
+|**2024-06-17**|**Reframing linguistic bootstrapping as joint inference using visually-grounded grammar induction models**|Eva Portelance et.al.|[2406.11977v1](http://arxiv.org/abs/2406.11977v1)|null|
+|**2024-06-17**|**How Do Large Language Models Acquire Factual Knowledge During Pretraining?**|Hoyeon Chang et.al.|[2406.11813v1](http://arxiv.org/abs/2406.11813v1)|null|
+|**2024-06-17**|**CELL your Model: Contrastive Explanation Methods for Large Language Models**|Ronny Luss et.al.|[2406.11785v1](http://arxiv.org/abs/2406.11785v1)|null|
+|**2024-06-17**|**GECOBench: A Gender-Controlled Text Dataset and Benchmark for Quantifying Biases in Explanations**|Rick Wilming et.al.|[2406.11547v1](http://arxiv.org/abs/2406.11547v1)|[link](https://github.com/braindatalab/gecobench)|
+|**2024-06-17**|**A Systematic Analysis of Large Language Models as Soft Reasoners: The Case of Syllogistic Inferences**|Leonardo Bertolazzi et.al.|[2406.11341v1](http://arxiv.org/abs/2406.11341v1)|null|
+|**2024-06-17**|**Explainable assessment of financial experts' credibility by classifying social media forecasts and checking the predictions with actual market data**|Silvia García-Méndez et.al.|[2406.11924v1](http://arxiv.org/abs/2406.11924v1)|null|
+|**2024-06-17**|**TIFG: Text-Informed Feature Generation with Large Language Models**|Xinhao Zhang et.al.|[2406.11177v1](http://arxiv.org/abs/2406.11177v1)|null|
+|**2024-06-16**|**Towards Supporting Legal Argumentation with NLP: Is More Data Really All You Need?**|T. Y. S. S Santosh et.al.|[2406.10974v1](http://arxiv.org/abs/2406.10974v1)|null|
 
 ## Reasoning
 
