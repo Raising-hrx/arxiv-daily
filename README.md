@@ -1,7 +1,28 @@
 # arxiv-daily
- Automated deployment @ 2024-07-11 20:32:22
+ Automated deployment @ 2024-07-11 20:56:56
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-07-10**|**Training on the Test Task Confounds Evaluation and Emergence**|Ricardo Dominguez-Olmedo et.al.|[2407.07890v1](http://arxiv.org/abs/2407.07890v1)|[link](https://github.com/socialfoundations/training-on-the-test-task)|
+|**2024-07-10**|**A Proposed S.C.O.R.E. Evaluation Framework for Large Language Models : Safety, Consensus, Objectivity, Reproducibility and Explainability**|Ting Fang Tan et.al.|[2407.07666v1](http://arxiv.org/abs/2407.07666v1)|null|
+|**2024-07-10**|**Review-LLM: Harnessing Large Language Models for Personalized Review Generation**|Qiyao Peng et.al.|[2407.07487v1](http://arxiv.org/abs/2407.07487v1)|null|
+|**2024-07-10**|**Interpretable Differential Diagnosis with Dual-Inference Large Language Models**|Shuang Zhou et.al.|[2407.07330v1](http://arxiv.org/abs/2407.07330v1)|null|
+|**2024-07-09**|**STORYSUMM: Evaluating Faithfulness in Story Summarization**|Melanie Subbiah et.al.|[2407.06501v1](http://arxiv.org/abs/2407.06501v1)|[link](https://github.com/melaniesubbiah/storysumm)|
+|**2024-07-07**|**Experiments with truth using Machine Learning: Spectral analysis and explainable classification of synthetic, false, and genuine information**|Vishnu S. Pendyala et.al.|[2407.05464v1](http://arxiv.org/abs/2407.05464v1)|null|
+|**2024-07-05**|**Crafting Large Language Models for Enhanced Interpretability**|Chung-En Sun et.al.|[2407.04307v1](http://arxiv.org/abs/2407.04307v1)|null|
+|**2024-07-04**|**AXOLOTL'24 Shared Task on Multilingual Explainable Semantic Change Modeling**|Mariia Fedorova et.al.|[2407.04079v1](http://arxiv.org/abs/2407.04079v1)|null|
+|**2024-07-04**|**From Data to Commonsense Reasoning: The Use of Large Language Models for Explainable AI**|Stefanie Krause et.al.|[2407.03778v1](http://arxiv.org/abs/2407.03778v1)|null|
+|**2024-07-04**|**HYBRINFOX at CheckThat! 2024 -- Task 2: Enriching BERT Models with the Expert System VAGO for Subjectivity Detection**|Morgane Casanova et.al.|[2407.03770v1](http://arxiv.org/abs/2407.03770v1)|null|
+|**2024-07-04**|**Improving Self Consistency in LLMs through Probabilistic Tokenization**|Ashutosh Sathe et.al.|[2407.03678v1](http://arxiv.org/abs/2407.03678v1)|null|
+|**2024-07-04**|**Question-Analysis Prompting Improves LLM Performance in Reasoning Tasks**|Dharunish Yugeswardeenoo et.al.|[2407.03624v1](http://arxiv.org/abs/2407.03624v1)|null|
+|**2024-07-04**|**The Mysterious Case of Neuron 1512: Injectable Realignment Architectures Reveal Internal Characteristics of Meta's Llama 2 Model**|Brenden Smith et.al.|[2407.03621v1](http://arxiv.org/abs/2407.03621v1)|[link](https://github.com/dragnlabs/injectable-alignment-model)|
+|**2024-07-03**|**On Evaluating Explanation Utility for Human-AI Decision Making in NLP**|Fateme Hashemi Chaleshtori et.al.|[2407.03545v1](http://arxiv.org/abs/2407.03545v1)|null|
+|**2024-07-03**|**Large Language Models as Evaluators for Scientific Synthesis**|Julia Evans et.al.|[2407.02977v1](http://arxiv.org/abs/2407.02977v1)|null|
 
 ## Question Answering
 
@@ -57,27 +78,6 @@
 |**2024-07-04**|**Cognitive Modeling with Scaffolded LLMs: A Case Study of Referential Expression Generation**|Polina Tsvilodub et.al.|[2407.03805v2](http://arxiv.org/abs/2407.03805v2)|null|
 |**2024-07-04**|**Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning**|Thong Nguyen et.al.|[2407.03788v1](http://arxiv.org/abs/2407.03788v1)|null|
 |**2024-07-04**|**From Data to Commonsense Reasoning: The Use of Large Language Models for Explainable AI**|Stefanie Krause et.al.|[2407.03778v1](http://arxiv.org/abs/2407.03778v1)|null|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-07-10**|**Training on the Test Task Confounds Evaluation and Emergence**|Ricardo Dominguez-Olmedo et.al.|[2407.07890v1](http://arxiv.org/abs/2407.07890v1)|[link](https://github.com/socialfoundations/training-on-the-test-task)|
-|**2024-07-10**|**A Proposed S.C.O.R.E. Evaluation Framework for Large Language Models : Safety, Consensus, Objectivity, Reproducibility and Explainability**|Ting Fang Tan et.al.|[2407.07666v1](http://arxiv.org/abs/2407.07666v1)|null|
-|**2024-07-10**|**Review-LLM: Harnessing Large Language Models for Personalized Review Generation**|Qiyao Peng et.al.|[2407.07487v1](http://arxiv.org/abs/2407.07487v1)|null|
-|**2024-07-10**|**Interpretable Differential Diagnosis with Dual-Inference Large Language Models**|Shuang Zhou et.al.|[2407.07330v1](http://arxiv.org/abs/2407.07330v1)|null|
-|**2024-07-09**|**STORYSUMM: Evaluating Faithfulness in Story Summarization**|Melanie Subbiah et.al.|[2407.06501v1](http://arxiv.org/abs/2407.06501v1)|[link](https://github.com/melaniesubbiah/storysumm)|
-|**2024-07-07**|**Experiments with truth using Machine Learning: Spectral analysis and explainable classification of synthetic, false, and genuine information**|Vishnu S. Pendyala et.al.|[2407.05464v1](http://arxiv.org/abs/2407.05464v1)|null|
-|**2024-07-05**|**Crafting Large Language Models for Enhanced Interpretability**|Chung-En Sun et.al.|[2407.04307v1](http://arxiv.org/abs/2407.04307v1)|null|
-|**2024-07-04**|**AXOLOTL'24 Shared Task on Multilingual Explainable Semantic Change Modeling**|Mariia Fedorova et.al.|[2407.04079v1](http://arxiv.org/abs/2407.04079v1)|null|
-|**2024-07-04**|**From Data to Commonsense Reasoning: The Use of Large Language Models for Explainable AI**|Stefanie Krause et.al.|[2407.03778v1](http://arxiv.org/abs/2407.03778v1)|null|
-|**2024-07-04**|**HYBRINFOX at CheckThat! 2024 -- Task 2: Enriching BERT Models with the Expert System VAGO for Subjectivity Detection**|Morgane Casanova et.al.|[2407.03770v1](http://arxiv.org/abs/2407.03770v1)|null|
-|**2024-07-04**|**Improving Self Consistency in LLMs through Probabilistic Tokenization**|Ashutosh Sathe et.al.|[2407.03678v1](http://arxiv.org/abs/2407.03678v1)|null|
-|**2024-07-04**|**Question-Analysis Prompting Improves LLM Performance in Reasoning Tasks**|Dharunish Yugeswardeenoo et.al.|[2407.03624v1](http://arxiv.org/abs/2407.03624v1)|null|
-|**2024-07-04**|**The Mysterious Case of Neuron 1512: Injectable Realignment Architectures Reveal Internal Characteristics of Meta's Llama 2 Model**|Brenden Smith et.al.|[2407.03621v1](http://arxiv.org/abs/2407.03621v1)|[link](https://github.com/dragnlabs/injectable-alignment-model)|
-|**2024-07-03**|**On Evaluating Explanation Utility for Human-AI Decision Making in NLP**|Fateme Hashemi Chaleshtori et.al.|[2407.03545v1](http://arxiv.org/abs/2407.03545v1)|null|
-|**2024-07-03**|**Large Language Models as Evaluators for Scientific Synthesis**|Julia Evans et.al.|[2407.02977v1](http://arxiv.org/abs/2407.02977v1)|null|
 
 ## Reasoning
 
