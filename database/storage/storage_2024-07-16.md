@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-07-16 20:52:50
+ Automated deployment @ 2024-07-16 21:10:38
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -61,31 +61,6 @@
 |**2024-07-10**|**Teaching Transformers Causal Reasoning through Axiomatic Training**|Aniket Vashishtha et.al.|[2407.07612v1](http://arxiv.org/abs/2407.07612v1)|null|
 |**2024-07-10**|**Automatic Extraction of Disease Risk Factors from Medical Publications**|Maxim Rubchinsky et.al.|[2407.07373v1](http://arxiv.org/abs/2407.07373v1)|[link](https://github.com/maximrub/diseases-risk-factors)|
 |**2024-07-10**|**RAG vs. Long Context: Examining Frontier Large Language Models for Environmental Review Document Comprehension**|Hung Phan et.al.|[2407.07321v1](http://arxiv.org/abs/2407.07321v1)|null|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-07-15**|**BiasScanner: Automatic Detection and Classification of News Bias to Strengthen Democracy**|Tim Menzner et.al.|[2407.10829v1](http://arxiv.org/abs/2407.10829v1)|null|
-|**2024-07-15**|**GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework**|Hannah Sansford et.al.|[2407.10793v1](http://arxiv.org/abs/2407.10793v1)|null|
-|**2024-07-15**|**Transforming Agency. On the mode of existence of Large Language Models**|Xabier E. Barandiaran et.al.|[2407.10735v1](http://arxiv.org/abs/2407.10735v1)|null|
-|**2024-07-15**|**Learning Dynamics of LLM Finetuning**|Yi Ren et.al.|[2407.10490v1](http://arxiv.org/abs/2407.10490v1)|[link](https://github.com/joshua-ren/learning_dynamics_llm)|
-|**2024-07-15**|**How and where does CLIP process negation?**|Vincent Quantmeyer et.al.|[2407.10488v1](http://arxiv.org/abs/2407.10488v1)|null|
-|**2024-07-14**|**Enhancing Emotion Prediction in News Headlines: Insights from ChatGPT and Seq2Seq Models for Free-Text Generation**|Ge Gao et.al.|[2407.10091v1](http://arxiv.org/abs/2407.10091v1)|null|
-|**2024-07-14**|**Rapid Biomedical Research Classification: The Pandemic PACT Advanced Categorisation Engine**|Omid Rohanian et.al.|[2407.10086v1](http://arxiv.org/abs/2407.10086v1)|null|
-|**2024-07-13**|**Building pre-train LLM Dataset for the INDIC Languages: a case study on Hindi**|Shantipriya Parida et.al.|[2407.09855v1](http://arxiv.org/abs/2407.09855v1)|null|
-|**2024-07-12**|**Deep Bag-of-Words Model: An Efficient and Interpretable Relevance Architecture for Chinese E-Commerce**|Zhe Lin et.al.|[2407.09395v1](http://arxiv.org/abs/2407.09395v1)|null|
-|**2024-07-12**|**DAHRS: Divergence-Aware Hallucination-Remediated SRL Projection**|Sangpil Youm et.al.|[2407.09283v1](http://arxiv.org/abs/2407.09283v1)|null|
-|**2024-07-11**|**Fault Diagnosis in Power Grids with Large Language Model**|Liu Jing et.al.|[2407.08836v1](http://arxiv.org/abs/2407.08836v1)|null|
-|**2024-07-11**|**Transformer Circuit Faithfulness Metrics are not Robust**|Joseph Miller et.al.|[2407.08734v1](http://arxiv.org/abs/2407.08734v1)|[link](https://github.com/ufo-101/auto-circuit)|
-|**2024-07-11**|**Uncertainty Estimation of Large Language Models in Medical Question Answering**|Jiaxin Wu et.al.|[2407.08662v1](http://arxiv.org/abs/2407.08662v1)|null|
-|**2024-07-11**|**Towards Explainable Evolution Strategies with Large Language Models**|Jill Baumann et.al.|[2407.08331v1](http://arxiv.org/abs/2407.08331v1)|null|
-|**2024-07-10**|**Training on the Test Task Confounds Evaluation and Emergence**|Ricardo Dominguez-Olmedo et.al.|[2407.07890v1](http://arxiv.org/abs/2407.07890v1)|[link](https://github.com/socialfoundations/training-on-the-test-task)|
-|**2024-07-10**|**A Proposed S.C.O.R.E. Evaluation Framework for Large Language Models : Safety, Consensus, Objectivity, Reproducibility and Explainability**|Ting Fang Tan et.al.|[2407.07666v1](http://arxiv.org/abs/2407.07666v1)|null|
-|**2024-07-10**|**Review-LLM: Harnessing Large Language Models for Personalized Review Generation**|Qiyao Peng et.al.|[2407.07487v1](http://arxiv.org/abs/2407.07487v1)|null|
-|**2024-07-10**|**Interpretable Differential Diagnosis with Dual-Inference Large Language Models**|Shuang Zhou et.al.|[2407.07330v1](http://arxiv.org/abs/2407.07330v1)|null|
-|**2024-07-09**|**STORYSUMM: Evaluating Faithfulness in Story Summarization**|Melanie Subbiah et.al.|[2407.06501v1](http://arxiv.org/abs/2407.06501v1)|[link](https://github.com/melaniesubbiah/storysumm)|
 
 ## Reasoning
 
@@ -210,3 +185,28 @@
 |**2024-07-01**|**Development of Cognitive Intelligence in Pre-trained Language Models**|Raj Sanjay Shah et.al.|[2407.01047v3](http://arxiv.org/abs/2407.01047v3)|null|
 |**2024-07-01**|**FRoG: Evaluating Fuzzy Reasoning of Generalized Quantifiers in Large Language Models**|Yiyuan Li et.al.|[2407.01046v2](http://arxiv.org/abs/2407.01046v2)|[link](https://github.com/nativeatom/frog)|
 |**2024-07-01**|**DynaThink: Fast or Slow? A Dynamic Decision-Making Framework for Large Language Models**|Jiabao Pan et.al.|[2407.01009v1](http://arxiv.org/abs/2407.01009v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-07-15**|**BiasScanner: Automatic Detection and Classification of News Bias to Strengthen Democracy**|Tim Menzner et.al.|[2407.10829v1](http://arxiv.org/abs/2407.10829v1)|null|
+|**2024-07-15**|**GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework**|Hannah Sansford et.al.|[2407.10793v1](http://arxiv.org/abs/2407.10793v1)|null|
+|**2024-07-15**|**Transforming Agency. On the mode of existence of Large Language Models**|Xabier E. Barandiaran et.al.|[2407.10735v1](http://arxiv.org/abs/2407.10735v1)|null|
+|**2024-07-15**|**Learning Dynamics of LLM Finetuning**|Yi Ren et.al.|[2407.10490v1](http://arxiv.org/abs/2407.10490v1)|[link](https://github.com/joshua-ren/learning_dynamics_llm)|
+|**2024-07-15**|**How and where does CLIP process negation?**|Vincent Quantmeyer et.al.|[2407.10488v1](http://arxiv.org/abs/2407.10488v1)|null|
+|**2024-07-14**|**Enhancing Emotion Prediction in News Headlines: Insights from ChatGPT and Seq2Seq Models for Free-Text Generation**|Ge Gao et.al.|[2407.10091v1](http://arxiv.org/abs/2407.10091v1)|null|
+|**2024-07-14**|**Rapid Biomedical Research Classification: The Pandemic PACT Advanced Categorisation Engine**|Omid Rohanian et.al.|[2407.10086v1](http://arxiv.org/abs/2407.10086v1)|null|
+|**2024-07-13**|**Building pre-train LLM Dataset for the INDIC Languages: a case study on Hindi**|Shantipriya Parida et.al.|[2407.09855v1](http://arxiv.org/abs/2407.09855v1)|null|
+|**2024-07-12**|**Deep Bag-of-Words Model: An Efficient and Interpretable Relevance Architecture for Chinese E-Commerce**|Zhe Lin et.al.|[2407.09395v1](http://arxiv.org/abs/2407.09395v1)|null|
+|**2024-07-12**|**DAHRS: Divergence-Aware Hallucination-Remediated SRL Projection**|Sangpil Youm et.al.|[2407.09283v1](http://arxiv.org/abs/2407.09283v1)|null|
+|**2024-07-11**|**Fault Diagnosis in Power Grids with Large Language Model**|Liu Jing et.al.|[2407.08836v1](http://arxiv.org/abs/2407.08836v1)|null|
+|**2024-07-11**|**Transformer Circuit Faithfulness Metrics are not Robust**|Joseph Miller et.al.|[2407.08734v1](http://arxiv.org/abs/2407.08734v1)|[link](https://github.com/ufo-101/auto-circuit)|
+|**2024-07-11**|**Uncertainty Estimation of Large Language Models in Medical Question Answering**|Jiaxin Wu et.al.|[2407.08662v1](http://arxiv.org/abs/2407.08662v1)|null|
+|**2024-07-11**|**Towards Explainable Evolution Strategies with Large Language Models**|Jill Baumann et.al.|[2407.08331v1](http://arxiv.org/abs/2407.08331v1)|null|
+|**2024-07-10**|**Training on the Test Task Confounds Evaluation and Emergence**|Ricardo Dominguez-Olmedo et.al.|[2407.07890v1](http://arxiv.org/abs/2407.07890v1)|[link](https://github.com/socialfoundations/training-on-the-test-task)|
+|**2024-07-10**|**A Proposed S.C.O.R.E. Evaluation Framework for Large Language Models : Safety, Consensus, Objectivity, Reproducibility and Explainability**|Ting Fang Tan et.al.|[2407.07666v1](http://arxiv.org/abs/2407.07666v1)|null|
+|**2024-07-10**|**Review-LLM: Harnessing Large Language Models for Personalized Review Generation**|Qiyao Peng et.al.|[2407.07487v1](http://arxiv.org/abs/2407.07487v1)|null|
+|**2024-07-10**|**Interpretable Differential Diagnosis with Dual-Inference Large Language Models**|Shuang Zhou et.al.|[2407.07330v1](http://arxiv.org/abs/2407.07330v1)|null|
+|**2024-07-09**|**STORYSUMM: Evaluating Faithfulness in Story Summarization**|Melanie Subbiah et.al.|[2407.06501v1](http://arxiv.org/abs/2407.06501v1)|[link](https://github.com/melaniesubbiah/storysumm)|
