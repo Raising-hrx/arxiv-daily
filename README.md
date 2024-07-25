@@ -1,29 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2024-07-25 20:32:19
+ Automated deployment @ 2024-07-25 20:56:49
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-07-24**|**Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mechanism**|Anhao Zhao et.al.|[2407.17011v1](http://arxiv.org/abs/2407.17011v1)|null|
-|**2024-07-23**|**Explanation Regularisation through the Lens of Attributions**|Pedro Ferreira et.al.|[2407.16693v1](http://arxiv.org/abs/2407.16693v1)|null|
-|**2024-07-23**|**A Comprehensive Survey of LLM Alignment Techniques: RLHF, RLAIF, PPO, DPO and More**|Zhichao Wang et.al.|[2407.16216v1](http://arxiv.org/abs/2407.16216v1)|null|
-|**2024-07-22**|**SocialQuotes: Learning Contextual Roles of Social Media Quotes on the Web**|John Palowitch et.al.|[2407.16007v1](http://arxiv.org/abs/2407.16007v1)|null|
-|**2024-07-22**|**Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability**|Zhuoyan Xu et.al.|[2407.15720v1](http://arxiv.org/abs/2407.15720v1)|[link](https://github.com/oliverxuzy/llm_compose)|
-|**2024-07-22**|**Dissecting Multiplication in Transformers: Insights into LLMs**|Luyu Qiu et.al.|[2407.15360v1](http://arxiv.org/abs/2407.15360v1)|null|
-|**2024-07-22**|**LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation**|Jiaxing Zhang et.al.|[2407.15351v2](http://arxiv.org/abs/2407.15351v2)|null|
-|**2024-07-21**|**XAI meets LLMs: A Survey of the Relation between Explainable AI and Large Language Models**|Erik Cambria et.al.|[2407.15248v1](http://arxiv.org/abs/2407.15248v1)|null|
-|**2024-07-20**|**Large-vocabulary forensic pathological analyses via prototypical cross-modal contrastive learning**|Chen Shen et.al.|[2407.14904v1](http://arxiv.org/abs/2407.14904v1)|null|
-|**2024-07-20**|**Understanding the Relationship between Prompts and Response Uncertainty in Large Language Models**|Ze Yu Zhang et.al.|[2407.14845v1](http://arxiv.org/abs/2407.14845v1)|null|
-|**2024-07-19**|**Internal Consistency and Self-Feedback in Large Language Models: A Survey**|Xun Liang et.al.|[2407.14507v1](http://arxiv.org/abs/2407.14507v1)|[link](https://github.com/iaar-shanghai/icsfsurvey)|
-|**2024-07-19**|**Evaluating the Reliability of Self-Explanations in Large Language Models**|Korbinian Randl et.al.|[2407.14487v1](http://arxiv.org/abs/2407.14487v1)|[link](https://github.com/k-randl/self-explaining_llms)|
-|**2024-07-19**|**Improving Retrieval in Sponsored Search by Leveraging Query Context Signals**|Akash Kumar Mohankumar et.al.|[2407.14346v1](http://arxiv.org/abs/2407.14346v1)|null|
-|**2024-07-18**|**Latent Causal Probing: A Formal Perspective on Probing with Causal Models of Data**|Charles Jin et.al.|[2407.13765v1](http://arxiv.org/abs/2407.13765v1)|null|
-|**2024-07-18**|**A Comparative Study on Automatic Coding of Medical Letters with Explainability**|Jamie Glen et.al.|[2407.13638v1](http://arxiv.org/abs/2407.13638v1)|[link](https://github.com/Glenj01/Medical-Coding)|
-|**2024-07-18**|**Why do you cite? An investigation on citation intents and decision-making classification processes**|Lorenzo Paolini et.al.|[2407.13329v1](http://arxiv.org/abs/2407.13329v1)|null|
 
 ## Question Answering
 
@@ -78,6 +56,28 @@
 |**2024-07-18**|**BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models**|Moon Ye-Bin et.al.|[2407.13442v1](http://arxiv.org/abs/2407.13442v1)|null|
 |**2024-07-18**|**Correcting the Mythos of KL-Regularization: Direct Alignment without Overoptimization via Chi-Squared Preference Optimization**|Audrey Huang et.al.|[2407.13399v2](http://arxiv.org/abs/2407.13399v2)|null|
 |**2024-07-18**|**Retrieve, Summarize, Plan: Advancing Multi-hop Question Answering with an Iterative Approach**|Zhouyu Jiang et.al.|[2407.13101v1](http://arxiv.org/abs/2407.13101v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-07-24**|**Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mechanism**|Anhao Zhao et.al.|[2407.17011v1](http://arxiv.org/abs/2407.17011v1)|null|
+|**2024-07-23**|**Explanation Regularisation through the Lens of Attributions**|Pedro Ferreira et.al.|[2407.16693v1](http://arxiv.org/abs/2407.16693v1)|null|
+|**2024-07-23**|**A Comprehensive Survey of LLM Alignment Techniques: RLHF, RLAIF, PPO, DPO and More**|Zhichao Wang et.al.|[2407.16216v1](http://arxiv.org/abs/2407.16216v1)|null|
+|**2024-07-22**|**SocialQuotes: Learning Contextual Roles of Social Media Quotes on the Web**|John Palowitch et.al.|[2407.16007v1](http://arxiv.org/abs/2407.16007v1)|null|
+|**2024-07-22**|**Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability**|Zhuoyan Xu et.al.|[2407.15720v1](http://arxiv.org/abs/2407.15720v1)|[link](https://github.com/oliverxuzy/llm_compose)|
+|**2024-07-22**|**Dissecting Multiplication in Transformers: Insights into LLMs**|Luyu Qiu et.al.|[2407.15360v1](http://arxiv.org/abs/2407.15360v1)|null|
+|**2024-07-22**|**LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation**|Jiaxing Zhang et.al.|[2407.15351v2](http://arxiv.org/abs/2407.15351v2)|null|
+|**2024-07-21**|**XAI meets LLMs: A Survey of the Relation between Explainable AI and Large Language Models**|Erik Cambria et.al.|[2407.15248v1](http://arxiv.org/abs/2407.15248v1)|null|
+|**2024-07-20**|**Large-vocabulary forensic pathological analyses via prototypical cross-modal contrastive learning**|Chen Shen et.al.|[2407.14904v1](http://arxiv.org/abs/2407.14904v1)|null|
+|**2024-07-20**|**Understanding the Relationship between Prompts and Response Uncertainty in Large Language Models**|Ze Yu Zhang et.al.|[2407.14845v1](http://arxiv.org/abs/2407.14845v1)|null|
+|**2024-07-19**|**Internal Consistency and Self-Feedback in Large Language Models: A Survey**|Xun Liang et.al.|[2407.14507v1](http://arxiv.org/abs/2407.14507v1)|[link](https://github.com/iaar-shanghai/icsfsurvey)|
+|**2024-07-19**|**Evaluating the Reliability of Self-Explanations in Large Language Models**|Korbinian Randl et.al.|[2407.14487v1](http://arxiv.org/abs/2407.14487v1)|[link](https://github.com/k-randl/self-explaining_llms)|
+|**2024-07-19**|**Improving Retrieval in Sponsored Search by Leveraging Query Context Signals**|Akash Kumar Mohankumar et.al.|[2407.14346v1](http://arxiv.org/abs/2407.14346v1)|null|
+|**2024-07-18**|**Latent Causal Probing: A Formal Perspective on Probing with Causal Models of Data**|Charles Jin et.al.|[2407.13765v1](http://arxiv.org/abs/2407.13765v1)|null|
+|**2024-07-18**|**A Comparative Study on Automatic Coding of Medical Letters with Explainability**|Jamie Glen et.al.|[2407.13638v1](http://arxiv.org/abs/2407.13638v1)|[link](https://github.com/Glenj01/Medical-Coding)|
+|**2024-07-18**|**Why do you cite? An investigation on citation intents and decision-making classification processes**|Lorenzo Paolini et.al.|[2407.13329v1](http://arxiv.org/abs/2407.13329v1)|null|
 
 ## Reasoning
 
