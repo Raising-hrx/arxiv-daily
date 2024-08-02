@@ -1,7 +1,33 @@
 # arxiv-daily
- Automated deployment @ 2024-08-02 20:32:30
+ Automated deployment @ 2024-08-02 20:57:06
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-07-31**|**Vision-Language Model Based Handwriting Verification**|Mihir Chauhan et.al.|[2407.21788v1](http://arxiv.org/abs/2407.21788v1)|null|
+|**2024-07-31**|**Prompting Medical Large Vision-Language Models to Diagnose Pathologies by Visual Question Answering**|Danfeng Guo et.al.|[2407.21368v1](http://arxiv.org/abs/2407.21368v1)|null|
+|**2024-07-30**|**From Feature Importance to Natural Language Explanations Using LLMs with RAG**|Sule Tekkesinoglu et.al.|[2407.20990v1](http://arxiv.org/abs/2407.20990v1)|null|
+|**2024-07-30**|**Entropy, Thermodynamics and the Geometrization of the Language Model**|Wenzhe Yang et.al.|[2407.21092v1](http://arxiv.org/abs/2407.21092v1)|null|
+|**2024-07-30**|**Faithful and Plausible Natural Language Explanations for Image Classification: A Pipeline Approach**|Adam Wojciechowski et.al.|[2407.20899v1](http://arxiv.org/abs/2407.20899v1)|null|
+|**2024-07-29**|**Through the Looking Glass, and what Horn Clause Programs Found There**|Paul Tarau et.al.|[2407.20413v1](http://arxiv.org/abs/2407.20413v1)|null|
+|**2024-07-29**|**BEExAI: Benchmark to Evaluate Explainable AI**|Samuel Sithakoul et.al.|[2407.19897v1](http://arxiv.org/abs/2407.19897v1)|[link](https://github.com/squareresearchcenter-ai/beexai)|
+|**2024-07-29**|**Concise Thoughts: Impact of Output Length on LLM Reasoning and Cost**|Sania Nayab et.al.|[2407.19825v1](http://arxiv.org/abs/2407.19825v1)|null|
+|**2024-07-28**|**Visual Riddles: a Commonsense and World Knowledge Challenge for Large Vision and Language Models**|Nitzan Bitton-Guetta et.al.|[2407.19474v1](http://arxiv.org/abs/2407.19474v1)|null|
+|**2024-07-27**|**On Behalf of the Stakeholders: Trends in NLP Model Interpretability in the Era of LLMs**|Nitay Calderon et.al.|[2407.19200v1](http://arxiv.org/abs/2407.19200v1)|null|
+|**2024-07-27**|**Towards the Dynamics of a DNN Learning Symbolic Interactions**|Qihan Ren et.al.|[2407.19198v1](http://arxiv.org/abs/2407.19198v1)|null|
+|**2024-07-26**|**Fairness Definitions in Language Models Explained**|Thang Viet Doan et.al.|[2407.18454v1](http://arxiv.org/abs/2407.18454v1)|[link](https://github.com/lavinwong/fairness-in-large-language-models)|
+|**2024-07-25**|**Robust Claim Verification Through Fact Detection**|Nazanin Jafari et.al.|[2407.18367v1](http://arxiv.org/abs/2407.18367v1)|null|
+|**2024-07-25**|**Tracking linguistic information in transformer-based sentence embeddings through targeted sparsification**|Vivi Nastase et.al.|[2407.18119v1](http://arxiv.org/abs/2407.18119v1)|[link](https://github.com/clcl-geneva/blm-snfdisentangling)|
+|**2024-07-25**|**Exploring the Plausibility of Hate and Counter Speech Detectors with Explainable AI**|Adrian Jaques Böck et.al.|[2407.20274v1](http://arxiv.org/abs/2407.20274v1)|null|
+|**2024-07-25**|**Innovative Speech-Based Deep Learning Approaches for Parkinson's Disease Classification: A Systematic Review**|Lisanne van Gelderen et.al.|[2407.17844v1](http://arxiv.org/abs/2407.17844v1)|null|
+|**2024-07-24**|**What Matters in Explanations: Towards Explainable Fake Review Detection Focusing on Transformers**|Md Shajalal et.al.|[2407.21056v1](http://arxiv.org/abs/2407.21056v1)|null|
+|**2024-07-24**|**Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mechanism**|Anhao Zhao et.al.|[2407.17011v1](http://arxiv.org/abs/2407.17011v1)|null|
+|**2024-07-24**|**Generative artificial intelligence in dentistry: Current approaches and future challenges**|Fabián Villena et.al.|[2407.17532v1](http://arxiv.org/abs/2407.17532v1)|null|
+|**2024-07-23**|**Explanation Regularisation through the Lens of Attributions**|Pedro Ferreira et.al.|[2407.16693v1](http://arxiv.org/abs/2407.16693v1)|[link](https://github.com/PedroMLF/ER_through_the_lens_of_attributions)|
 
 ## Question Answering
 
@@ -45,32 +71,6 @@
 |**2024-07-25**|**PersonaGym: Evaluating Persona Agents and LLMs**|Vinay Samuel et.al.|[2407.18416v2](http://arxiv.org/abs/2407.18416v2)|null|
 |**2024-07-25**|**Exploring Scaling Trends in LLM Robustness**|Nikolaus Howe et.al.|[2407.18213v2](http://arxiv.org/abs/2407.18213v2)|null|
 |**2024-07-25**|**Tracking linguistic information in transformer-based sentence embeddings through targeted sparsification**|Vivi Nastase et.al.|[2407.18119v1](http://arxiv.org/abs/2407.18119v1)|[link](https://github.com/clcl-geneva/blm-snfdisentangling)|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-07-31**|**Vision-Language Model Based Handwriting Verification**|Mihir Chauhan et.al.|[2407.21788v1](http://arxiv.org/abs/2407.21788v1)|null|
-|**2024-07-31**|**Prompting Medical Large Vision-Language Models to Diagnose Pathologies by Visual Question Answering**|Danfeng Guo et.al.|[2407.21368v1](http://arxiv.org/abs/2407.21368v1)|null|
-|**2024-07-30**|**From Feature Importance to Natural Language Explanations Using LLMs with RAG**|Sule Tekkesinoglu et.al.|[2407.20990v1](http://arxiv.org/abs/2407.20990v1)|null|
-|**2024-07-30**|**Entropy, Thermodynamics and the Geometrization of the Language Model**|Wenzhe Yang et.al.|[2407.21092v1](http://arxiv.org/abs/2407.21092v1)|null|
-|**2024-07-30**|**Faithful and Plausible Natural Language Explanations for Image Classification: A Pipeline Approach**|Adam Wojciechowski et.al.|[2407.20899v1](http://arxiv.org/abs/2407.20899v1)|null|
-|**2024-07-29**|**Through the Looking Glass, and what Horn Clause Programs Found There**|Paul Tarau et.al.|[2407.20413v1](http://arxiv.org/abs/2407.20413v1)|null|
-|**2024-07-29**|**BEExAI: Benchmark to Evaluate Explainable AI**|Samuel Sithakoul et.al.|[2407.19897v1](http://arxiv.org/abs/2407.19897v1)|[link](https://github.com/squareresearchcenter-ai/beexai)|
-|**2024-07-29**|**Concise Thoughts: Impact of Output Length on LLM Reasoning and Cost**|Sania Nayab et.al.|[2407.19825v1](http://arxiv.org/abs/2407.19825v1)|null|
-|**2024-07-28**|**Visual Riddles: a Commonsense and World Knowledge Challenge for Large Vision and Language Models**|Nitzan Bitton-Guetta et.al.|[2407.19474v1](http://arxiv.org/abs/2407.19474v1)|null|
-|**2024-07-27**|**On Behalf of the Stakeholders: Trends in NLP Model Interpretability in the Era of LLMs**|Nitay Calderon et.al.|[2407.19200v1](http://arxiv.org/abs/2407.19200v1)|null|
-|**2024-07-27**|**Towards the Dynamics of a DNN Learning Symbolic Interactions**|Qihan Ren et.al.|[2407.19198v1](http://arxiv.org/abs/2407.19198v1)|null|
-|**2024-07-26**|**Fairness Definitions in Language Models Explained**|Thang Viet Doan et.al.|[2407.18454v1](http://arxiv.org/abs/2407.18454v1)|[link](https://github.com/lavinwong/fairness-in-large-language-models)|
-|**2024-07-25**|**Robust Claim Verification Through Fact Detection**|Nazanin Jafari et.al.|[2407.18367v1](http://arxiv.org/abs/2407.18367v1)|null|
-|**2024-07-25**|**Tracking linguistic information in transformer-based sentence embeddings through targeted sparsification**|Vivi Nastase et.al.|[2407.18119v1](http://arxiv.org/abs/2407.18119v1)|[link](https://github.com/clcl-geneva/blm-snfdisentangling)|
-|**2024-07-25**|**Exploring the Plausibility of Hate and Counter Speech Detectors with Explainable AI**|Adrian Jaques Böck et.al.|[2407.20274v1](http://arxiv.org/abs/2407.20274v1)|null|
-|**2024-07-25**|**Innovative Speech-Based Deep Learning Approaches for Parkinson's Disease Classification: A Systematic Review**|Lisanne van Gelderen et.al.|[2407.17844v1](http://arxiv.org/abs/2407.17844v1)|null|
-|**2024-07-24**|**What Matters in Explanations: Towards Explainable Fake Review Detection Focusing on Transformers**|Md Shajalal et.al.|[2407.21056v1](http://arxiv.org/abs/2407.21056v1)|null|
-|**2024-07-24**|**Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mechanism**|Anhao Zhao et.al.|[2407.17011v1](http://arxiv.org/abs/2407.17011v1)|null|
-|**2024-07-24**|**Generative artificial intelligence in dentistry: Current approaches and future challenges**|Fabián Villena et.al.|[2407.17532v1](http://arxiv.org/abs/2407.17532v1)|null|
-|**2024-07-23**|**Explanation Regularisation through the Lens of Attributions**|Pedro Ferreira et.al.|[2407.16693v1](http://arxiv.org/abs/2407.16693v1)|[link](https://github.com/PedroMLF/ER_through_the_lens_of_attributions)|
 
 ## Reasoning
 
