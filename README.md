@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-05 09:17:11
+ Automated deployment @ 2024-08-05 20:33:59
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,9 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-02**|**Misinforming LLMs: vulnerabilities, challenges and opportunities**|Bo Zhou et.al.|[2408.01168v1](http://arxiv.org/abs/2408.01168v1)|null|
+|**2024-08-01**|**Automatic Pull Request Description Generation Using LLMs: A T5 Model Approach**|Md Nazmus Sakib et.al.|[2408.00921v1](http://arxiv.org/abs/2408.00921v1)|null|
+|**2024-08-01**|**Granting GPT-4 License and Opportunity: Enhancing Accuracy and Confidence Estimation for Few-Shot Event Detection**|Steven Fincke et.al.|[2408.00914v1](http://arxiv.org/abs/2408.00914v1)|null|
 |**2024-07-31**|**Vision-Language Model Based Handwriting Verification**|Mihir Chauhan et.al.|[2407.21788v1](http://arxiv.org/abs/2407.21788v1)|null|
 |**2024-07-31**|**Prompting Medical Large Vision-Language Models to Diagnose Pathologies by Visual Question Answering**|Danfeng Guo et.al.|[2407.21368v1](http://arxiv.org/abs/2407.21368v1)|null|
 |**2024-07-30**|**From Feature Importance to Natural Language Explanations Using LLMs with RAG**|Sule Tekkesinoglu et.al.|[2407.20990v1](http://arxiv.org/abs/2407.20990v1)|null|
@@ -22,15 +25,21 @@
 |**2024-07-26**|**Fairness Definitions in Language Models Explained**|Thang Viet Doan et.al.|[2407.18454v1](http://arxiv.org/abs/2407.18454v1)|[link](https://github.com/lavinwong/fairness-in-large-language-models)|
 |**2024-07-25**|**Robust Claim Verification Through Fact Detection**|Nazanin Jafari et.al.|[2407.18367v1](http://arxiv.org/abs/2407.18367v1)|null|
 |**2024-07-25**|**Tracking linguistic information in transformer-based sentence embeddings through targeted sparsification**|Vivi Nastase et.al.|[2407.18119v1](http://arxiv.org/abs/2407.18119v1)|[link](https://github.com/clcl-geneva/blm-snfdisentangling)|
-|**2024-07-25**|**Exploring the Plausibility of Hate and Counter Speech Detectors with Explainable AI**|Adrian Jaques Böck et.al.|[2407.20274v1](http://arxiv.org/abs/2407.20274v1)|null|
-|**2024-07-25**|**Innovative Speech-Based Deep Learning Approaches for Parkinson's Disease Classification: A Systematic Review**|Lisanne van Gelderen et.al.|[2407.17844v1](http://arxiv.org/abs/2407.17844v1)|null|
-|**2024-07-24**|**What Matters in Explanations: Towards Explainable Fake Review Detection Focusing on Transformers**|Md Shajalal et.al.|[2407.21056v1](http://arxiv.org/abs/2407.21056v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-02**|**DebateQA: Evaluating Question Answering on Debatable Knowledge**|Rongwu Xu et.al.|[2408.01419v1](http://arxiv.org/abs/2408.01419v1)|null|
+|**2024-08-02**|**MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models**|Benno Weck et.al.|[2408.01337v1](http://arxiv.org/abs/2408.01337v1)|null|
+|**2024-08-02**|**RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework**|Kunlun Zhu et.al.|[2408.01262v1](http://arxiv.org/abs/2408.01262v1)|null|
+|**2024-08-02**|**Misinforming LLMs: vulnerabilities, challenges and opportunities**|Bo Zhou et.al.|[2408.01168v1](http://arxiv.org/abs/2408.01168v1)|null|
+|**2024-08-02**|**BioRAG: A RAG-LLM Framework for Biological Question Reasoning**|Chengrui Wang et.al.|[2408.01107v1](http://arxiv.org/abs/2408.01107v1)|null|
+|**2024-08-02**|**Adaptive Contrastive Decoding in Retrieval-Augmented Generation for Handling Noisy Contexts**|Youna Kim et.al.|[2408.01084v1](http://arxiv.org/abs/2408.01084v1)|null|
+|**2024-08-02**|**QUDSELECT: Selective Decoding for Questions Under Discussion Parsing**|Ashima Suvarna et.al.|[2408.01046v1](http://arxiv.org/abs/2408.01046v1)|null|
+|**2024-08-02**|**Fairness in Large Language Models in Three Hour**|Thang Doan Viet et.al.|[2408.00992v1](http://arxiv.org/abs/2408.00992v1)|null|
+|**2024-08-01**|**Hybrid Querying Over Relational Databases and Large Language Models**|Fuheng Zhao et.al.|[2408.00884v1](http://arxiv.org/abs/2408.00884v1)|null|
 |**2024-08-01**|**MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models for Integrated Capabilities**|Weihao Yu et.al.|[2408.00765v1](http://arxiv.org/abs/2408.00765v1)|null|
 |**2024-08-01**|**Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions**|Guangzhi Xiong et.al.|[2408.00727v1](http://arxiv.org/abs/2408.00727v1)|null|
 |**2024-08-01**|**Mitigating Multilingual Hallucination in Large Vision-Language Models**|Xiaoye Qu et.al.|[2408.00550v1](http://arxiv.org/abs/2408.00550v1)|null|
@@ -65,16 +74,19 @@
 |**2024-07-29**|**Do Text-to-Vis Benchmarks Test Real Use of Visualisations?**|Hy Nguyen et.al.|[2407.19726v1](http://arxiv.org/abs/2407.19726v1)|null|
 |**2024-07-28**|**Visual Riddles: a Commonsense and World Knowledge Challenge for Large Vision and Language Models**|Nitzan Bitton-Guetta et.al.|[2407.19474v1](http://arxiv.org/abs/2407.19474v1)|null|
 |**2024-07-27**|**On Behalf of the Stakeholders: Trends in NLP Model Interpretability in the Era of LLMs**|Nitay Calderon et.al.|[2407.19200v1](http://arxiv.org/abs/2407.19200v1)|null|
-|**2024-07-27**|**Why Misinformation is Created? Detecting them by Integrating Intent Features**|Bing Wang et.al.|[2407.19196v1](http://arxiv.org/abs/2407.19196v1)|null|
-|**2024-07-26**|**Towards Effective and Efficient Continual Pre-training of Large Language Models**|Jie Chen et.al.|[2407.18743v1](http://arxiv.org/abs/2407.18743v1)|null|
-|**2024-07-26**|**Towards Generalized Offensive Language Identification**|Alphaeus Dmonte et.al.|[2407.18738v1](http://arxiv.org/abs/2407.18738v1)|null|
-|**2024-07-26**|**A Reliable Common-Sense Reasoning Socialbot Built Using LLMs and Goal-Directed ASP**|Yankai Zeng et.al.|[2407.18498v1](http://arxiv.org/abs/2407.18498v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-02**|**Mission Impossible: A Statistical Perspective on Jailbreaking LLMs**|Jingtong Su et.al.|[2408.01420v1](http://arxiv.org/abs/2408.01420v1)|null|
+|**2024-08-02**|**Coalitions of Large Language Models Increase the Robustness of AI Agents**|Prattyush Mangal et.al.|[2408.01380v1](http://arxiv.org/abs/2408.01380v1)|null|
+|**2024-08-02**|**MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models**|Benno Weck et.al.|[2408.01337v1](http://arxiv.org/abs/2408.01337v1)|null|
+|**2024-08-02**|**Misinforming LLMs: vulnerabilities, challenges and opportunities**|Bo Zhou et.al.|[2408.01168v1](http://arxiv.org/abs/2408.01168v1)|null|
+|**2024-08-02**|**IAI Group at CheckThat! 2024: Transformer Models and Data Augmentation for Checkworthy Claim Detection**|Peter Røysland Aarnes et.al.|[2408.01118v1](http://arxiv.org/abs/2408.01118v1)|null|
+|**2024-08-02**|**BioRAG: A RAG-LLM Framework for Biological Question Reasoning**|Chengrui Wang et.al.|[2408.01107v1](http://arxiv.org/abs/2408.01107v1)|null|
+|**2024-08-01**|**Leveraging Large Language Models (LLMs) for Traffic Management at Urban Intersections: The Case of Mixed Traffic Scenarios**|Sari Masri et.al.|[2408.00948v1](http://arxiv.org/abs/2408.00948v1)|null|
 |**2024-08-01**|**Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions**|Guangzhi Xiong et.al.|[2408.00727v1](http://arxiv.org/abs/2408.00727v1)|null|
 |**2024-08-01**|**Are Bigger Encoders Always Better in Vision Large Models?**|Bozhou Li et.al.|[2408.00620v1](http://arxiv.org/abs/2408.00620v1)|null|
 |**2024-08-01**|**Non Verbis, Sed Rebus: Large Language Models are Weak Solvers of Italian Rebuses**|Gabriele Sarti et.al.|[2408.00584v1](http://arxiv.org/abs/2408.00584v1)|null|
@@ -127,6 +139,7 @@
 |**2024-07-23**|**PreAlign: Boosting Cross-Lingual Transfer by Early Establishment of Multilingual Alignment**|Jiahuan Li et.al.|[2407.16222v1](http://arxiv.org/abs/2407.16222v1)|null|
 |**2024-07-23**|**Figure it Out: Analyzing-based Jailbreak Attack on Large Language Models**|Shi Lin et.al.|[2407.16205v2](http://arxiv.org/abs/2407.16205v2)|null|
 |**2024-07-23**|**UniMEL: A Unified Framework for Multimodal Entity Linking with Large Language Models**|Liu Qi et.al.|[2407.16160v1](http://arxiv.org/abs/2407.16160v1)|null|
+|**2024-07-22**|**Leveraging LLM Reasoning Enhances Personalized Recommender Systems**|Alicia Y. Tsai et.al.|[2408.00802v1](http://arxiv.org/abs/2408.00802v1)|null|
 |**2024-07-22**|**Enhancing Temporal Understanding in LLMs for Semi-structured Tables**|Irwin Deng et.al.|[2407.16030v1](http://arxiv.org/abs/2407.16030v1)|null|
 |**2024-07-22**|**SocialQuotes: Learning Contextual Roles of Social Media Quotes on the Web**|John Palowitch et.al.|[2407.16007v1](http://arxiv.org/abs/2407.16007v1)|null|
 |**2024-07-22**|**Benchmarks as Microscopes: A Call for Model Metrology**|Michael Saxon et.al.|[2407.16711v2](http://arxiv.org/abs/2407.16711v2)|null|
@@ -175,11 +188,3 @@
 |**2024-07-16**|**Better RAG using Relevant Information Gain**|Marc Pickett et.al.|[2407.12101v1](http://arxiv.org/abs/2407.12101v1)|[link](https://github.com/EmergenceAI/dartboard)|
 |**2024-07-16**|**NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context Window?**|Mo Li et.al.|[2407.11963v1](http://arxiv.org/abs/2407.11963v1)|[link](https://github.com/open-compass/opencompass)|
 |**2024-07-16**|**BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval**|Hongjin Su et.al.|[2407.12883v1](http://arxiv.org/abs/2407.12883v1)|null|
-|**2024-07-16**|**InferAct: Inferring Safe Actions for LLM-Based Agents Through Preemptive Evaluation and Human Feedback**|Haishuo Fang et.al.|[2407.11843v1](http://arxiv.org/abs/2407.11843v1)|null|
-|**2024-07-16**|**A Comprehensive Evaluation of Large Language Models on Temporal Event Forecasting**|He Chang et.al.|[2407.11638v1](http://arxiv.org/abs/2407.11638v1)|null|
-|**2024-07-16**|**Large Visual-Language Models Are Also Good Classifiers: A Study of In-Context Multimodal Fake News Detection**|Ye Jiang et.al.|[2407.12879v1](http://arxiv.org/abs/2407.12879v1)|null|
-|**2024-07-16**|**Reasoning with Large Language Models, a Survey**|Aske Plaat et.al.|[2407.11511v1](http://arxiv.org/abs/2407.11511v1)|null|
-|**2024-07-16**|**Review-Feedback-Reason (ReFeR): A Novel Framework for NLG Evaluation and Reasoning**|Yaswanth Narsupalli et.al.|[2407.12877v1](http://arxiv.org/abs/2407.12877v1)|null|
-|**2024-07-16**|**LOTUS: Enabling Semantic Queries with LLMs Over Tables of Unstructured and Structured Data**|Liana Patel et.al.|[2407.11418v1](http://arxiv.org/abs/2407.11418v1)|[link](https://github.com/stanford-futuredata/lotus)|
-|**2024-07-16**|**SPINACH: SPARQL-Based Information Navigation for Challenging Real-World Questions**|Shicheng Liu et.al.|[2407.11417v1](http://arxiv.org/abs/2407.11417v1)|null|
-|**2024-07-16**|**Reliable Reasoning Beyond Natural Language**|Nasim Borazjanizadeh et.al.|[2407.11373v2](http://arxiv.org/abs/2407.11373v2)|null|
