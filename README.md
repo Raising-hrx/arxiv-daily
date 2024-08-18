@@ -1,31 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2024-08-18 09:20:26
+ Automated deployment @ 2024-08-18 20:32:43
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-14**|**DataVisT5: A Pre-trained Language Model for Jointly Understanding Text and Data Visualization**|Zhuoyue Wan et.al.|[2408.07401v1](http://arxiv.org/abs/2408.07401v1)|null|
-|**2024-08-13**|**IFShip: A Large Vision-Language Model for Interpretable Fine-grained Ship Classification via Domain Knowledge-Enhanced Instruction Tuning**|Mingning Guo et.al.|[2408.06631v1](http://arxiv.org/abs/2408.06631v1)|null|
-|**2024-08-12**|**Chain-of-Strategy Planning with LLMs: Aligning the Generation of Psychotherapy Dialogue with Strategy in Motivational Interviewing**|Xin Sun et.al.|[2408.06527v1](http://arxiv.org/abs/2408.06527v1)|null|
-|**2024-08-12**|**Long-Form Answers to Visual Questions from Blind and Low Vision People**|Mina Huh et.al.|[2408.06303v1](http://arxiv.org/abs/2408.06303v1)|null|
-|**2024-08-12**|**Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation**|Jieyong Kim et.al.|[2408.06276v2](http://arxiv.org/abs/2408.06276v2)|null|
-|**2024-08-12**|**On Effects of Steering Latent Representation for Large Language Model Unlearning**|Dang Huu-Tien et.al.|[2408.06223v1](http://arxiv.org/abs/2408.06223v1)|null|
-|**2024-08-12**|**An Investigation Into Explainable Audio Hate Speech Detection**|Jinmyeong An et.al.|[2408.06065v1](http://arxiv.org/abs/2408.06065v1)|null|
-|**2024-08-12**|**Global-to-Local Support Spectrums for Language Model Explainability**|Lucas Agussurja et.al.|[2408.05976v1](http://arxiv.org/abs/2408.05976v1)|null|
-|**2024-08-12**|**The Language of Trauma: Modeling Traumatic Event Descriptions Across Domains with Explainable AI**|Miriam Schirmer et.al.|[2408.05977v1](http://arxiv.org/abs/2408.05977v1)|null|
-|**2024-08-11**|**Iterative Improvement of an Additively Regularized Topic Model**|Alex Gorbulev et.al.|[2408.05840v2](http://arxiv.org/abs/2408.05840v2)|null|
-|**2024-08-10**|**WiDe-analysis: Enabling One-click Content Moderation Analysis on Wikipedia's Articles for Deletion**|Hsuvas Borkakoty et.al.|[2408.05655v1](http://arxiv.org/abs/2408.05655v1)|null|
-|**2024-08-10**|**Metacognitive Myopia in Large Language Models**|Florian Scholten et.al.|[2408.05568v1](http://arxiv.org/abs/2408.05568v1)|null|
-|**2024-08-09**|**DataNarrative: Automated Data-Driven Storytelling with Visualizations and Texts**|Mohammed Saidul Islam et.al.|[2408.05346v2](http://arxiv.org/abs/2408.05346v2)|null|
-|**2024-08-09**|**Towards a Generative Approach for Emotion Detection and Reasoning**|Ankita Bhaumik et.al.|[2408.04906v1](http://arxiv.org/abs/2408.04906v1)|null|
-|**2024-08-08**|**Transformer Explainer: Interactive Learning of Text-Generative Models**|Aeree Cho et.al.|[2408.04619v1](http://arxiv.org/abs/2408.04619v1)|null|
-|**2024-08-08**|**SCENE: Evaluating Explainable AI Techniques Using Soft Counterfactuals**|Haoran Zheng et.al.|[2408.04575v1](http://arxiv.org/abs/2408.04575v1)|null|
-|**2024-08-08**|**Exploring Reasoning Biases in Large Language Models Through Syllogism: Insights from the NeuBAROCO Dataset**|Kentaro Ozeki et.al.|[2408.04403v1](http://arxiv.org/abs/2408.04403v1)|[link](https://github.com/kmineshima/neubaroco)|
-|**2024-08-07**|**Improving Large Language Model (LLM) fidelity through context-aware grounding: A systematic approach to reliability and veracity**|Wrick Talukdar et.al.|[2408.04023v1](http://arxiv.org/abs/2408.04023v1)|null|
 
 ## Question Answering
 
@@ -70,6 +46,30 @@
 |**2024-08-09**|**Towards a Generative Approach for Emotion Detection and Reasoning**|Ankita Bhaumik et.al.|[2408.04906v1](http://arxiv.org/abs/2408.04906v1)|null|
 |**2024-08-09**|**MSG-Chart: Multimodal Scene Graph for ChartQA**|Yue Dai et.al.|[2408.04852v1](http://arxiv.org/abs/2408.04852v1)|null|
 |**2024-08-08**|**Arctic-TILT. Business Document Understanding at Sub-Billion Scale**|Łukasz Borchmann et.al.|[2408.04632v1](http://arxiv.org/abs/2408.04632v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-14**|**DataVisT5: A Pre-trained Language Model for Jointly Understanding Text and Data Visualization**|Zhuoyue Wan et.al.|[2408.07401v1](http://arxiv.org/abs/2408.07401v1)|null|
+|**2024-08-13**|**IFShip: A Large Vision-Language Model for Interpretable Fine-grained Ship Classification via Domain Knowledge-Enhanced Instruction Tuning**|Mingning Guo et.al.|[2408.06631v1](http://arxiv.org/abs/2408.06631v1)|null|
+|**2024-08-12**|**Chain-of-Strategy Planning with LLMs: Aligning the Generation of Psychotherapy Dialogue with Strategy in Motivational Interviewing**|Xin Sun et.al.|[2408.06527v1](http://arxiv.org/abs/2408.06527v1)|null|
+|**2024-08-12**|**Long-Form Answers to Visual Questions from Blind and Low Vision People**|Mina Huh et.al.|[2408.06303v1](http://arxiv.org/abs/2408.06303v1)|null|
+|**2024-08-12**|**Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation**|Jieyong Kim et.al.|[2408.06276v2](http://arxiv.org/abs/2408.06276v2)|null|
+|**2024-08-12**|**On Effects of Steering Latent Representation for Large Language Model Unlearning**|Dang Huu-Tien et.al.|[2408.06223v1](http://arxiv.org/abs/2408.06223v1)|null|
+|**2024-08-12**|**An Investigation Into Explainable Audio Hate Speech Detection**|Jinmyeong An et.al.|[2408.06065v1](http://arxiv.org/abs/2408.06065v1)|null|
+|**2024-08-12**|**Global-to-Local Support Spectrums for Language Model Explainability**|Lucas Agussurja et.al.|[2408.05976v1](http://arxiv.org/abs/2408.05976v1)|null|
+|**2024-08-12**|**The Language of Trauma: Modeling Traumatic Event Descriptions Across Domains with Explainable AI**|Miriam Schirmer et.al.|[2408.05977v1](http://arxiv.org/abs/2408.05977v1)|null|
+|**2024-08-11**|**Iterative Improvement of an Additively Regularized Topic Model**|Alex Gorbulev et.al.|[2408.05840v2](http://arxiv.org/abs/2408.05840v2)|null|
+|**2024-08-10**|**WiDe-analysis: Enabling One-click Content Moderation Analysis on Wikipedia's Articles for Deletion**|Hsuvas Borkakoty et.al.|[2408.05655v1](http://arxiv.org/abs/2408.05655v1)|null|
+|**2024-08-10**|**Metacognitive Myopia in Large Language Models**|Florian Scholten et.al.|[2408.05568v1](http://arxiv.org/abs/2408.05568v1)|null|
+|**2024-08-09**|**DataNarrative: Automated Data-Driven Storytelling with Visualizations and Texts**|Mohammed Saidul Islam et.al.|[2408.05346v2](http://arxiv.org/abs/2408.05346v2)|null|
+|**2024-08-09**|**Towards a Generative Approach for Emotion Detection and Reasoning**|Ankita Bhaumik et.al.|[2408.04906v1](http://arxiv.org/abs/2408.04906v1)|null|
+|**2024-08-08**|**Transformer Explainer: Interactive Learning of Text-Generative Models**|Aeree Cho et.al.|[2408.04619v1](http://arxiv.org/abs/2408.04619v1)|null|
+|**2024-08-08**|**SCENE: Evaluating Explainable AI Techniques Using Soft Counterfactuals**|Haoran Zheng et.al.|[2408.04575v1](http://arxiv.org/abs/2408.04575v1)|null|
+|**2024-08-08**|**Exploring Reasoning Biases in Large Language Models Through Syllogism: Insights from the NeuBAROCO Dataset**|Kentaro Ozeki et.al.|[2408.04403v1](http://arxiv.org/abs/2408.04403v1)|[link](https://github.com/kmineshima/neubaroco)|
+|**2024-08-07**|**Improving Large Language Model (LLM) fidelity through context-aware grounding: A systematic approach to reliability and veracity**|Wrick Talukdar et.al.|[2408.04023v1](http://arxiv.org/abs/2408.04023v1)|null|
 
 ## Reasoning
 
