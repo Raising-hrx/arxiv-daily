@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-28 09:18:25
+ Automated deployment @ 2024-08-28 20:34:47
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -23,14 +23,16 @@
 |**2024-08-20**|**Soda-Eval: Open-Domain Dialogue Evaluation in the age of LLMs**|John Mendonça et.al.|[2408.10902v1](http://arxiv.org/abs/2408.10902v1)|null|
 |**2024-08-20**|**Adversarial Attack for Explanation Robustness of Rationalization Models**|Yuankai Zhang et.al.|[2408.10795v1](http://arxiv.org/abs/2408.10795v1)|null|
 |**2024-08-20**|**NoMatterXAI: Generating "No Matter What" Alterfactual Examples for Explaining Black-Box Text Classification Models**|Tuc Nguyen et.al.|[2408.10528v1](http://arxiv.org/abs/2408.10528v1)|null|
-|**2024-08-19**|**"Image, Tell me your story!" Predicting the original meta-context of visual misinformation**|Jonathan Tonglet et.al.|[2408.09939v2](http://arxiv.org/abs/2408.09939v2)|[link](https://github.com/ukplab/5pils)|
-|**2024-08-19**|**MAPLE: Enhancing Review Generation with Multi-Aspect Prompt LEarning in Explainable Recommendation**|Ching-Wen Yang et.al.|[2408.09865v1](http://arxiv.org/abs/2408.09865v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-27**|**Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations**|Yucheng Jiang et.al.|[2408.15232v1](http://arxiv.org/abs/2408.15232v1)|null|
+|**2024-08-27**|**Evidence-Enhanced Triplet Generation Framework for Hallucination Alleviation in Generative Question Answering**|Haowei Du et.al.|[2408.15037v1](http://arxiv.org/abs/2408.15037v1)|null|
+|**2024-08-27**|**Detecting AI Flaws: Target-Driven Attacks on Internal Faults in Language Models**|Yuhao Du et.al.|[2408.14853v1](http://arxiv.org/abs/2408.14853v1)|null|
+|**2024-08-27**|**Instruct-SkillMix: A Powerful Pipeline for LLM Instruction Tuning**|Simran Kaur et.al.|[2408.14774v1](http://arxiv.org/abs/2408.14774v1)|null|
 |**2024-08-26**|**Explicit Inductive Inference using Large Language Models**|Tianyang Liu et.al.|[2408.14467v1](http://arxiv.org/abs/2408.14467v1)|null|
 |**2024-08-26**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu Shuo Zhao et.al.|[2408.14438v1](http://arxiv.org/abs/2408.14438v1)|null|
 |**2024-08-26**|**CHARTOM: A Visual Theory-of-Mind Benchmark for Multimodal Large Language Models**|Shubham Bharti et.al.|[2408.14419v1](http://arxiv.org/abs/2408.14419v1)|null|
@@ -68,19 +70,16 @@
 |**2024-08-21**|**Differentiating Choices via Commonality for Multiple-Choice Question Answering**|Wenqing Deng et.al.|[2408.11554v1](http://arxiv.org/abs/2408.11554v1)|[link](https://github.com/dwq-vicki/dcqa)|
 |**2024-08-21**|**Memorization In In-Context Learning**|Shahriar Golchin et.al.|[2408.11546v1](http://arxiv.org/abs/2408.11546v1)|null|
 |**2024-08-21**|**DocTabQA: Answering Questions from Long Documents Using Tables**|Haochen Wang et.al.|[2408.11490v1](http://arxiv.org/abs/2408.11490v1)|null|
-|**2024-08-21**|**SarcasmBench: Towards Evaluating Large Language Models on Sarcasm Understanding**|Yazhou Zhang et.al.|[2408.11319v2](http://arxiv.org/abs/2408.11319v2)|null|
-|**2024-08-20**|**CoDi: Conversational Distillation for Grounded Question Answering**|Patrick Huber et.al.|[2408.11219v1](http://arxiv.org/abs/2408.11219v1)|null|
-|**2024-08-20**|**Reading with Intent**|Benjamin Reichman et.al.|[2408.11189v1](http://arxiv.org/abs/2408.11189v1)|null|
-|**2024-08-20**|**Dr.Academy: A Benchmark for Evaluating Questioning Capability in Education for Large Language Models**|Yuyan Chen et.al.|[2408.10947v1](http://arxiv.org/abs/2408.10947v1)|null|
-|**2024-08-20**|**Exploiting Large Language Models Capabilities for Question Answer-Driven Knowledge Graph Completion Across Static and Temporal Domains**|Rui Yang et.al.|[2408.10819v1](http://arxiv.org/abs/2408.10819v1)|null|
-|**2024-08-20**|**Beyond English-Centric LLMs: What Language Do Multilingual Language Models Think in?**|Chengzhi Zhong et.al.|[2408.10811v1](http://arxiv.org/abs/2408.10811v1)|null|
-|**2024-08-20**|**ColBERT Retrieval and Ensemble Response Scoring for Language Model Question Answering**|Alex Gichamba et.al.|[2408.10808v1](http://arxiv.org/abs/2408.10808v1)|[link](https://github.com/Alexgichamba/itu_qna_challenge)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-27**|**Writing in the Margins: Better Inference Pattern for Long Context Retrieval**|Melisa Russak et.al.|[2408.14906v1](http://arxiv.org/abs/2408.14906v1)|[link](https://github.com/writer/writing-in-the-margins)|
+|**2024-08-27**|**Project SHADOW: Symbolic Higher-order Associative Deductive reasoning On Wikidata using LM probing**|Hanna Abi Akl et.al.|[2408.14849v1](http://arxiv.org/abs/2408.14849v1)|null|
+|**2024-08-27**|**Instruct-SkillMix: A Powerful Pipeline for LLM Instruction Tuning**|Simran Kaur et.al.|[2408.14774v1](http://arxiv.org/abs/2408.14774v1)|null|
+|**2024-08-26**|**Surprisingly Fragile: Assessing and Addressing Prompt Instability in Multimodal Foundation Models**|Ian Stewart et.al.|[2408.14595v1](http://arxiv.org/abs/2408.14595v1)|null|
 |**2024-08-26**|**Language-specific Calibration for Pruning Multilingual Language Models**|Simon Kurz et.al.|[2408.14398v1](http://arxiv.org/abs/2408.14398v1)|null|
 |**2024-08-26**|**Enhancing Depression Diagnosis with Chain-of-Thought Prompting**|Elysia Shi et.al.|[2408.14053v2](http://arxiv.org/abs/2408.14053v2)|null|
 |**2024-08-26**|**Focused Large Language Models are Stable Many-Shot Learners**|Peiwen Yuan et.al.|[2408.13987v1](http://arxiv.org/abs/2408.13987v1)|null|
@@ -89,9 +88,11 @@
 |**2024-08-25**|**LLMs are Superior Feedback Providers: Bootstrapping Reasoning for Lie Detection with Self-Generated Feedback**|Tanushree Banerjee et.al.|[2408.13915v1](http://arxiv.org/abs/2408.13915v1)|null|
 |**2024-08-25**|**CodeGraph: Enhancing Graph Reasoning of LLMs with Code**|Qiaolong Cai et.al.|[2408.13863v1](http://arxiv.org/abs/2408.13863v1)|null|
 |**2024-08-25**|**Knowledge-Aware Reasoning over Multimodal Semi-structured Tables**|Suyash Vardhan Mathur et.al.|[2408.13860v1](http://arxiv.org/abs/2408.13860v1)|null|
+|**2024-08-25**|**Unveiling the Statistical Foundations of Chain-of-Thought Prompting Methods**|Xinyang Hu et.al.|[2408.14511v1](http://arxiv.org/abs/2408.14511v1)|null|
 |**2024-08-24**|**Symbolic Working Memory Enhances Language Models for Complex Rule Application**|Siyuan Wang et.al.|[2408.13654v1](http://arxiv.org/abs/2408.13654v1)|[link](https://github.com/siyuanwangw/ruleapplication)|
 |**2024-08-24**|**No Dataset Needed for Downstream Knowledge Benchmarking: Response Dispersion Inversely Correlates with Accuracy on Domain-specific QA**|Robert L Simione II et.al.|[2408.13624v1](http://arxiv.org/abs/2408.13624v1)|null|
 |**2024-08-24**|**Pandora's Box or Aladdin's Lamp: A Comprehensive Analysis Revealing the Role of RAG Noise in Large Language Models**|Jinyang Wu et.al.|[2408.13533v1](http://arxiv.org/abs/2408.13533v1)|null|
+|**2024-08-24**|**Empowering Pre-Trained Language Models for Spatio-Temporal Forecasting via Decoupling Enhanced Discrete Reprogramming**|Hao Wang et.al.|[2408.14505v1](http://arxiv.org/abs/2408.14505v1)|null|
 |**2024-08-24**|**Make Every Penny Count: Difficulty-Adaptive Self-Consistency for Cost-Efficient Reasoning**|Xinglin Wang et.al.|[2408.13457v1](http://arxiv.org/abs/2408.13457v1)|null|
 |**2024-08-23**|**DrugAgent: Explainable Drug Repurposing Agent with Large Language Model-based Reasoning**|Yoshitaka Inoue et.al.|[2408.13378v1](http://arxiv.org/abs/2408.13378v1)|null|
 |**2024-08-23**|**Can LLM be a Good Path Planner based on Prompt Engineering? Mitigating the Hallucination for Path Planning**|Hourui Deng et.al.|[2408.13184v2](http://arxiv.org/abs/2408.13184v2)|null|
@@ -189,12 +190,3 @@
 |**2024-08-09**|**MUSE: Multi-Knowledge Passing on the Edges, Boosting Knowledge Graph Completion**|Pengjie Liu et.al.|[2408.05283v1](http://arxiv.org/abs/2408.05283v1)|null|
 |**2024-08-09**|**A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**|Ye Yuan et.al.|[2408.05141v2](http://arxiv.org/abs/2408.05141v2)|null|
 |**2024-08-09**|**Order Matters in Hallucination: Reasoning Order as Benchmark and Reflexive Prompting for Large-Language-Models**|Zikai Xie et.al.|[2408.05093v2](http://arxiv.org/abs/2408.05093v2)|[link](https://github.com/xiezikai/reflexiveprompting)|
-|**2024-08-09**|**ProFuser: Progressive Fusion of Large Language Models**|Tianyuan Shi et.al.|[2408.04998v1](http://arxiv.org/abs/2408.04998v1)|null|
-|**2024-08-09**|**Get Confused Cautiously: Textual Sequence Memorization Erasure with Selective Entropy Maximization**|Zhaohan Zhang et.al.|[2408.04983v1](http://arxiv.org/abs/2408.04983v1)|null|
-|**2024-08-09**|**Interactive-T2S: Multi-Turn Interactions for Text-to-SQL with Large Language Models**|Guanming Xiong et.al.|[2408.11062v1](http://arxiv.org/abs/2408.11062v1)|null|
-|**2024-08-09**|**Towards a Generative Approach for Emotion Detection and Reasoning**|Ankita Bhaumik et.al.|[2408.04906v1](http://arxiv.org/abs/2408.04906v1)|null|
-|**2024-08-09**|**Communicate to Play: Pragmatic Reasoning for Efficient Cross-Cultural Communication in Codenames**|Isadora White et.al.|[2408.04900v1](http://arxiv.org/abs/2408.04900v1)|[link](https://github.com/icwhite/codenames)|
-|**2024-08-09**|**Unsupervised Episode Detection for Large-Scale News Events**|Priyanka Kargupta et.al.|[2408.04873v1](http://arxiv.org/abs/2408.04873v1)|[link](https://github.com/pkargupta/epimine)|
-|**2024-08-08**|**Enhancing Robustness of Retrieval-Augmented Language Models with In-Context Learning**|Seong-Il Park et.al.|[2408.04414v1](http://arxiv.org/abs/2408.04414v1)|null|
-|**2024-08-08**|**Exploring Reasoning Biases in Large Language Models Through Syllogism: Insights from the NeuBAROCO Dataset**|Kentaro Ozeki et.al.|[2408.04403v1](http://arxiv.org/abs/2408.04403v1)|[link](https://github.com/kmineshima/neubaroco)|
-|**2024-08-08**|**Evaluating Language Model Math Reasoning via Grounding in Educational Curricula**|Li Lucy et.al.|[2408.04226v2](http://arxiv.org/abs/2408.04226v2)|[link](https://github.com/allenai/mathfish)|
