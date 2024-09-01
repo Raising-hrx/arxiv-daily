@@ -1,25 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2024-09-01 20:59:05
+ Automated deployment @ 2024-09-01 21:24:28
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-29**|**Assessing Large Language Models for Online Extremism Research: Identification, Explanation, and New Knowledge**|Beidi Dong et.al.|[2408.16749v1](http://arxiv.org/abs/2408.16749v1)|null|
-|**2024-08-26**|**An Evaluation of Explanation Methods for Black-Box Detectors of Machine-Generated Text**|Loris Schoenegger et.al.|[2408.14252v1](http://arxiv.org/abs/2408.14252v1)|null|
-|**2024-08-26**|**Explaining Vision-Language Similarities in Dual Encoders with Feature-Pair Attributions**|Lucas Möller et.al.|[2408.14153v1](http://arxiv.org/abs/2408.14153v1)|null|
-|**2024-08-24**|**No Dataset Needed for Downstream Knowledge Benchmarking: Response Dispersion Inversely Correlates with Accuracy on Domain-specific QA**|Robert L Simione II et.al.|[2408.13624v1](http://arxiv.org/abs/2408.13624v1)|null|
-|**2024-08-24**|**Why Antiwork: A RoBERTa-Based System for Work-Related Stress Identification and Leading Factor Analysis**|Tao Lu et.al.|[2408.13473v1](http://arxiv.org/abs/2408.13473v1)|null|
-|**2024-08-24**|**Uncovering Biases with Reflective Large Language Models**|Edward Y. Chang et.al.|[2408.13464v1](http://arxiv.org/abs/2408.13464v1)|null|
-|**2024-08-23**|**DrugAgent: Explainable Drug Repurposing Agent with Large Language Model-based Reasoning**|Yoshitaka Inoue et.al.|[2408.13378v1](http://arxiv.org/abs/2408.13378v1)|null|
-|**2024-08-23**|**Systematic Evaluation of LLM-as-a-Judge in LLM Alignment Tasks: Explainable Metrics and Diverse Prompt Templates**|Hui Wei et.al.|[2408.13006v1](http://arxiv.org/abs/2408.13006v1)|[link](https://github.com/shenghh2015/llm-judge-eval)|
-|**2024-08-23**|**VALE: A Multimodal Visual and Language Explanation Framework for Image Classifiers using eXplainable AI and Language Models**|Purushothaman Natarajan et.al.|[2408.12808v1](http://arxiv.org/abs/2408.12808v1)|null|
-|**2024-08-22**|**SLM Meets LLM: Balancing Latency, Interpretability and Consistency in Hallucination Detection**|Mengya Hu et.al.|[2408.12748v1](http://arxiv.org/abs/2408.12748v1)|[link](https://github.com/microsoft/constrainedreasoner)|
-|**2024-08-22**|**Towards Evaluating and Building Versatile Large Language Models for Medicine**|Chaoyi Wu et.al.|[2408.12547v1](http://arxiv.org/abs/2408.12547v1)|[link](https://github.com/magic-ai4med/meds-ins)|
-|**2024-08-22**|**GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models**|Kunsheng Tang et.al.|[2408.12494v1](http://arxiv.org/abs/2408.12494v1)|[link](https://github.com/kstanghere/gendercare-ccs24)|
 
 ## Question Answering
 
@@ -59,6 +41,24 @@
 |**2024-08-23**|**Internal and External Knowledge Interactive Refinement Framework for Knowledge-Intensive Question Answering**|Haowei Du et.al.|[2408.12979v1](http://arxiv.org/abs/2408.12979v1)|null|
 |**2024-08-23**|**Open Llama2 Model for the Lithuanian Language**|Artūras Nakvosas et.al.|[2408.12963v1](http://arxiv.org/abs/2408.12963v1)|null|
 |**2024-08-23**|**Multi-Faceted Question Complexity Estimation Targeting Topic Domain-Specificity**|Sujay R et.al.|[2408.12850v1](http://arxiv.org/abs/2408.12850v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-29**|**Assessing Large Language Models for Online Extremism Research: Identification, Explanation, and New Knowledge**|Beidi Dong et.al.|[2408.16749v1](http://arxiv.org/abs/2408.16749v1)|null|
+|**2024-08-26**|**An Evaluation of Explanation Methods for Black-Box Detectors of Machine-Generated Text**|Loris Schoenegger et.al.|[2408.14252v1](http://arxiv.org/abs/2408.14252v1)|null|
+|**2024-08-26**|**Explaining Vision-Language Similarities in Dual Encoders with Feature-Pair Attributions**|Lucas Möller et.al.|[2408.14153v1](http://arxiv.org/abs/2408.14153v1)|null|
+|**2024-08-24**|**No Dataset Needed for Downstream Knowledge Benchmarking: Response Dispersion Inversely Correlates with Accuracy on Domain-specific QA**|Robert L Simione II et.al.|[2408.13624v1](http://arxiv.org/abs/2408.13624v1)|null|
+|**2024-08-24**|**Why Antiwork: A RoBERTa-Based System for Work-Related Stress Identification and Leading Factor Analysis**|Tao Lu et.al.|[2408.13473v1](http://arxiv.org/abs/2408.13473v1)|null|
+|**2024-08-24**|**Uncovering Biases with Reflective Large Language Models**|Edward Y. Chang et.al.|[2408.13464v1](http://arxiv.org/abs/2408.13464v1)|null|
+|**2024-08-23**|**DrugAgent: Explainable Drug Repurposing Agent with Large Language Model-based Reasoning**|Yoshitaka Inoue et.al.|[2408.13378v1](http://arxiv.org/abs/2408.13378v1)|null|
+|**2024-08-23**|**Systematic Evaluation of LLM-as-a-Judge in LLM Alignment Tasks: Explainable Metrics and Diverse Prompt Templates**|Hui Wei et.al.|[2408.13006v1](http://arxiv.org/abs/2408.13006v1)|[link](https://github.com/shenghh2015/llm-judge-eval)|
+|**2024-08-23**|**VALE: A Multimodal Visual and Language Explanation Framework for Image Classifiers using eXplainable AI and Language Models**|Purushothaman Natarajan et.al.|[2408.12808v1](http://arxiv.org/abs/2408.12808v1)|null|
+|**2024-08-22**|**SLM Meets LLM: Balancing Latency, Interpretability and Consistency in Hallucination Detection**|Mengya Hu et.al.|[2408.12748v1](http://arxiv.org/abs/2408.12748v1)|[link](https://github.com/microsoft/constrainedreasoner)|
+|**2024-08-22**|**Towards Evaluating and Building Versatile Large Language Models for Medicine**|Chaoyi Wu et.al.|[2408.12547v1](http://arxiv.org/abs/2408.12547v1)|[link](https://github.com/magic-ai4med/meds-ins)|
+|**2024-08-22**|**GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models**|Kunsheng Tang et.al.|[2408.12494v1](http://arxiv.org/abs/2408.12494v1)|[link](https://github.com/kstanghere/gendercare-ccs24)|
 
 ## Reasoning
 
