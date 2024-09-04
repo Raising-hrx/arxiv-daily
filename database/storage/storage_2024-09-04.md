@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-04 09:20:06
+ Automated deployment @ 2024-09-04 20:35:13
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -27,7 +27,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-30**|**Novel-WD: Exploring acquisition of Novel World Knowledge in LLMs Using Prefix-Tuning**|Maxime Méloux et.al.|[2408.17070v1](http://arxiv.org/abs/2408.17070v1)|null|
-|**2024-08-30**|**InkubaLM: A small language model for low-resource African languages**|Atnafu Lambebo Tonja et.al.|[2408.17024v1](http://arxiv.org/abs/2408.17024v1)|null|
+|**2024-08-30**|**InkubaLM: A small language model for low-resource African languages**|Atnafu Lambebo Tonja et.al.|[2408.17024v2](http://arxiv.org/abs/2408.17024v2)|null|
 |**2024-08-30**|**Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling**|Guangya Wan et.al.|[2408.17017v1](http://arxiv.org/abs/2408.17017v1)|null|
 |**2024-08-29**|**Event Extraction for Portuguese: A QA-driven Approach using ACE-2005**|Luís Filipe Cunha et.al.|[2408.16932v1](http://arxiv.org/abs/2408.16932v1)|null|
 |**2024-08-29**|**Modeling offensive content detection for TikTok**|Kasper Cools et.al.|[2408.16857v1](http://arxiv.org/abs/2408.16857v1)|null|
@@ -47,7 +47,7 @@
 |**2024-08-27**|**Measuring Human Contribution in AI-Assisted Content Generation**|Yueqi Xie et.al.|[2408.14792v1](http://arxiv.org/abs/2408.14792v1)|null|
 |**2024-08-27**|**Instruct-SkillMix: A Powerful Pipeline for LLM Instruction Tuning**|Simran Kaur et.al.|[2408.14774v1](http://arxiv.org/abs/2408.14774v1)|null|
 |**2024-08-26**|**Explicit Inductive Inference using Large Language Models**|Tianyang Liu et.al.|[2408.14467v1](http://arxiv.org/abs/2408.14467v1)|null|
-|**2024-08-26**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu et.al.|[2408.14438v2](http://arxiv.org/abs/2408.14438v2)|null|
+|**2024-08-26**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu et.al.|[2408.14438v3](http://arxiv.org/abs/2408.14438v3)|null|
 |**2024-08-26**|**CHARTOM: A Visual Theory-of-Mind Benchmark for Multimodal Large Language Models**|Shubham Bharti et.al.|[2408.14419v1](http://arxiv.org/abs/2408.14419v1)|null|
 |**2024-08-26**|**Question answering system of bridge design specification based on large language model**|Leye Zhang et.al.|[2408.13282v1](http://arxiv.org/abs/2408.13282v1)|[link](https://github.com/zhangleye/Bridge-LLM-QA)|
 |**2024-08-26**|**Nemesis: Normalizing the Soft-prompt Vectors of Vision-Language Models**|Shuai Fu et.al.|[2408.13979v1](http://arxiv.org/abs/2408.13979v1)|[link](https://github.com/shyfoo/nemesis)|
