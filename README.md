@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-09 09:22:26
+ Automated deployment @ 2024-09-09 20:36:09
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -15,16 +15,16 @@
 |**2024-09-03**|**From Yes-Men to Truth-Tellers: Addressing Sycophancy in Large Language Models with Pinpoint Tuning**|Wei Chen et.al.|[2409.01658v1](http://arxiv.org/abs/2409.01658v1)|null|
 |**2024-09-03**|**Towards Cross-Lingual Explanation of Artwork in Large-scale Vision Language Models**|Shintaro Ozaki et.al.|[2409.01584v1](http://arxiv.org/abs/2409.01584v1)|null|
 |**2024-09-01**|**Deep Knowledge-Infusion For Explainable Depression Detection**|Sumit Dalal et.al.|[2409.02122v1](http://arxiv.org/abs/2409.02122v1)|null|
-|**2024-08-30**|**UserSumBench: A Benchmark Framework for Evaluating User Summarization Approaches**|Chao Wang et.al.|[2408.16966v2](http://arxiv.org/abs/2408.16966v2)|null|
-|**2024-08-29**|**See or Guess: Counterfactually Regularized Image Captioning**|Qian Cao et.al.|[2408.16809v1](http://arxiv.org/abs/2408.16809v1)|[link](https://github.com/aman-4-real/see-or-guess)|
-|**2024-08-29**|**Assessing Large Language Models for Online Extremism Research: Identification, Explanation, and New Knowledge**|Beidi Dong et.al.|[2408.16749v1](http://arxiv.org/abs/2408.16749v1)|null|
-|**2024-08-29**|**A Survey for Large Language Models in Biomedicine**|Chong Wang et.al.|[2409.00133v1](http://arxiv.org/abs/2409.00133v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-06**|**Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs**|Aliakbar Nafar et.al.|[2409.04318v1](http://arxiv.org/abs/2409.04318v1)|null|
+|**2024-09-06**|**Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering**|Larissa Pusch et.al.|[2409.04181v1](http://arxiv.org/abs/2409.04181v1)|null|
+|**2024-09-06**|**From Calculation to Adjudication: Examining LLM judges on Mathematical Reasoning Tasks**|Andreas Stephan et.al.|[2409.04168v1](http://arxiv.org/abs/2409.04168v1)|null|
+|**2024-09-06**|**Self-Harmonized Chain of Thought**|Ziqi Jin et.al.|[2409.04057v1](http://arxiv.org/abs/2409.04057v1)|null|
 |**2024-09-05**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708v2](http://arxiv.org/abs/2409.03708v2)|null|
 |**2024-09-05**|**The representation landscape of few-shot learning and fine-tuning in large language models**|Diego Doimo et.al.|[2409.03662v1](http://arxiv.org/abs/2409.03662v1)|[link](https://github.com/diegodoimo/geometry_icl_finetuning)|
 |**2024-09-05**|**On the Limited Generalization Capability of the Implicit Reward Model Induced by Direct Preference Optimization**|Yong Lin et.al.|[2409.03650v1](http://arxiv.org/abs/2409.03650v1)|null|
@@ -37,6 +37,7 @@
 |**2024-09-05**|**MaterialBENCH: Evaluating College-Level Materials Science Problem-Solving Abilities of Large Language Models**|Michiko Yoshitake et.al.|[2409.03161v1](http://arxiv.org/abs/2409.03161v1)|null|
 |**2024-09-05**|**Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models**|Jie Ma et.al.|[2409.03155v1](http://arxiv.org/abs/2409.03155v1)|[link](https://github.com/reml-group/dog)|
 |**2024-09-04**|**Probing self-attention in self-supervised speech models for cross-linguistic differences**|Sai Gopinath et.al.|[2409.03115v1](http://arxiv.org/abs/2409.03115v1)|null|
+|**2024-09-04**|**NESTFUL: A Benchmark for Evaluating LLMs on Nested Sequences of API Calls**|Kinjal Basu et.al.|[2409.03797v1](http://arxiv.org/abs/2409.03797v1)|null|
 |**2024-09-04**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|Jiajie Zhang et.al.|[2409.02897v2](http://arxiv.org/abs/2409.02897v2)|[link](https://github.com/THUDM/LongCite)|
 |**2024-09-04**|**R2GQA: Retriever-Reader-Generator Question Answering System to Support Students Understanding Legal Regulations in Higher Education**|Phuc-Tinh Pham Do et.al.|[2409.02840v1](http://arxiv.org/abs/2409.02840v1)|null|
 |**2024-09-04**|**CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models**|Wentao Liu et.al.|[2409.02834v2](http://arxiv.org/abs/2409.02834v2)|null|
@@ -75,20 +76,17 @@
 |**2024-09-01**|**Benchmarking LLM Code Generation for Audio Programming with Visual Dataflow Languages**|William Zhang et.al.|[2409.00856v1](http://arxiv.org/abs/2409.00856v1)|null|
 |**2024-09-01**|**ContextCite: Attributing Model Generation to Context**|Benjamin Cohen-Wang et.al.|[2409.00729v1](http://arxiv.org/abs/2409.00729v1)|[link](https://github.com/madrylab/context-cite)|
 |**2024-09-01**|**Who Would Chatbots Vote For? Political Preferences of ChatGPT and Gemini in the 2024 European Union Elections**|Michael Haman et.al.|[2409.00721v1](http://arxiv.org/abs/2409.00721v1)|null|
-|**2024-08-31**|**Learning to Ask: When LLMs Meet Unclear Instruction**|Wenxuan Wang et.al.|[2409.00557v2](http://arxiv.org/abs/2409.00557v2)|null|
-|**2024-08-31**|**YA-TA: Towards Personalized Question-Answering Teaching Assistants using Instructor-Student Dual Retrieval-augmented Knowledge Fusion**|Dongil Yang et.al.|[2409.00355v1](http://arxiv.org/abs/2409.00355v1)|null|
-|**2024-08-31**|**Chatting Up Attachment: Using LLMs to Predict Adult Bonds**|Paulo Soares et.al.|[2409.00347v1](http://arxiv.org/abs/2409.00347v1)|null|
-|**2024-08-31**|**WikiCausal: Corpus and Evaluation Framework for Causal Knowledge Graph Construction**|Oktie Hassanzadeh et.al.|[2409.00331v1](http://arxiv.org/abs/2409.00331v1)|[link](https://github.com/IBM/wikicausal)|
-|**2024-08-31**|**An Empirical Study on Context Length for Open-Domain Dialog Generation**|Xinyi Shen et.al.|[2409.00315v1](http://arxiv.org/abs/2409.00315v1)|[link](https://github.com/PKUAI-LINGroup/context-study)|
-|**2024-08-30**|**Reframing Data Value for Large Language Models Through the Lens of Plausability**|Mohamad Rida Rammal et.al.|[2409.00284v1](http://arxiv.org/abs/2409.00284v1)|null|
-|**2024-08-30**|**MAPWise: Evaluating Vision-Language Models for Advanced Map Queries**|Srija Mukhopadhyay et.al.|[2409.00255v1](http://arxiv.org/abs/2409.00255v1)|null|
-|**2024-08-30**|**The creative psychometric item generator: a framework for item generation and validation using large language models**|Antonio Laverghetta Jr. et.al.|[2409.00202v1](http://arxiv.org/abs/2409.00202v1)|null|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-06**|**Using Large Language Models to Generate Authentic Multi-agent Knowledge Work Datasets**|Desiree Heim et.al.|[2409.04286v1](http://arxiv.org/abs/2409.04286v1)|null|
+|**2024-09-06**|**From Calculation to Adjudication: Examining LLM judges on Mathematical Reasoning Tasks**|Andreas Stephan et.al.|[2409.04168v1](http://arxiv.org/abs/2409.04168v1)|null|
+|**2024-09-06**|**Prompt-based Personality Profiling: Reinforcement Learning for Relevance Filtering**|Jan Hofmann et.al.|[2409.04122v1](http://arxiv.org/abs/2409.04122v1)|null|
+|**2024-09-06**|**Self-Harmonized Chain of Thought**|Ziqi Jin et.al.|[2409.04057v1](http://arxiv.org/abs/2409.04057v1)|null|
+|**2024-09-05**|**Sirius: Contextual Sparsity with Correction for Efficient LLMs**|Yang Zhou et.al.|[2409.03856v1](http://arxiv.org/abs/2409.03856v1)|[link](https://github.com/infini-ai-lab/sirius)|
 |**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757v1](http://arxiv.org/abs/2409.03757v1)|[link](https://github.com/yunzeman/lexicon3d)|
 |**2024-09-05**|**Attention Heads of Large Language Models: A Survey**|Zifan Zheng et.al.|[2409.03752v1](http://arxiv.org/abs/2409.03752v1)|[link](https://github.com/iaar-shanghai/awesome-attention-heads)|
 |**2024-09-05**|**100 instances is all you need: predicting the success of a new LLM on unseen data by testing on a few instances**|Lorenzo Pacchiardi et.al.|[2409.03563v1](http://arxiv.org/abs/2409.03563v1)|null|
@@ -202,10 +200,3 @@
 |**2024-08-20**|**SubgoalXL: Subgoal-based Expert Learning for Theorem Proving**|Xueliang Zhao et.al.|[2408.11172v1](http://arxiv.org/abs/2408.11172v1)|[link](https://github.com/zhaoxlpku/subgoalxl)|
 |**2024-08-20**|**Beyond Labels: Aligning Large Language Models with Human-like Reasoning**|Muhammad Rafsan Kabir et.al.|[2408.11879v1](http://arxiv.org/abs/2408.11879v1)|[link](https://github.com/apurba-nsu-rnd-lab/dfar)|
 |**2024-08-20**|**Athena: Safe Autonomous Agents with Verbal Contrastive Learning**|Tanmana Sadhu et.al.|[2408.11021v1](http://arxiv.org/abs/2408.11021v1)|null|
-|**2024-08-20**|**CHECKWHY: Causal Fact Verification via Argument Structure**|Jiasheng Si et.al.|[2408.10918v1](http://arxiv.org/abs/2408.10918v1)|[link](https://github.com/jasenchn/checkwhy)|
-|**2024-08-20**|**To Code, or Not To Code? Exploring Impact of Code in Pre-training**|Viraat Aryabumi et.al.|[2408.10914v1](http://arxiv.org/abs/2408.10914v1)|null|
-|**2024-08-20**|**BEYOND DIALOGUE: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Model**|Yeyong Yu et.al.|[2408.10903v5](http://arxiv.org/abs/2408.10903v5)|[link](https://github.com/yuyouyu32/beyonddialogue)|
-|**2024-08-20**|**Benchmarking Large Language Models for Math Reasoning Tasks**|Kathrin Seßler et.al.|[2408.10839v1](http://arxiv.org/abs/2408.10839v1)|null|
-|**2024-08-20**|**Exploiting Large Language Models Capabilities for Question Answer-Driven Knowledge Graph Completion Across Static and Temporal Domains**|Rui Yang et.al.|[2408.10819v1](http://arxiv.org/abs/2408.10819v1)|null|
-|**2024-08-20**|**Predicting Rewards Alongside Tokens: Non-disruptive Parameter Insertion for Efficient Inference Intervention in Large Language Model**|Chenhan Yuan et.al.|[2408.10764v1](http://arxiv.org/abs/2408.10764v1)|null|
-|**2024-08-20**|**Hierarchical Retrieval-Augmented Generation Model with Rethink for Multi-hop Question Answering**|Xiaoming Zhang et.al.|[2408.11875v1](http://arxiv.org/abs/2408.11875v1)|[link](https://github.com/2282588541a/hirag)|
