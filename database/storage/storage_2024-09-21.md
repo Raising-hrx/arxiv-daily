@@ -1,7 +1,36 @@
 # arxiv-daily
- Automated deployment @ 2024-09-21 20:32:52
+ Automated deployment @ 2024-09-21 20:58:25
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-18**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194v2](http://arxiv.org/abs/2409.12194v2)|null|
+|**2024-09-18**|**TART: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning**|Xinyuan Lu et.al.|[2409.11724v1](http://arxiv.org/abs/2409.11724v1)|[link](https://github.com/xinyuanlu00/tart)|
+|**2024-09-17**|**ProSLM : A Prolog Synergized Language Model for explainable Domain Specific Knowledge Based Question Answering**|Priyesh Vakharia et.al.|[2409.11589v1](http://arxiv.org/abs/2409.11589v1)|null|
+|**2024-09-17**|**HEARTS: A Holistic Framework for Explainable, Sustainable and Robust Text Stereotype Detection**|Theo King et.al.|[2409.11579v1](http://arxiv.org/abs/2409.11579v1)|null|
+|**2024-09-17**|**Jailbreaking Large Language Models with Symbolic Mathematics**|Emet Bethany et.al.|[2409.11445v1](http://arxiv.org/abs/2409.11445v1)|null|
+|**2024-09-16**|**DILA: Dictionary Label Attention for Mechanistic Interpretability in High-dimensional Multi-label Medical Coding Prediction**|John Wu et.al.|[2409.10504v1](http://arxiv.org/abs/2409.10504v1)|null|
+|**2024-09-16**|**Schrodinger's Memory: Large Language Models**|Wei Wang et.al.|[2409.10482v2](http://arxiv.org/abs/2409.10482v2)|null|
+|**2024-09-16**|**From Text to Emoji: How PEFT-Driven Personality Manipulation Unleashes the Emoji Potential in LLMs**|Navya Jain et.al.|[2409.10245v1](http://arxiv.org/abs/2409.10245v1)|null|
+|**2024-09-16**|**Rediscovering the Latent Dimensions of Personality with Large Language Models as Trait Descriptors**|Joseph Suh et.al.|[2409.09905v1](http://arxiv.org/abs/2409.09905v1)|null|
+|**2024-09-15**|**A Benchmark Dataset with Larger Context for Non-Factoid Question Answering over Islamic Text**|Faiza Qamar et.al.|[2409.09844v1](http://arxiv.org/abs/2409.09844v1)|null|
+|**2024-09-15**|**Automatic Control With Human-Like Reasoning: Exploring Language Model Embodied Air Traffic Agents**|Justas Andriuškevičius et.al.|[2409.09717v1](http://arxiv.org/abs/2409.09717v1)|null|
+|**2024-09-13**|**Towards Precision Characterization of Communication Disorders using Models of Perceived Pragmatic Similarity**|Nigel G. Ward et.al.|[2409.09170v1](http://arxiv.org/abs/2409.09170v1)|null|
+|**2024-09-13**|**Layerwise Change of Knowledge in Neural Networks**|Xu Cheng et.al.|[2409.08712v1](http://arxiv.org/abs/2409.08712v1)|null|
+|**2024-09-13**|**MAPX: An explainable model-agnostic framework for the detection of false information on social media networks**|Sarah Condran et.al.|[2409.08522v1](http://arxiv.org/abs/2409.08522v1)|[link](https://github.com/scondran/mapx_framework)|
+|**2024-09-13**|**Explaining Datasets in Words: Statistical Models with Natural Language Parameters**|Ruiqi Zhong et.al.|[2409.08466v1](http://arxiv.org/abs/2409.08466v1)|[link](https://github.com/ruiqi-zhong/nlparam)|
+|**2024-09-12**|**What Makes a Maze Look Like a Maze?**|Joy Hsu et.al.|[2409.08202v1](http://arxiv.org/abs/2409.08202v1)|null|
+|**2024-09-12**|**Fine-tuning Large Language Models for Entity Matching**|Aaron Steiner et.al.|[2409.08185v1](http://arxiv.org/abs/2409.08185v1)|[link](https://github.com/wbsg-uni-mannheim/tailormatch)|
+|**2024-09-12**|**On the Role of Context in Reading Time Prediction**|Andreas Opedal et.al.|[2409.08160v1](http://arxiv.org/abs/2409.08160v1)|[link](https://github.com/rycolab/context-reading-time)|
+|**2024-09-11**|**Can We Count on LLMs? The Fixed-Effect Fallacy and Claims of GPT-4 Capabilities**|Thomas Ball et.al.|[2409.07638v1](http://arxiv.org/abs/2409.07638v1)|null|
+|**2024-09-11**|**Enhancing adversarial robustness in Natural Language Inference using explanations**|Alexandros Koulakos et.al.|[2409.07423v1](http://arxiv.org/abs/2409.07423v1)|null|
+|**2024-09-11**|**Explanation, Debate, Align: A Weak-to-Strong Framework for Language Model Generalization**|Mehrdad Zakershahrak et.al.|[2409.07335v1](http://arxiv.org/abs/2409.07335v1)|null|
+|**2024-09-11**|**Learning Efficient Recursive Numeral Systems via Reinforcement Learning**|Jonathan D. Thomas et.al.|[2409.07170v1](http://arxiv.org/abs/2409.07170v1)|null|
+|**2024-09-11**|**Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem**|Qianli Wang et.al.|[2409.07123v1](http://arxiv.org/abs/2409.07123v1)|null|
 
 ## Question Answering
 
@@ -53,35 +82,6 @@
 |**2024-09-13**|**Eir: Thai Medical Large Language Models**|Yutthakorn Thiprak et.al.|[2409.08523v2](http://arxiv.org/abs/2409.08523v2)|null|
 |**2024-09-13**|**When Context Leads but Parametric Memory Follows in Large Language Models**|Yufei Tao et.al.|[2409.08435v1](http://arxiv.org/abs/2409.08435v1)|null|
 |**2024-09-12**|**Knowledge Tagging with Large Language Model based Multi-Agent System**|Hang Li et.al.|[2409.08406v1](http://arxiv.org/abs/2409.08406v1)|null|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-18**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194v2](http://arxiv.org/abs/2409.12194v2)|null|
-|**2024-09-18**|**TART: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning**|Xinyuan Lu et.al.|[2409.11724v1](http://arxiv.org/abs/2409.11724v1)|[link](https://github.com/xinyuanlu00/tart)|
-|**2024-09-17**|**ProSLM : A Prolog Synergized Language Model for explainable Domain Specific Knowledge Based Question Answering**|Priyesh Vakharia et.al.|[2409.11589v1](http://arxiv.org/abs/2409.11589v1)|null|
-|**2024-09-17**|**HEARTS: A Holistic Framework for Explainable, Sustainable and Robust Text Stereotype Detection**|Theo King et.al.|[2409.11579v1](http://arxiv.org/abs/2409.11579v1)|null|
-|**2024-09-17**|**Jailbreaking Large Language Models with Symbolic Mathematics**|Emet Bethany et.al.|[2409.11445v1](http://arxiv.org/abs/2409.11445v1)|null|
-|**2024-09-16**|**DILA: Dictionary Label Attention for Mechanistic Interpretability in High-dimensional Multi-label Medical Coding Prediction**|John Wu et.al.|[2409.10504v1](http://arxiv.org/abs/2409.10504v1)|null|
-|**2024-09-16**|**Schrodinger's Memory: Large Language Models**|Wei Wang et.al.|[2409.10482v2](http://arxiv.org/abs/2409.10482v2)|null|
-|**2024-09-16**|**From Text to Emoji: How PEFT-Driven Personality Manipulation Unleashes the Emoji Potential in LLMs**|Navya Jain et.al.|[2409.10245v1](http://arxiv.org/abs/2409.10245v1)|null|
-|**2024-09-16**|**Rediscovering the Latent Dimensions of Personality with Large Language Models as Trait Descriptors**|Joseph Suh et.al.|[2409.09905v1](http://arxiv.org/abs/2409.09905v1)|null|
-|**2024-09-15**|**A Benchmark Dataset with Larger Context for Non-Factoid Question Answering over Islamic Text**|Faiza Qamar et.al.|[2409.09844v1](http://arxiv.org/abs/2409.09844v1)|null|
-|**2024-09-15**|**Automatic Control With Human-Like Reasoning: Exploring Language Model Embodied Air Traffic Agents**|Justas Andriuškevičius et.al.|[2409.09717v1](http://arxiv.org/abs/2409.09717v1)|null|
-|**2024-09-13**|**Towards Precision Characterization of Communication Disorders using Models of Perceived Pragmatic Similarity**|Nigel G. Ward et.al.|[2409.09170v1](http://arxiv.org/abs/2409.09170v1)|null|
-|**2024-09-13**|**Layerwise Change of Knowledge in Neural Networks**|Xu Cheng et.al.|[2409.08712v1](http://arxiv.org/abs/2409.08712v1)|null|
-|**2024-09-13**|**MAPX: An explainable model-agnostic framework for the detection of false information on social media networks**|Sarah Condran et.al.|[2409.08522v1](http://arxiv.org/abs/2409.08522v1)|[link](https://github.com/scondran/mapx_framework)|
-|**2024-09-13**|**Explaining Datasets in Words: Statistical Models with Natural Language Parameters**|Ruiqi Zhong et.al.|[2409.08466v1](http://arxiv.org/abs/2409.08466v1)|[link](https://github.com/ruiqi-zhong/nlparam)|
-|**2024-09-12**|**What Makes a Maze Look Like a Maze?**|Joy Hsu et.al.|[2409.08202v1](http://arxiv.org/abs/2409.08202v1)|null|
-|**2024-09-12**|**Fine-tuning Large Language Models for Entity Matching**|Aaron Steiner et.al.|[2409.08185v1](http://arxiv.org/abs/2409.08185v1)|[link](https://github.com/wbsg-uni-mannheim/tailormatch)|
-|**2024-09-12**|**On the Role of Context in Reading Time Prediction**|Andreas Opedal et.al.|[2409.08160v1](http://arxiv.org/abs/2409.08160v1)|[link](https://github.com/rycolab/context-reading-time)|
-|**2024-09-11**|**Can We Count on LLMs? The Fixed-Effect Fallacy and Claims of GPT-4 Capabilities**|Thomas Ball et.al.|[2409.07638v1](http://arxiv.org/abs/2409.07638v1)|null|
-|**2024-09-11**|**Enhancing adversarial robustness in Natural Language Inference using explanations**|Alexandros Koulakos et.al.|[2409.07423v1](http://arxiv.org/abs/2409.07423v1)|null|
-|**2024-09-11**|**Explanation, Debate, Align: A Weak-to-Strong Framework for Language Model Generalization**|Mehrdad Zakershahrak et.al.|[2409.07335v1](http://arxiv.org/abs/2409.07335v1)|null|
-|**2024-09-11**|**Learning Efficient Recursive Numeral Systems via Reinforcement Learning**|Jonathan D. Thomas et.al.|[2409.07170v1](http://arxiv.org/abs/2409.07170v1)|null|
-|**2024-09-11**|**Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem**|Qianli Wang et.al.|[2409.07123v1](http://arxiv.org/abs/2409.07123v1)|null|
 
 ## Reasoning
 
