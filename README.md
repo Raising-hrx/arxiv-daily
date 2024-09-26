@@ -1,29 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2024-09-26 20:38:18
+ Automated deployment @ 2024-09-26 21:05:38
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-25**|**Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Handy Appetizer**|Benji Peng et.al.|[2409.17120v1](http://arxiv.org/abs/2409.17120v1)|null|
-|**2024-09-25**|**AXCEL: Automated eXplainable Consistency Evaluation using LLMs**|P Aditya Sreekar et.al.|[2409.16984v1](http://arxiv.org/abs/2409.16984v1)|null|
-|**2024-09-24**|**FMDLlama: Financial Misinformation Detection based on Large Language Models**|Zhiwei Liu et.al.|[2409.16452v1](http://arxiv.org/abs/2409.16452v1)|null|
-|**2024-09-24**|**Explaining word embeddings with perfect fidelity: Case study in research impact prediction**|Lucie Dvorackova et.al.|[2409.15912v1](http://arxiv.org/abs/2409.15912v1)|[link](https://github.com/adrianakubecova/lime_dp)|
-|**2024-09-23**|**Evaluating Theory of (an uncertain) Mind: Predicting the Uncertain Beliefs of Others in Conversation Forecasting**|Anthony Sicilia et.al.|[2409.14986v1](http://arxiv.org/abs/2409.14986v1)|null|
-|**2024-09-23**|**MTP: A Dataset for Multi-Modal Turning Points in Casual Conversations**|Gia-Bao Dinh Ho et.al.|[2409.14801v1](http://arxiv.org/abs/2409.14801v1)|null|
-|**2024-09-23**|**Towards Efficient and Robust VQA-NLE Data Generation with Large Vision-Language Models**|Patrick Amadeus Irawan et.al.|[2409.14785v1](http://arxiv.org/abs/2409.14785v1)|null|
-|**2024-09-22**|**Beyond Persuasion: Towards Conversational Recommender System with Credible Explanations**|Peixin Qin et.al.|[2409.14399v1](http://arxiv.org/abs/2409.14399v1)|null|
-|**2024-09-22**|**Investigating Layer Importance in Large Language Models**|Yang Zhang et.al.|[2409.14381v1](http://arxiv.org/abs/2409.14381v1)|null|
-|**2024-09-21**|**Instruction Following without Instruction Tuning**|John Hewitt et.al.|[2409.14254v1](http://arxiv.org/abs/2409.14254v1)|[link](https://github.com/john-hewitt/implicit-ins)|
-|**2024-09-20**|**GAProtoNet: A Multi-head Graph Attention-based Prototypical Network for Interpretable Text Classification**|Ximing Wen et.al.|[2409.13312v1](http://arxiv.org/abs/2409.13312v1)|null|
-|**2024-09-20**|**Large Language Model Should Understand Pinyin for Chinese ASR Error Correction**|Yuang Li et.al.|[2409.13262v1](http://arxiv.org/abs/2409.13262v1)|null|
-|**2024-09-19**|**Natural Language Processing Methods for the Study of Protein-Ligand Interactions**|James Michels et.al.|[2409.13057v1](http://arxiv.org/abs/2409.13057v1)|null|
-|**2024-09-19**|**CLAIR-A: Leveraging Large Language Models to Judge Audio Captions**|Tsung-Han Wu et.al.|[2409.12962v1](http://arxiv.org/abs/2409.12962v1)|[link](https://github.com/davidmchan/clair-a)|
-|**2024-09-19**|**Efficient Knowledge Distillation: Empowering Small Language Models with Teacher Model Insights**|Mohamad Ballout et.al.|[2409.12586v1](http://arxiv.org/abs/2409.12586v1)|null|
-|**2024-09-18**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194v3](http://arxiv.org/abs/2409.12194v3)|null|
 
 ## Question Answering
 
@@ -94,6 +72,28 @@
 |**2024-09-20**|**A Multimodal Dense Retrieval Approach for Speech-Based Open-Domain Question Answering**|Georgios Sidiropoulos et.al.|[2409.13483v1](http://arxiv.org/abs/2409.13483v1)|null|
 |**2024-09-20**|**AQA: Adaptive Question Answering in a Society of LLMs via Contextual Multi-Armed Bandit**|Mohanna Hoveyda et.al.|[2409.13447v2](http://arxiv.org/abs/2409.13447v2)|null|
 |**2024-09-20**|**LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench**|Karthik Valmeekam et.al.|[2409.13373v1](http://arxiv.org/abs/2409.13373v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-25**|**Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Handy Appetizer**|Benji Peng et.al.|[2409.17120v1](http://arxiv.org/abs/2409.17120v1)|null|
+|**2024-09-25**|**AXCEL: Automated eXplainable Consistency Evaluation using LLMs**|P Aditya Sreekar et.al.|[2409.16984v1](http://arxiv.org/abs/2409.16984v1)|null|
+|**2024-09-24**|**FMDLlama: Financial Misinformation Detection based on Large Language Models**|Zhiwei Liu et.al.|[2409.16452v1](http://arxiv.org/abs/2409.16452v1)|null|
+|**2024-09-24**|**Explaining word embeddings with perfect fidelity: Case study in research impact prediction**|Lucie Dvorackova et.al.|[2409.15912v1](http://arxiv.org/abs/2409.15912v1)|[link](https://github.com/adrianakubecova/lime_dp)|
+|**2024-09-23**|**Evaluating Theory of (an uncertain) Mind: Predicting the Uncertain Beliefs of Others in Conversation Forecasting**|Anthony Sicilia et.al.|[2409.14986v1](http://arxiv.org/abs/2409.14986v1)|null|
+|**2024-09-23**|**MTP: A Dataset for Multi-Modal Turning Points in Casual Conversations**|Gia-Bao Dinh Ho et.al.|[2409.14801v1](http://arxiv.org/abs/2409.14801v1)|null|
+|**2024-09-23**|**Towards Efficient and Robust VQA-NLE Data Generation with Large Vision-Language Models**|Patrick Amadeus Irawan et.al.|[2409.14785v1](http://arxiv.org/abs/2409.14785v1)|null|
+|**2024-09-22**|**Beyond Persuasion: Towards Conversational Recommender System with Credible Explanations**|Peixin Qin et.al.|[2409.14399v1](http://arxiv.org/abs/2409.14399v1)|null|
+|**2024-09-22**|**Investigating Layer Importance in Large Language Models**|Yang Zhang et.al.|[2409.14381v1](http://arxiv.org/abs/2409.14381v1)|null|
+|**2024-09-21**|**Instruction Following without Instruction Tuning**|John Hewitt et.al.|[2409.14254v1](http://arxiv.org/abs/2409.14254v1)|[link](https://github.com/john-hewitt/implicit-ins)|
+|**2024-09-20**|**GAProtoNet: A Multi-head Graph Attention-based Prototypical Network for Interpretable Text Classification**|Ximing Wen et.al.|[2409.13312v1](http://arxiv.org/abs/2409.13312v1)|null|
+|**2024-09-20**|**Large Language Model Should Understand Pinyin for Chinese ASR Error Correction**|Yuang Li et.al.|[2409.13262v1](http://arxiv.org/abs/2409.13262v1)|null|
+|**2024-09-19**|**Natural Language Processing Methods for the Study of Protein-Ligand Interactions**|James Michels et.al.|[2409.13057v1](http://arxiv.org/abs/2409.13057v1)|null|
+|**2024-09-19**|**CLAIR-A: Leveraging Large Language Models to Judge Audio Captions**|Tsung-Han Wu et.al.|[2409.12962v1](http://arxiv.org/abs/2409.12962v1)|[link](https://github.com/davidmchan/clair-a)|
+|**2024-09-19**|**Efficient Knowledge Distillation: Empowering Small Language Models with Teacher Model Insights**|Mohamad Ballout et.al.|[2409.12586v1](http://arxiv.org/abs/2409.12586v1)|null|
+|**2024-09-18**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194v3](http://arxiv.org/abs/2409.12194v3)|null|
 
 ## Reasoning
 
