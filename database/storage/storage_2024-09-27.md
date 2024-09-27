@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-27 09:24:32
+ Automated deployment @ 2024-09-27 20:37:12
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -89,7 +89,7 @@
 |**2024-09-20**|**ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation**|Abrar Anwar et.al.|[2409.13682v1](http://arxiv.org/abs/2409.13682v1)|null|
 |**2024-09-20**|**Beyond Accuracy Optimization: Computer Vision Losses for Large Language Model Fine-Tuning**|Daniele Rege Cambrin et.al.|[2409.13641v1](http://arxiv.org/abs/2409.13641v1)|[link](https://github.com/darthreca/segmentation-losses-nlp)|
 |**2024-09-20**|**Kalahi: A handcrafted, grassroots cultural LLM evaluation suite for Filipino**|Jann Railey Montalan et.al.|[2409.15380v1](http://arxiv.org/abs/2409.15380v1)|null|
-|**2024-09-20**|**ShizishanGPT: An Agricultural Large Language Model Integrating Tools and Resources**|Shuting Yang et.al.|[2409.13537v1](http://arxiv.org/abs/2409.13537v1)|null|
+|**2024-09-20**|**ShizishanGPT: An Agricultural Large Language Model Integrating Tools and Resources**|Shuting Yang et.al.|[2409.13537v1](http://arxiv.org/abs/2409.13537v1)|[link](https://github.com/zaiwen/cropgpt)|
 |**2024-09-20**|**Fast Streaming Transducer ASR Prototyping via Knowledge Distillation with Whisper**|Iuliia Thorbecke et.al.|[2409.13499v1](http://arxiv.org/abs/2409.13499v1)|null|
 |**2024-09-20**|**A Multimodal Dense Retrieval Approach for Speech-Based Open-Domain Question Answering**|Georgios Sidiropoulos et.al.|[2409.13483v1](http://arxiv.org/abs/2409.13483v1)|null|
 |**2024-09-20**|**AQA: Adaptive Question Answering in a Society of LLMs via Contextual Multi-Armed Bandit**|Mohanna Hoveyda et.al.|[2409.13447v2](http://arxiv.org/abs/2409.13447v2)|null|
@@ -145,8 +145,8 @@
 |**2024-09-20**|**A Multi-LLM Debiasing Framework**|Deonna M. Owens et.al.|[2409.13884v1](http://arxiv.org/abs/2409.13884v1)|null|
 |**2024-09-20**|**ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation**|Abrar Anwar et.al.|[2409.13682v1](http://arxiv.org/abs/2409.13682v1)|null|
 |**2024-09-20**|**YesBut: A High-Quality Annotated Multimodal Dataset for evaluating Satire Comprehension capability of Vision-Language Models**|Abhilash Nandy et.al.|[2409.13592v1](http://arxiv.org/abs/2409.13592v1)|[link](https://github.com/abhi1nandy2/yesbut_dataset)|
-|**2024-09-20**|**Sketching With Your Voice: "Non-Phonorealistic" Rendering of Sounds via Vocal Imitation**|Matthew Caren et.al.|[2409.13507v1](http://arxiv.org/abs/2409.13507v1)|null|
-|**2024-09-20**|**Constrained Reasoning Chains for Enhancing Theory-of-Mind in Large Language Models**|Zizheng Lin et.al.|[2409.13490v1](http://arxiv.org/abs/2409.13490v1)|null|
+|**2024-09-20**|**Sketching With Your Voice: "Non-Phonorealistic" Rendering of Sounds via Vocal Imitation**|Matthew Caren et.al.|[2409.13507v1](http://arxiv.org/abs/2409.13507v1)|[link](https://github.com/matthewcaren/vocal-imitation)|
+|**2024-09-20**|**Constrained Reasoning Chains for Enhancing Theory-of-Mind in Large Language Models**|Zizheng Lin et.al.|[2409.13490v1](http://arxiv.org/abs/2409.13490v1)|[link](https://github.com/hkust-knowcomp/constrained-chain-of-tom)|
 |**2024-09-20**|**AQA: Adaptive Question Answering in a Society of LLMs via Contextual Multi-Armed Bandit**|Mohanna Hoveyda et.al.|[2409.13447v2](http://arxiv.org/abs/2409.13447v2)|null|
 |**2024-09-20**|**Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey**|Sourav Verma et.al.|[2409.13385v1](http://arxiv.org/abs/2409.13385v1)|null|
 |**2024-09-20**|**LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench**|Karthik Valmeekam et.al.|[2409.13373v1](http://arxiv.org/abs/2409.13373v1)|null|
