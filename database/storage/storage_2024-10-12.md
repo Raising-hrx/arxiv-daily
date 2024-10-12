@@ -1,7 +1,40 @@
 # arxiv-daily
- Automated deployment @ 2024-10-12 20:59:31
+ Automated deployment @ 2024-10-12 21:25:58
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-10**|**Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models**|Wenting Tan et.al.|[2410.08068v1](http://arxiv.org/abs/2410.08068v1)|[link](https://github.com/sallytan13/teaching-inspired-prompting)|
+|**2024-10-10**|**KRAG Framework for Enhancing LLMs in the Legal Domain**|Nguyen Ha Thanh et.al.|[2410.07551v1](http://arxiv.org/abs/2410.07551v1)|null|
+|**2024-10-09**|**One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation**|Fabian Paischer et.al.|[2410.07170v1](http://arxiv.org/abs/2410.07170v1)|[link](https://github.com/ml-jku/EVA)|
+|**2024-10-09**|**Uncovering Factor Level Preferences to Improve Human-Model Alignment**|Juhyun Oh et.al.|[2410.06965v1](http://arxiv.org/abs/2410.06965v1)|null|
+|**2024-10-09**|**Chip-Tuning: Classify Before Language Models Say**|Fangwei Zhu et.al.|[2410.06541v1](http://arxiv.org/abs/2410.06541v1)|null|
+|**2024-10-08**|**Are Large Language Models State-of-the-art Quality Estimators for Machine Translation of User-generated Content?**|Shenbin Qian et.al.|[2410.06338v1](http://arxiv.org/abs/2410.06338v1)|[link](https://github.com/surrey-nlp/LLMs4MTQE-UGC)|
+|**2024-10-08**|**Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing**|Zhuoran Zhang et.al.|[2410.06331v1](http://arxiv.org/abs/2410.06331v1)|null|
+|**2024-10-08**|**Unsupervised Model Diagnosis**|Yinong Oliver Wang et.al.|[2410.06243v1](http://arxiv.org/abs/2410.06243v1)|null|
+|**2024-10-08**|**Unveiling Transformer Perception by Exploring Input Manifolds**|Alessandro Benfenati et.al.|[2410.06019v1](http://arxiv.org/abs/2410.06019v1)|null|
+|**2024-10-08**|**Unlocking the Boundaries of Thought: A Reasoning Granularity Framework to Quantify and Optimize Chain-of-Thought**|Qiguang Chen et.al.|[2410.05695v1](http://arxiv.org/abs/2410.05695v1)|null|
+|**2024-10-08**|**Copiloting Diagnosis of Autism in Real Clinical Scenarios via LLMs**|Yi Jiang et.al.|[2410.05684v2](http://arxiv.org/abs/2410.05684v2)|null|
+|**2024-10-08**|**Everything Everywhere All at Once: LLMs can In-Context Learn Multiple Tasks in Superposition**|Zheyang Xiong et.al.|[2410.05603v1](http://arxiv.org/abs/2410.05603v1)|null|
+|**2024-10-07**|**Post-hoc Study of Climate Microtargeting on Social Media Ads with LLMs: Thematic Insights and Fairness Evaluation**|Tunazzina Islam et.al.|[2410.05401v1](http://arxiv.org/abs/2410.05401v1)|null|
+|**2024-10-07**|**Causal Micro-Narratives**|Mourad Heddaya et.al.|[2410.05252v1](http://arxiv.org/abs/2410.05252v1)|null|
+|**2024-10-07**|**CasiMedicos-Arg: A Medical Question Answering Dataset Annotated with Explanatory Argumentative Structures**|Ekaterina Sviridova et.al.|[2410.05235v2](http://arxiv.org/abs/2410.05235v2)|null|
+|**2024-10-07**|**Cookbook: A framework for improving LLM generative abilities via programmatic data generating templates**|Avanika Narayan et.al.|[2410.05224v1](http://arxiv.org/abs/2410.05224v1)|null|
+|**2024-10-07**|**Understanding Warmup-Stable-Decay Learning Rates: A River Valley Loss Landscape Perspective**|Kaiyue Wen et.al.|[2410.05192v1](http://arxiv.org/abs/2410.05192v1)|null|
+|**2024-10-07**|**ReasoningRank: Teaching Student Models to Rank through Reasoning-Based Knowledge Distillation**|Yuelyu Ji et.al.|[2410.05168v1](http://arxiv.org/abs/2410.05168v1)|null|
+|**2024-10-07**|**Explanation sensitivity to the randomness of large language models: the case of journalistic text classification**|Jeremie Bogaert et.al.|[2410.05085v1](http://arxiv.org/abs/2410.05085v1)|null|
+|**2024-10-07**|**ZEBRA: Zero-Shot Example-Based Retrieval Augmentation for Commonsense Question Answering**|Francesco Maria Molfese et.al.|[2410.05077v1](http://arxiv.org/abs/2410.05077v1)|[link](https://github.com/sapienzanlp/zebra)|
+|**2024-10-07**|**MINER: Mining the Underlying Pattern of Modality-Specific Neurons in Multimodal Large Language Models**|Kaichen Huang et.al.|[2410.04819v1](http://arxiv.org/abs/2410.04819v1)|[link](https://github.com/hkccccc/MINER)|
+|**2024-10-07**|**Deeper Insights Without Updates: The Power of In-Context Learning Over Fine-Tuning**|Qingyu Yin et.al.|[2410.04691v1](http://arxiv.org/abs/2410.04691v1)|[link](https://github.com/mikastars39/iclvsfinetune)|
+|**2024-10-06**|**Revisiting In-context Learning Inference Circuit in Large Language Models**|Hakaze Cho et.al.|[2410.04468v1](http://arxiv.org/abs/2410.04468v1)|null|
+|**2024-10-06**|**Hyper-multi-step: The Truth Behind Difficult Long-context Tasks**|Yijiong Yu et.al.|[2410.04422v2](http://arxiv.org/abs/2410.04422v2)|[link](https://github.com/yuyijiong/hard_retrieval_for_llm)|
+|**2024-10-05**|**Locating Information Gaps and Narrative Inconsistencies Across Languages: A Case Study of LGBT People Portrayals on Wikipedia**|Farhan Samir et.al.|[2410.04282v1](http://arxiv.org/abs/2410.04282v1)|[link](https://github.com/smfsamir/infogap)|
+|**2024-10-05**|**Reasoning with Natural Language Explanations**|Marco Valentino et.al.|[2410.04148v1](http://arxiv.org/abs/2410.04148v1)|null|
+|**2024-10-05**|**Take It Easy: Label-Adaptive Self-Rationalization for Fact Verification and Explanation Generation**|Jing Yang et.al.|[2410.04002v1](http://arxiv.org/abs/2410.04002v1)|null|
 
 ## Question Answering
 
@@ -79,39 +112,6 @@
 |**2024-10-07**|**Intriguing Properties of Large Language and Vision Models**|Young-Jun Lee et.al.|[2410.04751v1](http://arxiv.org/abs/2410.04751v1)|null|
 |**2024-10-07**|**Forgetting Curve: A Reliable Method for Evaluating Memorization Capability for Long-context Models**|Xinyu Liu et.al.|[2410.04727v1](http://arxiv.org/abs/2410.04727v1)|[link](https://github.com/1azybug/forgettingcurve)|
 |**2024-10-07**|**Learning How Hard to Think: Input-Adaptive Allocation of LM Computation**|Mehul Damani et.al.|[2410.04707v1](http://arxiv.org/abs/2410.04707v1)|null|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-10**|**Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models**|Wenting Tan et.al.|[2410.08068v1](http://arxiv.org/abs/2410.08068v1)|[link](https://github.com/sallytan13/teaching-inspired-prompting)|
-|**2024-10-10**|**KRAG Framework for Enhancing LLMs in the Legal Domain**|Nguyen Ha Thanh et.al.|[2410.07551v1](http://arxiv.org/abs/2410.07551v1)|null|
-|**2024-10-09**|**One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation**|Fabian Paischer et.al.|[2410.07170v1](http://arxiv.org/abs/2410.07170v1)|[link](https://github.com/ml-jku/EVA)|
-|**2024-10-09**|**Uncovering Factor Level Preferences to Improve Human-Model Alignment**|Juhyun Oh et.al.|[2410.06965v1](http://arxiv.org/abs/2410.06965v1)|null|
-|**2024-10-09**|**Chip-Tuning: Classify Before Language Models Say**|Fangwei Zhu et.al.|[2410.06541v1](http://arxiv.org/abs/2410.06541v1)|null|
-|**2024-10-08**|**Are Large Language Models State-of-the-art Quality Estimators for Machine Translation of User-generated Content?**|Shenbin Qian et.al.|[2410.06338v1](http://arxiv.org/abs/2410.06338v1)|[link](https://github.com/surrey-nlp/LLMs4MTQE-UGC)|
-|**2024-10-08**|**Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing**|Zhuoran Zhang et.al.|[2410.06331v1](http://arxiv.org/abs/2410.06331v1)|null|
-|**2024-10-08**|**Unsupervised Model Diagnosis**|Yinong Oliver Wang et.al.|[2410.06243v1](http://arxiv.org/abs/2410.06243v1)|null|
-|**2024-10-08**|**Unveiling Transformer Perception by Exploring Input Manifolds**|Alessandro Benfenati et.al.|[2410.06019v1](http://arxiv.org/abs/2410.06019v1)|null|
-|**2024-10-08**|**Unlocking the Boundaries of Thought: A Reasoning Granularity Framework to Quantify and Optimize Chain-of-Thought**|Qiguang Chen et.al.|[2410.05695v1](http://arxiv.org/abs/2410.05695v1)|null|
-|**2024-10-08**|**Copiloting Diagnosis of Autism in Real Clinical Scenarios via LLMs**|Yi Jiang et.al.|[2410.05684v2](http://arxiv.org/abs/2410.05684v2)|null|
-|**2024-10-08**|**Everything Everywhere All at Once: LLMs can In-Context Learn Multiple Tasks in Superposition**|Zheyang Xiong et.al.|[2410.05603v1](http://arxiv.org/abs/2410.05603v1)|null|
-|**2024-10-07**|**Post-hoc Study of Climate Microtargeting on Social Media Ads with LLMs: Thematic Insights and Fairness Evaluation**|Tunazzina Islam et.al.|[2410.05401v1](http://arxiv.org/abs/2410.05401v1)|null|
-|**2024-10-07**|**Causal Micro-Narratives**|Mourad Heddaya et.al.|[2410.05252v1](http://arxiv.org/abs/2410.05252v1)|null|
-|**2024-10-07**|**CasiMedicos-Arg: A Medical Question Answering Dataset Annotated with Explanatory Argumentative Structures**|Ekaterina Sviridova et.al.|[2410.05235v2](http://arxiv.org/abs/2410.05235v2)|null|
-|**2024-10-07**|**Cookbook: A framework for improving LLM generative abilities via programmatic data generating templates**|Avanika Narayan et.al.|[2410.05224v1](http://arxiv.org/abs/2410.05224v1)|null|
-|**2024-10-07**|**Understanding Warmup-Stable-Decay Learning Rates: A River Valley Loss Landscape Perspective**|Kaiyue Wen et.al.|[2410.05192v1](http://arxiv.org/abs/2410.05192v1)|null|
-|**2024-10-07**|**ReasoningRank: Teaching Student Models to Rank through Reasoning-Based Knowledge Distillation**|Yuelyu Ji et.al.|[2410.05168v1](http://arxiv.org/abs/2410.05168v1)|null|
-|**2024-10-07**|**Explanation sensitivity to the randomness of large language models: the case of journalistic text classification**|Jeremie Bogaert et.al.|[2410.05085v1](http://arxiv.org/abs/2410.05085v1)|null|
-|**2024-10-07**|**ZEBRA: Zero-Shot Example-Based Retrieval Augmentation for Commonsense Question Answering**|Francesco Maria Molfese et.al.|[2410.05077v1](http://arxiv.org/abs/2410.05077v1)|[link](https://github.com/sapienzanlp/zebra)|
-|**2024-10-07**|**MINER: Mining the Underlying Pattern of Modality-Specific Neurons in Multimodal Large Language Models**|Kaichen Huang et.al.|[2410.04819v1](http://arxiv.org/abs/2410.04819v1)|[link](https://github.com/hkccccc/MINER)|
-|**2024-10-07**|**Deeper Insights Without Updates: The Power of In-Context Learning Over Fine-Tuning**|Qingyu Yin et.al.|[2410.04691v1](http://arxiv.org/abs/2410.04691v1)|[link](https://github.com/mikastars39/iclvsfinetune)|
-|**2024-10-06**|**Revisiting In-context Learning Inference Circuit in Large Language Models**|Hakaze Cho et.al.|[2410.04468v1](http://arxiv.org/abs/2410.04468v1)|null|
-|**2024-10-06**|**Hyper-multi-step: The Truth Behind Difficult Long-context Tasks**|Yijiong Yu et.al.|[2410.04422v2](http://arxiv.org/abs/2410.04422v2)|[link](https://github.com/yuyijiong/hard_retrieval_for_llm)|
-|**2024-10-05**|**Locating Information Gaps and Narrative Inconsistencies Across Languages: A Case Study of LGBT People Portrayals on Wikipedia**|Farhan Samir et.al.|[2410.04282v1](http://arxiv.org/abs/2410.04282v1)|[link](https://github.com/smfsamir/infogap)|
-|**2024-10-05**|**Reasoning with Natural Language Explanations**|Marco Valentino et.al.|[2410.04148v1](http://arxiv.org/abs/2410.04148v1)|null|
-|**2024-10-05**|**Take It Easy: Label-Adaptive Self-Rationalization for Fact Verification and Explanation Generation**|Jing Yang et.al.|[2410.04002v1](http://arxiv.org/abs/2410.04002v1)|null|
 
 ## Reasoning
 
