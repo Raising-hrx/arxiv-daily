@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-27 09:37:29
+ Automated deployment @ 2024-10-27 20:34:12
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -187,7 +187,7 @@
 |**2024-10-19**|**Are LLMs Good Zero-Shot Fallacy Classifiers?**|Fengjun Pan et.al.|[2410.15050v1](http://arxiv.org/abs/2410.15050v1)|[link](https://github.com/panfjcharlotte98/fallacy_detection)|
 |**2024-10-19**|**Do Large Language Models Truly Grasp Mathematics? An Empirical Exploration**|Wei Xie et.al.|[2410.14979v2](http://arxiv.org/abs/2410.14979v2)|null|
 |**2024-10-19**|**ChronoFact: Timeline-based Temporal Fact Verification**|Anab Maulana Barik et.al.|[2410.14964v1](http://arxiv.org/abs/2410.14964v1)|null|
-|**2024-10-19**|**SemiHVision: Enhancing Medical Multimodal Models with a Semi-Human Annotated Dataset and Fine-Tuned Instruction Generation**|Junda Wang et.al.|[2410.14948v1](http://arxiv.org/abs/2410.14948v1)|null|
+|**2024-10-19**|**SemiHVision: Enhancing Medical Multimodal Models with a Semi-Human Annotated Dataset and Fine-Tuned Instruction Generation**|Junda Wang et.al.|[2410.14948v1](http://arxiv.org/abs/2410.14948v1)|[link](https://github.com/believewhat/SemiHVision)|
 |**2024-10-18**|**From Test-Taking to Test-Making: Examining LLM Authoring of Commonsense Assessment Items**|Melissa Roemmele et.al.|[2410.14897v1](http://arxiv.org/abs/2410.14897v1)|null|
 |**2024-10-18**|**A Complexity-Based Theory of Compositionality**|Eric Elmoznino et.al.|[2410.14817v1](http://arxiv.org/abs/2410.14817v1)|null|
 |**2024-10-18**|**Effects of Soft-Domain Transfer and Named Entity Information on Deception Detection**|Steven Triplett et.al.|[2410.14814v1](http://arxiv.org/abs/2410.14814v1)|null|
@@ -208,7 +208,7 @@
 |**2024-10-18**|**XForecast: Evaluating Natural Language Explanations for Time Series Forecasting**|Taha Aksu et.al.|[2410.14180v2](http://arxiv.org/abs/2410.14180v2)|null|
 |**2024-10-18**|**MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems**|Zifeng Zhu et.al.|[2410.14179v1](http://arxiv.org/abs/2410.14179v1)|null|
 |**2024-10-18**|**LLM The Genius Paradox: A Linguistic and Math Expert's Struggle with Simple Word-based Counting Problems**|Nan Xu et.al.|[2410.14166v1](http://arxiv.org/abs/2410.14166v1)|null|
-|**2024-10-18**|**Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning**|Jiacheng Ye et.al.|[2410.14157v1](http://arxiv.org/abs/2410.14157v1)|null|
+|**2024-10-18**|**Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning**|Jiacheng Ye et.al.|[2410.14157v1](http://arxiv.org/abs/2410.14157v1)|[link](https://github.com/HKUNLP/diffusion-vs-ar)|
 |**2024-10-18**|**TimeSeriesExam: A time series understanding exam**|Yifu Cai et.al.|[2410.14752v1](http://arxiv.org/abs/2410.14752v1)|null|
 |**2024-10-17**|**Efficient Vision-Language Models by Summarizing Visual Tokens into Compact Registers**|Yuxin Wen et.al.|[2410.14072v1](http://arxiv.org/abs/2410.14072v1)|null|
 |**2024-10-17**|**SouLLMate: An Application Enhancing Diverse Mental Health Support with Adaptive LLMs, Prompt Engineering, and RAG Techniques**|Qiming Guo et.al.|[2410.16322v1](http://arxiv.org/abs/2410.16322v1)|null|
