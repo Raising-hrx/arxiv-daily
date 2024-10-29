@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-29 09:26:29
+ Automated deployment @ 2024-10-29 20:37:47
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -8,6 +8,13 @@
 ### Explanation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-28**|**Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics**|Yaniv Nikankin et.al.|[2410.21272v1](http://arxiv.org/abs/2410.21272v1)|null|
+|**2024-10-28**|**Towards Unifying Evaluation of Counterfactual Explanations: Leveraging Large Language Models for Human-Centric Assessments**|Marharyta Domnich et.al.|[2410.21131v1](http://arxiv.org/abs/2410.21131v1)|null|
+|**2024-10-28**|**Bridging the Gap between Expert and Language Models: Concept-guided Chess Commentary Generation and Evaluation**|Jaechang Kim et.al.|[2410.20811v1](http://arxiv.org/abs/2410.20811v1)|null|
+|**2024-10-28**|**Evaluating LLMs for Targeted Concept Simplification forDomain-Specific Texts**|Sumit Asthana et.al.|[2410.20763v1](http://arxiv.org/abs/2410.20763v1)|null|
+|**2024-10-28**|**Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation**|Mufei Li et.al.|[2410.20724v1](http://arxiv.org/abs/2410.20724v1)|null|
+|**2024-10-28**|**Visualizing attention zones in machine reading comprehension models**|Yiming Cui et.al.|[2410.20652v1](http://arxiv.org/abs/2410.20652v1)|null|
+|**2024-10-26**|**Causal Abstraction in Model Interpretability: A Compact Survey**|Yihao Zhang et.al.|[2410.20161v1](http://arxiv.org/abs/2410.20161v1)|null|
 |**2024-10-25**|**A distributional simplicity bias in the learning dynamics of transformers**|Riccardo Rende et.al.|[2410.19637v1](http://arxiv.org/abs/2410.19637v1)|null|
 |**2024-10-24**|**From Blind Solvers to Logical Thinkers: Benchmarking LLMs' Logical Integrity on Faulty Mathematical Problems**|A M Muntasir Rahman et.al.|[2410.18921v1](http://arxiv.org/abs/2410.18921v1)|null|
 |**2024-10-24**|**Delving into the Reversal Curse: How Far Can Large Language Models Generalize?**|Zhengkai Lin et.al.|[2410.18808v1](http://arxiv.org/abs/2410.18808v1)|null|
@@ -17,30 +24,39 @@
 |**2024-10-22**|**SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**|Jing-Jing Li et.al.|[2410.16665v1](http://arxiv.org/abs/2410.16665v1)|null|
 |**2024-10-21**|**Raising the Stakes: Performance Pressure Improves AI-Assisted Decision Making**|Nikita Haduong et.al.|[2410.16560v1](http://arxiv.org/abs/2410.16560v1)|null|
 |**2024-10-21**|**Bayesian scaling laws for in-context learning**|Aryaman Arora et.al.|[2410.16531v2](http://arxiv.org/abs/2410.16531v2)|[link](https://github.com/aryamanarora/bayesian-laws-icl)|
-|**2024-10-21**|**Does your LLM truly unlearn? An embarrassingly simple approach to recover unlearned knowledge**|Zhiwei Zhang et.al.|[2410.16454v1](http://arxiv.org/abs/2410.16454v1)|[link](https://github.com/zzwjames/failurellmunlearning)|
-|**2024-10-21**|**ToW: Thoughts of Words Improve Reasoning in Large Language Models**|Zhikun Xu et.al.|[2410.16235v1](http://arxiv.org/abs/2410.16235v1)|null|
-|**2024-10-21**|**Surprise! Uniform Information Density Isn't the Whole Story: Predicting Surprisal Contours in Long-form Discourse**|Eleftheria Tsipidi et.al.|[2410.16062v1](http://arxiv.org/abs/2410.16062v1)|null|
-|**2024-10-21**|**Self-Explained Keywords Empower Large Language Models for Code Generation**|Lishui Fan et.al.|[2410.15966v1](http://arxiv.org/abs/2410.15966v1)|null|
-|**2024-10-21**|**Principles of semantic and functional efficiency in grammatical patterning**|Emily Cheng et.al.|[2410.15865v1](http://arxiv.org/abs/2410.15865v1)|null|
-|**2024-10-21**|**Learning to Generate and Evaluate Fact-checking Explanations with Transformers**|Darius Feher et.al.|[2410.15669v1](http://arxiv.org/abs/2410.15669v1)|null|
-|**2024-10-20**|**SceneGraMMi: Scene Graph-boosted Hybrid-fusion for Multi-Modal Misinformation Veracity Prediction**|Swarang Joshi et.al.|[2410.15517v1](http://arxiv.org/abs/2410.15517v1)|null|
-|**2024-10-20**|**A Novel Interpretability Metric for Explaining Bias in Language Models: Applications on Multilingual Models from Southeast Asia**|Lance Calvin Lim Gamboa et.al.|[2410.15464v2](http://arxiv.org/abs/2410.15464v2)|[link](https://github.com/gamboalance/bias_attribution_scores)|
-|**2024-10-20**|**TAGExplainer: Narrating Graph Explanations for Text-Attributed Graph Learning Models**|Bo Pan et.al.|[2410.15268v1](http://arxiv.org/abs/2410.15268v1)|null|
-|**2024-10-19**|**Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction**|Yinhan He et.al.|[2410.15165v1](http://arxiv.org/abs/2410.15165v1)|null|
-|**2024-10-19**|**Augmenting the Veracity and Explanations of Complex Fact Checking via Iterative Self-Revision with LLMs**|Xiaocheng Zhang et.al.|[2410.15135v1](http://arxiv.org/abs/2410.15135v1)|null|
-|**2024-10-19**|**Towards Safer Heuristics With XPlain**|Pantea Karimi et.al.|[2410.15086v1](http://arxiv.org/abs/2410.15086v1)|null|
 
 ## Question Answering
 
 ### QA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-28**|**Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics**|Yaniv Nikankin et.al.|[2410.21272v1](http://arxiv.org/abs/2410.21272v1)|null|
+|**2024-10-28**|**Belief in the Machine: Investigating Epistemological Blind Spots of Language Models**|Mirac Suzgun et.al.|[2410.21195v1](http://arxiv.org/abs/2410.21195v1)|null|
+|**2024-10-28**|**Are LLM-Judges Robust to Expressions of Uncertainty? Investigating the effect of Epistemic Markers on LLM-based Evaluation**|Dongryeol Lee et.al.|[2410.20774v1](http://arxiv.org/abs/2410.20774v1)|null|
+|**2024-10-28**|**Plan$\times$RAG: Planning-guided Retrieval Augmented Generation**|Prakhar Verma et.al.|[2410.20753v1](http://arxiv.org/abs/2410.20753v1)|null|
+|**2024-10-28**|**Gender Bias in LLM-generated Interview Responses**|Haein Kong et.al.|[2410.20739v1](http://arxiv.org/abs/2410.20739v1)|null|
+|**2024-10-28**|**Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation**|Mufei Li et.al.|[2410.20724v1](http://arxiv.org/abs/2410.20724v1)|null|
+|**2024-10-28**|**SubjECTive-QA: Measuring Subjectivity in Earnings Call Transcripts' QA Through Six-Dimensional Feature Analysis**|Huzaifa Pardawala et.al.|[2410.20651v1](http://arxiv.org/abs/2410.20651v1)|null|
+|**2024-10-27**|**Guiding Through Complexity: What Makes Good Supervision for Hard Reasoning Tasks?**|Xuan He et.al.|[2410.20533v1](http://arxiv.org/abs/2410.20533v1)|[link](https://github.com/hexuan21/weak-to-strong)|
+|**2024-10-27**|**Is Moral Self-correction An Innate Capability of Large Language Models? A Mechanistic Analysis to Self-correction**|Zimo Qi et.al.|[2410.20513v1](http://arxiv.org/abs/2410.20513v1)|null|
+|**2024-10-27**|**What Factors Affect Multi-Modal In-Context Learning? An In-Depth Exploration**|Libo Qin et.al.|[2410.20482v1](http://arxiv.org/abs/2410.20482v1)|null|
+|**2024-10-27**|**MedGo: A Chinese Medical Large Language Model**|Haitao Zhang et.al.|[2410.20428v1](http://arxiv.org/abs/2410.20428v1)|null|
+|**2024-10-27**|**Rethinking Data Synthesis: A Teacher Model Training Recipe with Interpretation**|Yifang Chen et.al.|[2410.20362v1](http://arxiv.org/abs/2410.20362v1)|null|
+|**2024-10-27**|**Get Large Language Models Ready to Speak: A Late-fusion Approach for Speech Generation**|Maohao Shen et.al.|[2410.20336v1](http://arxiv.org/abs/2410.20336v1)|null|
+|**2024-10-26**|**A Survey of Large Language Models for Arabic Language and its Dialects**|Malak Mashaabi et.al.|[2410.20238v1](http://arxiv.org/abs/2410.20238v1)|null|
+|**2024-10-26**|**Reasoning or a Semblance of it? A Diagnostic Study of Transitive Reasoning in LLMs**|Houman Mehrafarin et.al.|[2410.20200v1](http://arxiv.org/abs/2410.20200v1)|null|
+|**2024-10-26**|**UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers**|Dehai Min et.al.|[2410.20163v1](http://arxiv.org/abs/2410.20163v1)|null|
+|**2024-10-26**|**Training the Untrainable: Introducing Inductive Bias via Representational Alignment**|Vighnesh Subramaniam et.al.|[2410.20035v1](http://arxiv.org/abs/2410.20035v1)|null|
+|**2024-10-26**|**Think Carefully and Check Again! Meta-Generation Unlocking LLMs for Low-Resource Cross-Lingual Summarization**|Zhecheng Li et.al.|[2410.20021v1](http://arxiv.org/abs/2410.20021v1)|null|
+|**2024-10-26**|**Vulnerability of LLMs to Vertically Aligned Text Manipulations**|Zhecheng Li et.al.|[2410.20016v1](http://arxiv.org/abs/2410.20016v1)|null|
+|**2024-10-25**|**Cooperative Strategic Planning Enhances Reasoning Capabilities in Large Language Models**|Danqing Wang et.al.|[2410.20007v1](http://arxiv.org/abs/2410.20007v1)|null|
 |**2024-10-25**|**AGENT-CQ: Automatic Generation and Evaluation of Clarifying Questions for Conversational Search with LLMs**|Clemencia Siro et.al.|[2410.19692v1](http://arxiv.org/abs/2410.19692v1)|null|
 |**2024-10-25**|**Graph Linearization Methods for Reasoning on Graphs with Large Language Models**|Christos Xypolopoulos et.al.|[2410.19494v1](http://arxiv.org/abs/2410.19494v1)|null|
 |**2024-10-25**|**A Debate-Driven Experiment on LLM Hallucinations and Accuracy**|Ray Li et.al.|[2410.19485v1](http://arxiv.org/abs/2410.19485v1)|null|
 |**2024-10-25**|**Any Other Thoughts, Hedgehog? Linking Deliberation Chains in Collaborative Dialogues**|Abhijnan Nath et.al.|[2410.19301v1](http://arxiv.org/abs/2410.19301v1)|null|
 |**2024-10-25**|**Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning**|Yu Fu et.al.|[2410.19258v1](http://arxiv.org/abs/2410.19258v1)|null|
 |**2024-10-25**|**Can Stories Help LLMs Reason? Curating Information Space Through Narrative**|Vahid Sadiri Javadi et.al.|[2410.19221v1](http://arxiv.org/abs/2410.19221v1)|null|
+|**2024-10-24**|**Critical biblical studies via word frequency analysis: unveiling text authorship**|Shira Faigenbaum-Golovin et.al.|[2410.19883v1](http://arxiv.org/abs/2410.19883v1)|null|
 |**2024-10-24**|**MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark**|S Sakshi et.al.|[2410.19168v1](http://arxiv.org/abs/2410.19168v1)|null|
 |**2024-10-24**|**Visual Text Matters: Improving Text-KVQA with Visual Text Entity Knowledge-aware Large Multimodal Assistant**|Abhirama Subramanyam Penamakuri et.al.|[2410.19144v1](http://arxiv.org/abs/2410.19144v1)|[link](https://github.com/vl2g/KaLMA)|
 |**2024-10-24**|**CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**|Sara Ghaboura et.al.|[2410.18976v1](http://arxiv.org/abs/2410.18976v1)|[link](https://github.com/mbzuai-oryx/CAMEL-Bench)|
@@ -78,39 +94,34 @@
 |**2024-10-22**|**Literature Meets Data: A Synergistic Approach to Hypothesis Generation**|Haokun Liu et.al.|[2410.17309v1](http://arxiv.org/abs/2410.17309v1)|[link](https://github.com/chicagohai/hypothesis-generation)|
 |**2024-10-22**|**Fine-Tuning Large Language Models to Appropriately Abstain with Semantic Entropy**|Benedict Aaron Tjandra et.al.|[2410.17234v1](http://arxiv.org/abs/2410.17234v1)|null|
 |**2024-10-22**|**Creativity in AI: Progresses and Challenges**|Mete Ismayilzada et.al.|[2410.17218v2](http://arxiv.org/abs/2410.17218v2)|null|
-|**2024-10-22**|**Enhancing Answer Attribution for Faithful Text Generation with Large Language Models**|Juraj Vladika et.al.|[2410.17112v1](http://arxiv.org/abs/2410.17112v1)|null|
-|**2024-10-22**|**Human-LLM Hybrid Text Answer Aggregation for Crowd Annotations**|Jiyi Li et.al.|[2410.17099v1](http://arxiv.org/abs/2410.17099v1)|[link](https://github.com/garfieldpigljy/humanllmhybridaggregation)|
-|**2024-10-22**|**Arabic Dataset for LLM Safeguard Evaluation**|Yasser Ashraf et.al.|[2410.17040v1](http://arxiv.org/abs/2410.17040v1)|null|
-|**2024-10-22**|**SG-FSM: A Self-Guiding Zero-Shot Prompting Paradigm for Multi-Hop Question Answering Based on Finite State Machine**|Xiaochen Wang et.al.|[2410.17021v1](http://arxiv.org/abs/2410.17021v1)|null|
-|**2024-10-22**|**Exploring Forgetting in Large Language Model Pre-Training**|Chonghua Liao et.al.|[2410.17018v1](http://arxiv.org/abs/2410.17018v1)|null|
-|**2024-10-22**|**SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**|Jingsheng Gao et.al.|[2410.18141v1](http://arxiv.org/abs/2410.18141v1)|null|
-|**2024-10-22**|**ETHIC: Evaluating Large Language Models on Long-Context Tasks with High Information Coverage**|Taewhoo Lee et.al.|[2410.16848v1](http://arxiv.org/abs/2410.16848v1)|[link](https://github.com/dmis-lab/ethic)|
-|**2024-10-22**|**Correct after Answer: Enhancing Multi-Span Question Answering with Post-Processing Method**|Jiayi Lin et.al.|[2410.16788v1](http://arxiv.org/abs/2410.16788v1)|[link](https://github.com/tongjinlp/acc)|
-|**2024-10-22**|**Atomic Fact Decomposition Helps Attributed Question Answering**|Zhichao Yan et.al.|[2410.16708v1](http://arxiv.org/abs/2410.16708v1)|null|
-|**2024-10-22**|**Chatting with Bots: AI, Speech Acts, and the Edge of Assertion**|Iwan Williams et.al.|[2410.16645v1](http://arxiv.org/abs/2410.16645v1)|null|
-|**2024-10-22**|**A Statistical Analysis of LLMs' Self-Evaluation Using Proverbs**|Ryosuke Sonoda et.al.|[2410.16640v1](http://arxiv.org/abs/2410.16640v1)|null|
-|**2024-10-22**|**Distill-SynthKG: Distilling Knowledge Graph Synthesis Workflow for Improved Coverage and Efficiency**|Prafulla Kumar Choubey et.al.|[2410.16597v1](http://arxiv.org/abs/2410.16597v1)|null|
-|**2024-10-21**|**Susu Box or Piggy Bank: Assessing Cultural Commonsense Knowledge between Ghana and the U.S**|Christabel Acquaye et.al.|[2410.16451v2](http://arxiv.org/abs/2410.16451v2)|null|
-|**2024-10-21**|**KatzBot: Revolutionizing Academic Chatbot for Enhanced Communication**|Sahil Kumar et.al.|[2410.16385v1](http://arxiv.org/abs/2410.16385v1)|[link](https://github.com/aiai-99/katzbot)|
-|**2024-10-21**|**xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs**|Michael S. Ryoo et.al.|[2410.16267v1](http://arxiv.org/abs/2410.16267v1)|null|
-|**2024-10-21**|**Can Knowledge Editing Really Correct Hallucinations?**|Baixiang Huang et.al.|[2410.16251v1](http://arxiv.org/abs/2410.16251v1)|[link](https://github.com/llm-editing/HalluEditBench)|
-|**2024-10-21**|**Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping**|Ryan Li et.al.|[2410.16232v1](http://arxiv.org/abs/2410.16232v1)|null|
-|**2024-10-21**|**Do LLMs write like humans? Variation in grammatical and rhetorical styles**|Alex Reinhart et.al.|[2410.16107v1](http://arxiv.org/abs/2410.16107v1)|null|
-|**2024-10-21**|**Analysing the Residual Stream of Language Models Under Knowledge Conflicts**|Yu Zhao et.al.|[2410.16090v1](http://arxiv.org/abs/2410.16090v1)|null|
-|**2024-10-21**|**Fine-Tuning LLMs for Reliable Medical Question-Answering Services**|Ali Anaissi et.al.|[2410.16088v1](http://arxiv.org/abs/2410.16088v1)|null|
-|**2024-10-21**|**ComPO: Community Preferences for Language Model Personalization**|Sachin Kumar et.al.|[2410.16027v1](http://arxiv.org/abs/2410.16027v1)|null|
-|**2024-10-21**|**Steering Knowledge Selection Behaviours in LLMs via SAE-Based Representation Engineering**|Yu Zhao et.al.|[2410.15999v2](http://arxiv.org/abs/2410.15999v2)|[link](https://github.com/yuzhaouoe/sae-based-representation-engineering)|
-|**2024-10-21**|**Improve Dense Passage Retrieval with Entailment Tuning**|Lu Dai et.al.|[2410.15801v1](http://arxiv.org/abs/2410.15801v1)|null|
-|**2024-10-21**|**Learning-to-Defer for Extractive Question Answering**|Montreuil Yannis et.al.|[2410.15761v1](http://arxiv.org/abs/2410.15761v1)|null|
-|**2024-10-21**|**Who's Who: Large Language Models Meet Knowledge Conflicts in Practice**|Quang Hieu Pham et.al.|[2410.15737v1](http://arxiv.org/abs/2410.15737v1)|[link](https://github.com/vinairesearch/whoqa)|
 
 ## Reasoning
 
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-28**|**Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics**|Yaniv Nikankin et.al.|[2410.21272v1](http://arxiv.org/abs/2410.21272v1)|null|
+|**2024-10-28**|**EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation**|Shih-Yang Liu et.al.|[2410.21271v1](http://arxiv.org/abs/2410.21271v1)|null|
+|**2024-10-28**|**Flaming-hot Initiation with Regular Execution Sampling for Large Language Models**|Weizhe Chen et.al.|[2410.21236v1](http://arxiv.org/abs/2410.21236v1)|null|
+|**2024-10-28**|**Belief in the Machine: Investigating Epistemological Blind Spots of Language Models**|Mirac Suzgun et.al.|[2410.21195v1](http://arxiv.org/abs/2410.21195v1)|null|
+|**2024-10-28**|**Towards Unifying Evaluation of Counterfactual Explanations: Leveraging Large Language Models for Human-Centric Assessments**|Marharyta Domnich et.al.|[2410.21131v1](http://arxiv.org/abs/2410.21131v1)|null|
+|**2024-10-28**|**Evaluating LLMs for Targeted Concept Simplification forDomain-Specific Texts**|Sumit Asthana et.al.|[2410.20763v1](http://arxiv.org/abs/2410.20763v1)|null|
+|**2024-10-28**|**Plan$\times$RAG: Planning-guided Retrieval Augmented Generation**|Prakhar Verma et.al.|[2410.20753v1](http://arxiv.org/abs/2410.20753v1)|null|
+|**2024-10-28**|**Matryoshka: Learning to Drive Black-Box LLMs with LLMs**|Changhao Li et.al.|[2410.20749v1](http://arxiv.org/abs/2410.20749v1)|null|
+|**2024-10-28**|**Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation**|Mufei Li et.al.|[2410.20724v1](http://arxiv.org/abs/2410.20724v1)|null|
+|**2024-10-28**|**Combining Domain-Specific Models and LLMs for Automated Disease Phenotyping from Survey Data**|Gal Beeri et.al.|[2410.20695v1](http://arxiv.org/abs/2410.20695v1)|null|
+|**2024-10-28**|**Guide-LLM: An Embodied LLM Agent and Text-Based Topological Map for Robotic Guidance of People with Visual Impairments**|Sangmim Song et.al.|[2410.20666v1](http://arxiv.org/abs/2410.20666v1)|null|
+|**2024-10-27**|**Guiding Through Complexity: What Makes Good Supervision for Hard Reasoning Tasks?**|Xuan He et.al.|[2410.20533v1](http://arxiv.org/abs/2410.20533v1)|[link](https://github.com/hexuan21/weak-to-strong)|
+|**2024-10-27**|**Is Moral Self-correction An Innate Capability of Large Language Models? A Mechanistic Analysis to Self-correction**|Zimo Qi et.al.|[2410.20513v1](http://arxiv.org/abs/2410.20513v1)|null|
+|**2024-10-27**|**Graph Neural Networks on Discriminative Graphs of Words**|Yassine Abbahaddou et.al.|[2410.20469v1](http://arxiv.org/abs/2410.20469v1)|null|
+|**2024-10-26**|**Library Learning Doesn't: The Curious Case of the Single-Use "Library"**|Ian Berlot-Attwell et.al.|[2410.20274v1](http://arxiv.org/abs/2410.20274v1)|[link](https://github.com/ikb-a/curious-case)|
+|**2024-10-26**|**Ambiguity is the last thing you need**|Emily Chivers et.al.|[2410.20222v1](http://arxiv.org/abs/2410.20222v1)|null|
+|**2024-10-26**|**Reasoning or a Semblance of it? A Diagnostic Study of Transitive Reasoning in LLMs**|Houman Mehrafarin et.al.|[2410.20200v1](http://arxiv.org/abs/2410.20200v1)|null|
+|**2024-10-26**|**LLMs Can Evolve Continually on Modality for X-Modal Reasoning**|Jiazuo Yu et.al.|[2410.20178v1](http://arxiv.org/abs/2410.20178v1)|[link](https://github.com/jiazuoyu/pathweave)|
+|**2024-10-26**|**Vulnerability of LLMs to Vertically Aligned Text Manipulations**|Zhecheng Li et.al.|[2410.20016v1](http://arxiv.org/abs/2410.20016v1)|null|
+|**2024-10-25**|**Cooperative Strategic Planning Enhances Reasoning Capabilities in Large Language Models**|Danqing Wang et.al.|[2410.20007v1](http://arxiv.org/abs/2410.20007v1)|null|
 |**2024-10-25**|**Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2410.19732v1](http://arxiv.org/abs/2410.19732v1)|null|
-|**2024-10-25**|**Counting Ability of Large Language Models and Impact of Tokenization**|Xiang Zhang et.al.|[2410.19730v1](http://arxiv.org/abs/2410.19730v1)|null|
+|**2024-10-25**|**Counting Ability of Large Language Models and Impact of Tokenization**|Xiang Zhang et.al.|[2410.19730v1](http://arxiv.org/abs/2410.19730v1)|[link](https://github.com/juntaic7/impact-of-tokenization-in-the-counting-ability-of-language-models)|
 |**2024-10-25**|**ProvocationProbe: Instigating Hate Speech Dataset from Twitter**|Abhay Kumar et.al.|[2410.19687v1](http://arxiv.org/abs/2410.19687v1)|null|
 |**2024-10-25**|**ChunkRAG: Novel LLM-Chunk Filtering Method for RAG Systems**|Ritvik Aggarwal Ishneet Sukhvinder Singh Ibrahim Allahverdiyev et.al.|[2410.19572v1](http://arxiv.org/abs/2410.19572v1)|null|
 |**2024-10-25**|**Mirror Matrix on the Wall: coding and vector notation as tools for introspection**|Leonardo Araújo et.al.|[2410.19549v1](http://arxiv.org/abs/2410.19549v1)|null|
@@ -148,7 +159,7 @@
 |**2024-10-22**|**In Context Learning and Reasoning for Symbolic Regression with Large Language Models**|Samiha Sharlin et.al.|[2410.17448v1](http://arxiv.org/abs/2410.17448v1)|[link](https://github.com/atomslab/llmsforsr)|
 |**2024-10-22**|**Meaning Typed Prompting: A Technique for Efficient, Reliable Structured Output Generation**|Chandra Irugalbandara et.al.|[2410.18146v1](http://arxiv.org/abs/2410.18146v1)|null|
 |**2024-10-22**|**Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference Under Ambiguities**|Zheyuan Zhang et.al.|[2410.17385v1](http://arxiv.org/abs/2410.17385v1)|null|
-|**2024-10-22**|**Non-myopic Generation of Language Model for Reasoning and Planning**|Chang Ma et.al.|[2410.17195v2](http://arxiv.org/abs/2410.17195v2)|null|
+|**2024-10-22**|**Non-myopic Generation of Language Models for Reasoning and Planning**|Chang Ma et.al.|[2410.17195v3](http://arxiv.org/abs/2410.17195v3)|null|
 |**2024-10-22**|**UnStar: Unlearning with Self-Taught Anti-Sample Reasoning for LLMs**|Yash Sinha et.al.|[2410.17050v1](http://arxiv.org/abs/2410.17050v1)|null|
 |**2024-10-22**|**SG-FSM: A Self-Guiding Zero-Shot Prompting Paradigm for Multi-Hop Question Answering Based on Finite State Machine**|Xiaochen Wang et.al.|[2410.17021v1](http://arxiv.org/abs/2410.17021v1)|null|
 |**2024-10-22**|**Learning Mathematical Rules with Large Language Models**|Antoine Gorceix et.al.|[2410.16973v3](http://arxiv.org/abs/2410.16973v3)|null|
@@ -216,35 +227,6 @@
 |**2024-10-18**|**LLM The Genius Paradox: A Linguistic and Math Expert's Struggle with Simple Word-based Counting Problems**|Nan Xu et.al.|[2410.14166v1](http://arxiv.org/abs/2410.14166v1)|null|
 |**2024-10-18**|**Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning**|Jiacheng Ye et.al.|[2410.14157v1](http://arxiv.org/abs/2410.14157v1)|[link](https://github.com/HKUNLP/diffusion-vs-ar)|
 |**2024-10-18**|**TimeSeriesExam: A time series understanding exam**|Yifu Cai et.al.|[2410.14752v1](http://arxiv.org/abs/2410.14752v1)|null|
+|**2024-10-18**|**Step Guided Reasoning: Improving Mathematical Reasoning using Guidance Generation and Step Reasoning**|Lang Cao et.al.|[2410.19817v1](http://arxiv.org/abs/2410.19817v1)|null|
 |**2024-10-17**|**Efficient Vision-Language Models by Summarizing Visual Tokens into Compact Registers**|Yuxin Wen et.al.|[2410.14072v1](http://arxiv.org/abs/2410.14072v1)|null|
 |**2024-10-17**|**SouLLMate: An Application Enhancing Diverse Mental Health Support with Adaptive LLMs, Prompt Engineering, and RAG Techniques**|Qiming Guo et.al.|[2410.16322v1](http://arxiv.org/abs/2410.16322v1)|null|
-|**2024-10-17**|**From Isolated Conversations to Hierarchical Schemas: Dynamic Tree Memory Representation for LLMs**|Alireza Rezazadeh et.al.|[2410.14052v1](http://arxiv.org/abs/2410.14052v1)|null|
-|**2024-10-17**|**Style-Compress: An LLM-Based Prompt Compression Framework Considering Task-Specific Styles**|Xiao Pu et.al.|[2410.14042v1](http://arxiv.org/abs/2410.14042v1)|null|
-|**2024-10-17**|**RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs**|Jiatan Huang et.al.|[2410.13987v1](http://arxiv.org/abs/2410.13987v1)|null|
-|**2024-10-17**|**Are LLMs Models of Distributional Semantics? A Case Study on Quantifiers**|Zhang Enyan et.al.|[2410.13984v1](http://arxiv.org/abs/2410.13984v1)|null|
-|**2024-10-17**|**How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs**|Guhao Feng et.al.|[2410.13857v1](http://arxiv.org/abs/2410.13857v1)|null|
-|**2024-10-17**|**Retrospective Learning from Interactions**|Zizhao Chen et.al.|[2410.13852v1](http://arxiv.org/abs/2410.13852v1)|null|
-|**2024-10-17**|**A Common Pitfall of Margin-based Language Model Alignment: Gradient Entanglement**|Hui Yuan et.al.|[2410.13828v1](http://arxiv.org/abs/2410.13828v1)|null|
-|**2024-10-17**|**Unconstrained Model Merging for Enhanced LLM Reasoning**|Yiming Zhang et.al.|[2410.13699v2](http://arxiv.org/abs/2410.13699v2)|null|
-|**2024-10-17**|**VL-GLUE: A Suite of Fundamental yet Challenging Visuo-Linguistic Reasoning Tasks**|Shailaja Keyur Sampat et.al.|[2410.13666v1](http://arxiv.org/abs/2410.13666v1)|[link](https://github.com/shailaja183/vl-glue)|
-|**2024-10-17**|**SimpleToM: Exposing the Gap between Explicit ToM Inference and Implicit ToM Application in LLMs**|Yuling Gu et.al.|[2410.13648v1](http://arxiv.org/abs/2410.13648v1)|null|
-|**2024-10-17**|**A Comparative Study on Reasoning Patterns of OpenAI's o1 Model**|Siwei Wu et.al.|[2410.13639v2](http://arxiv.org/abs/2410.13639v2)|[link](https://github.com/open-source-o1/o1_reasoning_patterns_study)|
-|**2024-10-17**|**GeoCoder: Solving Geometry Problems by Generating Modular Code through Vision-Language Models**|Aditya Sharma et.al.|[2410.13510v1](http://arxiv.org/abs/2410.13510v1)|null|
-|**2024-10-17**|**MathGAP: Out-of-Distribution Evaluation on Problems with Arbitrarily Complex Proofs**|Andreas Opedal et.al.|[2410.13502v2](http://arxiv.org/abs/2410.13502v2)|null|
-|**2024-10-17**|**Seeing Through VisualBERT: A Causal Adventure on Memetic Landscapes**|Dibyanayan Bandyopadhyay et.al.|[2410.13488v1](http://arxiv.org/abs/2410.13488v1)|null|
-|**2024-10-17**|**LAR-ECHR: A New Legal Argument Reasoning Task and Dataset for Cases of the European Court of Human Rights**|Odysseas S. Chlapanis et.al.|[2410.13352v1](http://arxiv.org/abs/2410.13352v1)|null|
-|**2024-10-17**|**Advancing Large Language Model Attribution through Self-Improving**|Lei Huang et.al.|[2410.13298v1](http://arxiv.org/abs/2410.13298v1)|null|
-|**2024-10-17**|**From Babbling to Fluency: Evaluating the Evolution of Language Models in Terms of Human Language Acquisition**|Qiyuan Yang et.al.|[2410.13259v1](http://arxiv.org/abs/2410.13259v1)|[link](https://github.com/ericyang1029/language-acquisition)|
-|**2024-10-17**|**Proof Flow: Preliminary Study on Generative Flow Network Language Model Tuning for Formal Reasoning**|Matthew Ho et.al.|[2410.13224v1](http://arxiv.org/abs/2410.13224v1)|null|
-|**2024-10-17**|**Anchored Alignment for Self-Explanations Enhancement**|Luis Felipe Villa-Arenas et.al.|[2410.13216v1](http://arxiv.org/abs/2410.13216v1)|null|
-|**2024-10-17**|**BQA: Body Language Question Answering Dataset for Video Large Language Models**|Shintaro Ozaki et.al.|[2410.13206v1](http://arxiv.org/abs/2410.13206v1)|null|
-|**2024-10-17**|**The Geometry of Numerical Reasoning: Language Models Compare Numeric Properties in Linear Subspaces**|Ahmed Oumar El-Shangiti et.al.|[2410.13194v1](http://arxiv.org/abs/2410.13194v1)|null|
-|**2024-10-17**|**MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback**|Zonghai Yao et.al.|[2410.13191v2](http://arxiv.org/abs/2410.13191v2)|null|
-|**2024-10-17**|**AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning**|Hao Sun et.al.|[2410.13181v1](http://arxiv.org/abs/2410.13181v1)|null|
-|**2024-10-16**|**Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models**|Linhao Luo et.al.|[2410.13080v1](http://arxiv.org/abs/2410.13080v1)|[link](https://github.com/RManLuo/graph-constrained-reasoning)|
-|**2024-10-16**|**When Not to Answer: Evaluating Prompts on GPT Models for Effective Abstention in Unanswerable Math Word Problems**|Asir Saadat et.al.|[2410.13029v1](http://arxiv.org/abs/2410.13029v1)|null|
-|**2024-10-16**|**Learning Representations for Reasoning: Generalizing Across Diverse Structures**|Zhaocheng Zhu et.al.|[2410.13018v1](http://arxiv.org/abs/2410.13018v1)|null|
-|**2024-10-16**|**"Let's Argue Both Sides": Argument Generation Can Force Small Models to Utilize Previously Inaccessible Reasoning Capabilities**|Kaveh Eskandari Miandoab et.al.|[2410.12997v1](http://arxiv.org/abs/2410.12997v1)|null|
-|**2024-10-16**|**Large Language Models as a Tool for Mining Object Knowledge**|Hannah YoungEun An et.al.|[2410.12959v1](http://arxiv.org/abs/2410.12959v1)|null|
-|**2024-10-16**|**Enhancing Mathematical Reasoning in LLMs by Stepwise Correction**|Zhenyu Wu et.al.|[2410.12934v1](http://arxiv.org/abs/2410.12934v1)|null|
-|**2024-10-16**|**JudgeBench: A Benchmark for Evaluating LLM-based Judges**|Sijun Tan et.al.|[2410.12784v1](http://arxiv.org/abs/2410.12784v1)|[link](https://github.com/ScalerLab/JudgeBench)|
