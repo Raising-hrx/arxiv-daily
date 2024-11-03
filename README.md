@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-03 09:37:38
+ Automated deployment @ 2024-11-03 20:34:02
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -194,7 +194,7 @@
 |**2024-10-23**|**Markov Chain of Thought for Efficient Mathematical Reasoning**|Wen Yang et.al.|[2410.17635v1](http://arxiv.org/abs/2410.17635v1)|null|
 |**2024-10-23**|**Large Language Models Still Exhibit Bias in Long Text**|Wonje Jeung et.al.|[2410.17519v2](http://arxiv.org/abs/2410.17519v2)|null|
 |**2024-10-22**|**In Context Learning and Reasoning for Symbolic Regression with Large Language Models**|Samiha Sharlin et.al.|[2410.17448v1](http://arxiv.org/abs/2410.17448v1)|[link](https://github.com/atomslab/llmsforsr)|
-|**2024-10-22**|**Meaning Typed Prompting: A Technique for Efficient, Reliable Structured Output Generation**|Chandra Irugalbandara et.al.|[2410.18146v1](http://arxiv.org/abs/2410.18146v1)|null|
+|**2024-10-22**|**Meaning Typed Prompting: A Technique for Efficient, Reliable Structured Output Generation**|Chandra Irugalbandara et.al.|[2410.18146v1](http://arxiv.org/abs/2410.18146v1)|[link](https://github.com/leafmonkeylabs/semantix)|
 |**2024-10-22**|**Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference Under Ambiguities**|Zheyuan Zhang et.al.|[2410.17385v1](http://arxiv.org/abs/2410.17385v1)|null|
 |**2024-10-22**|**Non-myopic Generation of Language Models for Reasoning and Planning**|Chang Ma et.al.|[2410.17195v3](http://arxiv.org/abs/2410.17195v3)|null|
 |**2024-10-22**|**UnStar: Unlearning with Self-Taught Anti-Sample Reasoning for LLMs**|Yash Sinha et.al.|[2410.17050v1](http://arxiv.org/abs/2410.17050v1)|null|
