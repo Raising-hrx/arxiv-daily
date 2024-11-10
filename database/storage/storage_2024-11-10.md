@@ -1,7 +1,35 @@
 # arxiv-daily
- Automated deployment @ 2024-11-10 09:34:52
+ Automated deployment @ 2024-11-10 20:33:27
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-07**|**DISCO: DISCovering Overfittings as Causal Rules for Text Classification Models**|Zijian Zhang et.al.|[2411.04649v1](http://arxiv.org/abs/2411.04649v1)|null|
+|**2024-11-07**|**Pruning Literals for Highly Efficient Explainability at Word Level**|Rohan Kumar Yadav et.al.|[2411.04557v1](http://arxiv.org/abs/2411.04557v1)|null|
+|**2024-11-07**|**Balancing Transparency and Accuracy: A Comparative Analysis of Rule-Based and Deep Learning Models in Political Bias Classification**|Manuel Nunez Martinez et.al.|[2411.04328v1](http://arxiv.org/abs/2411.04328v1)|null|
+|**2024-11-06**|**A Multilingual Sentiment Lexicon for Low-Resource Language Translation using Large Languages Models and Explainable AI**|Melusi Malinga et.al.|[2411.04316v1](http://arxiv.org/abs/2411.04316v1)|null|
+|**2024-11-06**|**Improving Bilingual Capabilities of Language Models to Support Diverse Linguistic Practices in Education**|Anand Syamkumar et.al.|[2411.04308v1](http://arxiv.org/abs/2411.04308v1)|null|
+|**2024-11-06**|**Computational Analysis of Gender Depiction in the Comedias of Calderón de la Barca**|Allison Keith et.al.|[2411.03895v1](http://arxiv.org/abs/2411.03895v1)|null|
+|**2024-11-06**|**Crystal: Illuminating LLM Abilities on Language and Code**|Tianhua Tao et.al.|[2411.04156v1](http://arxiv.org/abs/2411.04156v1)|null|
+|**2024-11-06**|**The natural stability of autonomous morphology**|Erich Round et.al.|[2411.03811v1](http://arxiv.org/abs/2411.03811v1)|null|
+|**2024-11-06**|**The American Sign Language Knowledge Graph: Infusing ASL Models with Linguistic Knowledge**|Lee Kezar et.al.|[2411.03568v1](http://arxiv.org/abs/2411.03568v1)|null|
+|**2024-11-05**|**Grounding Natural Language to SQL Translation with Data-Based Self-Explanations**|Yuankai Fan et.al.|[2411.02948v1](http://arxiv.org/abs/2411.02948v1)|[link](https://github.com/Kaimary/CycleSQL)|
+|**2024-11-05**|**Graph-DPEP: Decomposed Plug and Ensemble Play for Few-Shot Document Relation Extraction with Graph-of-Thoughts Reasoning**|Tao Zhang et.al.|[2411.02864v1](http://arxiv.org/abs/2411.02864v1)|null|
+|**2024-11-04**|**A Comparative Analysis of Counterfactual Explanation Methods for Text Classifiers**|Stephen McAleese et.al.|[2411.02643v1](http://arxiv.org/abs/2411.02643v1)|null|
+|**2024-11-04**|**What Goes Into a LM Acceptability Judgment? Rethinking the Impact of Frequency and Length**|Lindia Tjuatja et.al.|[2411.02528v1](http://arxiv.org/abs/2411.02528v1)|[link](https://github.com/lindiatjuatja/morcela)|
+|**2024-11-04**|**Combining Induction and Transduction for Abstract Reasoning**|Wen-Ding Li et.al.|[2411.02272v1](http://arxiv.org/abs/2411.02272v1)|null|
+|**2024-11-04**|**Explainable cognitive decline detection in free dialogues with a Machine Learning approach based on pre-trained Large Language Models**|Francisco de Arriba-Pérez et.al.|[2411.02036v1](http://arxiv.org/abs/2411.02036v1)|null|
+|**2024-11-03**|**SPES: Spectrogram Perturbation for Explainable Speech-to-Text Generation**|Dennis Fucci et.al.|[2411.01710v1](http://arxiv.org/abs/2411.01710v1)|null|
+|**2024-11-03**|**Explaining and Improving Contrastive Decoding by Extrapolating the Probabilities of a Huge and Hypothetical LM**|Haw-Shiuan Chang et.al.|[2411.01610v1](http://arxiv.org/abs/2411.01610v1)|null|
+|**2024-11-03**|**Rate, Explain and Cite (REC): Enhanced Explanation and Attribution in Automatic Evaluation by Large Language Models**|Aliyah R. Hsu et.al.|[2411.02448v1](http://arxiv.org/abs/2411.02448v1)|[link](https://github.com/adelaidehsu/rec)|
+|**2024-11-02**|**AMREx: AMR for Explainable Fact Verification**|Chathuri Jayaweera et.al.|[2411.01343v1](http://arxiv.org/abs/2411.01343v1)|null|
+|**2024-11-01**|**Multi-expert Prompting Improves Reliability, Safety, and Usefulness of Large Language Models**|Do Xuan Long et.al.|[2411.00492v1](http://arxiv.org/abs/2411.00492v1)|[link](https://github.com/dxlong2000/multi-expert-prompting)|
+|**2024-11-01**|**Generative Emotion Cause Explanation in Multimodal Conversations**|Lin Wang et.al.|[2411.02430v1](http://arxiv.org/abs/2411.02430v1)|null|
+|**2024-10-31**|**Beyond Label Attention: Transparency in Language Models for Automated Medical Coding via Dictionary Learning**|John Wu et.al.|[2411.00173v1](http://arxiv.org/abs/2411.00173v1)|null|
 
 ## Question Answering
 
