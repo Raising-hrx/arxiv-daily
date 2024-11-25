@@ -1,7 +1,25 @@
 # arxiv-daily
- Automated deployment @ 2024-11-25 20:39:40
+ Automated deployment @ 2024-11-25 21:14:34
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-22**|**MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts**|Jiatong Li et.al.|[2411.14721v1](http://arxiv.org/abs/2411.14721v1)|null|
+|**2024-11-22**|**Understanding LLM Embeddings for Regression**|Eric Tang et.al.|[2411.14708v1](http://arxiv.org/abs/2411.14708v1)|null|
+|**2024-11-21**|**Why do language models perform worse for morphologically complex languages?**|Catherine Arnett et.al.|[2411.14198v1](http://arxiv.org/abs/2411.14198v1)|[link](https://github.com/catherinearnett/morphscore)|
+|**2024-11-21**|**Explaining GPT-4's Schema of Depression Using Machine Behavior Analysis**|Adithya V Ganesan et.al.|[2411.13800v1](http://arxiv.org/abs/2411.13800v1)|null|
+|**2024-11-20**|**Explainable LLM-driven Multi-dimensional Distillation for E-Commerce Relevance Learning**|Gang Zhao et.al.|[2411.13045v1](http://arxiv.org/abs/2411.13045v1)|null|
+|**2024-11-19**|**DLBacktrace: A Model Agnostic Explainability for any Deep Learning Models**|Vinay Kumar Sankarapu et.al.|[2411.12643v1](http://arxiv.org/abs/2411.12643v1)|[link](https://github.com/aryaxai/dlbacktrace)|
+|**2024-11-19**|**Bias Free Sentiment Analysis**|Hubert Plisiecki et.al.|[2411.12493v1](http://arxiv.org/abs/2411.12493v1)|null|
+|**2024-11-19**|**Analysing Explanation-Related Interactions in Collaborative Perception-Cognition-Communication-Action**|Marc Roig Vilamala et.al.|[2411.12483v1](http://arxiv.org/abs/2411.12483v1)|null|
+|**2024-11-19**|**Guide-to-Explain for Controllable Summarization**|Sangwon Ryu et.al.|[2411.12460v1](http://arxiv.org/abs/2411.12460v1)|null|
+|**2024-11-17**|**Capturing Sparks of Abstraction for the ARC Challenge**|Martin Andrews et.al.|[2411.11206v1](http://arxiv.org/abs/2411.11206v1)|[link](https://github.com/mdda/arc-dsl-llm)|
+|**2024-11-16**|**Unveiling User Preferences: A Knowledge Graph and LLM-Driven Approach for Conversational Recommendation**|Zhangchi Qiu et.al.|[2411.14459v1](http://arxiv.org/abs/2411.14459v1)|null|
+|**2024-11-15**|**"On the goals of linguistic theory": Revisiting Chomskyan theories in the era of AI**|Eva Portelance et.al.|[2411.10533v1](http://arxiv.org/abs/2411.10533v1)|null|
 
 ## Question Answering
 
@@ -170,21 +188,3 @@
 |**2024-11-06**|**Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding**|Haolin Chen et.al.|[2411.04282v2](http://arxiv.org/abs/2411.04282v2)|[link](https://github.com/salesforceairesearch/latro)|
 |**2024-11-06**|**Bottom-Up and Top-Down Analysis of Values, Agendas, and Observations in Corpora and LLMs**|Scott E. Friedman et.al.|[2411.05040v1](http://arxiv.org/abs/2411.05040v1)|null|
 |**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118v2](http://arxiv.org/abs/2411.04118v2)|null|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-22**|**MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts**|Jiatong Li et.al.|[2411.14721v1](http://arxiv.org/abs/2411.14721v1)|null|
-|**2024-11-22**|**Understanding LLM Embeddings for Regression**|Eric Tang et.al.|[2411.14708v1](http://arxiv.org/abs/2411.14708v1)|null|
-|**2024-11-21**|**Why do language models perform worse for morphologically complex languages?**|Catherine Arnett et.al.|[2411.14198v1](http://arxiv.org/abs/2411.14198v1)|[link](https://github.com/catherinearnett/morphscore)|
-|**2024-11-21**|**Explaining GPT-4's Schema of Depression Using Machine Behavior Analysis**|Adithya V Ganesan et.al.|[2411.13800v1](http://arxiv.org/abs/2411.13800v1)|null|
-|**2024-11-20**|**Explainable LLM-driven Multi-dimensional Distillation for E-Commerce Relevance Learning**|Gang Zhao et.al.|[2411.13045v1](http://arxiv.org/abs/2411.13045v1)|null|
-|**2024-11-19**|**DLBacktrace: A Model Agnostic Explainability for any Deep Learning Models**|Vinay Kumar Sankarapu et.al.|[2411.12643v1](http://arxiv.org/abs/2411.12643v1)|[link](https://github.com/aryaxai/dlbacktrace)|
-|**2024-11-19**|**Bias Free Sentiment Analysis**|Hubert Plisiecki et.al.|[2411.12493v1](http://arxiv.org/abs/2411.12493v1)|null|
-|**2024-11-19**|**Analysing Explanation-Related Interactions in Collaborative Perception-Cognition-Communication-Action**|Marc Roig Vilamala et.al.|[2411.12483v1](http://arxiv.org/abs/2411.12483v1)|null|
-|**2024-11-19**|**Guide-to-Explain for Controllable Summarization**|Sangwon Ryu et.al.|[2411.12460v1](http://arxiv.org/abs/2411.12460v1)|null|
-|**2024-11-17**|**Capturing Sparks of Abstraction for the ARC Challenge**|Martin Andrews et.al.|[2411.11206v1](http://arxiv.org/abs/2411.11206v1)|[link](https://github.com/mdda/arc-dsl-llm)|
-|**2024-11-16**|**Unveiling User Preferences: A Knowledge Graph and LLM-Driven Approach for Conversational Recommendation**|Zhangchi Qiu et.al.|[2411.14459v1](http://arxiv.org/abs/2411.14459v1)|null|
-|**2024-11-15**|**"On the goals of linguistic theory": Revisiting Chomskyan theories in the era of AI**|Eva Portelance et.al.|[2411.10533v1](http://arxiv.org/abs/2411.10533v1)|null|
