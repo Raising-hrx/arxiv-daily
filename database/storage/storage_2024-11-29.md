@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-29 09:38:03
+ Automated deployment @ 2024-11-29 20:39:22
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -63,7 +63,7 @@
 |**2024-11-24**|**LLMs Do Not Think Step-by-step In Implicit Reasoning**|Yijiong Yu et.al.|[2411.15862v1](http://arxiv.org/abs/2411.15862v1)|null|
 |**2024-11-23**|**AfriMed-QA: A Pan-African, Multi-Specialty, Medical Question-Answering Benchmark Dataset**|Tobi Olatunji et.al.|[2411.15640v2](http://arxiv.org/abs/2411.15640v2)|null|
 |**2024-11-23**|**"All that Glitters": Approaches to Evaluations with Unreliable Model and Human Annotations**|Michael Hardy et.al.|[2411.15634v1](http://arxiv.org/abs/2411.15634v1)|null|
-|**2024-11-23**|**A Survey on LLM-as-a-Judge**|Jiawei Gu et.al.|[2411.15594v1](http://arxiv.org/abs/2411.15594v1)|null|
+|**2024-11-23**|**A Survey on LLM-as-a-Judge**|Jiawei Gu et.al.|[2411.15594v1](http://arxiv.org/abs/2411.15594v1)|[link](https://github.com/idea-finai/llm-as-evaluator)|
 |**2024-11-23**|**QEQR: An Exploration of Query Expansion Methods for Question Retrieval in CQA Services**|Yasin Ghafourian et.al.|[2411.15530v1](http://arxiv.org/abs/2411.15530v1)|null|
 |**2024-11-23**|**Traditional Chinese Medicine Case Analysis System for High-Level Semantic Abstraction: Optimized with Prompt and RAG**|Peng Xu et.al.|[2411.15491v1](http://arxiv.org/abs/2411.15491v1)|null|
 |**2024-11-23**|**Seed-Free Synthetic Data Generation Framework for Instruction-Tuning LLMs: A Case Study in Thai**|Parinthapat Pengpun et.al.|[2411.15484v1](http://arxiv.org/abs/2411.15484v1)|[link](https://github.com/parinzee/seed-free-synthetic-instruct)|
