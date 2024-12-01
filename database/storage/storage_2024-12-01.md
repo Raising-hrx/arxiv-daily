@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-01 09:52:01
+ Automated deployment @ 2024-12-01 20:37:05
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
 
@@ -157,7 +157,7 @@
 |**2024-11-18**|**Understanding Chain-of-Thought in LLMs through Information Theory**|Jean-Francois Ton et.al.|[2411.11984v1](http://arxiv.org/abs/2411.11984v1)|null|
 |**2024-11-18**|**Technical Report: Enhancing LLM Reasoning with Reward-guided Tree Search**|Jinhao Jiang et.al.|[2411.11694v1](http://arxiv.org/abs/2411.11694v1)|null|
 |**2024-11-18**|**Testing Uncertainty of Large Language Models for Physics Knowledge and Reasoning**|Elizaveta Reganova et.al.|[2411.14465v1](http://arxiv.org/abs/2411.14465v1)|null|
-|**2024-11-18**|**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**|Chenhang Cui et.al.|[2411.11496v2](http://arxiv.org/abs/2411.11496v2)|null|
+|**2024-11-18**|**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**|Chenhang Cui et.al.|[2411.11496v2](http://arxiv.org/abs/2411.11496v2)|[link](https://github.com/gzcch/safety_snowball_agent)|
 |**2024-11-18**|**Membership Inference Attack against Long-Context Large Language Models**|Zixiong Wang et.al.|[2411.11424v1](http://arxiv.org/abs/2411.11424v1)|null|
 |**2024-11-18**|**Rethinking Thinking Tokens: Understanding Why They Underperform in Practice**|Sreeram Vennam et.al.|[2411.11371v1](http://arxiv.org/abs/2411.11371v1)|null|
 |**2024-11-18**|**MAIRA-Seg: Enhancing Radiology Report Generation with Segmentation-Aware Multimodal Large Language Models**|Harshita Sharma et.al.|[2411.11362v1](http://arxiv.org/abs/2411.11362v1)|null|
@@ -181,4 +181,4 @@
 |**2024-11-14**|**MM-Eval: A Hierarchical Benchmark for Modern Mongolian Evaluation in LLMs**|Mengyuan Zhang et.al.|[2411.09492v1](http://arxiv.org/abs/2411.09492v1)|[link](https://github.com/joenahm/mm-eval)|
 |**2024-11-14**|**Comprehensive and Practical Evaluation of Retrieval-Augmented Generation Systems for Medical Question Answering**|Nghia Trung Ngo et.al.|[2411.09213v1](http://arxiv.org/abs/2411.09213v1)|null|
 |**2024-11-14**|**P-MMEval: A Parallel Multilingual Multitask Benchmark for Consistent Evaluation of LLMs**|Yidan Zhang et.al.|[2411.09116v1](http://arxiv.org/abs/2411.09116v1)|null|
-|**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870v1](http://arxiv.org/abs/2411.08870v1)|null|
+|**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870v1](http://arxiv.org/abs/2411.08870v1)|[link](https://github.com/taekb/eval-medical-dapt)|
