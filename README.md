@@ -1,32 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2024-12-07 09:38:24
+ Automated deployment @ 2024-12-07 20:36:47
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-12-05**|**Uniform Discretized Integrated Gradients: An effective attribution based method for explaining large language models**|Swarnava Sinha Roy et.al.|[2412.03886v1](http://arxiv.org/abs/2412.03886v1)|null|
-|**2024-12-04**|**Language Model Meets Prototypes: Towards Interpretable Text Classification Models through Prototypical Networks**|Ximing Wen et.al.|[2412.03761v1](http://arxiv.org/abs/2412.03761v1)|null|
-|**2024-12-03**|**Words and Action: Modeling Linguistic Leadership in #BlackLivesMatter Communities**|Dani Roytburg et.al.|[2412.02637v1](http://arxiv.org/abs/2412.02637v1)|null|
-|**2024-12-03**|**MediaSpin: Exploring Media Bias Through Fine-Grained Analysis of News Headlines**|Preetika Verma et.al.|[2412.02271v1](http://arxiv.org/abs/2412.02271v1)|null|
-|**2024-12-03**|**VISCO: Benchmarking Fine-Grained Critique and Correction Towards Self-Improvement in Visual Reasoning**|Xueqing Wu et.al.|[2412.02172v1](http://arxiv.org/abs/2412.02172v1)|null|
-|**2024-12-03**|**Explainable and Interpretable Multimodal Large Language Models: A Comprehensive Survey**|Yunkai Dang et.al.|[2412.02104v1](http://arxiv.org/abs/2412.02104v1)|null|
-|**2024-12-02**|**Random Tree Model of Meaningful Memory**|Weishun Zhong et.al.|[2412.01806v1](http://arxiv.org/abs/2412.01806v1)|null|
-|**2024-12-02**|**Query Performance Explanation through Large Language Model for HTAP Systems**|Haibo Xiu et.al.|[2412.01709v1](http://arxiv.org/abs/2412.01709v1)|null|
-|**2024-12-02**|**Shadow of the (Hierarchical) Tree: Reconciling Symbolic and Predictive Components of the Neural Code for Syntax**|Elliot Murphy et.al.|[2412.01276v1](http://arxiv.org/abs/2412.01276v1)|null|
-|**2024-12-02**|**First numerical observation of the Berezinskii-Kosterlitz-Thouless transition in language models**|Yuma Toji et.al.|[2412.01212v1](http://arxiv.org/abs/2412.01212v1)|null|
-|**2024-12-02**|**Think-to-Talk or Talk-to-Think? When LLMs Come Up with an Answer in Multi-Step Reasoning**|Keito Kudo et.al.|[2412.01113v1](http://arxiv.org/abs/2412.01113v1)|null|
-|**2024-12-01**|**Competition Dynamics Shape Algorithmic Phases of In-Context Learning**|Core Francisco Park et.al.|[2412.01003v1](http://arxiv.org/abs/2412.01003v1)|null|
-|**2024-11-30**|**SeQwen at the Financial Misinformation Detection Challenge Task: Sequential Learning for Claim Verification and Explanation Generation in Financial Domains**|Jebish Purbey et.al.|[2412.00549v1](http://arxiv.org/abs/2412.00549v1)|null|
-|**2024-11-30**|**TextClass Benchmark: A Continuous Elo Rating of LLMs in Social Sciences**|Bastián González-Bustamante et.al.|[2412.00539v1](http://arxiv.org/abs/2412.00539v1)|[link](https://github.com/bgonzalezbustamante/TextClass-Benchmark)|
-|**2024-11-30**|**Forma mentis networks predict creativity ratings of short texts via interpretable artificial intelligence in human and GPT-simulated raters**|Edith Haim et.al.|[2412.00530v1](http://arxiv.org/abs/2412.00530v1)|null|
-|**2024-11-29**|**VLSBench: Unveiling Visual Leakage in Multimodal Safety**|Xuhao Hu et.al.|[2411.19939v1](http://arxiv.org/abs/2411.19939v1)|null|
-|**2024-11-29**|**TakeLab Retriever: AI-Driven Search Engine for Articles from Croatian News Outlets**|David Dukić et.al.|[2411.19718v1](http://arxiv.org/abs/2411.19718v1)|null|
-|**2024-11-28**|**Talking to oneself in CMC: a study of self replies in Wikipedia talk pages**|Ludovic Tanguy et.al.|[2411.19007v1](http://arxiv.org/abs/2411.19007v1)|null|
-|**2024-11-28**|**Devising a Set of Compact and Explainable Spoken Language Feature for Screening Alzheimer's Disease**|Junan Li et.al.|[2411.18922v1](http://arxiv.org/abs/2411.18922v1)|null|
 
 ## Question Answering
 
@@ -77,6 +52,31 @@
 |**2024-12-01**|**Uhura: A Benchmark for Evaluating Scientific Question Answering and Truthfulness in Low-Resource African Languages**|Edward Bayes et.al.|[2412.00948v1](http://arxiv.org/abs/2412.00948v1)|null|
 |**2024-12-01**|**VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information**|Ryo Kamoi et.al.|[2412.00947v1](http://arxiv.org/abs/2412.00947v1)|[link](https://github.com/psunlpgroup/visonlyqa)|
 |**2024-12-01**|**Exploring the Abilities of Large Language Models to Solve Proportional Analogies via Knowledge-Enhanced Prompting**|Thilini Wijesiriwardene et.al.|[2412.00869v1](http://arxiv.org/abs/2412.00869v1)|null|
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-05**|**Uniform Discretized Integrated Gradients: An effective attribution based method for explaining large language models**|Swarnava Sinha Roy et.al.|[2412.03886v1](http://arxiv.org/abs/2412.03886v1)|null|
+|**2024-12-04**|**Language Model Meets Prototypes: Towards Interpretable Text Classification Models through Prototypical Networks**|Ximing Wen et.al.|[2412.03761v1](http://arxiv.org/abs/2412.03761v1)|null|
+|**2024-12-03**|**Words and Action: Modeling Linguistic Leadership in #BlackLivesMatter Communities**|Dani Roytburg et.al.|[2412.02637v1](http://arxiv.org/abs/2412.02637v1)|null|
+|**2024-12-03**|**MediaSpin: Exploring Media Bias Through Fine-Grained Analysis of News Headlines**|Preetika Verma et.al.|[2412.02271v1](http://arxiv.org/abs/2412.02271v1)|null|
+|**2024-12-03**|**VISCO: Benchmarking Fine-Grained Critique and Correction Towards Self-Improvement in Visual Reasoning**|Xueqing Wu et.al.|[2412.02172v1](http://arxiv.org/abs/2412.02172v1)|null|
+|**2024-12-03**|**Explainable and Interpretable Multimodal Large Language Models: A Comprehensive Survey**|Yunkai Dang et.al.|[2412.02104v1](http://arxiv.org/abs/2412.02104v1)|null|
+|**2024-12-02**|**Random Tree Model of Meaningful Memory**|Weishun Zhong et.al.|[2412.01806v1](http://arxiv.org/abs/2412.01806v1)|null|
+|**2024-12-02**|**Query Performance Explanation through Large Language Model for HTAP Systems**|Haibo Xiu et.al.|[2412.01709v1](http://arxiv.org/abs/2412.01709v1)|null|
+|**2024-12-02**|**Shadow of the (Hierarchical) Tree: Reconciling Symbolic and Predictive Components of the Neural Code for Syntax**|Elliot Murphy et.al.|[2412.01276v1](http://arxiv.org/abs/2412.01276v1)|null|
+|**2024-12-02**|**First numerical observation of the Berezinskii-Kosterlitz-Thouless transition in language models**|Yuma Toji et.al.|[2412.01212v1](http://arxiv.org/abs/2412.01212v1)|null|
+|**2024-12-02**|**Think-to-Talk or Talk-to-Think? When LLMs Come Up with an Answer in Multi-Step Reasoning**|Keito Kudo et.al.|[2412.01113v1](http://arxiv.org/abs/2412.01113v1)|null|
+|**2024-12-01**|**Competition Dynamics Shape Algorithmic Phases of In-Context Learning**|Core Francisco Park et.al.|[2412.01003v1](http://arxiv.org/abs/2412.01003v1)|null|
+|**2024-11-30**|**SeQwen at the Financial Misinformation Detection Challenge Task: Sequential Learning for Claim Verification and Explanation Generation in Financial Domains**|Jebish Purbey et.al.|[2412.00549v1](http://arxiv.org/abs/2412.00549v1)|null|
+|**2024-11-30**|**TextClass Benchmark: A Continuous Elo Rating of LLMs in Social Sciences**|Bastián González-Bustamante et.al.|[2412.00539v1](http://arxiv.org/abs/2412.00539v1)|[link](https://github.com/bgonzalezbustamante/TextClass-Benchmark)|
+|**2024-11-30**|**Forma mentis networks predict creativity ratings of short texts via interpretable artificial intelligence in human and GPT-simulated raters**|Edith Haim et.al.|[2412.00530v1](http://arxiv.org/abs/2412.00530v1)|null|
+|**2024-11-29**|**VLSBench: Unveiling Visual Leakage in Multimodal Safety**|Xuhao Hu et.al.|[2411.19939v1](http://arxiv.org/abs/2411.19939v1)|null|
+|**2024-11-29**|**TakeLab Retriever: AI-Driven Search Engine for Articles from Croatian News Outlets**|David Dukić et.al.|[2411.19718v1](http://arxiv.org/abs/2411.19718v1)|null|
+|**2024-11-28**|**Talking to oneself in CMC: a study of self replies in Wikipedia talk pages**|Ludovic Tanguy et.al.|[2411.19007v1](http://arxiv.org/abs/2411.19007v1)|null|
+|**2024-11-28**|**Devising a Set of Compact and Explainable Spoken Language Feature for Screening Alzheimer's Disease**|Junan Li et.al.|[2411.18922v1](http://arxiv.org/abs/2411.18922v1)|null|
 
 ## Reasoning
 
