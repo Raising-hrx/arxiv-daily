@@ -1,7 +1,19 @@
 # arxiv-daily
- Automated deployment @ 2024-12-11 20:40:44
+ Automated deployment @ 2024-12-11 21:16:48
 > Add your topics and keywords in `database/topic.yml` 
 > You can also view historical data through the `database/storage` 
+
+## Explanation
+
+### Explanation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-08**|**Can Generative AI Solve Your In-Context Learning Problem? A Martingale Perspective**|Andrew Jesson et.al.|[2412.06033v1](http://arxiv.org/abs/2412.06033v1)|null|
+|**2024-12-06**|**Uncertainty Quantification for Transformer Models for Dark-Pattern Detection**|Javier Muñoz et.al.|[2412.05251v1](http://arxiv.org/abs/2412.05251v1)|null|
+|**2024-12-06**|**Explingo: Explaining AI Predictions using Large Language Models**|Alexandra Zytek et.al.|[2412.05145v1](http://arxiv.org/abs/2412.05145v1)|null|
+|**2024-12-05**|**Uniform Discretized Integrated Gradients: An effective attribution based method for explaining large language models**|Swarnava Sinha Roy et.al.|[2412.03886v1](http://arxiv.org/abs/2412.03886v1)|null|
+|**2024-12-04**|**Language Model Meets Prototypes: Towards Interpretable Text Classification Models through Prototypical Networks**|Ximing Wen et.al.|[2412.03761v1](http://arxiv.org/abs/2412.03761v1)|null|
+|**2024-12-03**|**Words and Action: Modeling Linguistic Leadership in #BlackLivesMatter Communities**|Dani Roytburg et.al.|[2412.02637v1](http://arxiv.org/abs/2412.02637v1)|null|
 
 ## Question Answering
 
@@ -59,18 +71,6 @@
 |**2024-12-05**|**GRAF: Graph Retrieval Augmented by Facts for Legal Question Answering**|Cristian-George Crăciun et.al.|[2412.04119v1](http://arxiv.org/abs/2412.04119v1)|null|
 |**2024-12-05**|**Hostility Detection in UK Politics: A Dataset on Online Abuse Targeting MPs**|Mugdha Pandya et.al.|[2412.04046v1](http://arxiv.org/abs/2412.04046v1)|null|
 |**2024-12-05**|**MTMT: Consolidating Multiple Thinking Modes to Form a Thought Tree for Strengthening LLM**|Changcheng Li et.al.|[2412.03987v1](http://arxiv.org/abs/2412.03987v1)|null|
-
-## Explanation
-
-### Explanation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-12-08**|**Can Generative AI Solve Your In-Context Learning Problem? A Martingale Perspective**|Andrew Jesson et.al.|[2412.06033v1](http://arxiv.org/abs/2412.06033v1)|null|
-|**2024-12-06**|**Uncertainty Quantification for Transformer Models for Dark-Pattern Detection**|Javier Muñoz et.al.|[2412.05251v1](http://arxiv.org/abs/2412.05251v1)|null|
-|**2024-12-06**|**Explingo: Explaining AI Predictions using Large Language Models**|Alexandra Zytek et.al.|[2412.05145v1](http://arxiv.org/abs/2412.05145v1)|null|
-|**2024-12-05**|**Uniform Discretized Integrated Gradients: An effective attribution based method for explaining large language models**|Swarnava Sinha Roy et.al.|[2412.03886v1](http://arxiv.org/abs/2412.03886v1)|null|
-|**2024-12-04**|**Language Model Meets Prototypes: Towards Interpretable Text Classification Models through Prototypical Networks**|Ximing Wen et.al.|[2412.03761v1](http://arxiv.org/abs/2412.03761v1)|null|
-|**2024-12-03**|**Words and Action: Modeling Linguistic Leadership in #BlackLivesMatter Communities**|Dani Roytburg et.al.|[2412.02637v1](http://arxiv.org/abs/2412.02637v1)|null|
 
 ## Reasoning
 
