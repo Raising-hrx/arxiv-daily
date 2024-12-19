@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-18 21:12:32 Asia/Shanghai
+ Automated deployment @ 2024-12-19 09:37:06 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -27,7 +27,7 @@
 |**2024-12-17**|**Efficient damage simulations under material uncertainties in a weakly-intrusive implementation**|Hendrik Geisler et.al.|[2412.12845v1](http://arxiv.org/abs/2412.12845v1)|null|
 |**2024-12-17**|**Benchmarking and Understanding Compositional Relational Reasoning of LLMs**|Ruikang Ni et.al.|[2412.12841v1](http://arxiv.org/abs/2412.12841v1)|[link](https://github.com/caiyun-ai/gar)|
 |**2024-12-17**|**Detecting Emotional Incongruity of Sarcasm by Commonsense Reasoning**|Ziqi Qiu et.al.|[2412.12808v1](http://arxiv.org/abs/2412.12808v1)|null|
-|**2024-12-17**|**Versatile Ordering Network: An Attention-based Neural Network for Ordering Across Scales and Quality Metrics**|Zehua Yu et.al.|[2412.12759v1](http://arxiv.org/abs/2412.12759v1)|[link](https://github.com/sysuvis/von)|
+|**2024-12-17**|**Versatile Ordering Network: An Attention-based Neural Network for Ordering Across Scales and Quality Metrics**|Zehua Yu et.al.|[2412.12759v2](http://arxiv.org/abs/2412.12759v2)|[link](https://github.com/sysuvis/von)|
 |**2024-12-17**|**SPHERE: A Hierarchical Evaluation on Spatial Perception and Reasoning for Vision-Language Models**|Wenyu Zhang et.al.|[2412.12693v1](http://arxiv.org/abs/2412.12693v1)|null|
 |**2024-12-17**|**Predicting User Behavior in Smart Spaces with LLM-Enhanced Logs and Personalized Prompts (Data Description)**|Yunpeng Song et.al.|[2412.12653v1](http://arxiv.org/abs/2412.12653v1)|null|
 |**2024-12-17**|**LLM-based Discriminative Reasoning for Knowledge Graph Question Answering**|Mufan Xu et.al.|[2412.12643v1](http://arxiv.org/abs/2412.12643v1)|null|
