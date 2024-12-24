@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-24 09:24:24 Asia/Shanghai
+ Automated deployment @ 2024-12-24 20:36:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,33 +8,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-20**|**A vector logic for extensional formal semantics**|Daniel Quigley et.al.|[2412.16152v1](http://arxiv.org/abs/2412.16152v1)|null|
-|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145v1](http://arxiv.org/abs/2412.16145v1)|null|
-|**2024-12-20**|**PruneVid: Visual Token Pruning for Efficient Video Large Language Models**|Xiaohu Huang et.al.|[2412.16117v1](http://arxiv.org/abs/2412.16117v1)|[link](https://github.com/visual-ai/prunevid)|
-|**2024-12-20**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100v1](http://arxiv.org/abs/2412.16100v1)|null|
-|**2024-12-20**|**Formal Mathematical Reasoning: A New Frontier in AI**|Kaiyu Yang et.al.|[2412.16075v1](http://arxiv.org/abs/2412.16075v1)|null|
-|**2024-12-20**|**SAT Solving for Variants of First-Order Subsumption**|Robin Coutelier et.al.|[2412.16058v1](http://arxiv.org/abs/2412.16058v1)|null|
-|**2024-12-20**|**X-ray polarization of the magnetar 1E 1841-045 in outburst**|Rachael Stewart et.al.|[2412.16036v1](http://arxiv.org/abs/2412.16036v1)|null|
-|**2024-12-20**|**Dimension-8 operators in $W^+W^-$ production via gluon fusion**|Daniel Gillies et.al.|[2412.16020v1](http://arxiv.org/abs/2412.16020v1)|null|
-|**2024-12-20**|**Adding interferometric lightning detection to the Pierre Auger Observatory**|Melanie Joan Weitz et.al.|[2412.15972v1](http://arxiv.org/abs/2412.15972v1)|null|
-|**2024-12-20**|**Two-Part Interplanetary Type II Solar Radio Bursts**|Silja Pohjolainen et.al.|[2412.15961v1](http://arxiv.org/abs/2412.15961v1)|null|
-|**2024-12-20**|**Reframing Image Difference Captioning with BLIP2IDC and Synthetic Augmentation**|Gautier Evennou et.al.|[2412.15939v1](http://arxiv.org/abs/2412.15939v1)|null|
-|**2024-12-20**|**Estimate of equilibration times of quantum correlation functions in the thermodynamic limit based on Lanczos coefficients**|Jiaozi Wang et.al.|[2412.15932v1](http://arxiv.org/abs/2412.15932v1)|null|
-|**2024-12-20**|**What Are Step-Level Reward Models Rewarding? Counterintuitive Findings from MCTS-Boosted Mathematical Reasoning**|Yiran Ma et.al.|[2412.15904v1](http://arxiv.org/abs/2412.15904v1)|null|
-|**2024-12-20**|**A Digital Phantom for 3D MR Spectroscopy Data Simulation**|D. M. J. van de Sande et.al.|[2412.15869v1](http://arxiv.org/abs/2412.15869v1)|null|
-|**2024-12-20**|**SUBMASSIVE: Resolving Subclass Cycles in Very Large Knowledge Graphs**|Shuai Wang et.al.|[2412.15829v1](http://arxiv.org/abs/2412.15829v1)|null|
-|**2024-12-20**|**S$^2$DN: Learning to Denoise Unconvincing Knowledge for Inductive Knowledge Graph Completion**|Tengfei Ma et.al.|[2412.15822v1](http://arxiv.org/abs/2412.15822v1)|null|
-|**2024-12-20**|**Ensembling Large Language Models with Process Reward-Guided Tree Search for Better Complex Reasoning**|Sungjin Park et.al.|[2412.15797v1](http://arxiv.org/abs/2412.15797v1)|null|
-|**2024-12-20**|**Complete Fusion for Stateful Streams: Equational Theory of Stateful Streams and Fusion as Normalization-by-Evaluation**|Oleg Kiselyov et.al.|[2412.15768v1](http://arxiv.org/abs/2412.15768v1)|null|
-|**2024-12-20**|**ASPIRE: Assistive System for Performance Evaluation in IR**|Georgios Peikos et.al.|[2412.15759v1](http://arxiv.org/abs/2412.15759v1)|[link](https://github.com/giorgospeikos/aspire)|
-|**2024-12-20**|**Critique of Impure Reason: Unveiling the reasoning behaviour of medical Large Language Models**|Shamus Sim et.al.|[2412.15748v1](http://arxiv.org/abs/2412.15748v1)|null|
-|**2024-12-20**|**AI-generated Image Quality Assessment in Visual Communication**|Yu Tian et.al.|[2412.15677v1](http://arxiv.org/abs/2412.15677v1)|null|
-|**2024-12-20**|**SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control**|Xiaohan Zhang et.al.|[2412.15664v1](http://arxiv.org/abs/2412.15664v1)|null|
-|**2024-12-20**|**Synthetic Tabular Data Generation for Imbalanced Classification: The Surprising Effectiveness of an Overlap Class**|Annie D'souza et.al.|[2412.15657v1](http://arxiv.org/abs/2412.15657v1)|null|
-|**2024-12-20**|**Error-driven Data-efficient Large Multimodal Model Tuning**|Barry Menglong Yao et.al.|[2412.15652v1](http://arxiv.org/abs/2412.15652v1)|null|
-|**2024-12-20**|**Can Input Attributions Interpret the Inductive Reasoning Process Elicited in In-Context Learning?**|Mengyu Ye et.al.|[2412.15628v1](http://arxiv.org/abs/2412.15628v1)|null|
-|**2024-12-20**|**Understanding Individual Agent Importance in Multi-Agent System via Counterfactual Reasoning**|Chen Jianming et.al.|[2412.15619v1](http://arxiv.org/abs/2412.15619v1)|null|
-|**2024-12-20**|**Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage**|Zhi Gao et.al.|[2412.15606v1](http://arxiv.org/abs/2412.15606v1)|null|
-|**2024-12-20**|**Template-Driven LLM-Paraphrased Framework for Tabular Math Word Problem Generation**|Xiaoqiang Kang et.al.|[2412.15594v1](http://arxiv.org/abs/2412.15594v1)|[link](https://github.com/jason8kang/tell)|
-|**2024-12-20**|**NeSyCoCo: A Neuro-Symbolic Concept Composer for Compositional Generalization**|Danial Kamali et.al.|[2412.15588v1](http://arxiv.org/abs/2412.15588v1)|null|
-|**2024-12-20**|**To Rely or Not to Rely? Evaluating Interventions for Appropriate Reliance on Large Language Models**|Jessica Y. Bo et.al.|[2412.15584v1](http://arxiv.org/abs/2412.15584v1)|null|
+|**2024-12-23**|**Modular Arrangements**|A. Levin et.al.|[2412.17795v1](http://arxiv.org/abs/2412.17795v1)|null|
+|**2024-12-23**|**Cross-Lingual Text-Rich Visual Comprehension: An Information Theory Perspective**|Xinmiao Yu et.al.|[2412.17787v1](http://arxiv.org/abs/2412.17787v1)|null|
+|**2024-12-23**|**In Case You Missed It: ARC 'Challenge' Is Not That Challenging**|Łukasz Borchmann et.al.|[2412.17758v1](http://arxiv.org/abs/2412.17758v1)|null|
+|**2024-12-23**|**Advanced physics transposition (APT): A new name for a not-so-new field of research**|Jorge Pinochet et.al.|[2412.17755v1](http://arxiv.org/abs/2412.17755v1)|null|
+|**2024-12-23**|**ADC: Enhancing Function Calling Via Adversarial Datasets and Code Line-Level Feedback**|Wei Zhang et.al.|[2412.17754v1](http://arxiv.org/abs/2412.17754v1)|null|
+|**2024-12-23**|**Deliberation in Latent Space via Differentiable Cache Augmentation**|Luyang Liu et.al.|[2412.17747v1](http://arxiv.org/abs/2412.17747v1)|null|
+|**2024-12-23**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741v1](http://arxiv.org/abs/2412.17741v1)|null|
+|**2024-12-23**|**Contextual Backpropagation Loops: Amplifying Deep Reasoning with Iterative Top-Down Feedback**|Jacob Fein-Ashley et.al.|[2412.17737v1](http://arxiv.org/abs/2412.17737v1)|null|
+|**2024-12-23**|**Superconductivity in Nanosystems: A Fruitful Path to New Phenomenology in Quantum Materials**|M. V. Ramallo et.al.|[2412.17722v1](http://arxiv.org/abs/2412.17722v1)|null|
+|**2024-12-23**|**Robin Hood Reachability Bidding Games**|Shaull Almagor et.al.|[2412.17718v1](http://arxiv.org/abs/2412.17718v1)|null|
+|**2024-12-23**|**From Models to Microtheories: Distilling a Model's Topical Knowledge for Grounded Question Answering**|Nathaniel Weir et.al.|[2412.17701v1](http://arxiv.org/abs/2412.17701v1)|[link](https://github.com/nweir127/microtheories)|
+|**2024-12-23**|**Understanding the Logic of Direct Preference Alignment through Logic**|Kyle Richardson et.al.|[2412.17696v1](http://arxiv.org/abs/2412.17696v1)|null|
+|**2024-12-23**|**Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection**|Fenfang Tao et.al.|[2412.17619v1](http://arxiv.org/abs/2412.17619v1)|[link](https://github.com/cvl-hub/kag-prompt)|
+|**2024-12-23**|**DRT-o1: Optimized Deep Reasoning Translation via Long Chain-of-Thought**|Jiaan Wang et.al.|[2412.17498v1](http://arxiv.org/abs/2412.17498v1)|[link](https://github.com/krystalan/drt-o1)|
+|**2024-12-23**|**Diving into Self-Evolving Training for Multimodal Reasoning**|Wei Liu et.al.|[2412.17451v1](http://arxiv.org/abs/2412.17451v1)|null|
+|**2024-12-23**|**The Role of XAI in Transforming Aeronautics and Aerospace Systems**|Francisco Javier Cantero Zorita et.al.|[2412.17440v1](http://arxiv.org/abs/2412.17440v1)|null|
+|**2024-12-23**|**Neural Continuous-Time Supermartingale Certificates**|Grigory Neustroev et.al.|[2412.17432v1](http://arxiv.org/abs/2412.17432v1)|null|
+|**2024-12-23**|**Multimodal Preference Data Synthetic Alignment with Reward Model**|Robert Wijaya et.al.|[2412.17417v1](http://arxiv.org/abs/2412.17417v1)|null|
+|**2024-12-23**|**Towards Intrinsic Self-Correction Enhancement in Monte Carlo Tree Search Boosted Reasoning via Iterative Preference Learning**|Huchen Jiang et.al.|[2412.17397v1](http://arxiv.org/abs/2412.17397v1)|null|
+|**2024-12-23**|**MineAgent: Towards Remote-Sensing Mineral Exploration with Multimodal Large Language Models**|Beibei Yu et.al.|[2412.17339v1](http://arxiv.org/abs/2412.17339v1)|null|
+|**2024-12-23**|**A Dual-Perspective Metaphor Detection Framework Using Large Language Models**|Yujie Lin et.al.|[2412.17332v1](http://arxiv.org/abs/2412.17332v1)|[link](https://github.com/deeplearnxmu/dmd)|
+|**2024-12-23**|**Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with A Few Examples**|Taewoong Kim et.al.|[2412.17288v1](http://arxiv.org/abs/2412.17288v1)|null|
+|**2024-12-23**|**LegalAgentBench: Evaluating LLM Agents in Legal Domain**|Haitao Li et.al.|[2412.17259v1](http://arxiv.org/abs/2412.17259v1)|[link](https://github.com/cshaitao/legalagentbench)|
+|**2024-12-23**|**B-STaR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoners**|Weihao Zeng et.al.|[2412.17256v1](http://arxiv.org/abs/2412.17256v1)|[link](https://github.com/hkust-nlp/b-star)|
+|**2024-12-23**|**MatchMiner-AI: An Open-Source Solution for Cancer Clinical Trial Matching**|Ethan Cerami et.al.|[2412.17228v1](http://arxiv.org/abs/2412.17228v1)|null|
+|**2024-12-22**|**Semantic Web: Past, Present, and Future**|Ansgar Scherp et.al.|[2412.17159v1](http://arxiv.org/abs/2412.17159v1)|[link](https://github.com/ascherp/semantic-web-primer)|
+|**2024-12-22**|**ASP-based Multi-shot Reasoning via DLV2 with Incremental Grounding**|Francesco Calimeri et.al.|[2412.17143v1](http://arxiv.org/abs/2412.17143v1)|null|
+|**2024-12-22**|**AI-Based Teat Shape and Skin Condition Prediction for Dairy Management**|Yuexing Hao et.al.|[2412.17142v1](http://arxiv.org/abs/2412.17142v1)|null|
+|**2024-12-22**|**Nonlinear Cauchy Elasticity**|Arash Yavari et.al.|[2412.17090v1](http://arxiv.org/abs/2412.17090v1)|null|
+|**2024-12-22**|**Multi-Agent Sampling: Scaling Inference Compute for Data Synthesis with Tree Search-Based Agentic Collaboration**|Hai Ye et.al.|[2412.17061v1](http://arxiv.org/abs/2412.17061v1)|null|
