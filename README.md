@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-24 21:02:08 Asia/Shanghai
+ Automated deployment @ 2024-12-25 09:23:31 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -18,7 +18,7 @@
 |**2024-12-23**|**Contextual Backpropagation Loops: Amplifying Deep Reasoning with Iterative Top-Down Feedback**|Jacob Fein-Ashley et.al.|[2412.17737v1](http://arxiv.org/abs/2412.17737v1)|null|
 |**2024-12-23**|**Superconductivity in Nanosystems: A Fruitful Path to New Phenomenology in Quantum Materials**|M. V. Ramallo et.al.|[2412.17722v1](http://arxiv.org/abs/2412.17722v1)|null|
 |**2024-12-23**|**Robin Hood Reachability Bidding Games**|Shaull Almagor et.al.|[2412.17718v1](http://arxiv.org/abs/2412.17718v1)|null|
-|**2024-12-23**|**From Models to Microtheories: Distilling a Model's Topical Knowledge for Grounded Question Answering**|Nathaniel Weir et.al.|[2412.17701v1](http://arxiv.org/abs/2412.17701v1)|[link](https://github.com/nweir127/microtheories)|
+|**2024-12-23**|**From Models to Microtheories: Distilling a Model's Topical Knowledge for Grounded Question Answering**|Nathaniel Weir et.al.|[2412.17701v2](http://arxiv.org/abs/2412.17701v2)|[link](https://github.com/nweir127/microtheories)|
 |**2024-12-23**|**Understanding the Logic of Direct Preference Alignment through Logic**|Kyle Richardson et.al.|[2412.17696v1](http://arxiv.org/abs/2412.17696v1)|null|
 |**2024-12-23**|**Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection**|Fenfang Tao et.al.|[2412.17619v1](http://arxiv.org/abs/2412.17619v1)|[link](https://github.com/cvl-hub/kag-prompt)|
 |**2024-12-23**|**DRT-o1: Optimized Deep Reasoning Translation via Long Chain-of-Thought**|Jiaan Wang et.al.|[2412.17498v1](http://arxiv.org/abs/2412.17498v1)|[link](https://github.com/krystalan/drt-o1)|
