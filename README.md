@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-29 09:38:44 Asia/Shanghai
+ Automated deployment @ 2024-12-29 20:33:43 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -17,7 +17,7 @@
 |**2024-12-24**|**Explainable Multi-Modal Data Exploration in Natural Language via LLM Agent**|Farhad Nooralahzadeh et.al.|[2412.18428v1](http://arxiv.org/abs/2412.18428v1)|null|
 |**2024-12-24**|**LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating**|Chao Deng et.al.|[2412.18424v1](http://arxiv.org/abs/2412.18424v1)|[link](https://github.com/dengc2023/longdocurl)|
 |**2024-12-24**|**Multilingual Mathematical Reasoning: Advancing Open-Source LLMs in Hindi and English**|Avinash Anand et.al.|[2412.18415v1](http://arxiv.org/abs/2412.18415v1)|[link](https://github.com/midas-research/Multilingual-Mathematical-Reasoning)|
-|**2024-12-24**|**StaR Maps: Unveiling Uncertainty in Geospatial Relations**|Simon Kohaut et.al.|[2412.18356v1](http://arxiv.org/abs/2412.18356v1)|null|
+|**2024-12-24**|**StaR Maps: Unveiling Uncertainty in Geospatial Relations**|Simon Kohaut et.al.|[2412.18356v1](http://arxiv.org/abs/2412.18356v1)|[link](https://github.com/HRI-EU/ProMis)|
 |**2024-12-24**|**Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search**|Huanjin Yao et.al.|[2412.18319v1](http://arxiv.org/abs/2412.18319v1)|[link](https://github.com/hjyao00/mulberry)|
 |**2024-12-24**|**Modern Approach to 2D Conformal Field Theory**|Yuya Kusuki et.al.|[2412.18307v1](http://arxiv.org/abs/2412.18307v1)|null|
 |**2024-12-24**|**Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight**|Xi Ding et.al.|[2412.18298v1](http://arxiv.org/abs/2412.18298v1)|[link](https://github.com/Darcyddx/Video-LLM)|
