@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-29 21:23:44 Asia/Shanghai
+ Automated deployment @ 2024-12-30 09:26:52 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -13,7 +13,7 @@
 |**2024-12-24**|**Token-Budget-Aware LLM Reasoning**|Tingxu Han et.al.|[2412.18547v1](http://arxiv.org/abs/2412.18547v1)|[link](https://github.com/geniushtx/tale)|
 |**2024-12-24**|**Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation**|Derong Xu Xinhang Li et.al.|[2412.18537v1](http://arxiv.org/abs/2412.18537v1)|null|
 |**2024-12-24**|**Hybrid Many-Objective Optimization in Probabilistic Mission Design for Compliant and Effective UAV Routing**|Simon Kohaut et.al.|[2412.18514v1](http://arxiv.org/abs/2412.18514v1)|null|
-|**2024-12-24**|**3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Scene Understanding**|Tatiana Zemskova et.al.|[2412.18450v1](http://arxiv.org/abs/2412.18450v1)|[link](https://github.com/cognitiveaisystems/3dgraphllm)|
+|**2024-12-24**|**3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Scene Understanding**|Tatiana Zemskova et.al.|[2412.18450v2](http://arxiv.org/abs/2412.18450v2)|[link](https://github.com/cognitiveaisystems/3dgraphllm)|
 |**2024-12-24**|**Explainable Multi-Modal Data Exploration in Natural Language via LLM Agent**|Farhad Nooralahzadeh et.al.|[2412.18428v1](http://arxiv.org/abs/2412.18428v1)|null|
 |**2024-12-24**|**LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating**|Chao Deng et.al.|[2412.18424v1](http://arxiv.org/abs/2412.18424v1)|[link](https://github.com/dengc2023/longdocurl)|
 |**2024-12-24**|**Multilingual Mathematical Reasoning: Advancing Open-Source LLMs in Hindi and English**|Avinash Anand et.al.|[2412.18415v1](http://arxiv.org/abs/2412.18415v1)|[link](https://github.com/midas-research/Multilingual-Mathematical-Reasoning)|
