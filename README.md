@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-01 21:01:25 Asia/Shanghai
+ Automated deployment @ 2025-01-02 09:23:58 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -9,7 +9,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200v1](http://arxiv.org/abs/2412.21200v1)|[link](https://github.com/purbeshmitra/distributed_moa)|
-|**2024-12-30**|**HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation**|Zhaojian Yu et.al.|[2412.21199v1](http://arxiv.org/abs/2412.21199v1)|null|
+|**2024-12-30**|**HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation**|Zhaojian Yu et.al.|[2412.21199v1](http://arxiv.org/abs/2412.21199v1)|[link](https://github.com/CodeEval-Pro/CodeEval-Pro)|
 |**2024-12-30**|**Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs**|Xingyu Chen et.al.|[2412.21187v1](http://arxiv.org/abs/2412.21187v1)|null|
 |**2024-12-30**|**Causal Hangover Effects**|Andreas Santucci et.al.|[2412.21181v1](http://arxiv.org/abs/2412.21181v1)|[link](https://github.com/asantucci/nba-party)|
 |**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154v1](http://arxiv.org/abs/2412.21154v1)|null|
@@ -32,9 +32,9 @@
 |**2024-12-30**|**Are Vision-Language Models Truly Understanding Multi-vision Sensor?**|Sangyun Chung et.al.|[2412.20750v1](http://arxiv.org/abs/2412.20750v1)|[link](https://github.com/top-yun/ms-pr)|
 |**2024-12-30**|**UniRS: Unifying Multi-temporal Remote Sensing Tasks through Vision Language Models**|Yujie Li et.al.|[2412.20742v1](http://arxiv.org/abs/2412.20742v1)|null|
 |**2024-12-30**|**Dialogue Director: Bridging the Gap in Dialogue Visualization for Multimodal Storytelling**|Min Zhang et.al.|[2412.20725v1](http://arxiv.org/abs/2412.20725v1)|null|
-|**2024-12-30**|**M$^3$oralBench: A MultiModal Moral Benchmark for LVLMs**|Bei Yan et.al.|[2412.20718v1](http://arxiv.org/abs/2412.20718v1)|null|
+|**2024-12-30**|**M$^3$oralBench: A MultiModal Moral Benchmark for LVLMs**|Bei Yan et.al.|[2412.20718v1](http://arxiv.org/abs/2412.20718v1)|[link](https://github.com/BeiiiY/M3oralBench)|
 |**2024-12-30**|**CoCap: Coordinated motion Capture for multi-actor scenes in outdoor environments**|Aditya Rauniyar et.al.|[2412.20695v1](http://arxiv.org/abs/2412.20695v1)|null|
 |**2024-12-30**|**Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner**|Yitong Zhou et.al.|[2412.20662v1](http://arxiv.org/abs/2412.20662v1)|null|
 |**2024-12-30**|**Slow Perception: Let's Perceive Geometric Figures Step-by-step**|Haoran Wei et.al.|[2412.20631v1](http://arxiv.org/abs/2412.20631v1)|null|
-|**2024-12-29**|**HALLUCINOGEN: A Benchmark for Evaluating Object Hallucination in Large Visual-Language Models**|Ashish Seth et.al.|[2412.20622v1](http://arxiv.org/abs/2412.20622v1)|null|
-|**2024-12-29**|**Audiopedia: Audio QA with Knowledge**|Abhirama Subramanyam Penamakuri et.al.|[2412.20619v1](http://arxiv.org/abs/2412.20619v1)|null|
+|**2024-12-29**|**HALLUCINOGEN: A Benchmark for Evaluating Object Hallucination in Large Visual-Language Models**|Ashish Seth et.al.|[2412.20622v1](http://arxiv.org/abs/2412.20622v1)|[link](https://github.com/AikyamLab/hallucinogen)|
+|**2024-12-29**|**Audiopedia: Audio QA with Knowledge**|Abhirama Subramanyam Penamakuri et.al.|[2412.20619v1](http://arxiv.org/abs/2412.20619v1)|[link](https://github.com/Abhiram4572/Audiopedia)|
