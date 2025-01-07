@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-07 20:37:40 Asia/Shanghai
+ Automated deployment @ 2025-01-07 21:04:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,7 +10,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-01-06**|**BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning**|Beichen Zhang et.al.|[2501.03226v1](http://arxiv.org/abs/2501.03226v1)|[link](https://github.com/beichenzbc/booststep)|
 |**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151v1](http://arxiv.org/abs/2501.03151v1)|null|
-|**2025-01-06**|**PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models**|Mingyang Song et.al.|[2501.03124v1](http://arxiv.org/abs/2501.03124v1)|null|
+|**2025-01-06**|**PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models**|Mingyang Song et.al.|[2501.03124v1](http://arxiv.org/abs/2501.03124v1)|[link](https://github.com/ssmisya/PRMBench)|
 |**2025-01-06**|**ChronoSense: Exploring Temporal Understanding in Large Language Models with Time Intervals of Events**|Duygu Sezen Islakoglu et.al.|[2501.03040v1](http://arxiv.org/abs/2501.03040v1)|null|
 |**2025-01-06**|**Quantization Meets Reasoning: Exploring LLM Low-Bit Quantization Degradation for Mathematical Reasoning**|Zhen Li et.al.|[2501.03035v1](http://arxiv.org/abs/2501.03035v1)|null|
 |**2025-01-06**|**Normalizations of factorizations over convex cones and their effects on extension complexity**|Adam Brown et.al.|[2501.03025v1](http://arxiv.org/abs/2501.03025v1)|null|
