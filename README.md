@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-06 21:04:25 Asia/Shanghai
+ Automated deployment @ 2025-01-07 09:25:20 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -20,11 +20,11 @@
 |**2025-01-03**|**Revisiting Data Analysis with Pre-trained Foundation Models**|Chen Liang et.al.|[2501.01631v1](http://arxiv.org/abs/2501.01631v1)|null|
 |**2025-01-02**|**A Metasemantic-Metapragmatic Framework for Taxonomizing Multimodal Communicative Alignment**|Eugene Yu Ji et.al.|[2501.01535v1](http://arxiv.org/abs/2501.01535v1)|null|
 |**2025-01-02**|**A Primal-Dual Perspective on Program Verification Algorithms (Extended Version)**|Takeshi Tsukada et.al.|[2501.01512v1](http://arxiv.org/abs/2501.01512v1)|null|
-|**2025-01-02**|**Unifying Specialized Visual Encoders for Video Language Models**|Jihoon Chung et.al.|[2501.01426v1](http://arxiv.org/abs/2501.01426v1)|null|
+|**2025-01-02**|**Unifying Specialized Visual Encoders for Video Language Models**|Jihoon Chung et.al.|[2501.01426v1](http://arxiv.org/abs/2501.01426v1)|[link](https://github.com/princetonvisualai/merv)|
 |**2025-01-02**|**Sample shape dependence of magnetic noise**|Steven T. Bramwell et.al.|[2501.01400v1](http://arxiv.org/abs/2501.01400v1)|null|
 |**2025-01-02**|**CLIP-UP: CLIP-Based Unanswerable Problem Detection for Visual Question Answering**|Ben Vardi et.al.|[2501.01371v1](http://arxiv.org/abs/2501.01371v1)|null|
 |**2025-01-02**|**Contrastive Learning from Exploratory Actions: Leveraging Natural Interactions for Preference Elicitation**|Nathaniel Dennler et.al.|[2501.01367v1](http://arxiv.org/abs/2501.01367v1)|null|
-|**2025-01-02**|**Aligning Large Language Models for Faithful Integrity Against Opposing Argument**|Yong Zhao et.al.|[2501.01336v1](http://arxiv.org/abs/2501.01336v1)|null|
+|**2025-01-02**|**Aligning Large Language Models for Faithful Integrity Against Opposing Argument**|Yong Zhao et.al.|[2501.01336v1](http://arxiv.org/abs/2501.01336v1)|[link](https://github.com/zhaoy777/afice)|
 |**2025-01-02**|**Analysis of Security in OS-Level Virtualization**|Krishna Sai Ketha et.al.|[2501.01334v1](http://arxiv.org/abs/2501.01334v1)|null|
 |**2025-01-02**|**Understanding Difficult-to-learn Examples in Contrastive Learning: A Theoretical Framework for Spectral Contrastive Learning**|Yi-Ge Zhang et.al.|[2501.01317v1](http://arxiv.org/abs/2501.01317v1)|null|
 |**2025-01-02**|**Think More, Hallucinate Less: Mitigating Hallucinations via Dual Process of Fast and Slow Thinking**|Xiaoxue Cheng et.al.|[2501.01306v2](http://arxiv.org/abs/2501.01306v2)|null|
