@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-09 09:24:22 Asia/Shanghai
+ Automated deployment @ 2025-01-09 20:37:27 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,33 +8,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[2501.04003v1](http://arxiv.org/abs/2501.04003v1)|null|
-|**2025-01-07**|**Implicit Coordination using Active Epistemic Inference**|Lauren Bramblett et.al.|[2501.03907v1](http://arxiv.org/abs/2501.03907v1)|null|
-|**2025-01-07**|**CL3DOR: Contrastive Learning for 3D Large Multimodal Models via Odds Ratio on High-Resolution Point Clouds**|Keonwoo Kim et.al.|[2501.03879v1](http://arxiv.org/abs/2501.03879v1)|null|
-|**2025-01-07**|**OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints**|Mingjie Pan et.al.|[2501.03841v1](http://arxiv.org/abs/2501.03841v1)|null|
-|**2025-01-07**|**Convergent Primal-Dual Plug-and-Play Image Restoration: A General Algorithm and Applications**|Yodai Suzuki et.al.|[2501.03780v1](http://arxiv.org/abs/2501.03780v1)|null|
-|**2025-01-07**|**AuxDepthNet: Real-Time Monocular 3D Object Detection with Depth-Sensitive Features**|Ruochen Zhang et.al.|[2501.03700v1](http://arxiv.org/abs/2501.03700v1)|null|
-|**2025-01-07**|**SLAM: Towards Efficient Multilingual Reasoning via Selective Language Alignment**|Yuchun Fan et.al.|[2501.03681v1](http://arxiv.org/abs/2501.03681v1)|null|
-|**2025-01-07**|**SMIR: Efficient Synthetic Data Pipeline To Improve Multi-Image Reasoning**|Andrew Li et.al.|[2501.03675v1](http://arxiv.org/abs/2501.03675v1)|null|
-|**2025-01-07**|**Benchmarking seismic phase associators: Insights from synthetic scenarios**|Jorge Puente et.al.|[2501.03621v1](http://arxiv.org/abs/2501.03621v1)|null|
-|**2025-01-07**|**Experimental realization of scanning quantum microscopy**|V. F. Gili et.al.|[2501.03617v1](http://arxiv.org/abs/2501.03617v1)|null|
-|**2025-01-07**|**From Code to Compliance: Assessing ChatGPT's Utility in Designing an Accessible Webpage -- A Case Study**|Ammar Ahmed et.al.|[2501.03572v1](http://arxiv.org/abs/2501.03572v1)|null|
-|**2025-01-07**|**SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**|Xuewen Luo et.al.|[2501.03535v1](http://arxiv.org/abs/2501.03535v1)|null|
-|**2025-01-07**|**A Simple and Combinatorial Approach to Proving Chernoff Bounds and Their Generalizations**|William Kuszmaul et.al.|[2501.03488v1](http://arxiv.org/abs/2501.03488v1)|null|
-|**2025-01-07**|**Adaptive Residual-Driven Newton Solver for Nonlinear Systems of Equations**|Renjie Ding et.al.|[2501.03487v1](http://arxiv.org/abs/2501.03487v1)|null|
-|**2025-01-06**|**Existential Crisis: A Social Robot's Reason for Being**|Dora Medgyesy et.al.|[2501.03376v1](http://arxiv.org/abs/2501.03376v1)|null|
-|**2025-01-06**|**FTA-FTL: A Fine-Tuned Aggregation Federated Transfer Learning Scheme for Lithology Microscopic Image Classification**|Keyvan RahimiZadeh et.al.|[2501.03349v1](http://arxiv.org/abs/2501.03349v1)|[link](https://github.com/ahmadtaheri2021/lithology-microscopic-images-mini-dataset)|
-|**2025-01-06**|**Multi-Wavelength Analysis of AT 2023sva: a Luminous Orphan Afterglow With Evidence for a Structured Jet**|Gokul P. Srinivasaragavan et.al.|[2501.03337v1](http://arxiv.org/abs/2501.03337v1)|null|
-|**2025-01-06**|**BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning**|Beichen Zhang et.al.|[2501.03226v1](http://arxiv.org/abs/2501.03226v1)|[link](https://github.com/beichenzbc/booststep)|
-|**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151v1](http://arxiv.org/abs/2501.03151v1)|null|
-|**2025-01-06**|**PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models**|Mingyang Song et.al.|[2501.03124v2](http://arxiv.org/abs/2501.03124v2)|[link](https://github.com/ssmisya/PRMBench)|
-|**2025-01-06**|**ChronoSense: Exploring Temporal Understanding in Large Language Models with Time Intervals of Events**|Duygu Sezen Islakoglu et.al.|[2501.03040v1](http://arxiv.org/abs/2501.03040v1)|null|
-|**2025-01-06**|**Quantization Meets Reasoning: Exploring LLM Low-Bit Quantization Degradation for Mathematical Reasoning**|Zhen Li et.al.|[2501.03035v1](http://arxiv.org/abs/2501.03035v1)|null|
-|**2025-01-06**|**Normalizations of factorizations over convex cones and their effects on extension complexity**|Adam Brown et.al.|[2501.03025v1](http://arxiv.org/abs/2501.03025v1)|null|
-|**2025-01-06**|**Electroweak phase transition with the confinement scale of the strong sector or Dilaton in the minimal composite Higgs model**|Vo Quoc Phong et.al.|[2501.02972v1](http://arxiv.org/abs/2501.02972v1)|null|
-|**2025-01-06**|**Socratic Questioning: Learn to Self-guide Multimodal Reasoning in the Wild**|Wanpeng Hu et.al.|[2501.02964v2](http://arxiv.org/abs/2501.02964v2)|[link](https://github.com/aibee00/socraticquestioning)|
-|**2025-01-06**|**SceneVTG++: Controllable Multilingual Visual Text Generation in the Wild**|Jiawei Liu et.al.|[2501.02962v2](http://arxiv.org/abs/2501.02962v2)|null|
-|**2025-01-06**|**Randomly Sampled Language Reasoning Problems Reveal Limits of LLMs**|Kavi Gupta et.al.|[2501.02825v2](http://arxiv.org/abs/2501.02825v2)|null|
-|**2025-01-06**|**InfiFusion: A Unified Framework for Enhanced Cross-Model Reasoning via LLM Fusion**|Zhaoyi Yan et.al.|[2501.02795v1](http://arxiv.org/abs/2501.02795v1)|null|
-|**2025-01-06**|**Are GNNs Effective for Multimodal Fault Diagnosis in Microservice Systems?**|Fei Gao et.al.|[2501.02766v1](http://arxiv.org/abs/2501.02766v1)|null|
-|**2025-01-06**|**Visual Large Language Models for Generalized and Specialized Applications**|Yifan Li et.al.|[2501.02765v1](http://arxiv.org/abs/2501.02765v1)|[link](https://github.com/jackyfl/awesome-vllms)|
+|**2025-01-08**|**Grokking at the Edge of Numerical Stability**|Lucas Prieto et.al.|[2501.04697v1](http://arxiv.org/abs/2501.04697v1)|[link](https://github.com/lucasprietoal/grokking-at-the-edge-of-numerical-stability)|
+|**2025-01-08**|**Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding**|Joshua Jones et.al.|[2501.04693v1](http://arxiv.org/abs/2501.04693v1)|null|
+|**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686v1](http://arxiv.org/abs/2501.04686v1)|null|
+|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though**|Violet Xiang et.al.|[2501.04682v1](http://arxiv.org/abs/2501.04682v1)|null|
+|**2025-01-08**|**Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**|Archita Srivastava et.al.|[2501.04675v1](http://arxiv.org/abs/2501.04675v1)|null|
+|**2025-01-08**|**DRIVINGVQA: Analyzing Visual Chain-of-Thought Reasoning of Vision Language Models in Real-World Scenarios with Driving Theory Tests**|Charles Corbière et.al.|[2501.04671v1](http://arxiv.org/abs/2501.04671v1)|null|
+|**2025-01-08**|**Are They the Same? Exploring Visual Correspondence Shortcomings of Multimodal LLMs**|Yikang Zhou et.al.|[2501.04670v1](http://arxiv.org/abs/2501.04670v1)|[link](https://github.com/zhouyiks/colva)|
+|**2025-01-08**|**Assessing Language Comprehension in Large Language Models Using Construction Grammar**|Wesley Scivetti et.al.|[2501.04661v1](http://arxiv.org/abs/2501.04661v1)|null|
+|**2025-01-08**|**FrontierNet: Learning Visual Cues to Explore**|Boyang Sun et.al.|[2501.04597v1](http://arxiv.org/abs/2501.04597v1)|null|
+|**2025-01-08**|**InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection**|Yuhang Liu et.al.|[2501.04575v1](http://arxiv.org/abs/2501.04575v1)|[link](https://github.com/reallm-labs/infiguiagent)|
+|**2025-01-08**|**rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking**|Xinyu Guan et.al.|[2501.04519v1](http://arxiv.org/abs/2501.04519v1)|null|
+|**2025-01-08**|**ALMA observations of CO isotopologues towards six obscured post-AGB stars**|T. Khouri et.al.|[2501.04492v1](http://arxiv.org/abs/2501.04492v1)|null|
+|**2025-01-08**|**A novel Facial Recognition technique with Focusing on Masked Faces**|Dana A Abdullah et.al.|[2501.04444v1](http://arxiv.org/abs/2501.04444v1)|null|
+|**2025-01-08**|**Bit reset protocols that obey activity-constrained speed limits do not minimize work for a given speed**|Daan Mulder et.al.|[2501.04439v1](http://arxiv.org/abs/2501.04439v1)|null|
+|**2025-01-08**|**End-to-End Bangla AI for Solving Math Olympiad Problem Benchmark: Leveraging Large Language Model Using Integrated Approach**|H. M. Shadman Tabib et.al.|[2501.04425v1](http://arxiv.org/abs/2501.04425v1)|null|
+|**2025-01-08**|**NSA: Neuro-symbolic ARC Challenge**|Paweł Batorski et.al.|[2501.04424v1](http://arxiv.org/abs/2501.04424v1)|[link](https://github.com/batorskq/nsa)|
+|**2025-01-08**|**Neighborhood Disparities in Smart City Service Adoption**|Shahaf Donio et.al.|[2501.04363v1](http://arxiv.org/abs/2501.04363v1)|null|
+|**2025-01-08**|**Understanding Before Reasoning: Enhancing Chain-of-Thought with Iterative Summarization Pre-Prompting**|Dong-Hai Zhu et.al.|[2501.04341v1](http://arxiv.org/abs/2501.04341v1)|[link](https://github.com/zdhgreat/isp-2)|
+|**2025-01-08**|**Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs**|Zeyi Huang et.al.|[2501.04336v1](http://arxiv.org/abs/2501.04336v1)|null|
+|**2025-01-08**|**Neural Parameter Estimation with Incomplete Data**|Matthew Sainsbury-Dale et.al.|[2501.04330v1](http://arxiv.org/abs/2501.04330v1)|[link](https://github.com/msainsburydale/neuralincompletedata)|
+|**2025-01-08**|**Your Fix Is My Exploit: Enabling Comprehensive DL Library API Fuzzing with Large Language Models**|Kunpeng Zhang et.al.|[2501.04312v1](http://arxiv.org/abs/2501.04312v1)|null|
+|**2025-01-08**|**A truncated ε-subdifferential method for global DC optimization**|Adil M. Bagirov et.al.|[2501.04291v1](http://arxiv.org/abs/2501.04291v1)|null|
+|**2025-01-08**|**Cluster & Disperse: a general air conflict resolution heuristic using unsupervised learning**|Mirmojtaba Gharibi et.al.|[2501.04281v1](http://arxiv.org/abs/2501.04281v1)|null|
+|**2025-01-08**|**IOLBENCH: Benchmarking LLMs on Linguistic Reasoning**|Satyam Goyal et.al.|[2501.04249v1](http://arxiv.org/abs/2501.04249v1)|null|
+|**2025-01-08**|**Drift-oriented Self-evolving Encrypted Traffic Application Classification for Actual Network Environment**|Zihan Chen et.al.|[2501.04246v1](http://arxiv.org/abs/2501.04246v1)|null|
+|**2025-01-08**|**Beam Domain Channel Estimation for Spatial Non-Stationary Massive MIMO Systems**|Lin Hou et.al.|[2501.04242v1](http://arxiv.org/abs/2501.04242v1)|null|
+|**2025-01-08**|**GRAPHITE: Graph-Based Interpretable Tissue Examination for Enhanced Explainability in Breast Cancer Histopathology**|Raktim Kumar Mondol et.al.|[2501.04206v1](http://arxiv.org/abs/2501.04206v1)|null|
+|**2025-01-08**|**STLCG++: A Masking Approach for Differentiable Signal Temporal Logic Specification**|Parv Kapoor et.al.|[2501.04194v1](http://arxiv.org/abs/2501.04194v1)|null|
+|**2025-01-07**|**MedicalNarratives: Connecting Medical Vision and Language with Localized Narratives**|Wisdom O. Ikezogwo et.al.|[2501.04184v1](http://arxiv.org/abs/2501.04184v1)|null|
+|**2025-01-07**|**Multimodal Multihop Source Retrieval for Web Question Answering**|Navya Yarrabelly et.al.|[2501.04173v1](http://arxiv.org/abs/2501.04173v1)|null|
