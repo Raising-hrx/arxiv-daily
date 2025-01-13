@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-13 09:37:03 Asia/Shanghai
+ Automated deployment @ 2025-01-13 20:38:52 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,22 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-10**|**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs**|Omkar Thawakar et.al.|[2501.06186v1](http://arxiv.org/abs/2501.06186v1)|[link](https://github.com/mbzuai-oryx/llamav-o1)|
+|**2025-01-10**|**PEACE: Empowering Geologic Map Holistic Understanding with MLLMs**|Yangyu Huang et.al.|[2501.06184v1](http://arxiv.org/abs/2501.06184v1)|null|
+|**2025-01-10**|**Benchmarking Different Application Types across Heterogeneous Cloud Compute Services**|Nivedhitha Duggi et.al.|[2501.06128v1](http://arxiv.org/abs/2501.06128v1)|null|
+|**2025-01-10**|**Explaining k-Nearest Neighbors: Abductive and Counterfactual Explanations**|Pablo Barceló et.al.|[2501.06078v1](http://arxiv.org/abs/2501.06078v1)|null|
+|**2025-01-10**|**Improvements of convex-dense factorization of bivariate polynomials**|Martin Weimann et.al.|[2501.06028v1](http://arxiv.org/abs/2501.06028v1)|null|
+|**2025-01-10**|**Thermal emission from bow shocks III: Variable diffuse X-ray emission from stellar-wind bow shocks driven by dynamical instabilities**|Jonathan Mackey et.al.|[2501.06021v1](http://arxiv.org/abs/2501.06021v1)|null|
+|**2025-01-10**|**Navigating Tomorrow: Reliably Assessing Large Language Models Performance on Future Event Prediction**|Petraq Nako et.al.|[2501.05925v1](http://arxiv.org/abs/2501.05925v1)|null|
+|**2025-01-10**|**Deontic Temporal Logic for Formal Verification of AI Ethics**|Priya T. V. et.al.|[2501.05765v1](http://arxiv.org/abs/2501.05765v1)|null|
+|**2025-01-10**|**Semantic Exploration with Adaptive Gating for Efficient Problem Solving with Language Models**|Sungjae Lee et.al.|[2501.05752v1](http://arxiv.org/abs/2501.05752v1)|null|
+|**2025-01-10**|**Semantic Mapping in Indoor Embodied AI -- A Comprehensive Survey and Future Directions**|Sonia Raychaudhuri et.al.|[2501.05750v1](http://arxiv.org/abs/2501.05750v1)|null|
+|**2025-01-10**|**Multi-Step Reasoning in Korean and the Emergent Mirage**|Guijin Son et.al.|[2501.05712v1](http://arxiv.org/abs/2501.05712v1)|null|
+|**2025-01-10**|**Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains**|Vighnesh Subramaniam et.al.|[2501.05707v1](http://arxiv.org/abs/2501.05707v1)|null|
+|**2025-01-10**|**UniQ: Unified Decoder with Task-specific Queries for Efficient Scene Graph Generation**|Xinyao Liao et.al.|[2501.05687v1](http://arxiv.org/abs/2501.05687v1)|null|
+|**2025-01-10**|**Cascaded Self-Evaluation Augmented Training for Efficient Multimodal Large Language Models**|Zheqi Lv et.al.|[2501.05662v1](http://arxiv.org/abs/2501.05662v1)|null|
+|**2025-01-09**|**LLMQuoter: Enhancing RAG Capabilities Through Efficient Quote Extraction From Large Contexts**|Yuri Facanha Bezerra et.al.|[2501.05554v1](http://arxiv.org/abs/2501.05554v1)|[link](https://github.com/yurifacanha/llmquoter)|
+|**2025-01-09**|**OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding?**|Yifei Li et.al.|[2501.05510v1](http://arxiv.org/abs/2501.05510v1)|[link](https://github.com/joeleelyf/ovo-bench)|
 |**2025-01-09**|**ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**|Xingyu Fu et.al.|[2501.05452v1](http://arxiv.org/abs/2501.05452v1)|null|
 |**2025-01-09**|**Relative Pose Estimation through Affine Corrections of Monocular Depth Priors**|Yifan Yu et.al.|[2501.05446v1](http://arxiv.org/abs/2501.05446v1)|[link](https://github.com/markyu98/madpose)|
 |**2025-01-09**|**Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark**|Yunzhuo Hao et.al.|[2501.05444v1](http://arxiv.org/abs/2501.05444v1)|null|
@@ -22,19 +38,3 @@
 |**2025-01-09**|**Stream Aligner: Efficient Sentence-Level Alignment via Distribution Induction**|Hantao Lou et.al.|[2501.05336v1](http://arxiv.org/abs/2501.05336v1)|[link](https://github.com/htlou/stream-aligner)|
 |**2025-01-09**|**The explanation dialogues: an expert focus study to understand requirements towards explanations within the GDPR**|Laura State et.al.|[2501.05325v1](http://arxiv.org/abs/2501.05325v1)|null|
 |**2025-01-09**|**An Algorithmic Approach for Causal Health Equity: A Look at Race Differentials in Intensive Care Unit (ICU) Outcomes**|Drago Plecko et.al.|[2501.05197v1](http://arxiv.org/abs/2501.05197v1)|null|
-|**2025-01-09**|**Towards Optimizing the Expected Performance of Sampling-Based Quantum-Inspired Algorithms**|Hyunho Cha et.al.|[2501.05184v1](http://arxiv.org/abs/2501.05184v1)|null|
-|**2025-01-09**|**Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration**|Xuyang Liu et.al.|[2501.05179v1](http://arxiv.org/abs/2501.05179v1)|[link](https://github.com/xuyang-liu16/globalcom2)|
-|**2025-01-09**|**Explainable AI based System for Supply Air Temperature Forecast**|Marika Eik et.al.|[2501.05163v1](http://arxiv.org/abs/2501.05163v1)|null|
-|**2025-01-09**|**Thermodynamics of a compressible lattice gas crystal: Generalized Gibbs-Duhem equation and adsorption**|Michiel Sprik et.al.|[2501.05117v1](http://arxiv.org/abs/2501.05117v1)|null|
-|**2025-01-09**|**Predicting Spin-Dependent Coulomb Interaction Based on the Yang-Mills Equations**|Jiang-Lin Zhou et.al.|[2501.05103v1](http://arxiv.org/abs/2501.05103v1)|null|
-|**2025-01-09**|**End-to-End Deep Learning for Interior Tomography with Low-Dose X-ray CT**|Yoseob Han et.al.|[2501.05085v1](http://arxiv.org/abs/2501.05085v1)|null|
-|**2025-01-09**|**Multimodal-to-Text Prompt Engineering in Large Language Models Using Feature Embeddings for GNSS Interference Characterization**|Harshith Manjunath et.al.|[2501.05079v1](http://arxiv.org/abs/2501.05079v1)|null|
-|**2025-01-09**|**Analyzing Memorization in Large Language Models through the Lens of Model Attribution**|Tarun Ram Menta et.al.|[2501.05078v1](http://arxiv.org/abs/2501.05078v1)|null|
-|**2025-01-09**|**Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning**|Huabin Liu et.al.|[2501.05069v1](http://arxiv.org/abs/2501.05069v1)|null|
-|**2025-01-09**|**Cover-Relax-Search: A Primal Heuristic for Binary Quadratic Programs**|Weimin Huang et.al.|[2501.05052v1](http://arxiv.org/abs/2501.05052v1)|null|
-|**2025-01-09**|**LongViTU: Instruction Tuning for Long-Form Video Understanding**|Rujie Wu et.al.|[2501.05037v1](http://arxiv.org/abs/2501.05037v1)|null|
-|**2025-01-09**|**Enhancing Human-Like Responses in Large Language Models**|Ethem Yağız Çalık et.al.|[2501.05032v1](http://arxiv.org/abs/2501.05032v1)|null|
-|**2025-01-09**|**A General Retrieval-Augmented Generation Framework for Multimodal Case-Based Reasoning Applications**|Ofir Marom et.al.|[2501.05030v1](http://arxiv.org/abs/2501.05030v1)|null|
-|**2025-01-09**|**IPDN: Image-enhanced Prompt Decoding Network for 3D Referring Expression Segmentation**|Qi Chen et.al.|[2501.04995v1](http://arxiv.org/abs/2501.04995v1)|[link](https://github.com/80chen86/ipdn)|
-|**2025-01-09**|**On the ascent of almost and quasi-atomicity to monoid semidomains**|Victor Gonzalez et.al.|[2501.04990v1](http://arxiv.org/abs/2501.04990v1)|null|
-|**2025-01-09**|**Algebraic characterization of equivalence between optimization algorithms**|Laurent Lessard et.al.|[2501.04972v1](http://arxiv.org/abs/2501.04972v1)|null|
