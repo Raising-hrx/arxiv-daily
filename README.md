@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-14 09:21:12 Asia/Shanghai
+ Automated deployment @ 2025-01-14 20:35:57 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,33 +8,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-10**|**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs**|Omkar Thawakar et.al.|[2501.06186v1](http://arxiv.org/abs/2501.06186v1)|[link](https://github.com/mbzuai-oryx/llamav-o1)|
-|**2025-01-10**|**PEACE: Empowering Geologic Map Holistic Understanding with MLLMs**|Yangyu Huang et.al.|[2501.06184v1](http://arxiv.org/abs/2501.06184v1)|null|
-|**2025-01-10**|**Benchmarking Different Application Types across Heterogeneous Cloud Compute Services**|Nivedhitha Duggi et.al.|[2501.06128v1](http://arxiv.org/abs/2501.06128v1)|null|
-|**2025-01-10**|**Explaining k-Nearest Neighbors: Abductive and Counterfactual Explanations**|Pablo Barceló et.al.|[2501.06078v1](http://arxiv.org/abs/2501.06078v1)|null|
-|**2025-01-10**|**Improvements of convex-dense factorization of bivariate polynomials**|Martin Weimann et.al.|[2501.06028v1](http://arxiv.org/abs/2501.06028v1)|null|
-|**2025-01-10**|**Thermal emission from bow shocks III: Variable diffuse X-ray emission from stellar-wind bow shocks driven by dynamical instabilities**|Jonathan Mackey et.al.|[2501.06021v1](http://arxiv.org/abs/2501.06021v1)|null|
-|**2025-01-10**|**Navigating Tomorrow: Reliably Assessing Large Language Models Performance on Future Event Prediction**|Petraq Nako et.al.|[2501.05925v1](http://arxiv.org/abs/2501.05925v1)|null|
-|**2025-01-10**|**Deontic Temporal Logic for Formal Verification of AI Ethics**|Priya T. V. et.al.|[2501.05765v1](http://arxiv.org/abs/2501.05765v1)|null|
-|**2025-01-10**|**Semantic Exploration with Adaptive Gating for Efficient Problem Solving with Language Models**|Sungjae Lee et.al.|[2501.05752v1](http://arxiv.org/abs/2501.05752v1)|null|
-|**2025-01-10**|**Semantic Mapping in Indoor Embodied AI -- A Comprehensive Survey and Future Directions**|Sonia Raychaudhuri et.al.|[2501.05750v1](http://arxiv.org/abs/2501.05750v1)|null|
-|**2025-01-10**|**Multi-Step Reasoning in Korean and the Emergent Mirage**|Guijin Son et.al.|[2501.05712v1](http://arxiv.org/abs/2501.05712v1)|null|
-|**2025-01-10**|**Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains**|Vighnesh Subramaniam et.al.|[2501.05707v1](http://arxiv.org/abs/2501.05707v1)|null|
-|**2025-01-10**|**UniQ: Unified Decoder with Task-specific Queries for Efficient Scene Graph Generation**|Xinyao Liao et.al.|[2501.05687v1](http://arxiv.org/abs/2501.05687v1)|null|
-|**2025-01-10**|**Cascaded Self-Evaluation Augmented Training for Efficient Multimodal Large Language Models**|Zheqi Lv et.al.|[2501.05662v1](http://arxiv.org/abs/2501.05662v1)|null|
-|**2025-01-09**|**LLMQuoter: Enhancing RAG Capabilities Through Efficient Quote Extraction From Large Contexts**|Yuri Facanha Bezerra et.al.|[2501.05554v1](http://arxiv.org/abs/2501.05554v1)|[link](https://github.com/yurifacanha/llmquoter)|
-|**2025-01-09**|**OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding?**|Yifei Li et.al.|[2501.05510v1](http://arxiv.org/abs/2501.05510v1)|[link](https://github.com/joeleelyf/ovo-bench)|
-|**2025-01-09**|**ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**|Xingyu Fu et.al.|[2501.05452v1](http://arxiv.org/abs/2501.05452v1)|null|
-|**2025-01-09**|**Relative Pose Estimation through Affine Corrections of Monocular Depth Priors**|Yifan Yu et.al.|[2501.05446v1](http://arxiv.org/abs/2501.05446v1)|[link](https://github.com/markyu98/madpose)|
-|**2025-01-09**|**Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark**|Yunzhuo Hao et.al.|[2501.05444v1](http://arxiv.org/abs/2501.05444v1)|null|
-|**2025-01-09**|**Neuro-Symbolic AI in 2024: A Systematic Review**|Brandon C. Colelough et.al.|[2501.05435v1](http://arxiv.org/abs/2501.05435v1)|null|
-|**2025-01-09**|**LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation**|Xi Ye et.al.|[2501.05414v1](http://arxiv.org/abs/2501.05414v1)|null|
-|**2025-01-09**|**Seeing Sound: Assembling Sounds from Visuals for Audio-to-Image Generation**|Darius Petermann et.al.|[2501.05413v1](http://arxiv.org/abs/2501.05413v1)|null|
-|**2025-01-09**|**Mechanistic understanding and validation of large AI models with SemanticLens**|Maximilian Dreyer et.al.|[2501.05398v1](http://arxiv.org/abs/2501.05398v1)|null|
-|**2025-01-09**|**Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models**|Kristian G. Barman et.al.|[2501.05382v1](http://arxiv.org/abs/2501.05382v1)|null|
-|**2025-01-09**|**Developing a Foundation of Vector Symbolic Architectures Using Category Theory**|Nolan P Shaw et.al.|[2501.05368v1](http://arxiv.org/abs/2501.05368v1)|null|
-|**2025-01-09**|**Search-o1: Agentic Search-Enhanced Large Reasoning Models**|Xiaoxi Li et.al.|[2501.05366v1](http://arxiv.org/abs/2501.05366v1)|[link](https://github.com/sunnynexus/search-o1)|
-|**2025-01-09**|**Cybersecurity in Transportation Systems: Policies and Technology Directions**|Ostonya Thomas et.al.|[2501.05356v1](http://arxiv.org/abs/2501.05356v1)|null|
-|**2025-01-09**|**Stream Aligner: Efficient Sentence-Level Alignment via Distribution Induction**|Hantao Lou et.al.|[2501.05336v1](http://arxiv.org/abs/2501.05336v1)|[link](https://github.com/htlou/stream-aligner)|
-|**2025-01-09**|**The explanation dialogues: an expert focus study to understand requirements towards explanations within the GDPR**|Laura State et.al.|[2501.05325v1](http://arxiv.org/abs/2501.05325v1)|null|
-|**2025-01-09**|**An Algorithmic Approach for Causal Health Equity: A Look at Race Differentials in Intensive Care Unit (ICU) Outcomes**|Drago Plecko et.al.|[2501.05197v1](http://arxiv.org/abs/2501.05197v1)|null|
+|**2025-01-13**|**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**|Chengzu Li et.al.|[2501.07542v1](http://arxiv.org/abs/2501.07542v1)|null|
+|**2025-01-13**|**RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment**|Difei Gu et.al.|[2501.07525v1](http://arxiv.org/abs/2501.07525v1)|[link](https://github.com/difeigu/radalign)|
+|**2025-01-13**|**Lazy Reimplication in Chronological Backtracking**|Robin Coutelier et.al.|[2501.07457v1](http://arxiv.org/abs/2501.07457v1)|null|
+|**2025-01-13**|**Online inductive learning from answer sets for efficient reinforcement learning exploration**|Celeste Veronese et.al.|[2501.07445v1](http://arxiv.org/abs/2501.07445v1)|null|
+|**2025-01-13**|**TempoGPT: Enhancing Temporal Reasoning via Quantizing Embedding**|Haochuan Zhang et.al.|[2501.07335v1](http://arxiv.org/abs/2501.07335v1)|null|
+|**2025-01-13**|**The Devil is in the Spurious Correlation: Boosting Moment Retrieval via Temporal Dynamic Learning**|Xinyang Zhou et.al.|[2501.07305v1](http://arxiv.org/abs/2501.07305v1)|null|
+|**2025-01-13**|**The Lessons of Developing Process Reward Models in Mathematical Reasoning**|Zhenru Zhang et.al.|[2501.07301v1](http://arxiv.org/abs/2501.07301v1)|null|
+|**2025-01-13**|**Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language Model**|Ziyang Ma et.al.|[2501.07246v1](http://arxiv.org/abs/2501.07246v1)|null|
+|**2025-01-13**|**Can Vision-Language Models Evaluate Handwritten Math?**|Oikantik Nath et.al.|[2501.07244v1](http://arxiv.org/abs/2501.07244v1)|null|
+|**2025-01-13**|**Dominance of Electric Fields in the Charge Splitting of Elliptic Flow**|Ankit Kumar Panda et.al.|[2501.07240v1](http://arxiv.org/abs/2501.07240v1)|null|
+|**2025-01-13**|**Enhancing Interaction with Augmented Reality through Mid-Air Haptic Feedback: Architecture Design and User Feedback**|Diego Vaquero-Melchor et.al.|[2501.07234v1](http://arxiv.org/abs/2501.07234v1)|null|
+|**2025-01-13**|**MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning**|Tieyuan Chen et.al.|[2501.07227v1](http://arxiv.org/abs/2501.07227v1)|null|
+|**2025-01-13**|**TimeLogic: A Temporal Logic Benchmark for Video QA**|Sirnam Swetha et.al.|[2501.07214v1](http://arxiv.org/abs/2501.07214v1)|null|
+|**2025-01-13**|**A data-driven approach to discover and quantify systemic lupus erythematosus etiological heterogeneity from electronic health records**|Marco Barbero Mota et.al.|[2501.07206v1](http://arxiv.org/abs/2501.07206v1)|null|
+|**2025-01-13**|**Uncertainty Guarantees on Automated Precision Weeding using Conformal Prediction**|Paul Melki et.al.|[2501.07185v1](http://arxiv.org/abs/2501.07185v1)|null|
+|**2025-01-13**|**PISN 2018ibb: radioactive emission of [O III] lines**|Nikolai N. Chugai et.al.|[2501.07134v1](http://arxiv.org/abs/2501.07134v1)|null|
+|**2025-01-13**|**Can Dark Stars account for the star formation efficiency excess at very high redshifts?**|Lei Lei et.al.|[2501.07119v1](http://arxiv.org/abs/2501.07119v1)|null|
+|**2025-01-13**|**The Quest for Visual Understanding: A Journey Through the Evolution of Visual Question Answering**|Anupam Pandey et.al.|[2501.07109v1](http://arxiv.org/abs/2501.07109v1)|null|
+|**2025-01-13**|**How GPT learns layer by layer**|Jason Du et.al.|[2501.07108v1](http://arxiv.org/abs/2501.07108v1)|[link](https://github.com/alt-js/othellosae)|
+|**2025-01-13**|**Collaborative Learning for 3D Hand-Object Reconstruction and Compositional Action Recognition from Egocentric RGB Videos Using Superquadrics**|Tze Ho Elden Tse et.al.|[2501.07100v1](http://arxiv.org/abs/2501.07100v1)|null|
+|**2025-01-13**|**PoAct: Policy and Action Dual-Control Agent for Generalized Applications**|Guozhi Yuan et.al.|[2501.07054v1](http://arxiv.org/abs/2501.07054v1)|null|
+|**2025-01-13**|**Neural Probabilistic Circuits: Enabling Compositional and Interpretable Predictions through Logical Reasoning**|Weixin Chen et.al.|[2501.07021v1](http://arxiv.org/abs/2501.07021v1)|null|
+|**2025-01-12**|**Learning Implicit Social Navigation Behavior using Deep Inverse Reinforcement Learning**|Tribhi Kathuria et.al.|[2501.06946v1](http://arxiv.org/abs/2501.06946v1)|null|
+|**2025-01-12**|**What Is a Counterfactual Cause in Action Theories?**|Daxin Liu et.al.|[2501.06857v1](http://arxiv.org/abs/2501.06857v1)|null|
+|**2025-01-12**|**Towards Counterfactual and Contrastive Explainability and Transparency of DCNN Image Classifiers**|Syed Ali Tariq et.al.|[2501.06831v1](http://arxiv.org/abs/2501.06831v1)|null|
+|**2025-01-12**|**Neutrino Heating in 1D, 2D, and 3D core-collapse supernovae: characterizing the explosion of high-compactness stars**|Luca Boccioli et.al.|[2501.06784v1](http://arxiv.org/abs/2501.06784v1)|null|
+|**2025-01-12**|**On the Complexity of Global Necessary Reasons to Explain Classification**|Marco Calautti et.al.|[2501.06766v1](http://arxiv.org/abs/2501.06766v1)|null|
+|**2025-01-12**|**VidChain: Chain-of-Tasks with Metric-based Direct Preference Optimization for Dense Video Captioning**|Ji Soo Lee et.al.|[2501.06761v1](http://arxiv.org/abs/2501.06761v1)|[link](https://github.com/mlvlab/vidchain)|
+|**2025-01-12**|**ZNO-Eval: Benchmarking reasoning capabilities of large language models in Ukrainian**|Mykyta Syromiatnikov et.al.|[2501.06715v1](http://arxiv.org/abs/2501.06715v1)|[link](https://github.com/nlpforua/zno)|
+|**2025-01-12**|**Fine-tuning ChatGPT for Automatic Scoring of Written Scientific Explanations in Chinese**|Jie Yang et.al.|[2501.06704v1](http://arxiv.org/abs/2501.06704v1)|null|
