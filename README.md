@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-15 09:23:02 Asia/Shanghai
+ Automated deployment @ 2025-01-15 20:36:07 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,33 +8,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-14**|**PokerBench: Training Large Language Models to become Professional Poker Players**|Richard Zhuang et.al.|[2501.08328v1](http://arxiv.org/abs/2501.08328v1)|[link](https://github.com/pokerllm/pokerbench)|
+|**2025-01-14**|**Omni-RGPT: Unifying Image and Video Region-level Understanding via Token Marks**|Miran Heo et.al.|[2501.08326v1](http://arxiv.org/abs/2501.08326v1)|null|
+|**2025-01-14**|**Two- versus three-body approach to femtoscopic hadron-deuteron correlations**|Stanislaw Mrowczynski et.al.|[2501.08283v1](http://arxiv.org/abs/2501.08283v1)|null|
+|**2025-01-14**|**Exploring Robustness of LLMs to Sociodemographically-Conditioned Paraphrasing**|Pulkit Arora et.al.|[2501.08276v1](http://arxiv.org/abs/2501.08276v1)|null|
+|**2025-01-14**|**Eliciting In-context Retrieval and Reasoning for Long-context Large Language Models**|Yifu Qiu et.al.|[2501.08248v1](http://arxiv.org/abs/2501.08248v1)|null|
+|**2025-01-14**|**Pb-intercalated epitaxial graphene on SiC: Full insight into band structure and orbital character of interlayer Pb, and charge transfer into graphene**|Bharti Matta et.al.|[2501.08172v1](http://arxiv.org/abs/2501.08172v1)|null|
+|**2025-01-14**|**LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking**|Yukai Ma et.al.|[2501.08168v1](http://arxiv.org/abs/2501.08168v1)|null|
+|**2025-01-14**|**Bootstrapping Corner Cases: High-Resolution Inpainting for Safety Critical Detect and Avoid for Automated Flying**|Jonathan Lyhs et.al.|[2501.08142v1](http://arxiv.org/abs/2501.08142v1)|null|
+|**2025-01-14**|**In-situ graph reasoning and knowledge expansion using Graph-PReFLexOR**|Markus J. Buehler et.al.|[2501.08120v1](http://arxiv.org/abs/2501.08120v1)|null|
+|**2025-01-14**|**HydroelasticTouch: Simulation of Tactile Sensors with Hydroelastic Contact Surfaces**|David P. Leins et.al.|[2501.08077v1](http://arxiv.org/abs/2501.08077v1)|null|
+|**2025-01-14**|**A Roadmap to Guide the Integration of LLMs in Hierarchical Planning**|Israel Puerta-Merino et.al.|[2501.08068v1](http://arxiv.org/abs/2501.08068v1)|null|
+|**2025-01-14**|**Logics and Algorithms for Hyperproperties**|Bernd Finkbeiner et.al.|[2501.08063v1](http://arxiv.org/abs/2501.08063v1)|null|
+|**2025-01-14**|**GDiffRetro: Retrosynthesis Prediction with Dual Graph Enhanced Molecular Representation and Diffusion Generation**|Shengyin Sun et.al.|[2501.08001v1](http://arxiv.org/abs/2501.08001v1)|[link](https://github.com/sunshy-1/gdiffretro)|
+|**2025-01-14**|**LLM-Ehnanced Holonic Architecture for Ad-Hoc Scalable SoS**|Muhammad Ashfaq et.al.|[2501.07992v1](http://arxiv.org/abs/2501.07992v1)|null|
+|**2025-01-14**|**Effect of helium surface fluctuations on the Rydberg transition of trapped electrons**|Mikhail Belianchikov et.al.|[2501.07971v1](http://arxiv.org/abs/2501.07971v1)|null|
+|**2025-01-14**|**Self-Instruct Few-Shot Jailbreaking: Decompose the Attack into Pattern and Behavior Learning**|Jiaqi Hua et.al.|[2501.07959v1](http://arxiv.org/abs/2501.07959v1)|[link](https://github.com/iphosi/self-instruct-fsj)|
+|**2025-01-14**|**Advice for Diabetes Self-Management by ChatGPT Models: Challenges and Recommendations**|Waqar Hussain et.al.|[2501.07931v1](http://arxiv.org/abs/2501.07931v1)|null|
+|**2025-01-14**|**Coinductive Proofs for Temporal Hyperliveness**|Arthur Correnson et.al.|[2501.07920v1](http://arxiv.org/abs/2501.07920v1)|null|
+|**2025-01-14**|**Large Language Model Interface for Home Energy Management Systems**|François Michelon et.al.|[2501.07919v1](http://arxiv.org/abs/2501.07919v1)|null|
+|**2025-01-14**|**GRAPHMOE: Amplifying Cognitive Depth of Mixture-of-Experts Network via Introducing Self-Rethinking Mechanism**|Chen Tang et.al.|[2501.07890v1](http://arxiv.org/abs/2501.07890v1)|null|
+|**2025-01-14**|**ReARTeR: Retrieval-Augmented Reasoning with Trustworthy Process Rewarding**|Zhongxiang Sun et.al.|[2501.07861v1](http://arxiv.org/abs/2501.07861v1)|null|
+|**2025-01-14**|**Reasoning with Graphs: Structuring Implicit Knowledge to Enhance LLMs Reasoning**|Haoyu Han et.al.|[2501.07845v1](http://arxiv.org/abs/2501.07845v1)|null|
+|**2025-01-14**|**Deep Learning Waveform Modeling for Wideband Optical Fiber Channel Transmission: Challenges and Potential Solutions**|Minghui Shi et.al.|[2501.07830v1](http://arxiv.org/abs/2501.07830v1)|null|
+|**2025-01-14**|**HgPCN: A Heterogeneous Architecture for E2E Embedded Point Cloud Inference**|Yiming Gao et.al.|[2501.07767v1](http://arxiv.org/abs/2501.07767v1)|null|
+|**2025-01-13**|**GPT as a Monte Carlo Language Tree: A Probabilistic Perspective**|Kun-Peng Ning et.al.|[2501.07641v1](http://arxiv.org/abs/2501.07641v1)|null|
 |**2025-01-13**|**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**|Chengzu Li et.al.|[2501.07542v1](http://arxiv.org/abs/2501.07542v1)|null|
 |**2025-01-13**|**RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment**|Difei Gu et.al.|[2501.07525v1](http://arxiv.org/abs/2501.07525v1)|[link](https://github.com/difeigu/radalign)|
 |**2025-01-13**|**Lazy Reimplication in Chronological Backtracking**|Robin Coutelier et.al.|[2501.07457v1](http://arxiv.org/abs/2501.07457v1)|null|
 |**2025-01-13**|**Online inductive learning from answer sets for efficient reinforcement learning exploration**|Celeste Veronese et.al.|[2501.07445v1](http://arxiv.org/abs/2501.07445v1)|null|
 |**2025-01-13**|**TempoGPT: Enhancing Temporal Reasoning via Quantizing Embedding**|Haochuan Zhang et.al.|[2501.07335v1](http://arxiv.org/abs/2501.07335v1)|null|
-|**2025-01-13**|**The Devil is in the Spurious Correlation: Boosting Moment Retrieval via Temporal Dynamic Learning**|Xinyang Zhou et.al.|[2501.07305v1](http://arxiv.org/abs/2501.07305v1)|null|
-|**2025-01-13**|**The Lessons of Developing Process Reward Models in Mathematical Reasoning**|Zhenru Zhang et.al.|[2501.07301v1](http://arxiv.org/abs/2501.07301v1)|null|
-|**2025-01-13**|**Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language Model**|Ziyang Ma et.al.|[2501.07246v1](http://arxiv.org/abs/2501.07246v1)|null|
-|**2025-01-13**|**Can Vision-Language Models Evaluate Handwritten Math?**|Oikantik Nath et.al.|[2501.07244v1](http://arxiv.org/abs/2501.07244v1)|null|
-|**2025-01-13**|**Dominance of Electric Fields in the Charge Splitting of Elliptic Flow**|Ankit Kumar Panda et.al.|[2501.07240v1](http://arxiv.org/abs/2501.07240v1)|null|
-|**2025-01-13**|**Enhancing Interaction with Augmented Reality through Mid-Air Haptic Feedback: Architecture Design and User Feedback**|Diego Vaquero-Melchor et.al.|[2501.07234v1](http://arxiv.org/abs/2501.07234v1)|null|
-|**2025-01-13**|**MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning**|Tieyuan Chen et.al.|[2501.07227v1](http://arxiv.org/abs/2501.07227v1)|null|
-|**2025-01-13**|**TimeLogic: A Temporal Logic Benchmark for Video QA**|Sirnam Swetha et.al.|[2501.07214v1](http://arxiv.org/abs/2501.07214v1)|null|
-|**2025-01-13**|**A data-driven approach to discover and quantify systemic lupus erythematosus etiological heterogeneity from electronic health records**|Marco Barbero Mota et.al.|[2501.07206v1](http://arxiv.org/abs/2501.07206v1)|null|
-|**2025-01-13**|**Uncertainty Guarantees on Automated Precision Weeding using Conformal Prediction**|Paul Melki et.al.|[2501.07185v1](http://arxiv.org/abs/2501.07185v1)|null|
-|**2025-01-13**|**PISN 2018ibb: radioactive emission of [O III] lines**|Nikolai N. Chugai et.al.|[2501.07134v1](http://arxiv.org/abs/2501.07134v1)|null|
-|**2025-01-13**|**Can Dark Stars account for the star formation efficiency excess at very high redshifts?**|Lei Lei et.al.|[2501.07119v1](http://arxiv.org/abs/2501.07119v1)|null|
-|**2025-01-13**|**The Quest for Visual Understanding: A Journey Through the Evolution of Visual Question Answering**|Anupam Pandey et.al.|[2501.07109v1](http://arxiv.org/abs/2501.07109v1)|null|
-|**2025-01-13**|**How GPT learns layer by layer**|Jason Du et.al.|[2501.07108v1](http://arxiv.org/abs/2501.07108v1)|[link](https://github.com/alt-js/othellosae)|
-|**2025-01-13**|**Collaborative Learning for 3D Hand-Object Reconstruction and Compositional Action Recognition from Egocentric RGB Videos Using Superquadrics**|Tze Ho Elden Tse et.al.|[2501.07100v1](http://arxiv.org/abs/2501.07100v1)|null|
-|**2025-01-13**|**PoAct: Policy and Action Dual-Control Agent for Generalized Applications**|Guozhi Yuan et.al.|[2501.07054v1](http://arxiv.org/abs/2501.07054v1)|null|
-|**2025-01-13**|**Neural Probabilistic Circuits: Enabling Compositional and Interpretable Predictions through Logical Reasoning**|Weixin Chen et.al.|[2501.07021v1](http://arxiv.org/abs/2501.07021v1)|null|
-|**2025-01-12**|**Learning Implicit Social Navigation Behavior using Deep Inverse Reinforcement Learning**|Tribhi Kathuria et.al.|[2501.06946v1](http://arxiv.org/abs/2501.06946v1)|null|
-|**2025-01-12**|**What Is a Counterfactual Cause in Action Theories?**|Daxin Liu et.al.|[2501.06857v1](http://arxiv.org/abs/2501.06857v1)|null|
-|**2025-01-12**|**Towards Counterfactual and Contrastive Explainability and Transparency of DCNN Image Classifiers**|Syed Ali Tariq et.al.|[2501.06831v1](http://arxiv.org/abs/2501.06831v1)|null|
-|**2025-01-12**|**Neutrino Heating in 1D, 2D, and 3D core-collapse supernovae: characterizing the explosion of high-compactness stars**|Luca Boccioli et.al.|[2501.06784v1](http://arxiv.org/abs/2501.06784v1)|null|
-|**2025-01-12**|**On the Complexity of Global Necessary Reasons to Explain Classification**|Marco Calautti et.al.|[2501.06766v1](http://arxiv.org/abs/2501.06766v1)|null|
-|**2025-01-12**|**VidChain: Chain-of-Tasks with Metric-based Direct Preference Optimization for Dense Video Captioning**|Ji Soo Lee et.al.|[2501.06761v1](http://arxiv.org/abs/2501.06761v1)|[link](https://github.com/mlvlab/vidchain)|
-|**2025-01-12**|**ZNO-Eval: Benchmarking reasoning capabilities of large language models in Ukrainian**|Mykyta Syromiatnikov et.al.|[2501.06715v1](http://arxiv.org/abs/2501.06715v1)|[link](https://github.com/nlpforua/zno)|
-|**2025-01-12**|**Fine-tuning ChatGPT for Automatic Scoring of Written Scientific Explanations in Chinese**|Jie Yang et.al.|[2501.06704v1](http://arxiv.org/abs/2501.06704v1)|null|
