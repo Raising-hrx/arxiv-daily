@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-16 09:22:25 Asia/Shanghai
+ Automated deployment @ 2025-01-16 20:35:55 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,33 +8,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-15**|**Multimodal LLMs Can Reason about Aesthetics in Zero-Shot**|Ruixiang Jiang et.al.|[2501.09012v1](http://arxiv.org/abs/2501.09012v1)|[link](https://github.com/songrise/mllm4art)|
+|**2025-01-15**|**Vision Foundation Models for Computed Tomography**|Suraj Pai et.al.|[2501.09001v1](http://arxiv.org/abs/2501.09001v1)|null|
+|**2025-01-15**|**CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation**|Qi Ma et.al.|[2501.08982v1](http://arxiv.org/abs/2501.08982v1)|null|
+|**2025-01-15**|**Analyzing the Ethical Logic of Six Large Language Models**|W. Russell Neuman et.al.|[2501.08951v1](http://arxiv.org/abs/2501.08951v1)|null|
+|**2025-01-15**|**Physical AI Agents: Integrating Cognitive Intelligence with Real-World Action**|Fouad Bousetouane et.al.|[2501.08944v1](http://arxiv.org/abs/2501.08944v1)|null|
+|**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897v1](http://arxiv.org/abs/2501.08897v1)|null|
+|**2025-01-15**|**Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving**|Tengpeng Li et.al.|[2501.08861v1](http://arxiv.org/abs/2501.08861v1)|null|
+|**2025-01-15**|**The post-gas expulsion coalescence of embedded clusters as an origin of open clusters**|J. W. Zhou et.al.|[2501.08831v1](http://arxiv.org/abs/2501.08831v1)|null|
+|**2025-01-15**|**A Closer Look at the Learnability of Out-of-Distribution (OOD) Detection**|Konstantin Garov et.al.|[2501.08821v1](http://arxiv.org/abs/2501.08821v1)|null|
+|**2025-01-15**|**Exploring ChatGPT for Face Presentation Attack Detection in Zero and Few-Shot in-Context Learning**|Alain Komaty et.al.|[2501.08799v1](http://arxiv.org/abs/2501.08799v1)|null|
+|**2025-01-15**|**Application of Deep Reinforcement Learning to UAV Swarming for Ground Surveillance**|Raúl Arranz et.al.|[2501.08655v1](http://arxiv.org/abs/2501.08655v1)|null|
+|**2025-01-15**|**Reassessing the Role of Chain-of-Thought in Sentiment Analysis: Insights and Limitations**|Kaiyuan Zheng et.al.|[2501.08641v1](http://arxiv.org/abs/2501.08641v1)|null|
+|**2025-01-15**|**Assessing the Alignment of FOL Closeness Metrics with Human Judgement**|Ramya Keerthy Thatikonda et.al.|[2501.08613v1](http://arxiv.org/abs/2501.08613v1)|[link](https://github.com/ramyakeerthy/alignmentfol)|
+|**2025-01-15**|**Dynamic Knowledge Integration for Enhanced Vision-Language Reasoning**|Julian Perry et.al.|[2501.08597v1](http://arxiv.org/abs/2501.08597v1)|null|
+|**2025-01-15**|**First-Ever Deployment of a SiPM-on-Tile Calorimeter in a Collider: A Parasitic Test with 200 GeV $pp$ Collisions at RHIC**|Weibin Zhang et.al.|[2501.08586v1](http://arxiv.org/abs/2501.08586v1)|null|
+|**2025-01-15**|**Evaluating SAT and SMT Solvers on Large-Scale Sudoku Puzzles**|Liam Davis et.al.|[2501.08569v1](http://arxiv.org/abs/2501.08569v1)|null|
+|**2025-01-15**|**ANSR-DT: An Adaptive Neuro-Symbolic Learning and Reasoning Framework for Digital Twins**|Safayat Bin Hakim et.al.|[2501.08561v1](http://arxiv.org/abs/2501.08561v1)|[link](https://github.com/sbhakim/ansr-dt)|
+|**2025-01-15**|**Lyapunov stability and uniqueness problems for Hamilton-Jacobi equations without monotonicity**|Yuqi Ruan et.al.|[2501.08556v1](http://arxiv.org/abs/2501.08556v1)|null|
+|**2025-01-15**|**The Devil is in Temporal Token: High Quality Video Reasoning Segmentation**|Sitong Gong et.al.|[2501.08549v1](http://arxiv.org/abs/2501.08549v1)|null|
+|**2025-01-15**|**Discovery of 19 strongly-lensed quasars, dual and projected quasars in DESI-LS**|Zizhao He et.al.|[2501.08541v1](http://arxiv.org/abs/2501.08541v1)|null|
+|**2025-01-15**|**Complexity Control Facilitates Reasoning-Based Compositional Generalization in Transformers**|Zhongwang Zhang et.al.|[2501.08537v1](http://arxiv.org/abs/2501.08537v1)|[link](https://github.com/sjtuzzw/complexity_control)|
+|**2025-01-14**|**Towards Zero-Shot & Explainable Video Description by Reasoning over Graphs of Events in Space and Time**|Mihai Masala et.al.|[2501.08460v1](http://arxiv.org/abs/2501.08460v1)|null|
+|**2025-01-14**|**Modeling Discrimination with Causal Abstraction**|Milan Mossé et.al.|[2501.08429v1](http://arxiv.org/abs/2501.08429v1)|null|
+|**2025-01-14**|**Ensemble of Large Language Models for Curated Labeling and Rating of Free-text Data**|Jiaxing Qiu et.al.|[2501.08413v1](http://arxiv.org/abs/2501.08413v1)|null|
+|**2025-01-14**|**On the positivity of light-ray operators**|Ben Freivogel et.al.|[2501.08386v1](http://arxiv.org/abs/2501.08386v1)|null|
 |**2025-01-14**|**PokerBench: Training Large Language Models to become Professional Poker Players**|Richard Zhuang et.al.|[2501.08328v1](http://arxiv.org/abs/2501.08328v1)|[link](https://github.com/pokerllm/pokerbench)|
 |**2025-01-14**|**Omni-RGPT: Unifying Image and Video Region-level Understanding via Token Marks**|Miran Heo et.al.|[2501.08326v1](http://arxiv.org/abs/2501.08326v1)|null|
 |**2025-01-14**|**Two- versus three-body approach to femtoscopic hadron-deuteron correlations**|Stanislaw Mrowczynski et.al.|[2501.08283v1](http://arxiv.org/abs/2501.08283v1)|null|
 |**2025-01-14**|**Exploring Robustness of LLMs to Sociodemographically-Conditioned Paraphrasing**|Pulkit Arora et.al.|[2501.08276v1](http://arxiv.org/abs/2501.08276v1)|null|
-|**2025-01-14**|**Eliciting In-context Retrieval and Reasoning for Long-context Large Language Models**|Yifu Qiu et.al.|[2501.08248v1](http://arxiv.org/abs/2501.08248v1)|null|
-|**2025-01-14**|**Pb-intercalated epitaxial graphene on SiC: Full insight into band structure and orbital character of interlayer Pb, and charge transfer into graphene**|Bharti Matta et.al.|[2501.08172v1](http://arxiv.org/abs/2501.08172v1)|null|
-|**2025-01-14**|**LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking**|Yukai Ma et.al.|[2501.08168v1](http://arxiv.org/abs/2501.08168v1)|null|
-|**2025-01-14**|**Bootstrapping Corner Cases: High-Resolution Inpainting for Safety Critical Detect and Avoid for Automated Flying**|Jonathan Lyhs et.al.|[2501.08142v1](http://arxiv.org/abs/2501.08142v1)|null|
-|**2025-01-14**|**In-situ graph reasoning and knowledge expansion using Graph-PReFLexOR**|Markus J. Buehler et.al.|[2501.08120v1](http://arxiv.org/abs/2501.08120v1)|null|
-|**2025-01-14**|**HydroelasticTouch: Simulation of Tactile Sensors with Hydroelastic Contact Surfaces**|David P. Leins et.al.|[2501.08077v1](http://arxiv.org/abs/2501.08077v1)|null|
-|**2025-01-14**|**A Roadmap to Guide the Integration of LLMs in Hierarchical Planning**|Israel Puerta-Merino et.al.|[2501.08068v1](http://arxiv.org/abs/2501.08068v1)|null|
-|**2025-01-14**|**Logics and Algorithms for Hyperproperties**|Bernd Finkbeiner et.al.|[2501.08063v1](http://arxiv.org/abs/2501.08063v1)|null|
-|**2025-01-14**|**GDiffRetro: Retrosynthesis Prediction with Dual Graph Enhanced Molecular Representation and Diffusion Generation**|Shengyin Sun et.al.|[2501.08001v1](http://arxiv.org/abs/2501.08001v1)|[link](https://github.com/sunshy-1/gdiffretro)|
-|**2025-01-14**|**LLM-Ehnanced Holonic Architecture for Ad-Hoc Scalable SoS**|Muhammad Ashfaq et.al.|[2501.07992v1](http://arxiv.org/abs/2501.07992v1)|null|
-|**2025-01-14**|**Effect of helium surface fluctuations on the Rydberg transition of trapped electrons**|Mikhail Belianchikov et.al.|[2501.07971v1](http://arxiv.org/abs/2501.07971v1)|null|
-|**2025-01-14**|**Self-Instruct Few-Shot Jailbreaking: Decompose the Attack into Pattern and Behavior Learning**|Jiaqi Hua et.al.|[2501.07959v1](http://arxiv.org/abs/2501.07959v1)|[link](https://github.com/iphosi/self-instruct-fsj)|
-|**2025-01-14**|**Advice for Diabetes Self-Management by ChatGPT Models: Challenges and Recommendations**|Waqar Hussain et.al.|[2501.07931v1](http://arxiv.org/abs/2501.07931v1)|null|
-|**2025-01-14**|**Coinductive Proofs for Temporal Hyperliveness**|Arthur Correnson et.al.|[2501.07920v1](http://arxiv.org/abs/2501.07920v1)|null|
-|**2025-01-14**|**Large Language Model Interface for Home Energy Management Systems**|François Michelon et.al.|[2501.07919v1](http://arxiv.org/abs/2501.07919v1)|null|
-|**2025-01-14**|**GRAPHMOE: Amplifying Cognitive Depth of Mixture-of-Experts Network via Introducing Self-Rethinking Mechanism**|Chen Tang et.al.|[2501.07890v1](http://arxiv.org/abs/2501.07890v1)|null|
-|**2025-01-14**|**ReARTeR: Retrieval-Augmented Reasoning with Trustworthy Process Rewarding**|Zhongxiang Sun et.al.|[2501.07861v1](http://arxiv.org/abs/2501.07861v1)|null|
-|**2025-01-14**|**Reasoning with Graphs: Structuring Implicit Knowledge to Enhance LLMs Reasoning**|Haoyu Han et.al.|[2501.07845v1](http://arxiv.org/abs/2501.07845v1)|null|
-|**2025-01-14**|**Deep Learning Waveform Modeling for Wideband Optical Fiber Channel Transmission: Challenges and Potential Solutions**|Minghui Shi et.al.|[2501.07830v1](http://arxiv.org/abs/2501.07830v1)|null|
-|**2025-01-14**|**HgPCN: A Heterogeneous Architecture for E2E Embedded Point Cloud Inference**|Yiming Gao et.al.|[2501.07767v1](http://arxiv.org/abs/2501.07767v1)|null|
-|**2025-01-13**|**GPT as a Monte Carlo Language Tree: A Probabilistic Perspective**|Kun-Peng Ning et.al.|[2501.07641v1](http://arxiv.org/abs/2501.07641v1)|null|
-|**2025-01-13**|**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**|Chengzu Li et.al.|[2501.07542v1](http://arxiv.org/abs/2501.07542v1)|null|
-|**2025-01-13**|**RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment**|Difei Gu et.al.|[2501.07525v1](http://arxiv.org/abs/2501.07525v1)|[link](https://github.com/difeigu/radalign)|
-|**2025-01-13**|**Lazy Reimplication in Chronological Backtracking**|Robin Coutelier et.al.|[2501.07457v1](http://arxiv.org/abs/2501.07457v1)|null|
-|**2025-01-13**|**Online inductive learning from answer sets for efficient reinforcement learning exploration**|Celeste Veronese et.al.|[2501.07445v1](http://arxiv.org/abs/2501.07445v1)|null|
-|**2025-01-13**|**TempoGPT: Enhancing Temporal Reasoning via Quantizing Embedding**|Haochuan Zhang et.al.|[2501.07335v1](http://arxiv.org/abs/2501.07335v1)|null|
+|**2025-01-14**|**Towards Best Practices for Open Datasets for LLM Training**|Stefan Baack et.al.|[2501.08365v1](http://arxiv.org/abs/2501.08365v1)|null|
