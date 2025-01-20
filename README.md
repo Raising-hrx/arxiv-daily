@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-19 21:20:09 Asia/Shanghai
+ Automated deployment @ 2025-01-20 09:23:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -26,7 +26,7 @@
 |**2025-01-16**|**RoboReflect: Robotic Reflective Reasoning for Grasping Ambiguous-Condition Objects**|Zhen Luo et.al.|[2501.09307v1](http://arxiv.org/abs/2501.09307v1)|null|
 |**2025-01-16**|**Finding the Trigger: Causal Abductive Reasoning on Video Events**|Thao Minh Le et.al.|[2501.09304v1](http://arxiv.org/abs/2501.09304v1)|null|
 |**2025-01-16**|**Graded Courrent PDL**|Chun-Yu Lin et.al.|[2501.09285v1](http://arxiv.org/abs/2501.09285v1)|null|
-|**2025-01-16**|**SEAL: Entangled White-box Watermarks on Low-Rank Adaptation**|Giyeong Oh et.al.|[2501.09284v1](http://arxiv.org/abs/2501.09284v1)|null|
+|**2025-01-16**|**SEAL: Entangled White-box Watermarks on Low-Rank Adaptation**|Giyeong Oh et.al.|[2501.09284v2](http://arxiv.org/abs/2501.09284v2)|null|
 |**2025-01-16**|**Perspective Transition of Large Language Models for Solving Subjective Tasks**|Xiaolong Wang et.al.|[2501.09265v1](http://arxiv.org/abs/2501.09265v1)|null|
 |**2025-01-16**|**FineMedLM-o1: Enhancing the Medical Reasoning Ability of LLM from Supervised Fine-Tuning to Test-Time Training**|Hongzhou Yu et.al.|[2501.09213v1](http://arxiv.org/abs/2501.09213v1)|null|
 |**2025-01-15**|**Predicting Fundamental Gaps of Chromium-Based 2D Materials Using GW Methods**|Miroslav Kolos et.al.|[2501.09188v1](http://arxiv.org/abs/2501.09188v1)|null|
