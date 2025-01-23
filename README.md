@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-22 21:02:53 Asia/Shanghai
+ Automated deployment @ 2025-01-23 09:22:28 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -25,7 +25,7 @@
 |**2025-01-21**|**GLAM: Global-Local Variation Awareness in Mamba-based World Model**|Qian He et.al.|[2501.11949v1](http://arxiv.org/abs/2501.11949v1)|null|
 |**2025-01-21**|**Towards Solutions of Manipulation Tasks via Optimal Control of Projected Dynamical Systems**|Anton Pozharskiy et.al.|[2501.11946v1](http://arxiv.org/abs/2501.11946v1)|null|
 |**2025-01-21**|**Integrate Temporal Graph Learning into LLM-based Temporal Knowledge Graph Model**|He Chang et.al.|[2501.11911v1](http://arxiv.org/abs/2501.11911v1)|null|
-|**2025-01-21**|**Systematic Abductive Reasoning via Diverse Relation Representations in Vector-symbolic Architecture**|Zhong-Hua Sun et.al.|[2501.11896v1](http://arxiv.org/abs/2501.11896v1)|null|
+|**2025-01-21**|**Systematic Abductive Reasoning via Diverse Relation Representations in Vector-symbolic Architecture**|Zhong-Hua Sun et.al.|[2501.11896v2](http://arxiv.org/abs/2501.11896v2)|null|
 |**2025-01-21**|**Med-R$^2$: Crafting Trustworthy LLM Physicians through Retrieval and Reasoning of Evidence-Based Medicine**|Keer Lu et.al.|[2501.11885v1](http://arxiv.org/abs/2501.11885v1)|null|
 |**2025-01-21**|**Large Language Models with Human-In-The-Loop Validation for Systematic Review Data Extraction**|Noah L. Schroeder et.al.|[2501.11840v1](http://arxiv.org/abs/2501.11840v1)|null|
 |**2025-01-21**|**Is your LLM trapped in a Mental Set? Investigative study on how mental sets affect the reasoning capabilities of LLMs**|Saiful Haq et.al.|[2501.11833v1](http://arxiv.org/abs/2501.11833v1)|null|
