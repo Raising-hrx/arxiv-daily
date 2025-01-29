@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-29 09:22:11 Asia/Shanghai
+ Automated deployment @ 2025-01-29 20:36:00 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,33 +8,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-27**|**Large Models in Dialogue for Active Perception and Anomaly Detection**|Tzoulio Chamiti et.al.|[2501.16300v1](http://arxiv.org/abs/2501.16300v1)|null|
-|**2025-01-27**|**Language-Based Bayesian Optimization Research Assistant (BORA)**|Abdoulatif Cissé et.al.|[2501.16224v1](http://arxiv.org/abs/2501.16224v1)|null|
-|**2025-01-27**|**DBRouting: Routing End User Queries to Databases for Answerability**|Priyangshu Mandal et.al.|[2501.16220v1](http://arxiv.org/abs/2501.16220v1)|null|
-|**2025-01-27**|**Enhancing Visual Inspection Capability of Multi-Modal Large Language Models on Medical Time Series with Supportive Conformalized and Interpretable Small Specialized Models**|Huayu Li et.al.|[2501.16215v1](http://arxiv.org/abs/2501.16215v1)|null|
-|**2025-01-27**|**From Informal to Formal -- Incorporating and Evaluating LLMs on Natural Language Requirements to Verifiable Formal Proofs**|Jialun Cao et.al.|[2501.16207v1](http://arxiv.org/abs/2501.16207v1)|null|
-|**2025-01-27**|**Cryptographic Compression**|Joshua Cooper et.al.|[2501.16184v1](http://arxiv.org/abs/2501.16184v1)|null|
-|**2025-01-27**|**AdaCoT: Rethinking Cross-Lingual Factual Reasoning through Adaptive Chain-of-Thought**|Xin Huang et.al.|[2501.16154v1](http://arxiv.org/abs/2501.16154v1)|null|
-|**2025-01-27**|**\texttt{BrahMap}: A scalable and modular map-making framework for the CMB experiments**|Avinash Anand et.al.|[2501.16122v1](http://arxiv.org/abs/2501.16122v1)|null|
-|**2025-01-27**|**Effect of Anisotropic Peierls Barrier on the Evolution of Discrete Dislocation Networks in Ni**|John D. Shimanek et.al.|[2501.16119v1](http://arxiv.org/abs/2501.16119v1)|null|
-|**2025-01-27**|**Options-Aware Dense Retrieval for Multiple-Choice query Answering**|Manish Singh et.al.|[2501.16111v1](http://arxiv.org/abs/2501.16111v1)|null|
-|**2025-01-27**|**The Vlasov Bivector: A Parameter-Free Approach to Vlasov Kinematics**|Finlay Gunneberg et.al.|[2501.16104v1](http://arxiv.org/abs/2501.16104v1)|null|
-|**2025-01-27**|**STAR: Stepwise Task Augmentation and Relation Learning for Aspect Sentiment Quad Prediction**|Wenna Lai et.al.|[2501.16093v1](http://arxiv.org/abs/2501.16093v1)|null|
-|**2025-01-27**|**Random Reshuffling for Stochastic Gradient Langevin Dynamics**|Luke Shaw et.al.|[2501.16055v1](http://arxiv.org/abs/2501.16055v1)|null|
-|**2025-01-27**|**3CEL: A corpus of legal Spanish contract clauses**|Nuria Aldama García et.al.|[2501.15990v1](http://arxiv.org/abs/2501.15990v1)|null|
-|**2025-01-27**|**Qualitative observations in university physics laboratories: an example from classical mechanics**|K. Dunnett et.al.|[2501.15988v1](http://arxiv.org/abs/2501.15988v1)|null|
-|**2025-01-27**|**Integrating Probabilistic Trees and Causal Networks for Clinical and Epidemiological Data**|Sheresh Zahoor et.al.|[2501.15973v1](http://arxiv.org/abs/2501.15973v1)|null|
-|**2025-01-27**|**SkillScope: A Tool to Predict Fine-Grained Skills Needed to Solve Issues on GitHub**|Benjamin C. Carter et.al.|[2501.15922v1](http://arxiv.org/abs/2501.15922v1)|null|
-|**2025-01-27**|**Parametric Retrieval Augmented Generation**|Weihang Su et.al.|[2501.15915v1](http://arxiv.org/abs/2501.15915v1)|[link](https://github.com/oneal2000/prag)|
-|**2025-01-27**|**Are Transformers Able to Reason by Connecting Separated Knowledge in Training Data?**|Yutong Yin et.al.|[2501.15857v1](http://arxiv.org/abs/2501.15857v1)|null|
-|**2025-01-27**|**CausalSR: Structural Causal Model-Driven Super-Resolution with Counterfactual Inference**|Zhengyang Lu et.al.|[2501.15852v1](http://arxiv.org/abs/2501.15852v1)|null|
-|**2025-01-27**|**Beyond In-Distribution Performance: A Cross-Dataset Study of Trajectory Prediction Robustness**|Yue Yao et.al.|[2501.15842v1](http://arxiv.org/abs/2501.15842v1)|null|
-|**2025-01-27**|**CodeImprove: Program Adaptation for Deep Code**|Ravishka Rathnasuriya et.al.|[2501.15804v1](http://arxiv.org/abs/2501.15804v1)|null|
-|**2025-01-27**|**LemmaHead: RAG Assisted Proof Generation Using Large Language Models**|Tianbo Yang et.al.|[2501.15797v1](http://arxiv.org/abs/2501.15797v1)|null|
-|**2025-01-27**|**Can Multimodal Large Language Models be Guided to Improve Industrial Anomaly Detection?**|Zhiling Chen et.al.|[2501.15795v1](http://arxiv.org/abs/2501.15795v1)|null|
-|**2025-01-27**|**2024 'Key Reflections' on the 1824 Sadi Carnot's 'Reflexions' and 200 Year Legacy**|Milivoje M. Kostic et.al.|[2501.15787v1](http://arxiv.org/abs/2501.15787v1)|null|
-|**2025-01-27**|**Investigating Application of Deep Neural Networks in Intrusion Detection System Design**|Mofe O. Jeje et.al.|[2501.15760v1](http://arxiv.org/abs/2501.15760v1)|null|
-|**2025-01-27**|**GraphICL: Unlocking Graph Learning Potential in LLMs through Structured Prompt Design**|Yuanfu Sun et.al.|[2501.15755v1](http://arxiv.org/abs/2501.15755v1)|null|
-|**2025-01-27**|**IndicMMLU-Pro: Benchmarking the Indic Large Language Models**|Sankalp KJ et.al.|[2501.15747v1](http://arxiv.org/abs/2501.15747v1)|null|
-|**2025-01-27**|**Gensors: Authoring Personalized Visual Sensors with Multimodal Foundation Models and Reasoning**|Michael Xieyang Liu et.al.|[2501.15727v1](http://arxiv.org/abs/2501.15727v1)|null|
-|**2025-01-26**|**Contextual Knowledge Sharing in Multi-Agent Reinforcement Learning with Decentralized Communication and Coordination**|Hung Du et.al.|[2501.15695v1](http://arxiv.org/abs/2501.15695v1)|null|
+|**2025-01-28**|**SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training**|Tianzhe Chu et.al.|[2501.17161v1](http://arxiv.org/abs/2501.17161v1)|null|
+|**2025-01-28**|**FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**|Deren Lei et.al.|[2501.17144v1](http://arxiv.org/abs/2501.17144v1)|[link](https://github.com/derenlei/factcg)|
+|**2025-01-28**|**Histoires Morales: A French Dataset for Assessing Moral Alignment**|Thibaud Leteno et.al.|[2501.17117v1](http://arxiv.org/abs/2501.17117v1)|null|
+|**2025-01-28**|**Token-by-Token Regeneration and Domain Biases: A Benchmark of LLMs on Advanced Mathematical Problem-Solving**|Evgenii Evstafev et.al.|[2501.17084v1](http://arxiv.org/abs/2501.17084v1)|null|
+|**2025-01-28**|**Graph Transformers for inverse physics: reconstructing flows around arbitrary 2D airfoils**|Gregory Duthé et.al.|[2501.17081v1](http://arxiv.org/abs/2501.17081v1)|null|
+|**2025-01-28**|**Investigating the role of bars in quenching star formation using spatially resolved UV-optical colour maps**|D. Renu et.al.|[2501.17075v1](http://arxiv.org/abs/2501.17075v1)|null|
+|**2025-01-28**|**Challenges in Ensuring AI Safety in DeepSeek-R1 Models: The Shortcomings of Reinforcement Learning Strategies**|Manojkumar Parmar et.al.|[2501.17030v1](http://arxiv.org/abs/2501.17030v1)|null|
+|**2025-01-28**|**Dipolar perturbations of nonbidiagonal black holes in bigravity**|David Brizuela et.al.|[2501.16984v1](http://arxiv.org/abs/2501.16984v1)|null|
+|**2025-01-28**|**Instantiation-based Formalization of Logical Reasoning Tasks using Language Models and Logical Solvers**|Mohammad Raza et.al.|[2501.16961v1](http://arxiv.org/abs/2501.16961v1)|null|
+|**2025-01-28**|**Emission impossible: Balancing Environmental Concerns and Inflation**|René Aïd et.al.|[2501.16953v1](http://arxiv.org/abs/2501.16953v1)|null|
+|**2025-01-28**|**Frequency Matters: Explaining Biases of Face Recognition in the Frequency Domain**|Marco Huber et.al.|[2501.16896v1](http://arxiv.org/abs/2501.16896v1)|null|
+|**2025-01-28**|**Irony Detection, Reasoning and Understanding in Zero-shot Learning**|Peiling Yi et.al.|[2501.16884v1](http://arxiv.org/abs/2501.16884v1)|null|
+|**2025-01-28**|**HD-CB: The First Exploration of Hyperdimensional Computing for Contextual Bandits Problems**|Marco Angioli et.al.|[2501.16863v1](http://arxiv.org/abs/2501.16863v1)|null|
+|**2025-01-28**|**Adapting Network Information to Semantics for Generalizable and Plug-and-Play Multi-Scenario Network Diagnosis**|Tiao Tan et.al.|[2501.16842v1](http://arxiv.org/abs/2501.16842v1)|null|
+|**2025-01-28**|**A Stochastic Dynamical Theory of LLM Self-Adversariality: Modeling Severity Drift as a Critical Process**|Jack David Carson et.al.|[2501.16783v1](http://arxiv.org/abs/2501.16783v1)|null|
+|**2025-01-28**|**3D-MoE: A Mixture-of-Experts Multi-modal LLM for 3D Vision and Pose Diffusion via Rectified Flow**|Yueen Ma et.al.|[2501.16698v1](http://arxiv.org/abs/2501.16698v1)|null|
+|**2025-01-28**|**Flaring Activities of Fast Rotating Stars have Solar-like Latitudinal Distribution**|Huiqin Yang et.al.|[2501.16694v1](http://arxiv.org/abs/2501.16694v1)|null|
+|**2025-01-28**|**MACI: Multi-Agent Collaborative Intelligence for Robust Reasoning and Temporal Planning**|Edward Y. Chang et.al.|[2501.16689v1](http://arxiv.org/abs/2501.16689v1)|null|
+|**2025-01-28**|**Quantifying system-environment synergistic information by effective information decomposition**|Mingzhe Yang et.al.|[2501.16676v1](http://arxiv.org/abs/2501.16676v1)|null|
+|**2025-01-28**|**Jupybara: Operationalizing a Design Space for Actionable Data Analysis and Storytelling with LLMs**|Huichen Will Wang et.al.|[2501.16661v1](http://arxiv.org/abs/2501.16661v1)|null|
+|**2025-01-28**|**Exploratory Mean-Variance Portfolio Optimization with Regime-Switching Market Dynamics**|Yuling Max Chen et.al.|[2501.16659v1](http://arxiv.org/abs/2501.16659v1)|null|
+|**2025-01-28**|**Three Brown Dwarfs Masquerading as High-Redshift Galaxies in JWST Observations**|Zhijun Tu et.al.|[2501.16648v1](http://arxiv.org/abs/2501.16648v1)|null|
+|**2025-01-28**|**Why Do We Laugh? Annotation and Taxonomy Generation for Laughable Contexts in Spontaneous Text Conversation**|Koji Inoue et.al.|[2501.16635v1](http://arxiv.org/abs/2501.16635v1)|null|
+|**2025-01-28**|**Engaging with AI: How Interface Design Shapes Human-AI Collaboration in High-Stakes Decision-Making**|Zichen Chen et.al.|[2501.16627v1](http://arxiv.org/abs/2501.16627v1)|null|
+|**2025-01-28**|**New molecular bonds existing in the strong interaction**|Hua-Xing Chen et.al.|[2501.16603v1](http://arxiv.org/abs/2501.16603v1)|null|
+|**2025-01-27**|**Codd's Theorem for Databases over Semirings**|Guillermo Badia et.al.|[2501.16543v1](http://arxiv.org/abs/2501.16543v1)|null|
+|**2025-01-27**|**Deception in LLMs: Self-Preservation and Autonomous Goals in Large Language Models**|Sudarshan Kamath Barkur et.al.|[2501.16513v1](http://arxiv.org/abs/2501.16513v1)|null|
+|**2025-01-27**|**Explaining GitHub Actions Failures with Large Language Models: Challenges, Insights, and Limitations**|Pablo Valenzuela-Toledo et.al.|[2501.16495v1](http://arxiv.org/abs/2501.16495v1)|null|
+|**2025-01-27**|**Classroom Activities and New Classroom Apps for Enhancing Children's Understanding of Social Media Mechanisms**|Henriikka Vartiainen et.al.|[2501.16494v1](http://arxiv.org/abs/2501.16494v1)|null|
+|**2025-01-27**|**CoCoNUT: Structural Code Understanding does not fall out of a tree**|Claas Beger et.al.|[2501.16456v1](http://arxiv.org/abs/2501.16456v1)|[link](https://github.com/ClaasBeger/StructuralCodeUnderstanding)|
