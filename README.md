@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-30 09:21:22 Asia/Shanghai
+ Automated deployment @ 2025-01-30 20:36:05 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,33 +8,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860v1](http://arxiv.org/abs/2501.17860v1)|null|
+|**2025-01-29**|**Reasoning Over the Glyphs: Evaluation of LLM's Decipherment of Rare Scripts**|Yu-Fei Shih et.al.|[2501.17785v1](http://arxiv.org/abs/2501.17785v1)|null|
+|**2025-01-29**|**Hybrid Graphs for Table-and-Text based Question Answering using LLMs**|Ankush Agarwal et.al.|[2501.17767v1](http://arxiv.org/abs/2501.17767v1)|null|
+|**2025-01-29**|**Yin-Yang: Developing Motifs With Long-Term Structure And Controllability**|Keshav Bhandari et.al.|[2501.17759v1](http://arxiv.org/abs/2501.17759v1)|[link](https://github.com/keshavbhandari/yinyang)|
+|**2025-01-29**|**Fundamentals of non-parametric statistical inference for integrated quantiles**|Nadezhda Gribkova et.al.|[2501.17722v1](http://arxiv.org/abs/2501.17722v1)|null|
+|**2025-01-29**|**Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate**|Yubo Wang et.al.|[2501.17703v1](http://arxiv.org/abs/2501.17703v1)|null|
+|**2025-01-29**|**An Intelligent System-on-a-Chip for a Real-Time Assessment of Fuel Consumption to Promote Eco-Driving**|Óscar Mata-Carballeira et.al.|[2501.17666v1](http://arxiv.org/abs/2501.17666v1)|null|
+|**2025-01-29**|**Heavy-hadron production based on $k_t$-factorization with scale-dependent fragmentation functions**|F. E. Barattini et.al.|[2501.17662v1](http://arxiv.org/abs/2501.17662v1)|null|
+|**2025-01-29**|**An eco-driving approach for ride comfort improvement**|Óscar Mata-Carballeira et.al.|[2501.17658v1](http://arxiv.org/abs/2501.17658v1)|null|
+|**2025-01-29**|**Structured Context Recomposition for Large Language Models Using Probabilistic Layer Realignment**|Jonathan Teel et.al.|[2501.17617v1](http://arxiv.org/abs/2501.17617v1)|null|
+|**2025-01-29**|**Technical report on label-informed logit redistribution for better domain generalization in low-shot classification with foundation models**|Behraj Khan et.al.|[2501.17595v1](http://arxiv.org/abs/2501.17595v1)|null|
+|**2025-01-29**|**Query-Aware Learnable Graph Pooling Tokens as Prompt for Large Language Models**|Wooyoung Kim et.al.|[2501.17549v1](http://arxiv.org/abs/2501.17549v1)|null|
+|**2025-01-29**|**Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant**|Gaole He et.al.|[2501.17546v1](http://arxiv.org/abs/2501.17546v1)|[link](https://github.com/delftcrowd/iui2025_convxai)|
+|**2025-01-29**|**Quasi-two-dimensional Fermi surfaces of the antiferromagnet U$_2$RhIn$_8$ revealed by de Haas-van Alphen measurements**|D. Aoki et.al.|[2501.17525v1](http://arxiv.org/abs/2501.17525v1)|null|
+|**2025-01-29**|**Reflections on "Can AI Understand Our Universe?"**|Yu Wang et.al.|[2501.17507v1](http://arxiv.org/abs/2501.17507v1)|null|
+|**2025-01-29**|**Certifying Pareto-Optimality in Multi-Objective Maximum Satisfiability**|Christoph Jabs et.al.|[2501.17493v1](http://arxiv.org/abs/2501.17493v1)|null|
+|**2025-01-29**|**Bayesian BIM-Guided Construction Robot Navigation with NLP Safety Prompts in Dynamic Environments**|Mani Amani et.al.|[2501.17437v1](http://arxiv.org/abs/2501.17437v1)|null|
+|**2025-01-29**|**Diagonal superexchange in a simple square CuO$_2$ lattice**|V. A. Gavrichkov et.al.|[2501.17432v1](http://arxiv.org/abs/2501.17432v1)|null|
+|**2025-01-29**|**MultiChallenge: A Realistic Multi-Turn Conversation Evaluation Benchmark Challenging to Frontier LLMs**|Ved Sirdeshmukh et.al.|[2501.17399v1](http://arxiv.org/abs/2501.17399v1)|[link](https://github.com/ekwinox117/multi-challenge)|
+|**2025-01-29**|**Forecasting S&P 500 Using LSTM Models**|Prashant Pilla et.al.|[2501.17366v1](http://arxiv.org/abs/2501.17366v1)|null|
+|**2025-01-28**|**Attribution analysis of legal language as used by LLM**|Richard K. Belew et.al.|[2501.17330v1](http://arxiv.org/abs/2501.17330v1)|null|
+|**2025-01-28**|**WASUP: Interpretable Classification with Weight-Input Alignment and Class-Discriminative SUPports Vectors**|Tom Nuno Wolf et.al.|[2501.17328v1](http://arxiv.org/abs/2501.17328v1)|null|
+|**2025-01-28**|**The impact of cosmic ray feedback during the epoch of reionisation**|Marion Farcy et.al.|[2501.17239v1](http://arxiv.org/abs/2501.17239v1)|null|
+|**2025-01-28**|**Two-body charmed baryon nonleptonic weak decays with decuplet baryon involving SU(3) breaking effects**|Chao-Qiang Geng et.al.|[2501.17237v1](http://arxiv.org/abs/2501.17237v1)|null|
+|**2025-01-28**|**The assembly of supermassive black holes at $z<1$ in early-type galaxies from scaling relations**|Duncan Farrah et.al.|[2501.17227v1](http://arxiv.org/abs/2501.17227v1)|null|
 |**2025-01-28**|**SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training**|Tianzhe Chu et.al.|[2501.17161v1](http://arxiv.org/abs/2501.17161v1)|null|
 |**2025-01-28**|**FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**|Deren Lei et.al.|[2501.17144v1](http://arxiv.org/abs/2501.17144v1)|[link](https://github.com/derenlei/factcg)|
 |**2025-01-28**|**Histoires Morales: A French Dataset for Assessing Moral Alignment**|Thibaud Leteno et.al.|[2501.17117v1](http://arxiv.org/abs/2501.17117v1)|[link](https://github.com/upunaprosk/histoires-morales)|
 |**2025-01-28**|**Token-by-Token Regeneration and Domain Biases: A Benchmark of LLMs on Advanced Mathematical Problem-Solving**|Evgenii Evstafev et.al.|[2501.17084v1](http://arxiv.org/abs/2501.17084v1)|null|
 |**2025-01-28**|**Graph Transformers for inverse physics: reconstructing flows around arbitrary 2D airfoils**|Gregory Duthé et.al.|[2501.17081v1](http://arxiv.org/abs/2501.17081v1)|null|
-|**2025-01-28**|**Investigating the role of bars in quenching star formation using spatially resolved UV-optical colour maps**|D. Renu et.al.|[2501.17075v1](http://arxiv.org/abs/2501.17075v1)|null|
-|**2025-01-28**|**Challenges in Ensuring AI Safety in DeepSeek-R1 Models: The Shortcomings of Reinforcement Learning Strategies**|Manojkumar Parmar et.al.|[2501.17030v1](http://arxiv.org/abs/2501.17030v1)|null|
-|**2025-01-28**|**Dipolar perturbations of nonbidiagonal black holes in bigravity**|David Brizuela et.al.|[2501.16984v1](http://arxiv.org/abs/2501.16984v1)|null|
-|**2025-01-28**|**Instantiation-based Formalization of Logical Reasoning Tasks using Language Models and Logical Solvers**|Mohammad Raza et.al.|[2501.16961v1](http://arxiv.org/abs/2501.16961v1)|null|
-|**2025-01-28**|**Emission impossible: Balancing Environmental Concerns and Inflation**|René Aïd et.al.|[2501.16953v1](http://arxiv.org/abs/2501.16953v1)|null|
-|**2025-01-28**|**Frequency Matters: Explaining Biases of Face Recognition in the Frequency Domain**|Marco Huber et.al.|[2501.16896v1](http://arxiv.org/abs/2501.16896v1)|null|
-|**2025-01-28**|**Irony Detection, Reasoning and Understanding in Zero-shot Learning**|Peiling Yi et.al.|[2501.16884v1](http://arxiv.org/abs/2501.16884v1)|null|
-|**2025-01-28**|**HD-CB: The First Exploration of Hyperdimensional Computing for Contextual Bandits Problems**|Marco Angioli et.al.|[2501.16863v1](http://arxiv.org/abs/2501.16863v1)|null|
-|**2025-01-28**|**Adapting Network Information to Semantics for Generalizable and Plug-and-Play Multi-Scenario Network Diagnosis**|Tiao Tan et.al.|[2501.16842v1](http://arxiv.org/abs/2501.16842v1)|null|
-|**2025-01-28**|**A Stochastic Dynamical Theory of LLM Self-Adversariality: Modeling Severity Drift as a Critical Process**|Jack David Carson et.al.|[2501.16783v1](http://arxiv.org/abs/2501.16783v1)|null|
-|**2025-01-28**|**3D-MoE: A Mixture-of-Experts Multi-modal LLM for 3D Vision and Pose Diffusion via Rectified Flow**|Yueen Ma et.al.|[2501.16698v1](http://arxiv.org/abs/2501.16698v1)|null|
-|**2025-01-28**|**Flaring Activities of Fast Rotating Stars have Solar-like Latitudinal Distribution**|Huiqin Yang et.al.|[2501.16694v1](http://arxiv.org/abs/2501.16694v1)|null|
-|**2025-01-28**|**MACI: Multi-Agent Collaborative Intelligence for Robust Reasoning and Temporal Planning**|Edward Y. Chang et.al.|[2501.16689v1](http://arxiv.org/abs/2501.16689v1)|null|
-|**2025-01-28**|**Quantifying system-environment synergistic information by effective information decomposition**|Mingzhe Yang et.al.|[2501.16676v1](http://arxiv.org/abs/2501.16676v1)|null|
-|**2025-01-28**|**Jupybara: Operationalizing a Design Space for Actionable Data Analysis and Storytelling with LLMs**|Huichen Will Wang et.al.|[2501.16661v1](http://arxiv.org/abs/2501.16661v1)|null|
-|**2025-01-28**|**Exploratory Mean-Variance Portfolio Optimization with Regime-Switching Market Dynamics**|Yuling Max Chen et.al.|[2501.16659v1](http://arxiv.org/abs/2501.16659v1)|null|
-|**2025-01-28**|**Three Brown Dwarfs Masquerading as High-Redshift Galaxies in JWST Observations**|Zhijun Tu et.al.|[2501.16648v1](http://arxiv.org/abs/2501.16648v1)|null|
-|**2025-01-28**|**Why Do We Laugh? Annotation and Taxonomy Generation for Laughable Contexts in Spontaneous Text Conversation**|Koji Inoue et.al.|[2501.16635v1](http://arxiv.org/abs/2501.16635v1)|null|
-|**2025-01-28**|**Engaging with AI: How Interface Design Shapes Human-AI Collaboration in High-Stakes Decision-Making**|Zichen Chen et.al.|[2501.16627v1](http://arxiv.org/abs/2501.16627v1)|null|
-|**2025-01-28**|**New molecular bonds existing in the strong interaction**|Hua-Xing Chen et.al.|[2501.16603v1](http://arxiv.org/abs/2501.16603v1)|null|
-|**2025-01-27**|**Codd's Theorem for Databases over Semirings**|Guillermo Badia et.al.|[2501.16543v1](http://arxiv.org/abs/2501.16543v1)|null|
-|**2025-01-27**|**Deception in LLMs: Self-Preservation and Autonomous Goals in Large Language Models**|Sudarshan Kamath Barkur et.al.|[2501.16513v1](http://arxiv.org/abs/2501.16513v1)|null|
-|**2025-01-27**|**Explaining GitHub Actions Failures with Large Language Models: Challenges, Insights, and Limitations**|Pablo Valenzuela-Toledo et.al.|[2501.16495v1](http://arxiv.org/abs/2501.16495v1)|null|
-|**2025-01-27**|**Classroom Activities and New Classroom Apps for Enhancing Children's Understanding of Social Media Mechanisms**|Henriikka Vartiainen et.al.|[2501.16494v1](http://arxiv.org/abs/2501.16494v1)|null|
-|**2025-01-27**|**CoCoNUT: Structural Code Understanding does not fall out of a tree**|Claas Beger et.al.|[2501.16456v2](http://arxiv.org/abs/2501.16456v2)|[link](https://github.com/ClaasBeger/StructuralCodeUnderstanding)|
