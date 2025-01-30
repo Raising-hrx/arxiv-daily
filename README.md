@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-29 21:01:52 Asia/Shanghai
+ Automated deployment @ 2025-01-30 09:21:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -10,7 +10,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-01-28**|**SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training**|Tianzhe Chu et.al.|[2501.17161v1](http://arxiv.org/abs/2501.17161v1)|null|
 |**2025-01-28**|**FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**|Deren Lei et.al.|[2501.17144v1](http://arxiv.org/abs/2501.17144v1)|[link](https://github.com/derenlei/factcg)|
-|**2025-01-28**|**Histoires Morales: A French Dataset for Assessing Moral Alignment**|Thibaud Leteno et.al.|[2501.17117v1](http://arxiv.org/abs/2501.17117v1)|null|
+|**2025-01-28**|**Histoires Morales: A French Dataset for Assessing Moral Alignment**|Thibaud Leteno et.al.|[2501.17117v1](http://arxiv.org/abs/2501.17117v1)|[link](https://github.com/upunaprosk/histoires-morales)|
 |**2025-01-28**|**Token-by-Token Regeneration and Domain Biases: A Benchmark of LLMs on Advanced Mathematical Problem-Solving**|Evgenii Evstafev et.al.|[2501.17084v1](http://arxiv.org/abs/2501.17084v1)|null|
 |**2025-01-28**|**Graph Transformers for inverse physics: reconstructing flows around arbitrary 2D airfoils**|Gregory Duthé et.al.|[2501.17081v1](http://arxiv.org/abs/2501.17081v1)|null|
 |**2025-01-28**|**Investigating the role of bars in quenching star formation using spatially resolved UV-optical colour maps**|D. Renu et.al.|[2501.17075v1](http://arxiv.org/abs/2501.17075v1)|null|
@@ -37,4 +37,4 @@
 |**2025-01-27**|**Deception in LLMs: Self-Preservation and Autonomous Goals in Large Language Models**|Sudarshan Kamath Barkur et.al.|[2501.16513v1](http://arxiv.org/abs/2501.16513v1)|null|
 |**2025-01-27**|**Explaining GitHub Actions Failures with Large Language Models: Challenges, Insights, and Limitations**|Pablo Valenzuela-Toledo et.al.|[2501.16495v1](http://arxiv.org/abs/2501.16495v1)|null|
 |**2025-01-27**|**Classroom Activities and New Classroom Apps for Enhancing Children's Understanding of Social Media Mechanisms**|Henriikka Vartiainen et.al.|[2501.16494v1](http://arxiv.org/abs/2501.16494v1)|null|
-|**2025-01-27**|**CoCoNUT: Structural Code Understanding does not fall out of a tree**|Claas Beger et.al.|[2501.16456v1](http://arxiv.org/abs/2501.16456v1)|[link](https://github.com/ClaasBeger/StructuralCodeUnderstanding)|
+|**2025-01-27**|**CoCoNUT: Structural Code Understanding does not fall out of a tree**|Claas Beger et.al.|[2501.16456v2](http://arxiv.org/abs/2501.16456v2)|[link](https://github.com/ClaasBeger/StructuralCodeUnderstanding)|
