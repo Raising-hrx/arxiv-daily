@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-11 09:23:53 Asia/Shanghai
+ Automated deployment @ 2025-02-11 20:37:18 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,33 +8,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-07**|**Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray**|Yunhang Shen et.al.|[2502.05177v1](http://arxiv.org/abs/2502.05177v1)|null|
-|**2025-02-07**|**Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach**|Jonas Geiping et.al.|[2502.05171v1](http://arxiv.org/abs/2502.05171v1)|null|
-|**2025-02-07**|**NoLiMa: Long-Context Evaluation Beyond Literal Matching**|Ali Modarressi et.al.|[2502.05167v1](http://arxiv.org/abs/2502.05167v1)|null|
-|**2025-02-07**|**Hummingbird: High Fidelity Image Generation via Multimodal Context Alignment**|Minh-Quan Le et.al.|[2502.05153v1](http://arxiv.org/abs/2502.05153v1)|null|
-|**2025-02-07**|**ApplE: An Applied Ethics Ontology with Event Context**|Aisha Aijaz et.al.|[2502.05110v1](http://arxiv.org/abs/2502.05110v1)|null|
-|**2025-02-07**|**Lost in Time: Clock and Calendar Understanding Challenges in Multimodal LLMs**|Rohit Saxena et.al.|[2502.05092v1](http://arxiv.org/abs/2502.05092v1)|null|
-|**2025-02-07**|**Causality can systematically address the monsters under the bench(marks)**|Felix Leeb et.al.|[2502.05085v1](http://arxiv.org/abs/2502.05085v1)|null|
-|**2025-02-07**|**Adaptive Graph of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, and Graph Structures**|Tushar Pandey et.al.|[2502.05078v1](http://arxiv.org/abs/2502.05078v1)|null|
-|**2025-02-07**|**nvAgent: Automated Data Visualization from Natural Language via Collaborative Agent Workflow**|Geliang Ouyang et.al.|[2502.05036v1](http://arxiv.org/abs/2502.05036v1)|null|
-|**2025-02-07**|**Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark**|Han Zhang et.al.|[2502.04976v1](http://arxiv.org/abs/2502.04976v1)|null|
-|**2025-02-07**|**Mobile Network-specialized Large Language Models for 6G: Architectures, Innovations, Challenges, and Future Trends**|Abdelaali Chaoub et.al.|[2502.04933v1](http://arxiv.org/abs/2502.04933v1)|null|
-|**2025-02-07**|**Training-free Task-oriented Grasp Generation**|Jiaming Wang et.al.|[2502.04873v1](http://arxiv.org/abs/2502.04873v1)|null|
-|**2025-02-07**|**Online Robot Motion Planning Methodology Guided by Group Social Proxemics Feature**|Xuan Mu et.al.|[2502.04837v1](http://arxiv.org/abs/2502.04837v1)|null|
-|**2025-02-07**|**Ensembles in Urban Large Eddy Simulations with Changing Wind Direction**|Jukka-Pekka Keskinen et.al.|[2502.04836v1](http://arxiv.org/abs/2502.04836v1)|null|
-|**2025-02-07**|**Interplay of Kondo Physics with Incommensurate Charge Density Waves in CeTe$_3$**|Vesna Miksic Trontl et.al.|[2502.04814v1](http://arxiv.org/abs/2502.04814v1)|null|
-|**2025-02-07**|**S$^2$-MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency**|Yuting Zeng et.al.|[2502.04790v1](http://arxiv.org/abs/2502.04790v1)|null|
-|**2025-02-07**|**SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning**|Wanjia Zhao et.al.|[2502.04780v1](http://arxiv.org/abs/2502.04780v1)|null|
-|**2025-02-07**|**Differential Privacy of Quantum and Quantum-Inspired-Classical Recommendation Algorithms**|Chenjian Li et.al.|[2502.04758v1](http://arxiv.org/abs/2502.04758v1)|null|
-|**2025-02-07**|**Generating Symbolic World Models via Test-time Scaling of Large Language Models**|Zhouliang Yu et.al.|[2502.04728v1](http://arxiv.org/abs/2502.04728v1)|[link](https://github.com/VMLPDDL/VML_PDDL)|
-|**2025-02-07**|**ARR: Question Answering with Large Language Models via Analyzing, Retrieving, and Reasoning**|Yuwei Yin et.al.|[2502.04689v1](http://arxiv.org/abs/2502.04689v1)|[link](https://github.com/YuweiYin/ARR)|
-|**2025-02-07**|**Learning Strategic Language Agents in the Werewolf Game with Iterative Latent Space Policy Optimization**|Zelai Xu et.al.|[2502.04686v1](http://arxiv.org/abs/2502.04686v1)|null|
-|**2025-02-07**|**Unveiling the Mechanisms of Explicit CoT Training: How Chain-of-Thought Enhances Reasoning Generalization**|Xinhao Yao et.al.|[2502.04667v1](http://arxiv.org/abs/2502.04667v1)|null|
-|**2025-02-07**|**Enhancing Health Information Retrieval with RAG by Prioritizing Topical Relevance and Factual Accuracy**|Rishabh Uapadhyay et.al.|[2502.04666v1](http://arxiv.org/abs/2502.04666v1)|null|
-|**2025-02-07**|**Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research**|Junde Wu et.al.|[2502.04644v1](http://arxiv.org/abs/2502.04644v1)|null|
-|**2025-02-07**|**Confidence Elicitation: A New Attack Vector for Large Language Models**|Brian Formento et.al.|[2502.04643v1](http://arxiv.org/abs/2502.04643v1)|null|
-|**2025-02-07**|**Extracting and Understanding the Superficial Knowledge in Alignment**|Runjin Chen et.al.|[2502.04602v1](http://arxiv.org/abs/2502.04602v1)|null|
-|**2025-02-07**|**Intermittent, Reflection-Driven, Strong Imbalanced MHD Turbulence**|B. D. G. Chandran et.al.|[2502.04585v1](http://arxiv.org/abs/2502.04585v1)|null|
-|**2025-02-06**|**An Optimized YOLOv5 Based Approach For Real-time Vehicle Detection At Road Intersections Using Fisheye Cameras**|Md. Jahin Alam et.al.|[2502.04566v1](http://arxiv.org/abs/2502.04566v1)|null|
-|**2025-02-06**|**Probing a Vision-Language-Action Model for Symbolic States and Integration into a Cognitive Architecture**|Hong Lu et.al.|[2502.04558v1](http://arxiv.org/abs/2502.04558v1)|null|
-|**2025-02-06**|**Mechanisms of Projective Composition of Diffusion Models**|Arwen Bradley et.al.|[2502.04549v1](http://arxiv.org/abs/2502.04549v1)|null|
+|**2025-02-10**|**EVEv2: Improved Baselines for Encoder-Free Vision-Language Models**|Haiwen Diao et.al.|[2502.06788v1](http://arxiv.org/abs/2502.06788v1)|null|
+|**2025-02-10**|**Visual Agentic AI for Spatial Reasoning with a Dynamic API**|Damiano Marsili et.al.|[2502.06787v1](http://arxiv.org/abs/2502.06787v1)|null|
+|**2025-02-10**|**Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning**|Chengqi Lyu et.al.|[2502.06781v1](http://arxiv.org/abs/2502.06781v1)|null|
+|**2025-02-10**|**On the Emergence of Thinking in LLMs I: Searching for the Right Intuition**|Guanghao Ye et.al.|[2502.06773v1](http://arxiv.org/abs/2502.06773v1)|null|
+|**2025-02-10**|**ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates**|Ling Yang et.al.|[2502.06772v1](http://arxiv.org/abs/2502.06772v1)|null|
+|**2025-02-10**|**Resurrecting saturated LLM benchmarks with adversarial encoding**|Igor Ivanov et.al.|[2502.06738v1](http://arxiv.org/abs/2502.06738v1)|null|
+|**2025-02-10**|**VersaPRM: Multi-Domain Process Reward Model via Synthetic Reasoning Data**|Thomas Zeng et.al.|[2502.06737v1](http://arxiv.org/abs/2502.06737v1)|null|
+|**2025-02-10**|**Application of Artificial Intelligence (AI) in Civil Engineering**|Temitope Funmilayo Awolusi et.al.|[2502.06727v1](http://arxiv.org/abs/2502.06727v1)|null|
+|**2025-02-10**|**Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling**|Runze Liu et.al.|[2502.06703v1](http://arxiv.org/abs/2502.06703v1)|null|
+|**2025-02-10**|**Reconstructing the shape of the non-linear matter power spectrum using CMB lensing and cosmic shear**|Karen Perez Sarmiento et.al.|[2502.06687v1](http://arxiv.org/abs/2502.06687v1)|null|
+|**2025-02-10**|**Solving Optimal Power Flow on a Data-Budget: Feature Selection on Smart Meter Data**|Vassilis Kekatos et.al.|[2502.06683v1](http://arxiv.org/abs/2502.06683v1)|null|
+|**2025-02-10**|**Random Variables aren't Random**|Paul W. Vos et.al.|[2502.06628v1](http://arxiv.org/abs/2502.06628v1)|null|
+|**2025-02-10**|**Scaling Multi-Document Event Summarization: Evaluating Compression vs. Full-Text Approaches**|Adithya Pratapa et.al.|[2502.06617v1](http://arxiv.org/abs/2502.06617v1)|null|
+|**2025-02-10**|**Evaluation of Multilingual Image Captioning: How far can we get with CLIP models?**|Gonçalo Gomes et.al.|[2502.06600v1](http://arxiv.org/abs/2502.06600v1)|null|
+|**2025-02-10**|**Hephaestus: Improving Fundamental Agent Capabilities of Large Language Models through Continual Pre-Training**|Yuchen Zhuang et.al.|[2502.06589v1](http://arxiv.org/abs/2502.06589v1)|null|
+|**2025-02-10**|**LawGPT: Knowledge-Guided Data Generation and Its Application to Legal LLM**|Zhi Zhou et.al.|[2502.06572v1](http://arxiv.org/abs/2502.06572v1)|null|
+|**2025-02-10**|**Large Language Models Meet Symbolic Provers for Logical Reasoning Evaluation**|Chengwen Qi et.al.|[2502.06563v1](http://arxiv.org/abs/2502.06563v1)|null|
+|**2025-02-10**|**Is API Access to LLMs Useful for Generating Private Synthetic Tabular Data?**|Marika Swanberg et.al.|[2502.06555v1](http://arxiv.org/abs/2502.06555v1)|null|
+|**2025-02-10**|**Uniqueness of tangent currents for positive closed currents**|Viet-Anh Nguyen et.al.|[2502.06532v1](http://arxiv.org/abs/2502.06532v1)|null|
+|**2025-02-10**|**Tighter Value-Function Approximations for POMDPs**|Merlijn Krale et.al.|[2502.06523v1](http://arxiv.org/abs/2502.06523v1)|null|
+|**2025-02-10**|**Utilitarian Distortion with Predictions**|Aris Filos-Ratsikas et.al.|[2502.06489v1](http://arxiv.org/abs/2502.06489v1)|null|
+|**2025-02-10**|**Adaptive Prompting: Ad-hoc Prompt Composition for Social Bias Detection**|Maximilian Spliethöver et.al.|[2502.06487v1](http://arxiv.org/abs/2502.06487v1)|null|
+|**2025-02-10**|**MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations**|Kaixuan Huang et.al.|[2502.06453v1](http://arxiv.org/abs/2502.06453v1)|null|
+|**2025-02-10**|**Complete Compositional Syntax for Finite Transducers on Finite and Bi-Infinite Words**|Titouan Carette et.al.|[2502.06450v1](http://arxiv.org/abs/2502.06450v1)|null|
+|**2025-02-10**|**SIGMA: Sheaf-Informed Geometric Multi-Agent Pathfinding**|Shuhao Liao et.al.|[2502.06440v1](http://arxiv.org/abs/2502.06440v1)|null|
+|**2025-02-10**|**CoS: Chain-of-Shot Prompting for Long Video Understanding**|Jian Hu et.al.|[2502.06428v1](http://arxiv.org/abs/2502.06428v1)|null|
+|**2025-02-10**|**New physics effects in $R(K^{(*)})$, $B_s\toμ^+μ^-$, and $B^+\to K^+ν{\barν}$**|Jong-Phil Lee et.al.|[2502.06370v1](http://arxiv.org/abs/2502.06370v1)|null|
+|**2025-02-10**|**On the reason for the widespread energetic storm particle event of 13 March 2023**|N. Dresing et.al.|[2502.06332v1](http://arxiv.org/abs/2502.06332v1)|null|
+|**2025-02-10**|**Can AI Examine Novelty of Patents?: Novelty Evaluation Based on the Correspondence between Patent Claim and Prior Art**|Hayato Ikoma et.al.|[2502.06316v1](http://arxiv.org/abs/2502.06316v1)|null|
+|**2025-02-10**|**DebateBench: A Challenging Long Context Reasoning Benchmark For Large Language Models**|Utkarsh Tiwari et.al.|[2502.06279v1](http://arxiv.org/abs/2502.06279v1)|null|
