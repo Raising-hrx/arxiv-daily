@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-12 09:23:55 Asia/Shanghai
+ Automated deployment @ 2025-02-12 20:36:58 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,33 +8,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-10**|**EVEv2: Improved Baselines for Encoder-Free Vision-Language Models**|Haiwen Diao et.al.|[2502.06788v1](http://arxiv.org/abs/2502.06788v1)|null|
-|**2025-02-10**|**Visual Agentic AI for Spatial Reasoning with a Dynamic API**|Damiano Marsili et.al.|[2502.06787v1](http://arxiv.org/abs/2502.06787v1)|null|
-|**2025-02-10**|**Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning**|Chengqi Lyu et.al.|[2502.06781v1](http://arxiv.org/abs/2502.06781v1)|null|
-|**2025-02-10**|**On the Emergence of Thinking in LLMs I: Searching for the Right Intuition**|Guanghao Ye et.al.|[2502.06773v1](http://arxiv.org/abs/2502.06773v1)|null|
-|**2025-02-10**|**ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates**|Ling Yang et.al.|[2502.06772v1](http://arxiv.org/abs/2502.06772v1)|null|
-|**2025-02-10**|**Resurrecting saturated LLM benchmarks with adversarial encoding**|Igor Ivanov et.al.|[2502.06738v1](http://arxiv.org/abs/2502.06738v1)|null|
-|**2025-02-10**|**VersaPRM: Multi-Domain Process Reward Model via Synthetic Reasoning Data**|Thomas Zeng et.al.|[2502.06737v1](http://arxiv.org/abs/2502.06737v1)|null|
-|**2025-02-10**|**Application of Artificial Intelligence (AI) in Civil Engineering**|Temitope Funmilayo Awolusi et.al.|[2502.06727v1](http://arxiv.org/abs/2502.06727v1)|null|
-|**2025-02-10**|**Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling**|Runze Liu et.al.|[2502.06703v1](http://arxiv.org/abs/2502.06703v1)|null|
-|**2025-02-10**|**Reconstructing the shape of the non-linear matter power spectrum using CMB lensing and cosmic shear**|Karen Perez Sarmiento et.al.|[2502.06687v1](http://arxiv.org/abs/2502.06687v1)|null|
-|**2025-02-10**|**Solving Optimal Power Flow on a Data-Budget: Feature Selection on Smart Meter Data**|Vassilis Kekatos et.al.|[2502.06683v1](http://arxiv.org/abs/2502.06683v1)|null|
-|**2025-02-10**|**Random Variables aren't Random**|Paul W. Vos et.al.|[2502.06628v1](http://arxiv.org/abs/2502.06628v1)|null|
-|**2025-02-10**|**Scaling Multi-Document Event Summarization: Evaluating Compression vs. Full-Text Approaches**|Adithya Pratapa et.al.|[2502.06617v1](http://arxiv.org/abs/2502.06617v1)|null|
-|**2025-02-10**|**Evaluation of Multilingual Image Captioning: How far can we get with CLIP models?**|Gonçalo Gomes et.al.|[2502.06600v1](http://arxiv.org/abs/2502.06600v1)|null|
-|**2025-02-10**|**Hephaestus: Improving Fundamental Agent Capabilities of Large Language Models through Continual Pre-Training**|Yuchen Zhuang et.al.|[2502.06589v1](http://arxiv.org/abs/2502.06589v1)|null|
-|**2025-02-10**|**LawGPT: Knowledge-Guided Data Generation and Its Application to Legal LLM**|Zhi Zhou et.al.|[2502.06572v1](http://arxiv.org/abs/2502.06572v1)|null|
-|**2025-02-10**|**Large Language Models Meet Symbolic Provers for Logical Reasoning Evaluation**|Chengwen Qi et.al.|[2502.06563v1](http://arxiv.org/abs/2502.06563v1)|null|
-|**2025-02-10**|**Is API Access to LLMs Useful for Generating Private Synthetic Tabular Data?**|Marika Swanberg et.al.|[2502.06555v1](http://arxiv.org/abs/2502.06555v1)|null|
-|**2025-02-10**|**Uniqueness of tangent currents for positive closed currents**|Viet-Anh Nguyen et.al.|[2502.06532v1](http://arxiv.org/abs/2502.06532v1)|null|
-|**2025-02-10**|**Tighter Value-Function Approximations for POMDPs**|Merlijn Krale et.al.|[2502.06523v1](http://arxiv.org/abs/2502.06523v1)|null|
-|**2025-02-10**|**Utilitarian Distortion with Predictions**|Aris Filos-Ratsikas et.al.|[2502.06489v1](http://arxiv.org/abs/2502.06489v1)|null|
-|**2025-02-10**|**Adaptive Prompting: Ad-hoc Prompt Composition for Social Bias Detection**|Maximilian Spliethöver et.al.|[2502.06487v1](http://arxiv.org/abs/2502.06487v1)|null|
-|**2025-02-10**|**MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations**|Kaixuan Huang et.al.|[2502.06453v1](http://arxiv.org/abs/2502.06453v1)|null|
-|**2025-02-10**|**Complete Compositional Syntax for Finite Transducers on Finite and Bi-Infinite Words**|Titouan Carette et.al.|[2502.06450v1](http://arxiv.org/abs/2502.06450v1)|null|
-|**2025-02-10**|**SIGMA: Sheaf-Informed Geometric Multi-Agent Pathfinding**|Shuhao Liao et.al.|[2502.06440v1](http://arxiv.org/abs/2502.06440v1)|null|
-|**2025-02-10**|**CoS: Chain-of-Shot Prompting for Long Video Understanding**|Jian Hu et.al.|[2502.06428v1](http://arxiv.org/abs/2502.06428v1)|null|
-|**2025-02-10**|**New physics effects in $R(K^{(*)})$, $B_s\toμ^+μ^-$, and $B^+\to K^+ν{\barν}$**|Jong-Phil Lee et.al.|[2502.06370v1](http://arxiv.org/abs/2502.06370v1)|null|
-|**2025-02-10**|**On the reason for the widespread energetic storm particle event of 13 March 2023**|N. Dresing et.al.|[2502.06332v1](http://arxiv.org/abs/2502.06332v1)|null|
-|**2025-02-10**|**Can AI Examine Novelty of Patents?: Novelty Evaluation Based on the Correspondence between Patent Claim and Prior Art**|Hayato Ikoma et.al.|[2502.06316v1](http://arxiv.org/abs/2502.06316v1)|null|
-|**2025-02-10**|**DebateBench: A Challenging Long Context Reasoning Benchmark For Large Language Models**|Utkarsh Tiwari et.al.|[2502.06279v1](http://arxiv.org/abs/2502.06279v1)|null|
+|**2025-02-11**|**WHODUNIT: Evaluation benchmark for culprit detection in mystery stories**|Kshitij Gupta et.al.|[2502.07747v1](http://arxiv.org/abs/2502.07747v1)|null|
+|**2025-02-11**|**Making Language Models Robust Against Negation**|MohammadHossein Rezaei et.al.|[2502.07717v1](http://arxiv.org/abs/2502.07717v1)|null|
+|**2025-02-11**|**exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem**|Sajad Ebrahimi et.al.|[2502.07683v1](http://arxiv.org/abs/2502.07683v1)|null|
+|**2025-02-11**|**Tractable Transformers for Flexible Conditional Generation**|Anji Liu et.al.|[2502.07616v1](http://arxiv.org/abs/2502.07616v1)|null|
+|**2025-02-11**|**Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models**|Jiacong Xu et.al.|[2502.07601v1](http://arxiv.org/abs/2502.07601v1)|null|
+|**2025-02-11**|**DMWM: Dual-Mind World Model with Long-Term Imagination**|Lingyi Wang et.al.|[2502.07591v1](http://arxiv.org/abs/2502.07591v1)|null|
+|**2025-02-11**|**An Elliptic Curve Based Solution to the Perspective-Three-Point Problem**|Michael Q. Rieck et.al.|[2502.07564v1](http://arxiv.org/abs/2502.07564v1)|null|
+|**2025-02-11**|**O1 Embedder: Let Retrievers Think Before Action**|Ruin Yan et.al.|[2502.07555v1](http://arxiv.org/abs/2502.07555v1)|null|
+|**2025-02-11**|**Mask-Enhanced Autoregressive Prediction: Pay Less Attention to Learn More**|Xialie Zhuang et.al.|[2502.07490v1](http://arxiv.org/abs/2502.07490v1)|[link](https://github.com/scitix/MEAP)|
+|**2025-02-11**|**Approximating Human Strategic Reasoning with LLM-Enhanced Recursive Reasoners Leveraging Multi-agent Hypergames**|Vince Trencsenyi et.al.|[2502.07443v1](http://arxiv.org/abs/2502.07443v1)|null|
+|**2025-02-11**|**EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering**|Sheng Zhou et.al.|[2502.07411v1](http://arxiv.org/abs/2502.07411v1)|null|
+|**2025-02-11**|**Obstructions for Morin and fold maps: Stiefel-Whitney classes and Euler characteristics of singularity loci**|László M. Fehér et.al.|[2502.07379v1](http://arxiv.org/abs/2502.07379v1)|null|
+|**2025-02-11**|**LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!**|Dacheng Li et.al.|[2502.07374v1](http://arxiv.org/abs/2502.07374v1)|null|
+|**2025-02-11**|**LongReD: Mitigating Short-Text Degradation of Long-Context Large Language Models via Restoration Distillation**|Zican Dong et.al.|[2502.07365v1](http://arxiv.org/abs/2502.07365v1)|null|
+|**2025-02-11**|**BenchMAX: A Comprehensive Multilingual Evaluation Suite for Large Language Models**|Xu Huang et.al.|[2502.07346v1](http://arxiv.org/abs/2502.07346v1)|null|
+|**2025-02-11**|**Integrating Physics and Data-Driven Approaches: An Explainable and Uncertainty-Aware Hybrid Model for Wind Turbine Power Prediction**|Alfonso Gijón et.al.|[2502.07344v1](http://arxiv.org/abs/2502.07344v1)|null|
+|**2025-02-11**|**CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction**|Junlong Li et.al.|[2502.07316v1](http://arxiv.org/abs/2502.07316v1)|null|
+|**2025-02-11**|**Estimate the Mass Escaping Rates of Radius-valley-spanning Planets in TOI-431 System via XUV Evaporation**|Xiaoming Jiang et.al.|[2502.07294v1](http://arxiv.org/abs/2502.07294v1)|null|
+|**2025-02-11**|**Diverse Perspectives on AI: Examining People's Acceptability and Reasoning of Possible AI Use Cases**|Jimin Mun et.al.|[2502.07287v1](http://arxiv.org/abs/2502.07287v1)|null|
+|**2025-02-11**|**When More is Less: Understanding Chain-of-Thought Length in LLMs**|Yuyang Wu et.al.|[2502.07266v1](http://arxiv.org/abs/2502.07266v1)|null|
+|**2025-02-11**|**NARCE: A Mamba-Based Neural Algorithmic Reasoner Framework for Online Complex Event Detection**|Liying Han et.al.|[2502.07250v1](http://arxiv.org/abs/2502.07250v1)|null|
+|**2025-02-11**|**CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models**|Sen Peng et.al.|[2502.07225v1](http://arxiv.org/abs/2502.07225v1)|null|
+|**2025-02-11**|**Bag of Tricks for Inference-time Computation of LLM Reasoning**|Fan Liu et.al.|[2502.07191v1](http://arxiv.org/abs/2502.07191v1)|null|
+|**2025-02-11**|**Expansion-history preferences of DESI and external data**|Prakhar Bansal et.al.|[2502.07185v1](http://arxiv.org/abs/2502.07185v1)|null|
+|**2025-02-11**|**Rethinking Fine-Tuning when Scaling Test-Time Compute: Limiting Confidence Improves Mathematical Reasoning**|Feng Chen et.al.|[2502.07154v1](http://arxiv.org/abs/2502.07154v1)|null|
+|**2025-02-11**|**Ask Patients with Patience: Enabling LLMs for Human-Centric Medical Dialogue with Grounded Reasoning**|Jiayuan Zhu et.al.|[2502.07143v1](http://arxiv.org/abs/2502.07143v1)|null|
+|**2025-02-10**|**Interactive Data Harmonization with LLM Agents**|Aécio Santos et.al.|[2502.07132v1](http://arxiv.org/abs/2502.07132v1)|null|
+|**2025-02-10**|**Structural Reformation of Large Language Model Neuron Encapsulation for Divergent Information Aggregation**|Denis Bakushev et.al.|[2502.07124v1](http://arxiv.org/abs/2502.07124v1)|null|
+|**2025-02-10**|**Observations and Radiative Transfer Simulations of the Carbon-rich AGB star V Oph with VLTI/MATISSE**|Jon Hulberg et.al.|[2502.07092v1](http://arxiv.org/abs/2502.07092v1)|null|
+|**2025-02-10**|**Evaluating the Systematic Reasoning Abilities of Large Language Models through Graph Coloring**|Alex Heyman et.al.|[2502.07087v1](http://arxiv.org/abs/2502.07087v1)|null|
