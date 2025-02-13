@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-12 21:03:08 Asia/Shanghai
+ Automated deployment @ 2025-02-13 09:24:29 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -15,7 +15,7 @@
 |**2025-02-11**|**Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models**|Jiacong Xu et.al.|[2502.07601v1](http://arxiv.org/abs/2502.07601v1)|null|
 |**2025-02-11**|**DMWM: Dual-Mind World Model with Long-Term Imagination**|Lingyi Wang et.al.|[2502.07591v1](http://arxiv.org/abs/2502.07591v1)|null|
 |**2025-02-11**|**An Elliptic Curve Based Solution to the Perspective-Three-Point Problem**|Michael Q. Rieck et.al.|[2502.07564v1](http://arxiv.org/abs/2502.07564v1)|null|
-|**2025-02-11**|**O1 Embedder: Let Retrievers Think Before Action**|Ruin Yan et.al.|[2502.07555v1](http://arxiv.org/abs/2502.07555v1)|null|
+|**2025-02-11**|**O1 Embedder: Let Retrievers Think Before Action**|Ruiran Yan et.al.|[2502.07555v2](http://arxiv.org/abs/2502.07555v2)|null|
 |**2025-02-11**|**Mask-Enhanced Autoregressive Prediction: Pay Less Attention to Learn More**|Xialie Zhuang et.al.|[2502.07490v1](http://arxiv.org/abs/2502.07490v1)|[link](https://github.com/scitix/MEAP)|
 |**2025-02-11**|**Approximating Human Strategic Reasoning with LLM-Enhanced Recursive Reasoners Leveraging Multi-agent Hypergames**|Vince Trencsenyi et.al.|[2502.07443v1](http://arxiv.org/abs/2502.07443v1)|null|
 |**2025-02-11**|**EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering**|Sheng Zhou et.al.|[2502.07411v1](http://arxiv.org/abs/2502.07411v1)|null|
@@ -30,7 +30,7 @@
 |**2025-02-11**|**When More is Less: Understanding Chain-of-Thought Length in LLMs**|Yuyang Wu et.al.|[2502.07266v1](http://arxiv.org/abs/2502.07266v1)|null|
 |**2025-02-11**|**NARCE: A Mamba-Based Neural Algorithmic Reasoner Framework for Online Complex Event Detection**|Liying Han et.al.|[2502.07250v1](http://arxiv.org/abs/2502.07250v1)|null|
 |**2025-02-11**|**CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models**|Sen Peng et.al.|[2502.07225v1](http://arxiv.org/abs/2502.07225v1)|null|
-|**2025-02-11**|**Bag of Tricks for Inference-time Computation of LLM Reasoning**|Fan Liu et.al.|[2502.07191v1](http://arxiv.org/abs/2502.07191v1)|null|
+|**2025-02-11**|**Bag of Tricks for Inference-time Computation of LLM Reasoning**|Fan Liu et.al.|[2502.07191v2](http://arxiv.org/abs/2502.07191v2)|null|
 |**2025-02-11**|**Expansion-history preferences of DESI and external data**|Prakhar Bansal et.al.|[2502.07185v1](http://arxiv.org/abs/2502.07185v1)|null|
 |**2025-02-11**|**Rethinking Fine-Tuning when Scaling Test-Time Compute: Limiting Confidence Improves Mathematical Reasoning**|Feng Chen et.al.|[2502.07154v1](http://arxiv.org/abs/2502.07154v1)|null|
 |**2025-02-11**|**Ask Patients with Patience: Enabling LLMs for Human-Centric Medical Dialogue with Grounded Reasoning**|Jiayuan Zhu et.al.|[2502.07143v1](http://arxiv.org/abs/2502.07143v1)|null|
