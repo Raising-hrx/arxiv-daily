@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-19 09:24:48 Asia/Shanghai
+ Automated deployment @ 2025-02-19 20:35:21 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,33 +8,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145v1](http://arxiv.org/abs/2502.12145v1)|null|
-|**2025-02-17**|**Small Models Struggle to Learn from Strong Reasoners**|Yuetai Li et.al.|[2502.12143v1](http://arxiv.org/abs/2502.12143v1)|null|
-|**2025-02-17**|**SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs**|Yige Xu et.al.|[2502.12134v1](http://arxiv.org/abs/2502.12134v1)|null|
-|**2025-02-17**|**Scaling Autonomous Agents via Automatic Reward Modeling And Planning**|Zhenfang Chen et.al.|[2502.12130v1](http://arxiv.org/abs/2502.12130v1)|null|
-|**2025-02-17**|**On the Query Complexity of Verifier-Assisted Language Generation**|Edoardo Botta et.al.|[2502.12123v1](http://arxiv.org/abs/2502.12123v1)|null|
-|**2025-02-17**|**Scaling Test-Time Compute Without Verification or RL is Suboptimal**|Amrith Setlur et.al.|[2502.12118v1](http://arxiv.org/abs/2502.12118v1)|null|
-|**2025-02-17**|**A Study on Leveraging Search and Self-Feedback for Agent Reasoning**|Karthikeyan K et.al.|[2502.12094v1](http://arxiv.org/abs/2502.12094v1)|null|
-|**2025-02-17**|**VLM$^2$-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues**|Jianshu Zhang et.al.|[2502.12084v1](http://arxiv.org/abs/2502.12084v1)|null|
-|**2025-02-17**|**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**|Heming Xia et.al.|[2502.12067v1](http://arxiv.org/abs/2502.12067v1)|null|
-|**2025-02-17**|**A survey about perceptions of mobility to inform an agent-based simulator of subjective modal choice**|Carole Adam et.al.|[2502.12058v1](http://arxiv.org/abs/2502.12058v1)|null|
-|**2025-02-17**|**PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning**|Xinyu Zhang et.al.|[2502.12054v1](http://arxiv.org/abs/2502.12054v1)|null|
-|**2025-02-17**|**Multi-agent coordination via communication partitions**|Wei-Chen Lee et.al.|[2502.12042v1](http://arxiv.org/abs/2502.12042v1)|null|
-|**2025-02-17**|**KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs**|Qi Zhao et.al.|[2502.12029v1](http://arxiv.org/abs/2502.12029v1)|null|
-|**2025-02-17**|**SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities**|Fengqing Jiang et.al.|[2502.12025v1](http://arxiv.org/abs/2502.12025v1)|null|
-|**2025-02-17**|**Teaching LLMs According to Their Aptitude: Adaptive Reasoning for Mathematical Problem Solving**|Xin Xu et.al.|[2502.12022v1](http://arxiv.org/abs/2502.12022v1)|null|
-|**2025-02-17**|**Atom of Thoughts for Markov LLM Test-Time Scaling**|Fengwei Teng et.al.|[2502.12018v1](http://arxiv.org/abs/2502.12018v1)|null|
-|**2025-02-17**|**On the Logic Elements Associated with Round-Off Errors and Gaussian Blur in Image Registration: A Simple Case of Commingling**|Serap A. Savari et.al.|[2502.11992v1](http://arxiv.org/abs/2502.11992v1)|null|
-|**2025-02-17**|**STRIVE: Structured Reasoning for Self-Improvement in Claim Verification**|Haisong Gong et.al.|[2502.11959v1](http://arxiv.org/abs/2502.11959v1)|null|
-|**2025-02-17**|**Effective medium theory for the electrical conductivity of random metallic nanowire networks**|Yuri Yu. Tarasevich et.al.|[2502.11945v1](http://arxiv.org/abs/2502.11945v1)|null|
-|**2025-02-17**|**All-Optical Photoluminescence Spectra of Nitrogen-Vacancy Ensembles in Diamond at Low Magnetic Fields**|Xiechen Zheng et.al.|[2502.11943v1](http://arxiv.org/abs/2502.11943v1)|null|
-|**2025-02-17**|**On Representational Dissociation of Language and Arithmetic in Large Language Models**|Riku Kisako et.al.|[2502.11932v1](http://arxiv.org/abs/2502.11932v1)|null|
-|**2025-02-17**|**MMRC: A Large-Scale Benchmark for Understanding Multimodal Large Language Model in Real-World Conversation**|Haochen Xue et.al.|[2502.11903v1](http://arxiv.org/abs/2502.11903v1)|null|
-|**2025-02-17**|**Building A Proof-Oriented Programmer That Is 64% Better Than GPT-4o Under Data Scarsity**|Dylan Zhang et.al.|[2502.11901v1](http://arxiv.org/abs/2502.11901v1)|null|
-|**2025-02-17**|**LIMR: Less is More for RL Scaling**|Xuefeng Li et.al.|[2502.11886v1](http://arxiv.org/abs/2502.11886v1)|null|
-|**2025-02-17**|**Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration**|Shao Zhang et.al.|[2502.11882v1](http://arxiv.org/abs/2502.11882v1)|null|
-|**2025-02-17**|**Hypothesis-Driven Theory-of-Mind Reasoning for Large Language Models**|Hyunwoo Kim et.al.|[2502.11881v1](http://arxiv.org/abs/2502.11881v1)|null|
-|**2025-02-17**|**LLMs as a synthesis between symbolic and continuous approaches to language**|Gemma Boleda et.al.|[2502.11856v1](http://arxiv.org/abs/2502.11856v1)|null|
-|**2025-02-17**|**BaxBench: Can LLMs Generate Correct and Secure Backends?**|Mark Vero et.al.|[2502.11844v1](http://arxiv.org/abs/2502.11844v1)|null|
-|**2025-02-17**|**Intuitive physics understanding emerges from self-supervised pretraining on natural videos**|Quentin Garrido et.al.|[2502.11831v1](http://arxiv.org/abs/2502.11831v1)|null|
-|**2025-02-17**|**Code-Vision: Evaluating Multimodal LLMs Logic Understanding and Code Generation Capabilities**|Hanbin Wang et.al.|[2502.11829v1](http://arxiv.org/abs/2502.11829v1)|null|
+|**2025-02-18**|**SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation**|Zekun Qi et.al.|[2502.13143v1](http://arxiv.org/abs/2502.13143v1)|null|
+|**2025-02-18**|**Theorem Prover as a Judge for Synthetic Data Generation**|Joshua Ong Jun Leang et.al.|[2502.13137v1](http://arxiv.org/abs/2502.13137v1)|null|
+|**2025-02-18**|**Facilitating Long Context Understanding via Supervised Chain-of-Thought Reasoning**|Jingyang Lin et.al.|[2502.13127v1](http://arxiv.org/abs/2502.13127v1)|null|
+|**2025-02-18**|**A robust estimation and variable selection approach for sparse partially linear additive models**|Alejandra Mercedes Martínez et.al.|[2502.13126v1](http://arxiv.org/abs/2502.13126v1)|null|
+|**2025-02-18**|**RuozhiBench: Evaluating LLMs with Logical Fallacies and Misleading Premises**|Zenan Zhai et.al.|[2502.13125v1](http://arxiv.org/abs/2502.13125v1)|null|
+|**2025-02-18**|**NaturalReasoning: Reasoning in the Wild with 2.8M Challenging Questions**|Weizhe Yuan et.al.|[2502.13124v1](http://arxiv.org/abs/2502.13124v1)|null|
+|**2025-02-18**|**STEER-ME: Assessing the Microeconomic Reasoning of Large Language Models**|Narun Raman et.al.|[2502.13119v1](http://arxiv.org/abs/2502.13119v1)|null|
+|**2025-02-18**|**MatterChat: A Multi-Modal LLM for Material Science**|Yingheng Tang et.al.|[2502.13107v1](http://arxiv.org/abs/2502.13107v1)|null|
+|**2025-02-18**|**WeedsGalore: A Multispectral and Multitemporal UAV-based Dataset for Crop and Weed Segmentation in Agricultural Maize Fields**|Ekin Celikkan et.al.|[2502.13103v1](http://arxiv.org/abs/2502.13103v1)|null|
+|**2025-02-18**|**Validation and demonstration of the AEFC as a practical safeguards tool for inventory verification**|G. Long et.al.|[2502.13096v1](http://arxiv.org/abs/2502.13096v1)|null|
+|**2025-02-18**|**Text2World: Benchmarking Large Language Models for Symbolic World Model Generation**|Mengkang Hu et.al.|[2502.13092v1](http://arxiv.org/abs/2502.13092v1)|null|
+|**2025-02-18**|**L4P: Low-Level 4D Vision Perception Unified**|Abhishek Badki et.al.|[2502.13078v1](http://arxiv.org/abs/2502.13078v1)|null|
+|**2025-02-18**|**Pricing is All You Need to Improve Traffic Routing**|Yu Tang et.al.|[2502.13077v1](http://arxiv.org/abs/2502.13077v1)|null|
+|**2025-02-18**|**LAMD: Context-driven Android Malware Detection and Classification with LLMs**|Xingzhi Qian et.al.|[2502.13055v1](http://arxiv.org/abs/2502.13055v1)|null|
+|**2025-02-18**|**Agentic Deep Graph Reasoning Yields Self-Organizing Knowledge Networks**|Markus J. Buehler et.al.|[2502.13025v1](http://arxiv.org/abs/2502.13025v1)|null|
+|**2025-02-18**|**Adaptive Knowledge Graphs Enhance Medical Question Answering: Bridging the Gap Between LLMs and Evolving Medical Knowledge**|Mohammad Reza Rezaei et.al.|[2502.13010v1](http://arxiv.org/abs/2502.13010v1)|null|
+|**2025-02-18**|**Free Argumentative Exchanges for Explaining Image Classifiers**|Avinash Kori et.al.|[2502.12995v1](http://arxiv.org/abs/2502.12995v1)|null|
+|**2025-02-18**|**Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking**|Junda Zhu et.al.|[2502.12970v1](http://arxiv.org/abs/2502.12970v1)|null|
+|**2025-02-18**|**Imputation Strategies for Rightcensored Wages in Longitudinal Datasets**|Jörg Drechsler et.al.|[2502.12967v1](http://arxiv.org/abs/2502.12967v1)|null|
+|**2025-02-18**|**Infinite Retrieval: Attention Enhanced LLMs in Long-Context Processing**|Xiaoju Ye et.al.|[2502.12962v1](http://arxiv.org/abs/2502.12962v1)|null|
+|**2025-02-18**|**LLMPopcorn: An Empirical Study of LLMs as Assistants for Popular Micro-video Generation**|Junchen Fu et.al.|[2502.12945v1](http://arxiv.org/abs/2502.12945v1)|null|
+|**2025-02-18**|**Synthetic Data Generation for Culturally Nuanced Commonsense Reasoning in Low-Resource Languages**|Salsabila Zahirah Pranida et.al.|[2502.12932v1](http://arxiv.org/abs/2502.12932v1)|null|
+|**2025-02-18**|**Flow-of-Options: Diversified and Improved LLM Reasoning by Thinking Through Options**|Lakshmi Nair et.al.|[2502.12929v1](http://arxiv.org/abs/2502.12929v1)|null|
+|**2025-02-18**|**A Smooth Transition Between Induction and Deduction: Fast Abductive Learning Based on Probabilistic Symbol Perception**|Lin-Han Jia et.al.|[2502.12919v1](http://arxiv.org/abs/2502.12919v1)|null|
+|**2025-02-18**|**Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation**|Zheng Yuan et.al.|[2502.12911v1](http://arxiv.org/abs/2502.12911v1)|null|
+|**2025-02-18**|**None of the Others: a General Technique to Distinguish Reasoning from Memorization in Multiple-Choice LLM Evaluation Benchmarks**|Eva Sánchez Salido et.al.|[2502.12896v1](http://arxiv.org/abs/2502.12896v1)|null|
+|**2025-02-18**|**Multilingual European Language Models: Benchmarking Approaches and Challenges**|Fabio Barth et.al.|[2502.12895v1](http://arxiv.org/abs/2502.12895v1)|null|
+|**2025-02-18**|**H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking**|Martin Kuo et.al.|[2502.12893v1](http://arxiv.org/abs/2502.12893v1)|null|
+|**2025-02-18**|**RobotIQ: Empowering Mobile Robots with Human-Level Planning for Real-World Execution**|Emmanuel K. Raptis et.al.|[2502.12862v1](http://arxiv.org/abs/2502.12862v1)|null|
+|**2025-02-18**|**An Experimental Study of SOTA LiDAR Segmentation Models**|Bike Chen et.al.|[2502.12860v1](http://arxiv.org/abs/2502.12860v1)|null|
