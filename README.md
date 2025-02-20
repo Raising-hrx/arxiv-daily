@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-19 21:02:08 Asia/Shanghai
+ Automated deployment @ 2025-02-20 09:24:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,7 +14,7 @@
 |**2025-02-18**|**A robust estimation and variable selection approach for sparse partially linear additive models**|Alejandra Mercedes Martínez et.al.|[2502.13126v1](http://arxiv.org/abs/2502.13126v1)|null|
 |**2025-02-18**|**RuozhiBench: Evaluating LLMs with Logical Fallacies and Misleading Premises**|Zenan Zhai et.al.|[2502.13125v1](http://arxiv.org/abs/2502.13125v1)|null|
 |**2025-02-18**|**NaturalReasoning: Reasoning in the Wild with 2.8M Challenging Questions**|Weizhe Yuan et.al.|[2502.13124v1](http://arxiv.org/abs/2502.13124v1)|null|
-|**2025-02-18**|**STEER-ME: Assessing the Microeconomic Reasoning of Large Language Models**|Narun Raman et.al.|[2502.13119v1](http://arxiv.org/abs/2502.13119v1)|null|
+|**2025-02-18**|**STEER-ME: Assessing the Microeconomic Reasoning of Large Language Models**|Narun Raman et.al.|[2502.13119v2](http://arxiv.org/abs/2502.13119v2)|null|
 |**2025-02-18**|**MatterChat: A Multi-Modal LLM for Material Science**|Yingheng Tang et.al.|[2502.13107v1](http://arxiv.org/abs/2502.13107v1)|null|
 |**2025-02-18**|**WeedsGalore: A Multispectral and Multitemporal UAV-based Dataset for Crop and Weed Segmentation in Agricultural Maize Fields**|Ekin Celikkan et.al.|[2502.13103v1](http://arxiv.org/abs/2502.13103v1)|null|
 |**2025-02-18**|**Validation and demonstration of the AEFC as a practical safeguards tool for inventory verification**|G. Long et.al.|[2502.13096v1](http://arxiv.org/abs/2502.13096v1)|null|
@@ -28,7 +28,7 @@
 |**2025-02-18**|**Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking**|Junda Zhu et.al.|[2502.12970v1](http://arxiv.org/abs/2502.12970v1)|null|
 |**2025-02-18**|**Imputation Strategies for Rightcensored Wages in Longitudinal Datasets**|Jörg Drechsler et.al.|[2502.12967v1](http://arxiv.org/abs/2502.12967v1)|null|
 |**2025-02-18**|**Infinite Retrieval: Attention Enhanced LLMs in Long-Context Processing**|Xiaoju Ye et.al.|[2502.12962v1](http://arxiv.org/abs/2502.12962v1)|null|
-|**2025-02-18**|**LLMPopcorn: An Empirical Study of LLMs as Assistants for Popular Micro-video Generation**|Junchen Fu et.al.|[2502.12945v1](http://arxiv.org/abs/2502.12945v1)|null|
+|**2025-02-18**|**LLMPopcorn: An Empirical Study of LLMs as Assistants for Popular Micro-video Generation**|Junchen Fu et.al.|[2502.12945v2](http://arxiv.org/abs/2502.12945v2)|null|
 |**2025-02-18**|**Synthetic Data Generation for Culturally Nuanced Commonsense Reasoning in Low-Resource Languages**|Salsabila Zahirah Pranida et.al.|[2502.12932v1](http://arxiv.org/abs/2502.12932v1)|null|
 |**2025-02-18**|**Flow-of-Options: Diversified and Improved LLM Reasoning by Thinking Through Options**|Lakshmi Nair et.al.|[2502.12929v1](http://arxiv.org/abs/2502.12929v1)|null|
 |**2025-02-18**|**A Smooth Transition Between Induction and Deduction: Fast Abductive Learning Based on Probabilistic Symbol Perception**|Lin-Han Jia et.al.|[2502.12919v1](http://arxiv.org/abs/2502.12919v1)|null|
