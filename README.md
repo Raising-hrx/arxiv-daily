@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-20 21:04:07 Asia/Shanghai
+ Automated deployment @ 2025-02-21 09:25:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -20,7 +20,7 @@
 |**2025-02-19**|**How Do LLMs Perform Two-Hop Reasoning in Context?**|Tianyu Guo et.al.|[2502.13913v1](http://arxiv.org/abs/2502.13913v1)|null|
 |**2025-02-19**|**NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants**|Yiran Qin et.al.|[2502.13894v1](http://arxiv.org/abs/2502.13894v1)|null|
 |**2025-02-19**|**On the Addressability Problem on CSS Codes**|Jérôme Guyot et.al.|[2502.13889v1](http://arxiv.org/abs/2502.13889v1)|null|
-|**2025-02-19**|**SPEX: Scaling Feature Interaction Explanations for LLMs**|Justin Singh Kang et.al.|[2502.13870v1](http://arxiv.org/abs/2502.13870v1)|null|
+|**2025-02-19**|**SPEX: Scaling Feature Interaction Explanations for LLMs**|Justin Singh Kang et.al.|[2502.13870v1](http://arxiv.org/abs/2502.13870v1)|[link](https://github.com/basics-lab/spectral-explain)|
 |**2025-02-19**|**Enhancing LLM-Based Recommendations Through Personalized Reasoning**|Jiahao Liu et.al.|[2502.13845v1](http://arxiv.org/abs/2502.13845v1)|null|
 |**2025-02-19**|**Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking**|Yilong Chen et.al.|[2502.13842v1](http://arxiv.org/abs/2502.13842v1)|null|
 |**2025-02-19**|**Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning**|Zenan Li et.al.|[2502.13834v1](http://arxiv.org/abs/2502.13834v1)|null|
