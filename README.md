@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-21 21:03:13 Asia/Shanghai
+ Automated deployment @ 2025-02-22 09:22:53 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -36,5 +36,5 @@
 |**2025-02-20**|**ReVISE: Learning to Refine at Test-Time via Intrinsic Self-Verification**|Hyunseok Lee et.al.|[2502.14565v1](http://arxiv.org/abs/2502.14565v1)|null|
 |**2025-02-20**|**Plan-over-Graph: Towards Parallelable LLM Agent Schedule**|Shiqi Zhang et.al.|[2502.14563v1](http://arxiv.org/abs/2502.14563v1)|null|
 |**2025-02-20**|**Towards a Perspectivist Turn in Argument Quality Assessment**|Julia Romberg et.al.|[2502.14501v1](http://arxiv.org/abs/2502.14501v1)|null|
-|**2025-02-20**|**PredictaBoard: Benchmarking LLM Score Predictability**|Lorenzo Pacchiardi et.al.|[2502.14445v1](http://arxiv.org/abs/2502.14445v1)|null|
+|**2025-02-20**|**PredictaBoard: Benchmarking LLM Score Predictability**|Lorenzo Pacchiardi et.al.|[2502.14445v1](http://arxiv.org/abs/2502.14445v1)|[link](https://github.com/Kinds-of-Intelligence-CFI/PredictaBoard)|
 |**2025-02-20**|**Towards Efficient Automatic Self-Pruning of Large Language Models**|Weizhong Huang et.al.|[2502.14413v1](http://arxiv.org/abs/2502.14413v1)|null|
