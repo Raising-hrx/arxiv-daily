@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-27 09:26:52 Asia/Shanghai
+ Automated deployment @ 2025-02-27 20:38:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,33 +8,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-25**|**Evaluating the Effectiveness of Small Language Models in Detecting Refactoring Bugs**|Rohit Gheyi et.al.|[2502.18454v1](http://arxiv.org/abs/2502.18454v1)|null|
-|**2025-02-25**|**FRIDA to the Rescue! Analyzing Synthetic Data Effectiveness in Object-Based Common Sense Reasoning for Disaster Response**|Mollie Shichman et.al.|[2502.18452v1](http://arxiv.org/abs/2502.18452v1)|null|
-|**2025-02-25**|**SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution**|Yuxiang Wei et.al.|[2502.18449v1](http://arxiv.org/abs/2502.18449v1)|null|
-|**2025-02-25**|**ToMCAT: Theory-of-Mind for Cooperative Agents in Teams via Multiagent Diffusion Policies**|Pedro Sequeira et.al.|[2502.18438v1](http://arxiv.org/abs/2502.18438v1)|null|
-|**2025-02-25**|**Reversal Blessing: Thinking Backward May Outpace Thinking Forward in Multi-choice Questions**|Yizhe Zhang et.al.|[2502.18435v1](http://arxiv.org/abs/2502.18435v1)|null|
-|**2025-02-25**|**TextGames: Learning to Self-Play Text-Based Puzzle Games via Language Model Reasoning**|Frederikus Hudi et.al.|[2502.18431v1](http://arxiv.org/abs/2502.18431v1)|null|
-|**2025-02-25**|**Rank1: Test-Time Compute for Reranking in Information Retrieval**|Orion Weller et.al.|[2502.18418v1](http://arxiv.org/abs/2502.18418v1)|null|
-|**2025-02-25**|**KiRAG: Knowledge-Driven Iterative Retriever for Enhancing Retrieval-Augmented Generation**|Jinyuan Fang et.al.|[2502.18397v1](http://arxiv.org/abs/2502.18397v1)|null|
-|**2025-02-25**|**Learning sparse generalized linear models with binary outcomes via iterative hard thresholding**|Namiko Matsumoto et.al.|[2502.18393v1](http://arxiv.org/abs/2502.18393v1)|null|
-|**2025-02-25**|**Testing Thresholds and Spectral Properties of High-Dimensional Random Toroidal Graphs via Edgeworth-Style Expansions**|Samuel Baguley et.al.|[2502.18346v1](http://arxiv.org/abs/2502.18346v1)|null|
-|**2025-02-25**|**Attractiveness and equal treatment in a group draw**|László Csató et.al.|[2502.18332v1](http://arxiv.org/abs/2502.18332v1)|null|
-|**2025-02-25**|**WiCkeD: A Simple Method to Make Multiple Choice Benchmarks More Challenging**|Ahmed Elhady et.al.|[2502.18316v1](http://arxiv.org/abs/2502.18316v1)|null|
-|**2025-02-25**|**Citrus: Leveraging Expert Cognitive Pathways in a Medical Language Model for Advanced Medical Decision Support**|Guoxin Wang et.al.|[2502.18274v2](http://arxiv.org/abs/2502.18274v2)|null|
-|**2025-02-25**|**Beyond In-Distribution Success: Scaling Curves of CoT Granularity for Language Model Generalization**|Ru Wang et.al.|[2502.18273v1](http://arxiv.org/abs/2502.18273v1)|null|
-|**2025-02-25**|**Unveiling and Causalizing CoT: A Causal Pespective**|Jiarun Fu et.al.|[2502.18239v1](http://arxiv.org/abs/2502.18239v1)|null|
-|**2025-02-25**|**Exact Algorithms for Minimum Dilation Triangulation**|Sándor P. Fekete et.al.|[2502.18189v1](http://arxiv.org/abs/2502.18189v1)|null|
-|**2025-02-25**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Zhang Yuxuan et.al.|[2502.18168v1](http://arxiv.org/abs/2502.18168v1)|null|
-|**2025-02-25**|**Can LLMs Explain Themselves Counterfactually?**|Zahra Dehghanighobadi et.al.|[2502.18156v1](http://arxiv.org/abs/2502.18156v1)|null|
-|**2025-02-25**|**Jacobian Sparse Autoencoders: Sparsify Computations, Not Just Activations**|Lucy Farnik et.al.|[2502.18147v1](http://arxiv.org/abs/2502.18147v1)|null|
-|**2025-02-25**|**Modelling of a large-scale non-insulated non-planar HTS stellarator coil using Quanscient Allsolve**|Tara Benkel et.al.|[2502.18133v1](http://arxiv.org/abs/2502.18133v1)|null|
-|**2025-02-25**|**Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning**|Wenkai Yang et.al.|[2502.18080v1](http://arxiv.org/abs/2502.18080v1)|null|
-|**2025-02-25**|**Microscopic investigation of $E2$ matrix elements in atomic nuclei**|S. P. Rouoof et.al.|[2502.18076v1](http://arxiv.org/abs/2502.18076v1)|null|
-|**2025-02-25**|**MRBTP: Efficient Multi-Robot Behavior Tree Planning and Collaboration**|Yishuai Cai et.al.|[2502.18072v1](http://arxiv.org/abs/2502.18072v1)|null|
-|**2025-02-25**|**VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion**|Pei Liu et.al.|[2502.18042v1](http://arxiv.org/abs/2502.18042v1)|null|
-|**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041v1](http://arxiv.org/abs/2502.18041v1)|null|
-|**2025-02-25**|**Verdict: A Library for Scaling Judge-Time Compute**|Nimit Kalra et.al.|[2502.18018v1](http://arxiv.org/abs/2502.18018v1)|null|
-|**2025-02-25**|**ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents**|Qiuchen Wang et.al.|[2502.18017v1](http://arxiv.org/abs/2502.18017v1)|null|
-|**2025-02-25**|**Unveiling the Key Factors for Distilling Chain-of-Thought Reasoning**|Xinghao Chen et.al.|[2502.18001v1](http://arxiv.org/abs/2502.18001v1)|null|
-|**2025-02-25**|**LLM Knows Geometry Better than Algebra: Numerical Understanding of LLM-Based Agents in A Trading Arena**|Tianmi Ma et.al.|[2502.17967v1](http://arxiv.org/abs/2502.17967v1)|null|
-|**2025-02-25**|**Towards Better Understanding of Program-of-Thought Reasoning in Cross-Lingual and Multilingual Environments**|Patomporn Payoungkhamdee et.al.|[2502.17956v1](http://arxiv.org/abs/2502.17956v1)|null|
+|**2025-02-26**|**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**|Lucy Xiaoyang Shi et.al.|[2502.19417v1](http://arxiv.org/abs/2502.19417v1)|null|
+|**2025-02-26**|**Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample Creation**|Shiven Sinha et.al.|[2502.19414v1](http://arxiv.org/abs/2502.19414v1)|null|
+|**2025-02-26**|**The Mighty ToRR: A Benchmark for Table Reasoning and Robustness**|Shir Ashury-Tahan et.al.|[2502.19412v1](http://arxiv.org/abs/2502.19412v1)|null|
+|**2025-02-26**|**Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs**|Dayu Yang et.al.|[2502.19411v1](http://arxiv.org/abs/2502.19411v1)|null|
+|**2025-02-26**|**ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models**|Danae Sánchez Villegas et.al.|[2502.19409v1](http://arxiv.org/abs/2502.19409v1)|null|
+|**2025-02-26**|**General Reasoning Requires Learning to Reason from the Get-go**|Seungwook Han et.al.|[2502.19402v1](http://arxiv.org/abs/2502.19402v1)|null|
+|**2025-02-26**|**TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding**|Max Ku et.al.|[2502.19400v1](http://arxiv.org/abs/2502.19400v1)|null|
+|**2025-02-26**|**The End of Easy Phenomenology for CMB Experiments: A Case Study in the Dark Sector**|Cynthia Trendafilova et.al.|[2502.19383v1](http://arxiv.org/abs/2502.19383v1)|null|
+|**2025-02-26**|**Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning?**|Yancheng He et.al.|[2502.19361v1](http://arxiv.org/abs/2502.19361v1)|null|
+|**2025-02-26**|**The Simulation Semantics of Synthesisable Verilog**|Andreas Lööw et.al.|[2502.19348v1](http://arxiv.org/abs/2502.19348v1)|null|
+|**2025-02-26**|**Faithful Logic Embeddings in HOL -- A recipe to have it all: deep and shallow, automated and interactive, heavy and light, proofs and counterexamples, meta and object level**|Christoph Benzmüller et.al.|[2502.19311v1](http://arxiv.org/abs/2502.19311v1)|null|
+|**2025-02-26**|**Generalization Problems with Atom-Variables in Languages with Binders and Equational Theories**|Daniele Nantes-Sobrinho et.al.|[2502.19306v1](http://arxiv.org/abs/2502.19306v1)|null|
+|**2025-02-26**|**Complex LLM Planning via Automated Heuristics Discovery**|Hongyi Ling et.al.|[2502.19295v1](http://arxiv.org/abs/2502.19295v1)|null|
+|**2025-02-26**|**Dynamical cluster-based optimization of tensor network algorithms for quantum circuit simulations**|Andrea De Girolamo et.al.|[2502.19289v1](http://arxiv.org/abs/2502.19289v1)|null|
+|**2025-02-26**|**Equational Reasoning Modulo Commutativity in Languages with Binders (Extended Version)**|Ali K. Caires-Santos et.al.|[2502.19287v1](http://arxiv.org/abs/2502.19287v1)|null|
+|**2025-02-26**|**Two Heads Are Better Than One: Dual-Model Verbal Reflection at Inference-Time**|Jiazheng Li et.al.|[2502.19230v1](http://arxiv.org/abs/2502.19230v1)|null|
+|**2025-02-26**|**BIG-Bench Extra Hard**|Mehran Kazemi et.al.|[2502.19187v1](http://arxiv.org/abs/2502.19187v1)|null|
+|**2025-02-26**|**MEDDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis**|Daniel Rose et.al.|[2502.19175v1](http://arxiv.org/abs/2502.19175v1)|null|
+|**2025-02-26**|**A Temporal Planning Framework for Multi-Agent Systems via LLM-Aided Knowledge Base Management**|Enrico Saccon et.al.|[2502.19135v1](http://arxiv.org/abs/2502.19135v1)|null|
+|**2025-02-26**|**Voting or Consensus? Decision-Making in Multi-Agent Debate**|Lars Benedikt Kaesberg et.al.|[2502.19130v1](http://arxiv.org/abs/2502.19130v1)|null|
+|**2025-02-26**|**Nexus: A Lightweight and Scalable Multi-Agent Framework for Complex Tasks Automation**|Humza Sami et.al.|[2502.19091v1](http://arxiv.org/abs/2502.19091v1)|[link](https://github.com/PrimisAI/nexus)|
+|**2025-02-26**|**EndoMamba: An Efficient Foundation Model for Endoscopic Videos**|Qingyao Tian et.al.|[2502.19090v1](http://arxiv.org/abs/2502.19090v1)|null|
+|**2025-02-26**|**Cylindrical and Möbius Quantum Codes for Asymmetric Pauli Errors**|Lorenzo Valentini et.al.|[2502.19089v1](http://arxiv.org/abs/2502.19089v1)|null|
+|**2025-02-26**|**Firewall boundaries and mixed phases of rotating quark matter in linear sigma model**|Sergio Morales-Tejera et.al.|[2502.19087v1](http://arxiv.org/abs/2502.19087v1)|null|
+|**2025-02-26**|**Improving the quality of Web-mined Parallel Corpora of Low-Resource Languages using Debiasing Heuristics**|Aloka Fernando et.al.|[2502.19074v1](http://arxiv.org/abs/2502.19074v1)|null|
+|**2025-02-26**|**MathClean: A Benchmark for Synthetic Mathematical Data Cleaning**|Hao Liang et.al.|[2502.19058v1](http://arxiv.org/abs/2502.19058v1)|null|
+|**2025-02-26**|**Dealing with Inconsistency for Reasoning over Knowledge Graphs: A Survey**|Anastasios Nentidis et.al.|[2502.19023v1](http://arxiv.org/abs/2502.19023v1)|null|
+|**2025-02-26**|**MEBench: Benchmarking Large Language Models for Cross-Document Multi-Entity Question Answering**|Teng Lin et.al.|[2502.18993v1](http://arxiv.org/abs/2502.18993v1)|null|
+|**2025-02-26**|**OntologyRAG: Better and Faster Biomedical Code Mapping with Retrieval-Augmented Generation (RAG) Leveraging Ontology Knowledge Graphs and Large Language Models**|Hui Feng et.al.|[2502.18992v1](http://arxiv.org/abs/2502.18992v1)|null|
+|**2025-02-26**|**A Dynamic UAVs Cooperative Suppressive Jamming Method with Joint Task Assignment and Bandwidth Allocation**|Ruiqing Han et.al.|[2502.18957v1](http://arxiv.org/abs/2502.18957v1)|null|
