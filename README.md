@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-02 21:24:50 Asia/Shanghai
+ Automated deployment @ 2025-03-03 09:37:07 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -29,8 +29,8 @@
 |**2025-02-27**|**Bisecting K-Means in RAG for Enhancing Question-Answering Tasks Performance in Telecommunications**|Pedro Sousa et.al.|[2502.20188v1](http://arxiv.org/abs/2502.20188v1)|null|
 |**2025-02-27**|**An Extensive Evaluation of PDDL Capabilities in off-the-shelf LLMs**|Kaustubh Vyas et.al.|[2502.20175v1](http://arxiv.org/abs/2502.20175v1)|null|
 |**2025-02-27**|**Transfer Learning in Latent Contextual Bandits with Covariate Shift Through Causal Transportability**|Mingwei Deng et.al.|[2502.20153v1](http://arxiv.org/abs/2502.20153v1)|null|
-|**2025-02-27**|**Self-Training Elicits Concise Reasoning in Large Language Models**|Tergel Munkhbat et.al.|[2502.20122v1](http://arxiv.org/abs/2502.20122v1)|null|
-|**2025-02-27**|**New Dataset and Methods for Fine-Grained Compositional Referring Expression Comprehension via Specialist-MLLM Collaboration**|Xuzheng Yang et.al.|[2502.20104v1](http://arxiv.org/abs/2502.20104v1)|null|
+|**2025-02-27**|**Self-Training Elicits Concise Reasoning in Large Language Models**|Tergel Munkhbat et.al.|[2502.20122v2](http://arxiv.org/abs/2502.20122v2)|null|
+|**2025-02-27**|**New Dataset and Methods for Fine-Grained Compositional Referring Expression Comprehension via Specialist-MLLM Collaboration**|Xuzheng Yang et.al.|[2502.20104v2](http://arxiv.org/abs/2502.20104v2)|null|
 |**2025-02-27**|**3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds**|Hengshuo Chu et.al.|[2502.20041v1](http://arxiv.org/abs/2502.20041v1)|null|
 |**2025-02-27**|**Homeostatic Kinematic Growth Model for Arteries -- Residual Stresses and Active Response**|Klemens Uhlmann et.al.|[2502.20024v1](http://arxiv.org/abs/2502.20024v1)|null|
 |**2025-02-27**|**The Lookahead Limitation: Why Multi-Operand Addition is Hard for LLMs**|Tanja Baeumel et.al.|[2502.19981v1](http://arxiv.org/abs/2502.19981v1)|null|
