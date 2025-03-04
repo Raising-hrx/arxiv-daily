@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-04 09:35:45 Asia/Shanghai
+ Automated deployment @ 2025-03-04 20:38:37 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -35,6 +35,6 @@
 |**2025-02-28**|**VLEER: Vision and Language Embeddings for Explainable Whole Slide Image Representation**|Anh Tien Nguyen et.al.|[2502.20850v1](http://arxiv.org/abs/2502.20850v1)|null|
 |**2025-02-28**|**Neuro-Symbolic Learning for Galois Groups: Unveiling Probabilistic Trends in Polynomials**|Elira Shaska et.al.|[2502.20844v1](http://arxiv.org/abs/2502.20844v1)|null|
 |**2025-02-28**|**CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval**|Zelong Sun et.al.|[2502.20826v1](http://arxiv.org/abs/2502.20826v1)|null|
-|**2025-02-28**|**MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts**|Peijie Wang et.al.|[2502.20808v1](http://arxiv.org/abs/2502.20808v1)|null|
+|**2025-02-28**|**MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts**|Peijie Wang et.al.|[2502.20808v2](http://arxiv.org/abs/2502.20808v2)|null|
 |**2025-02-28**|**Digital Player: Evaluating Large Language Models based Human-like Agent in Games**|Jiawei Wang et.al.|[2502.20807v1](http://arxiv.org/abs/2502.20807v1)|null|
 |**2025-02-28**|**Photon-ALP beam propagation from Mrk 501**|L. J. Dong et.al.|[2502.20804v1](http://arxiv.org/abs/2502.20804v1)|null|
