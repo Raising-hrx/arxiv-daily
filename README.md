@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-06 21:05:58 Asia/Shanghai
+ Automated deployment @ 2025-03-07 09:36:45 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -19,16 +19,16 @@
 |**2025-03-05**|**Theory of Cation Solvation in the Helmholtz Layer of Li-ion Battery Electrolytes**|Zachary A. H. Goodwin et.al.|[2503.03616v1](http://arxiv.org/abs/2503.03616v1)|null|
 |**2025-03-05**|**Enhancing the Accuracy and Comprehensibility in Architectural Tactics Detection via Small Model-Augmented Prompt Engineering**|Lingli Cao et.al.|[2503.03609v1](http://arxiv.org/abs/2503.03609v1)|null|
 |**2025-03-05**|**Psy-Insight: Explainable Multi-turn Bilingual Dataset for Mental Health Counseling**|Keqi Chen et.al.|[2503.03607v1](http://arxiv.org/abs/2503.03607v1)|null|
-|**2025-03-05**|**Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection**|Wenqiao Li et.al.|[2503.03562v1](http://arxiv.org/abs/2503.03562v1)|null|
+|**2025-03-05**|**Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection**|Wenqiao Li et.al.|[2503.03562v2](http://arxiv.org/abs/2503.03562v2)|null|
 |**2025-03-05**|**Afford-X: Generalizable and Slim Affordance Reasoning for Task-oriented Manipulation**|Xiaomeng Zhu et.al.|[2503.03556v1](http://arxiv.org/abs/2503.03556v1)|null|
 |**2025-03-05**|**Uncovering hidden resonances in non-Hermitian systems with scattering thresholds**|Fridtjof Betz et.al.|[2503.03549v1](http://arxiv.org/abs/2503.03549v1)|null|
 |**2025-03-05**|**Generative Artificial Intelligence in Robotic Manipulation: A Survey**|Kun Zhang et.al.|[2503.03464v1](http://arxiv.org/abs/2503.03464v1)|null|
-|**2025-03-05**|**Unified Mind Model: Reimagining Autonomous Agents in the LLM Era**|Pengbo Hu et.al.|[2503.03459v1](http://arxiv.org/abs/2503.03459v1)|null|
+|**2025-03-05**|**Unified Mind Model: Reimagining Autonomous Agents in the LLM Era**|Pengbo Hu et.al.|[2503.03459v2](http://arxiv.org/abs/2503.03459v2)|null|
 |**2025-03-05**|**Taxation Perspectives from Large Language Models: A Case Study on Additional Tax Penalties**|Eunkyung Choi et.al.|[2503.03444v1](http://arxiv.org/abs/2503.03444v1)|null|
 |**2025-03-05**|**Nearest Neighbor Searching in a Dynamic Simple Polygon**|Sarita de Berg et.al.|[2503.03435v1](http://arxiv.org/abs/2503.03435v1)|null|
 |**2025-03-05**|**EnigmaToM: Improve LLMs' Theory-of-Mind Reasoning Capabilities with Neural Knowledge Base of Entity States**|Hainiu Xu et.al.|[2503.03340v1](http://arxiv.org/abs/2503.03340v1)|null|
 |**2025-03-05**|**Luminosity and stellar mass functions of faint photometric satellites around spectroscopic central galaxies from DESI Year-1 Bright Galaxy Survey**|Wenting Wang et.al.|[2503.03317v1](http://arxiv.org/abs/2503.03317v1)|null|
-|**2025-03-05**|**The Box is in the Pen: Evaluating Commonsense Reasoning in Neural Machine Translation**|Jie He et.al.|[2503.03308v1](http://arxiv.org/abs/2503.03308v1)|null|
+|**2025-03-05**|**The Box is in the Pen: Evaluating Commonsense Reasoning in Neural Machine Translation**|Jie He et.al.|[2503.03308v1](http://arxiv.org/abs/2503.03308v1)|[link](https://github.com/tjunlp-lab/commonmt)|
 |**2025-03-05**|**Enhancing Vietnamese VQA through Curriculum Learning on Raw and Augmented Text Representations**|Khoi Anh Nguyen et.al.|[2503.03285v1](http://arxiv.org/abs/2503.03285v1)|null|
 |**2025-03-05**|**Can Frontier LLMs Replace Annotators in Biomedical Text Mining? Analyzing Challenges and Exploring Solutions**|Yichong Zhao et.al.|[2503.03261v1](http://arxiv.org/abs/2503.03261v1)|null|
 |**2025-03-05**|**FANS -- Formal Answer Selection for Natural Language Math Reasoning Using Lean4**|Jiarui Yao et.al.|[2503.03238v1](http://arxiv.org/abs/2503.03238v1)|null|
@@ -36,5 +36,5 @@
 |**2025-03-05**|**PolyVer: A Compositional Approach for Polyglot System Modeling and Verification**|Pei-Wei Chen et.al.|[2503.03207v1](http://arxiv.org/abs/2503.03207v1)|null|
 |**2025-03-05**|**MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving**|Ruida Wang et.al.|[2503.03205v1](http://arxiv.org/abs/2503.03205v1)|null|
 |**2025-03-05**|**Structured Outputs Enable General-Purpose LLMs to be Medical Experts**|Guangfu Guo et.al.|[2503.03194v1](http://arxiv.org/abs/2503.03194v1)|null|
-|**2025-03-05**|**DSPNet: Dual-vision Scene Perception for Robust 3D Question Answering**|Jingzhou Luo et.al.|[2503.03190v1](http://arxiv.org/abs/2503.03190v1)|[link](https://github.com/LZ-CH/DSPNet)|
+|**2025-03-05**|**DSPNet: Dual-vision Scene Perception for Robust 3D Question Answering**|Jingzhou Luo et.al.|[2503.03190v2](http://arxiv.org/abs/2503.03190v2)|[link](https://github.com/LZ-CH/DSPNet)|
 |**2025-03-05**|**AttackSeqBench: Benchmarking Large Language Models' Understanding of Sequential Patterns in Cyber Attacks**|Javier Yong et.al.|[2503.03170v1](http://arxiv.org/abs/2503.03170v1)|[link](https://github.com/Javiery3889/AttackSeqBench)|
