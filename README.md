@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-07 09:36:45 Asia/Shanghai
+ Automated deployment @ 2025-03-07 20:37:46 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,33 +8,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-05**|**PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning**|Ryozo Masukawa et.al.|[2503.03747v1](http://arxiv.org/abs/2503.03747v1)|null|
-|**2025-03-05**|**Process-based Self-Rewarding Language Models**|Shimao Zhang et.al.|[2503.03746v1](http://arxiv.org/abs/2503.03746v1)|null|
-|**2025-03-05**|**Towards Understanding Distilled Reasoning Models: A Representational Approach**|David D. Baek et.al.|[2503.03730v1](http://arxiv.org/abs/2503.03730v1)|null|
-|**2025-03-05**|**A Practical Memory Injection Attack against LLM Agents**|Shen Dong et.al.|[2503.03704v1](http://arxiv.org/abs/2503.03704v1)|null|
-|**2025-03-05**|**ILLC: Iterative Layer-by-Layer Compression for Enhancing Structural Faithfulness in SpArX**|Ungsik Kim et.al.|[2503.03693v1](http://arxiv.org/abs/2503.03693v1)|null|
-|**2025-03-05**|**Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models**|Bar Karov et.al.|[2503.03669v1](http://arxiv.org/abs/2503.03669v1)|null|
-|**2025-03-05**|**Analogical Reasoning Inside Large Language Models: Concept Vectors and the Limits of Abstraction**|Gustaw Opiełka et.al.|[2503.03666v1](http://arxiv.org/abs/2503.03666v1)|null|
-|**2025-03-05**|**Psy-Copilot: Visual Chain of Thought for Counseling**|Keqi Chen et.al.|[2503.03645v1](http://arxiv.org/abs/2503.03645v1)|null|
-|**2025-03-05**|**Theory of Cation Solvation in the Helmholtz Layer of Li-ion Battery Electrolytes**|Zachary A. H. Goodwin et.al.|[2503.03616v1](http://arxiv.org/abs/2503.03616v1)|null|
-|**2025-03-05**|**Enhancing the Accuracy and Comprehensibility in Architectural Tactics Detection via Small Model-Augmented Prompt Engineering**|Lingli Cao et.al.|[2503.03609v1](http://arxiv.org/abs/2503.03609v1)|null|
-|**2025-03-05**|**Psy-Insight: Explainable Multi-turn Bilingual Dataset for Mental Health Counseling**|Keqi Chen et.al.|[2503.03607v1](http://arxiv.org/abs/2503.03607v1)|null|
-|**2025-03-05**|**Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection**|Wenqiao Li et.al.|[2503.03562v2](http://arxiv.org/abs/2503.03562v2)|null|
-|**2025-03-05**|**Afford-X: Generalizable and Slim Affordance Reasoning for Task-oriented Manipulation**|Xiaomeng Zhu et.al.|[2503.03556v1](http://arxiv.org/abs/2503.03556v1)|null|
-|**2025-03-05**|**Uncovering hidden resonances in non-Hermitian systems with scattering thresholds**|Fridtjof Betz et.al.|[2503.03549v1](http://arxiv.org/abs/2503.03549v1)|null|
-|**2025-03-05**|**Generative Artificial Intelligence in Robotic Manipulation: A Survey**|Kun Zhang et.al.|[2503.03464v1](http://arxiv.org/abs/2503.03464v1)|null|
-|**2025-03-05**|**Unified Mind Model: Reimagining Autonomous Agents in the LLM Era**|Pengbo Hu et.al.|[2503.03459v2](http://arxiv.org/abs/2503.03459v2)|null|
-|**2025-03-05**|**Taxation Perspectives from Large Language Models: A Case Study on Additional Tax Penalties**|Eunkyung Choi et.al.|[2503.03444v1](http://arxiv.org/abs/2503.03444v1)|null|
-|**2025-03-05**|**Nearest Neighbor Searching in a Dynamic Simple Polygon**|Sarita de Berg et.al.|[2503.03435v1](http://arxiv.org/abs/2503.03435v1)|null|
-|**2025-03-05**|**EnigmaToM: Improve LLMs' Theory-of-Mind Reasoning Capabilities with Neural Knowledge Base of Entity States**|Hainiu Xu et.al.|[2503.03340v1](http://arxiv.org/abs/2503.03340v1)|null|
-|**2025-03-05**|**Luminosity and stellar mass functions of faint photometric satellites around spectroscopic central galaxies from DESI Year-1 Bright Galaxy Survey**|Wenting Wang et.al.|[2503.03317v1](http://arxiv.org/abs/2503.03317v1)|null|
-|**2025-03-05**|**The Box is in the Pen: Evaluating Commonsense Reasoning in Neural Machine Translation**|Jie He et.al.|[2503.03308v1](http://arxiv.org/abs/2503.03308v1)|[link](https://github.com/tjunlp-lab/commonmt)|
-|**2025-03-05**|**Enhancing Vietnamese VQA through Curriculum Learning on Raw and Augmented Text Representations**|Khoi Anh Nguyen et.al.|[2503.03285v1](http://arxiv.org/abs/2503.03285v1)|null|
-|**2025-03-05**|**Can Frontier LLMs Replace Annotators in Biomedical Text Mining? Analyzing Challenges and Exploring Solutions**|Yichong Zhao et.al.|[2503.03261v1](http://arxiv.org/abs/2503.03261v1)|null|
-|**2025-03-05**|**FANS -- Formal Answer Selection for Natural Language Math Reasoning Using Lean4**|Jiarui Yao et.al.|[2503.03238v1](http://arxiv.org/abs/2503.03238v1)|null|
-|**2025-03-05**|**COSINT-Agent: A Knowledge-Driven Multimodal Agent for Chinese Open Source Intelligence**|Wentao Li et.al.|[2503.03215v1](http://arxiv.org/abs/2503.03215v1)|null|
-|**2025-03-05**|**PolyVer: A Compositional Approach for Polyglot System Modeling and Verification**|Pei-Wei Chen et.al.|[2503.03207v1](http://arxiv.org/abs/2503.03207v1)|null|
-|**2025-03-05**|**MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving**|Ruida Wang et.al.|[2503.03205v1](http://arxiv.org/abs/2503.03205v1)|null|
-|**2025-03-05**|**Structured Outputs Enable General-Purpose LLMs to be Medical Experts**|Guangfu Guo et.al.|[2503.03194v1](http://arxiv.org/abs/2503.03194v1)|null|
-|**2025-03-05**|**DSPNet: Dual-vision Scene Perception for Robust 3D Question Answering**|Jingzhou Luo et.al.|[2503.03190v2](http://arxiv.org/abs/2503.03190v2)|[link](https://github.com/LZ-CH/DSPNet)|
-|**2025-03-05**|**AttackSeqBench: Benchmarking Large Language Models' Understanding of Sequential Patterns in Cyber Attacks**|Javier Yong et.al.|[2503.03170v1](http://arxiv.org/abs/2503.03170v1)|[link](https://github.com/Javiery3889/AttackSeqBench)|
+|**2025-03-06**|**Shifting Long-Context LLMs Research from Input to Output**|Yuhao Wu et.al.|[2503.04723v1](http://arxiv.org/abs/2503.04723v1)|null|
+|**2025-03-06**|**Enough Coin Flips Can Make LLMs Act Bayesian**|Ritwik Gupta et.al.|[2503.04722v1](http://arxiv.org/abs/2503.04722v1)|null|
+|**2025-03-06**|**L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning**|Pranjal Aggarwal et.al.|[2503.04697v1](http://arxiv.org/abs/2503.04697v1)|null|
+|**2025-03-06**|**UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets**|Wenyu Wang et.al.|[2503.04693v1](http://arxiv.org/abs/2503.04693v1)|null|
+|**2025-03-06**|**Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases**|Pengcheng Qiu et.al.|[2503.04691v1](http://arxiv.org/abs/2503.04691v1)|null|
+|**2025-03-06**|**DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module**|Krish Sharma et.al.|[2503.04685v1](http://arxiv.org/abs/2503.04685v1)|null|
+|**2025-03-06**|**Matrix Factorization for Inferring Associations and Missing Links**|Ryan Barron et.al.|[2503.04680v1](http://arxiv.org/abs/2503.04680v1)|null|
+|**2025-03-06**|**LLM-guided Plan and Retrieval: A Strategic Alignment for Interpretable User Satisfaction Estimation in Dialogue**|Sangyeop Kim et.al.|[2503.04675v1](http://arxiv.org/abs/2503.04675v1)|null|
+|**2025-03-06**|**START: Self-taught Reasoner with Tools**|Chengpeng Li et.al.|[2503.04625v1](http://arxiv.org/abs/2503.04625v1)|null|
+|**2025-03-06**|**Better Process Supervision with Bi-directional Rewarding Signals**|Wenxiang Chen et.al.|[2503.04618v1](http://arxiv.org/abs/2503.04618v1)|null|
+|**2025-03-06**|**Compositional Causal Reasoning Evaluation in Language Models**|Jacqueline R. M. A. Maasch et.al.|[2503.04556v1](http://arxiv.org/abs/2503.04556v1)|null|
+|**2025-03-06**|**Benchmarking Reasoning Robustness in Large Language Models**|Tong Yu et.al.|[2503.04550v1](http://arxiv.org/abs/2503.04550v1)|null|
+|**2025-03-06**|**An Empirical Study on Eliciting and Improving R1-like Reasoning Models**|Zhipeng Chen et.al.|[2503.04548v1](http://arxiv.org/abs/2503.04548v1)|null|
+|**2025-03-06**|**Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model**|Wenke Huang et.al.|[2503.04543v1](http://arxiv.org/abs/2503.04543v1)|null|
+|**2025-03-06**|**SOLAR: Scalable Optimization of Large-scale Architecture for Reasoning**|Chen Li et.al.|[2503.04530v1](http://arxiv.org/abs/2503.04530v1)|null|
+|**2025-03-06**|**Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs**|Kwing Hei Li et.al.|[2503.04512v1](http://arxiv.org/abs/2503.04512v1)|null|
+|**2025-03-06**|**ToolFuzz -- Automated Agent Tool Testing**|Ivan Milev et.al.|[2503.04479v1](http://arxiv.org/abs/2503.04479v1)|null|
+|**2025-03-06**|**DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models**|Yi Shen et.al.|[2503.04472v1](http://arxiv.org/abs/2503.04472v1)|null|
+|**2025-03-06**|**An artificially intelligent magnetic resonance spectroscopy quantification method: Comparison between QNet and LCModel on the cloud computing platform CloudBrain-MRS**|Meijin Lin et.al.|[2503.04469v1](http://arxiv.org/abs/2503.04469v1)|null|
+|**2025-03-06**|**Question-Aware Gaussian Experts for Audio-Visual Question Answering**|Hongyeob Kim et.al.|[2503.04459v1](http://arxiv.org/abs/2503.04459v1)|[link](https://github.com/AIM-SKKU/QA-TIGER)|
+|**2025-03-06**|**ToFu: Visual Tokens Reduction via Fusion for Multi-modal, Multi-patch, Multi-image Task**|Vittorio Pippi et.al.|[2503.04444v1](http://arxiv.org/abs/2503.04444v1)|null|
+|**2025-03-06**|**PDX: A Data Layout for Vector Similarity Search**|Leonardo Kuffo et.al.|[2503.04422v1](http://arxiv.org/abs/2503.04422v1)|null|
+|**2025-03-06**|**On the Analysis of Stability, Sensitivity and Transparency in Variable Admittance Control for pHRI Enhanced by Virtual Fixtures**|Davide Tebaldi et.al.|[2503.04414v1](http://arxiv.org/abs/2503.04414v1)|null|
+|**2025-03-06**|**Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search**|Kou Misaki et.al.|[2503.04412v1](http://arxiv.org/abs/2503.04412v1)|null|
+|**2025-03-06**|**TRACT: Regression-Aware Fine-tuning Meets Chain-of-Thought Reasoning for LLM-as-a-Judge**|Cheng-Han Chiang et.al.|[2503.04381v1](http://arxiv.org/abs/2503.04381v1)|null|
+|**2025-03-06**|**Dedicated Feedback and Edit Models Empower Inference-Time Scaling for Open-Ended General-Domain Tasks**|Zhilin Wang et.al.|[2503.04378v1](http://arxiv.org/abs/2503.04378v1)|null|
+|**2025-03-06**|**Causally Reliable Concept Bottleneck Models**|Giovanni De Felice et.al.|[2503.04363v1](http://arxiv.org/abs/2503.04363v1)|null|
+|**2025-03-06**|**EP240801a/XRF 240801B: An X-ray Flash Detected by the Einstein Probe and Implications of its Multiband Afterglow**|Shuai-Qing Jiang et.al.|[2503.04306v1](http://arxiv.org/abs/2503.04306v1)|null|
+|**2025-03-06**|**Simple Fault Localization using Execution Traces**|Julian Aron Prenner et.al.|[2503.04301v1](http://arxiv.org/abs/2503.04301v1)|null|
+|**2025-03-06**|**Spherical accretion in the Schwarzschild spacetime in the Newtonian analogous construct**|Shubhrangshu Ghosh et.al.|[2503.04275v1](http://arxiv.org/abs/2503.04275v1)|null|
