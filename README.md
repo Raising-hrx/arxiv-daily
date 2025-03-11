@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-10 21:13:51 Asia/Shanghai
+ Automated deployment @ 2025-03-11 09:36:45 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -31,7 +31,7 @@
 |**2025-03-07**|**Rewarding Curse: Analyze and Mitigate Reward Modeling Issues for LLM Reasoning**|Jiachun Li et.al.|[2503.05188v1](http://arxiv.org/abs/2503.05188v1)|null|
 |**2025-03-07**|**Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching**|Simon A. Aytes et.al.|[2503.05179v1](http://arxiv.org/abs/2503.05179v1)|null|
 |**2025-03-07**|**RocketEval: Efficient Automated LLM Evaluation via Grading Checklist**|Tianjun Wei et.al.|[2503.05142v1](http://arxiv.org/abs/2503.05142v1)|null|
-|**2025-03-07**|**R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model**|Hengguang Zhou et.al.|[2503.05132v1](http://arxiv.org/abs/2503.05132v1)|null|
+|**2025-03-07**|**R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model**|Hengguang Zhou et.al.|[2503.05132v2](http://arxiv.org/abs/2503.05132v2)|null|
 |**2025-03-07**|**Perceiving, Reasoning, Adapting: A Dual-Layer Framework for VLM-Guided Precision Robotic Manipulation**|Qingxuan Jia et.al.|[2503.05064v1](http://arxiv.org/abs/2503.05064v1)|null|
 |**2025-03-07**|**SN 2024iss: Double-Peaked Light Curves and Implications for a Yellow Supergiant Progenitor**|Masayuki Yamanaka et.al.|[2503.05054v1](http://arxiv.org/abs/2503.05054v1)|null|
 |**2025-03-06**|**A Unified Framework with Novel Metrics for Evaluating the Effectiveness of XAI Techniques in LLMs**|Melkamu Abay Mersha et.al.|[2503.05050v1](http://arxiv.org/abs/2503.05050v1)|null|
