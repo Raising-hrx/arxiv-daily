@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-13 09:37:19 Asia/Shanghai
+ Automated deployment @ 2025-03-13 20:39:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,33 +8,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-11**|**QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long Video Comprehension**|Yongdong Luo et.al.|[2503.08689v1](http://arxiv.org/abs/2503.08689v1)|null|
-|**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[2503.08683v1](http://arxiv.org/abs/2503.08683v1)|null|
-|**2025-03-11**|**Chain-of-Thought Reasoning In The Wild Is Not Always Faithful**|Iván Arcuschin et.al.|[2503.08679v1](http://arxiv.org/abs/2503.08679v1)|null|
-|**2025-03-11**|**AgentOrca: A Dual-System Framework to Evaluate Language Agents on Operational Routine and Constraint Adherence**|Zekun Li et.al.|[2503.08669v1](http://arxiv.org/abs/2503.08669v1)|null|
-|**2025-03-11**|**Birds look like cars: Adversarial analysis of intrinsically interpretable deep learning**|Hubert Baniecki et.al.|[2503.08636v1](http://arxiv.org/abs/2503.08636v1)|null|
-|**2025-03-11**|**SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories**|Muzhi Zhu et.al.|[2503.08625v1](http://arxiv.org/abs/2503.08625v1)|null|
-|**2025-03-11**|**A Grid Cell-Inspired Structured Vector Algebra for Cognitive Maps**|Sven Krausse et.al.|[2503.08608v1](http://arxiv.org/abs/2503.08608v1)|null|
-|**2025-03-11**|**LiSu: A Dataset and Method for LiDAR Surface Normal Estimation**|Dušan Malić et.al.|[2503.08601v1](http://arxiv.org/abs/2503.08601v1)|null|
-|**2025-03-11**|**Proc4Gem: Foundation models for physical agency through procedural generation**|Yixin Lin et.al.|[2503.08593v1](http://arxiv.org/abs/2503.08593v1)|null|
-|**2025-03-11**|**Comparing Satellite Data for Next-Day Wildfire Predictability**|Justus Karlsson et.al.|[2503.08580v1](http://arxiv.org/abs/2503.08580v1)|null|
-|**2025-03-11**|**Modular Customization of Diffusion Models via Blockwise-Parameterized Low-Rank Adaptation**|Mingkang Zhu et.al.|[2503.08575v1](http://arxiv.org/abs/2503.08575v1)|null|
-|**2025-03-11**|**DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process**|Minjun Zhu et.al.|[2503.08569v1](http://arxiv.org/abs/2503.08569v1)|null|
-|**2025-03-11**|**Reasoning and Sampling-Augmented MCQ Difficulty Prediction via LLMs**|Wanyong Feng et.al.|[2503.08551v1](http://arxiv.org/abs/2503.08551v1)|null|
-|**2025-03-11**|**Mellow: a small audio language model for reasoning**|Soham Deshmukh et.al.|[2503.08540v1](http://arxiv.org/abs/2503.08540v1)|null|
-|**2025-03-11**|**Chemical reasoning in LLMs unlocks steerable synthesis planning and reaction mechanism elucidation**|Andres M Bran et.al.|[2503.08537v1](http://arxiv.org/abs/2503.08537v1)|null|
-|**2025-03-11**|**GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training**|Tong Wei et.al.|[2503.08525v1](http://arxiv.org/abs/2503.08525v1)|null|
-|**2025-03-11**|**LightPlanner: Unleashing the Reasoning Capabilities of Lightweight Large Language Models in Task Planning**|Weijie Zhou et.al.|[2503.08508v1](http://arxiv.org/abs/2503.08508v1)|[link](https://github.com/unira-zwj/LightPlanner)|
-|**2025-03-11**|**ReviewAgents: Bridging the Gap Between Human and AI-Generated Paper Reviews**|Xian Gao et.al.|[2503.08506v1](http://arxiv.org/abs/2503.08506v1)|null|
-|**2025-03-11**|**Enhancing Multi-Hop Fact Verification with Structured Knowledge-Augmented Large Language Models**|Han Cao et.al.|[2503.08495v1](http://arxiv.org/abs/2503.08495v1)|null|
-|**2025-03-11**|**PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability**|Weijie Zhou et.al.|[2503.08481v1](http://arxiv.org/abs/2503.08481v1)|[link](https://github.com/unira-zwj/PhysVLM)|
-|**2025-03-11**|**A symmetry-preserving and transferable representation for learning the Kohn-Sham density matrix**|Liwei Zhang et.al.|[2503.08400v1](http://arxiv.org/abs/2503.08400v1)|null|
-|**2025-03-11**|**Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification**|Susu Sun et.al.|[2503.08384v1](http://arxiv.org/abs/2503.08384v1)|null|
-|**2025-03-11**|**Efficient Query Verification for Blockchain Superlight Clients Using SNARKs**|Stefano De Angelis et.al.|[2503.08359v1](http://arxiv.org/abs/2503.08359v1)|null|
-|**2025-03-11**|**Robust Latent Matters: Boosting Image Generation with Sampling Error**|Kai Qiu et.al.|[2503.08354v1](http://arxiv.org/abs/2503.08354v1)|null|
-|**2025-03-11**|**KiteRunner: Language-Driven Cooperative Local-Global Navigation Policy with UAV Mapping in Outdoor Environments**|Shibo Huang et.al.|[2503.08330v1](http://arxiv.org/abs/2503.08330v1)|null|
-|**2025-03-11**|**Towards Scalable and Cross-Lingual Specialist Language Models for Oncology**|Morteza Rohanian et.al.|[2503.08323v1](http://arxiv.org/abs/2503.08323v1)|null|
-|**2025-03-11**|**Seeing and Reasoning with Confidence: Supercharging Multimodal LLMs with an Uncertainty-Aware Agentic Framework**|Zhuo Zhi et.al.|[2503.08308v1](http://arxiv.org/abs/2503.08308v1)|null|
-|**2025-03-11**|**Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach**|Steeven Janny et.al.|[2503.08306v1](http://arxiv.org/abs/2503.08306v1)|null|
-|**2025-03-11**|**General-Purpose Aerial Intelligent Agents Empowered by Large Language Models**|Ji Zhao et.al.|[2503.08302v1](http://arxiv.org/abs/2503.08302v1)|null|
-|**2025-03-11**|**A systematic literature review of unsupervised learning algorithms for anomalous traffic detection based on flows**|Alberto Miguel-Diez et.al.|[2503.08293v1](http://arxiv.org/abs/2503.08293v1)|null|
+|**2025-03-12**|**Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models**|Qiguang Chen et.al.|[2503.09567v1](http://arxiv.org/abs/2503.09567v1)|null|
+|**2025-03-12**|**CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games**|Peng Chen et.al.|[2503.09527v1](http://arxiv.org/abs/2503.09527v1)|null|
+|**2025-03-12**|**Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning**|Bowen Jin et.al.|[2503.09516v1](http://arxiv.org/abs/2503.09516v1)|null|
+|**2025-03-12**|**Reinforcement Learning is all You Need**|Yongsheng Lian et.al.|[2503.09512v1](http://arxiv.org/abs/2503.09512v1)|null|
+|**2025-03-12**|**Automating Code Review: A Systematic Literature Review**|Rosalia Tufano et.al.|[2503.09510v1](http://arxiv.org/abs/2503.09510v1)|null|
+|**2025-03-12**|**ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement Learning**|Ziyu Wan et.al.|[2503.09501v1](http://arxiv.org/abs/2503.09501v1)|null|
+|**2025-03-12**|**MindGYM: Enhancing Vision-Language Models via Synthetic Self-Challenging Questions**|Zhe Xu et.al.|[2503.09499v1](http://arxiv.org/abs/2503.09499v1)|null|
+|**2025-03-12**|**Parameter-Efficient Adaptation of Geospatial Foundation Models through Embedding Deflection**|Romain Thoreau et.al.|[2503.09493v1](http://arxiv.org/abs/2503.09493v1)|null|
+|**2025-03-12**|**Sequential Quadratic Optimization for Solving Expectation Equality Constrained Stochastic Optimization Problems**|Haoming Shen et.al.|[2503.09490v1](http://arxiv.org/abs/2503.09490v1)|null|
+|**2025-03-12**|**How Well Does Your Tabular Generator Learn the Structure of Tabular Data?**|Xiangjian Jiang et.al.|[2503.09453v1](http://arxiv.org/abs/2503.09453v1)|null|
+|**2025-03-12**|**Neural-Augmented Incremental Nonlinear Dynamic Inversion for Quadrotors with Payload Adaptation**|Eckart Cobo-Briesewitz et.al.|[2503.09441v1](http://arxiv.org/abs/2503.09441v1)|null|
+|**2025-03-12**|**VLog: Video-Language Models by Generative Retrieval of Narration Vocabulary**|Kevin Qinghong Lin et.al.|[2503.09402v1](http://arxiv.org/abs/2503.09402v1)|null|
+|**2025-03-12**|**Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs**|Jiani Huang et.al.|[2503.09382v1](http://arxiv.org/abs/2503.09382v1)|null|
+|**2025-03-12**|**A Survey on Enhancing Causal Reasoning Ability of Large Language Models**|Xin Li et.al.|[2503.09326v1](http://arxiv.org/abs/2503.09326v1)|null|
+|**2025-03-12**|**2HandedAfforder: Learning Precise Actionable Bimanual Affordances from Human Videos**|Marvin Heidinger et.al.|[2503.09320v1](http://arxiv.org/abs/2503.09320v1)|null|
+|**2025-03-12**|**Fourier shape parametrization in covariant density functional theory for nuclear fission**|Zeyu Li et.al.|[2503.09308v1](http://arxiv.org/abs/2503.09308v1)|null|
+|**2025-03-12**|**eV-scale sterile neutrino: A window open to non-unitarity?**|Hisakazu Minakata et.al.|[2503.09280v1](http://arxiv.org/abs/2503.09280v1)|null|
+|**2025-03-12**|**How To Make Your Cell Tracker Say "I dunno!"**|Richard D. Paul et.al.|[2503.09244v1](http://arxiv.org/abs/2503.09244v1)|null|
+|**2025-03-12**|**In-Context Defense in Computer Agents: An Empirical Study**|Pei Yang et.al.|[2503.09241v1](http://arxiv.org/abs/2503.09241v1)|null|
+|**2025-03-12**|**City Models: Past, Present and Future Prospects**|Helge Ritter et.al.|[2503.09237v1](http://arxiv.org/abs/2503.09237v1)|null|
+|**2025-03-12**|**LREF: A Novel LLM-based Relevance Framework for E-commerce**|Tian Tang et.al.|[2503.09223v1](http://arxiv.org/abs/2503.09223v1)|null|
+|**2025-03-12**|**Learning Appearance and Motion Cues for Panoptic Tracking**|Juana Valeria Hurtado et.al.|[2503.09191v1](http://arxiv.org/abs/2503.09191v1)|null|
+|**2025-03-12**|**Is LLMs Hallucination Usable? LLM-based Negative Reasoning for Fake News Detection**|Chaowei Zhang et.al.|[2503.09153v1](http://arxiv.org/abs/2503.09153v1)|null|
+|**2025-03-12**|**Memory-enhanced Retrieval Augmentation for Long Video Understanding**|Huaying Yuan et.al.|[2503.09149v1](http://arxiv.org/abs/2503.09149v1)|null|
+|**2025-03-12**|**C^2 ATTACK: Towards Representation Backdoor on CLIP via Concept Confusion**|Lijie Hu et.al.|[2503.09095v1](http://arxiv.org/abs/2503.09095v1)|null|
+|**2025-03-12**|**LocAgent: Graph-Guided LLM Agents for Code Localization**|Zhaoling Chen et.al.|[2503.09089v1](http://arxiv.org/abs/2503.09089v1)|null|
+|**2025-03-12**|**Everything Can Be Described in Words: A Simple Unified Multi-Modal Framework with Semantic and Temporal Alignment**|Xiaowei Bi et.al.|[2503.09081v1](http://arxiv.org/abs/2503.09081v1)|null|
+|**2025-03-12**|**Adaptive Backdoor Attacks with Reasonable Constraints on Graph Neural Networks**|Xuewen Dong et.al.|[2503.09049v1](http://arxiv.org/abs/2503.09049v1)|null|
+|**2025-03-12**|**ManeuverGPT Agentic Control for Safe Autonomous Stunt Maneuvers**|Shawn Azdam et.al.|[2503.09035v1](http://arxiv.org/abs/2503.09035v1)|null|
+|**2025-03-12**|**Teaching LLMs How to Learn with Contextual Fine-Tuning**|Younwoo Choi et.al.|[2503.09032v1](http://arxiv.org/abs/2503.09032v1)|null|
