@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-18 09:37:37 Asia/Shanghai
+ Automated deployment @ 2025-03-18 20:39:57 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,33 +8,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-14**|**Neutralizing Bias in LLM Reasoning using Entailment Graphs**|Liang Cheng et.al.|[2503.11614v1](http://arxiv.org/abs/2503.11614v1)|null|
-|**2025-03-14**|**On the spectrum of limit models**|Jeremy Beard et.al.|[2503.11605v1](http://arxiv.org/abs/2503.11605v1)|null|
-|**2025-03-14**|**Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs using Semantic Space**|Zhiliang Chen et.al.|[2503.11586v1](http://arxiv.org/abs/2503.11586v1)|null|
-|**2025-03-14**|**Implicit Bias-Like Patterns in Reasoning Models**|Messi H. J. Lee et.al.|[2503.11572v1](http://arxiv.org/abs/2503.11572v1)|null|
-|**2025-03-14**|**VERIFY: A Benchmark of Visual Explanation and Reasoning for Investigating Multimodal Reasoning Fidelity**|Jing Bi et.al.|[2503.11557v1](http://arxiv.org/abs/2503.11557v1)|null|
-|**2025-03-14**|**V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning**|Zixu Cheng et.al.|[2503.11495v1](http://arxiv.org/abs/2503.11495v1)|null|
-|**2025-03-14**|**A Review of DeepSeek Models' Key Innovative Techniques**|Chengen Wang et.al.|[2503.11486v1](http://arxiv.org/abs/2503.11486v1)|null|
-|**2025-03-14**|**The Road to Hybrid Quantum Programs: Characterizing the Evolution from Classical to Hybrid Quantum Software**|Vincenzo De Maio et.al.|[2503.11450v1](http://arxiv.org/abs/2503.11450v1)|null|
-|**2025-03-14**|**Combining Causal Models for More Accurate Abstractions of Neural Networks**|Theodora-Mara Pîslar et.al.|[2503.11429v1](http://arxiv.org/abs/2503.11429v1)|null|
-|**2025-03-14**|**A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**|Tin Stribor Sohn et.al.|[2503.11400v1](http://arxiv.org/abs/2503.11400v1)|null|
-|**2025-03-14**|**RESPONSE: Benchmarking the Ability of Language Models to Undertake Commonsense Reasoning in Crisis Situation**|Aissatou Diallo et.al.|[2503.11348v1](http://arxiv.org/abs/2503.11348v1)|null|
-|**2025-03-14**|**Road Rage Reasoning with Vision-language Models (VLMs): Task Definition and Evaluation Dataset**|Yibing Weng et.al.|[2503.11342v1](http://arxiv.org/abs/2503.11342v1)|null|
-|**2025-03-14**|**Rule-Guided Feedback: Enhancing Reasoning by Enforcing Rule Adherence in Large Language Models**|Aissatou Diallo et.al.|[2503.11336v1](http://arxiv.org/abs/2503.11336v1)|null|
-|**2025-03-14**|**Unlocking General Long Chain-of-Thought Reasoning Capabilities of Large Language Models via Representation Engineering**|Xinyu Tang et.al.|[2503.11314v1](http://arxiv.org/abs/2503.11314v1)|null|
-|**2025-03-14**|**Are formal and functional linguistic mechanisms dissociated?**|Michael Hanna et.al.|[2503.11302v1](http://arxiv.org/abs/2503.11302v1)|null|
-|**2025-03-14**|**EmoAgent: Multi-Agent Collaboration of Plan, Edit, and Critic, for Affective Image Manipulation**|Qi Mao et.al.|[2503.11290v1](http://arxiv.org/abs/2503.11290v1)|null|
-|**2025-03-14**|**Line of Duty: Evaluating LLM Self-Knowledge via Consistency in Feasibility Boundaries**|Sahil Kale et.al.|[2503.11256v1](http://arxiv.org/abs/2503.11256v1)|null|
-|**2025-03-14**|**Reasoning-Grounded Natural Language Explanations for Language Models**|Vojtech Cahlik et.al.|[2503.11248v1](http://arxiv.org/abs/2503.11248v1)|null|
-|**2025-03-14**|**Can Large Reasoning Models do Analogical Reasoning under Perceptual Uncertainty?**|Giacomo Camposampiero et.al.|[2503.11207v1](http://arxiv.org/abs/2503.11207v1)|null|
-|**2025-03-14**|**Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering**|Gang Li et.al.|[2503.11197v2](http://arxiv.org/abs/2503.11197v2)|[link](https://huggingface.co/mispeech/r1-aqa)|
-|**2025-03-14**|**Don't Take Things Out of Context: Attention Intervention for Enhancing Chain-of-Thought Reasoning in Large Language Models**|Shaotian Yan et.al.|[2503.11154v1](http://arxiv.org/abs/2503.11154v1)|null|
-|**2025-03-14**|**Minding Fuzzy Regions: A Data-driven Alternating Learning Paradigm for Stable Lesion Segmentation**|Lexin Fang et.al.|[2503.11140v1](http://arxiv.org/abs/2503.11140v1)|null|
-|**2025-03-14**|**Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering**|Kaixuan Jiang et.al.|[2503.11117v1](http://arxiv.org/abs/2503.11117v1)|null|
-|**2025-03-14**|**Quantifying Interpretability in CLIP Models with Concept Consistency**|Avinash Madasu et.al.|[2503.11103v1](http://arxiv.org/abs/2503.11103v1)|null|
-|**2025-03-14**|**Open3DVQA: A Benchmark for Comprehensive Spatial Reasoning with Multimodal Large Language Model in Open Space**|Weichen Zhan et.al.|[2503.11094v1](http://arxiv.org/abs/2503.11094v1)|null|
-|**2025-03-14**|**EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks**|Yi Zhang et.al.|[2503.11089v1](http://arxiv.org/abs/2503.11089v1)|null|
-|**2025-03-14**|**Large Reasoning Models in Agent Scenarios: Exploring the Necessity of Reasoning Capabilities**|Xueyang Zhou et.al.|[2503.11074v1](http://arxiv.org/abs/2503.11074v1)|null|
-|**2025-03-14**|**Falcon: A Remote Sensing Vision-Language Foundation Model**|Kelu Yao et.al.|[2503.11070v1](http://arxiv.org/abs/2503.11070v1)|null|
-|**2025-03-14**|**Unlocking Open-Set Language Accessibility in Vision Models**|Fawaz Sammani et.al.|[2503.10981v1](http://arxiv.org/abs/2503.10981v1)|null|
-|**2025-03-14**|**TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools**|Shanghua Gao et.al.|[2503.10970v1](http://arxiv.org/abs/2503.10970v1)|[link](https://huggingface.co/mims-harvard/ToolRAG-T1-GTE-Qwen2-1.5B)|
+|**2025-03-17**|**MetaScale: Test-Time Scaling with Evolving Meta-Thoughts**|Qin Liu et.al.|[2503.13447v1](http://arxiv.org/abs/2503.13447v1)|null|
+|**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444v1](http://arxiv.org/abs/2503.13444v1)|null|
+|**2025-03-17**|**MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling**|Yingyue Li et.al.|[2503.13440v1](http://arxiv.org/abs/2503.13440v1)|[link](https://github.com/hustvl/MaTVLM)|
+|**2025-03-17**|**Measuring In-Context Computation Complexity via Hidden State Prediction**|Vincent Herrmann et.al.|[2503.13431v1](http://arxiv.org/abs/2503.13431v1)|null|
+|**2025-03-17**|**Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes**|Nhi Pham et.al.|[2503.13429v1](http://arxiv.org/abs/2503.13429v1)|null|
+|**2025-03-17**|**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**|Maximilian Beck et.al.|[2503.13427v1](http://arxiv.org/abs/2503.13427v1)|null|
+|**2025-03-17**|**SuperBPE: Space Travel for Language Models**|Alisa Liu et.al.|[2503.13423v1](http://arxiv.org/abs/2503.13423v1)|null|
+|**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415v1](http://arxiv.org/abs/2503.13415v1)|null|
+|**2025-03-17**|**Toward Generative 6G Simulation: An Experimental Multi-Agent LLM and ns-3 Integration**|Farhad Rezazadeh et.al.|[2503.13402v1](http://arxiv.org/abs/2503.13402v1)|null|
+|**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399v1](http://arxiv.org/abs/2503.13399v1)|null|
+|**2025-03-17**|**TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM**|Ye Wang et.al.|[2503.13377v1](http://arxiv.org/abs/2503.13377v1)|null|
+|**2025-03-17**|**Sightation Counts: Leveraging Sighted User Feedback in Building a BLV-aligned Dataset of Diagram Descriptions**|Wan Ju Kang et.al.|[2503.13369v1](http://arxiv.org/abs/2503.13369v1)|null|
+|**2025-03-17**|**Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning**|Hai-Long Sun et.al.|[2503.13360v1](http://arxiv.org/abs/2503.13360v1)|null|
+|**2025-03-17**|**Agents Play Thousands of 3D Video Games**|Zhongwen Xu et.al.|[2503.13356v1](http://arxiv.org/abs/2503.13356v1)|null|
+|**2025-03-17**|**Valid Text-to-SQL Generation with Unification-based DeepStochLog**|Ying Jiao et.al.|[2503.13342v1](http://arxiv.org/abs/2503.13342v1)|[link](https://github.com/ML-KULeuven/deepstochlog-lm)|
+|**2025-03-17**|**Reliable and Efficient Amortized Model-based Evaluation**|Sang Truong et.al.|[2503.13335v1](http://arxiv.org/abs/2503.13335v1)|null|
+|**2025-03-17**|**The main reasons for matrices multiplying to zero**|Jakub Koncki et.al.|[2503.13326v1](http://arxiv.org/abs/2503.13326v1)|null|
+|**2025-03-17**|**$φ$-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation**|Fangzhi Xu et.al.|[2503.13288v1](http://arxiv.org/abs/2503.13288v1)|null|
+|**2025-03-17**|**Low-loss Nb on Si superconducting resonators from a dual-use spintronics deposition chamber and with acid-free post-processing**|Maciej W. Olszewski et.al.|[2503.13285v1](http://arxiv.org/abs/2503.13285v1)|null|
+|**2025-03-17**|**Knowledge-Aware Iterative Retrieval for Multi-Agent Systems**|Seyoung Song et.al.|[2503.13275v1](http://arxiv.org/abs/2503.13275v1)|null|
+|**2025-03-17**|**DAgent: A Relational Database-Driven Data Analysis Report Generation Agent**|Wenyi Xu et.al.|[2503.13269v1](http://arxiv.org/abs/2503.13269v1)|null|
+|**2025-03-17**|**Can Language Models Follow Multiple Turns of Entangled Instructions?**|Chi Han et.al.|[2503.13222v1](http://arxiv.org/abs/2503.13222v1)|null|
+|**2025-03-17**|**High-resolution computed tomography of two-dimensional beam profile using dual-axis rotating wire**|Rin Ota et.al.|[2503.13209v1](http://arxiv.org/abs/2503.13209v1)|null|
+|**2025-03-17**|**Improving Complex Reasoning with Dynamic Prompt Corruption: A soft prompt Optimization Approach**|Sinan Fan et.al.|[2503.13208v1](http://arxiv.org/abs/2503.13208v1)|null|
+|**2025-03-17**|**Stein's method of moment estimators for local dependency exponential random graph models**|Adrian Fischer et.al.|[2503.13191v1](http://arxiv.org/abs/2503.13191v1)|null|
+|**2025-03-17**|**3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o**|Dingning Liu et.al.|[2503.13185v1](http://arxiv.org/abs/2503.13185v1)|null|
+|**2025-03-17**|**Triad: Empowering LMM-based Anomaly Detection with Vision Expert-guided Visual Tokenizer and Manufacturing Process**|Yuanze Li et.al.|[2503.13184v1](http://arxiv.org/abs/2503.13184v1)|null|
+|**2025-03-17**|**Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding**|Weiyu Guo et.al.|[2503.13139v1](http://arxiv.org/abs/2503.13139v1)|null|
+|**2025-03-17**|**MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs**|Erik Daxberger et.al.|[2503.13111v1](http://arxiv.org/abs/2503.13111v1)|null|
+|**2025-03-17**|**Code-Driven Inductive Synthesis: Enhancing Reasoning Abilities of Large Language Models with Sequences**|Kedi Chen et.al.|[2503.13109v1](http://arxiv.org/abs/2503.13109v1)|null|
