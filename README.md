@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-24 21:15:43 Asia/Shanghai
+ Automated deployment @ 2025-03-25 09:39:03 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -22,7 +22,7 @@
 |**2025-03-21**|**Melnick 39 is a very massive intermediate-period colliding-wind binary**|A. M. T. Pollock et.al.|[2503.17150v1](http://arxiv.org/abs/2503.17150v1)|null|
 |**2025-03-21**|**Not Only Text: Exploring Compositionality of Visual Representations in Vision-Language Models**|Davide Berasi et.al.|[2503.17142v1](http://arxiv.org/abs/2503.17142v1)|null|
 |**2025-03-21**|**CoKe: Customizable Fine-Grained Story Evaluation via Chain-of-Keyword Rationalization**|Brihi Joshi et.al.|[2503.17136v1](http://arxiv.org/abs/2503.17136v1)|null|
-|**2025-03-21**|**Leveraging Language Models for Out-of-Distribution Recovery in Reinforcement Learning**|Chan Kim et.al.|[2503.17125v1](http://arxiv.org/abs/2503.17125v1)|null|
+|**2025-03-21**|**LaMOuR: Leveraging Language Models for Out-of-Distribution Recovery in Reinforcement Learning**|Chan Kim et.al.|[2503.17125v2](http://arxiv.org/abs/2503.17125v2)|null|
 |**2025-03-21**|**Deterministic AI Agent Personality Expression through Standard Psychological Diagnostics**|J. M. Diederik Kruijssen et.al.|[2503.17085v1](http://arxiv.org/abs/2503.17085v1)|null|
 |**2025-03-21**|**A Possible Future Use of the LHC Tunnel**|Marco Drewes et.al.|[2503.17081v1](http://arxiv.org/abs/2503.17081v1)|null|
 |**2025-03-21**|**A Study into Investigating Temporal Robustness of LLMs**|Jonas Wallat et.al.|[2503.17073v1](http://arxiv.org/abs/2503.17073v1)|null|
