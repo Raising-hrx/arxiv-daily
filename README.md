@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-31 21:16:34 Asia/Shanghai
+ Automated deployment @ 2025-04-01 09:49:35 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -16,7 +16,7 @@
 |**2025-03-28**|**Unicorn: Text-Only Data Synthesis for Vision Language Model Training**|Xiaomin Yu et.al.|[2503.22655v1](http://arxiv.org/abs/2503.22655v1)|[link](https://github.com/yu-xm/unicorn)|
 |**2025-03-28**|**Multi-stage model predictive control for slug flow crystallizers using uncertainty-aware surrogate models**|Collin R. Johnson et.al.|[2503.22520v1](http://arxiv.org/abs/2503.22520v1)|null|
 |**2025-03-28**|**Non vanishing of the fourth bounded cohomology of free groups and codimension 2 subspaces**|Thorben Kastenholz et.al.|[2503.22511v1](http://arxiv.org/abs/2503.22511v1)|null|
-|**2025-03-28**|**Entropy-guided sequence weighting for efficient exploration in RL-based LLM fine-tuning**|Abdullah Vanlioglu et.al.|[2503.22456v1](http://arxiv.org/abs/2503.22456v1)|null|
+|**2025-03-28**|**Entropy-guided sequence weighting for efficient exploration in RL-based LLM fine-tuning**|Abdullah Vanlioglu et.al.|[2503.22456v2](http://arxiv.org/abs/2503.22456v2)|null|
 |**2025-03-28**|**A Causal Framework to Measure and Mitigate Non-binary Treatment Discrimination**|Ayan Majumdar et.al.|[2503.22454v1](http://arxiv.org/abs/2503.22454v1)|[link](https://github.com/ayanmaj92/fair-nonbin-treatment)|
 |**2025-03-28**|**NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**|Fuhao Li et.al.|[2503.22436v1](http://arxiv.org/abs/2503.22436v1)|null|
 |**2025-03-28**|**Collapse and Collision Aware Grasping for Cluttered Shelf Picking**|Abhinav Pathak et.al.|[2503.22427v1](http://arxiv.org/abs/2503.22427v1)|null|
@@ -29,8 +29,8 @@
 |**2025-03-28**|**CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models**|Zhihang Lin et.al.|[2503.22342v1](http://arxiv.org/abs/2503.22342v1)|[link](https://github.com/lzhxmu/cppo)|
 |**2025-03-28**|**On Bessel's Correction -- Unbiased Sample Variance, the 'Bariance' and Runtime-Optimized Unbiased Sample Variance Estimators**|Felix Reichel et.al.|[2503.22333v1](http://arxiv.org/abs/2503.22333v1)|null|
 |**2025-03-28**|**Make Some Noise: Towards LLM audio reasoning and generation using sound tokens**|Shivam Mehta et.al.|[2503.22275v1](http://arxiv.org/abs/2503.22275v1)|null|
-|**2025-03-28**|**Agent-Centric Personalized Multiple Clustering with Multi-Modal LLMs**|Ziye Chen et.al.|[2503.22241v1](http://arxiv.org/abs/2503.22241v1)|null|
-|**2025-03-28**|**Exploring Data Scaling Trends and Effects in Reinforcement Learning from Human Feedback**|Wei Shen et.al.|[2503.22230v1](http://arxiv.org/abs/2503.22230v1)|null|
+|**2025-03-28**|**Agent-Centric Personalized Multiple Clustering with Multi-Modal LLMs**|Ziye Chen et.al.|[2503.22241v2](http://arxiv.org/abs/2503.22241v2)|null|
+|**2025-03-28**|**Exploring Data Scaling Trends and Effects in Reinforcement Learning from Human Feedback**|Wei Shen et.al.|[2503.22230v2](http://arxiv.org/abs/2503.22230v2)|null|
 |**2025-03-28**|**DeepSound-V1: Start to Think Step-by-Step in the Audio Generation from Videos**|Yunming Liang et.al.|[2503.22208v1](http://arxiv.org/abs/2503.22208v1)|null|
 |**2025-03-28**|**Reasoning of Large Language Models over Knowledge Graphs with Super-Relations**|Song Wang et.al.|[2503.22166v1](http://arxiv.org/abs/2503.22166v1)|null|
 |**2025-03-28**|**Landscape of Thoughts: Visualizing the Reasoning Process of Large Language Models**|Zhanke Zhou et.al.|[2503.22165v1](http://arxiv.org/abs/2503.22165v1)|[link](https://github.com/tmlr-group/landscape-of-thoughts)|
