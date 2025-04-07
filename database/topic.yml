@@ -1,9 +1,8 @@
 "Reasoning":
   "Reasoning": '"reason"'
-  "Pre-train Reasoning": '"reason"AND"pretrain"'
-
+  
 "Pre-training":
-  "Pre-training": '"pretrain"OR"pre-train"OR"pre train"'
+  "Pre-training": '"pre-training"'
   
 # "Computer Vision":
 #   "Image Classification": '"Image Classification"'
