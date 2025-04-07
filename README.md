@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-06 21:02:13 Asia/Shanghai
+ Automated deployment @ 2025-04-07 09:42:06 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -26,7 +26,7 @@
 |**2025-04-03**|**Integrating Human Knowledge Through Action Masking in Reinforcement Learning for Operations Research**|Mirko Stappert et.al.|[2504.02662v1](http://arxiv.org/abs/2504.02662v1)|null|
 |**2025-04-03**|**SymDQN: Symbolic Knowledge and Reasoning in Neural Network-based Reinforcement Learning**|Ivo Amador et.al.|[2504.02654v1](http://arxiv.org/abs/2504.02654v1)|null|
 |**2025-04-03**|**LexPam: Legal Procedure Awareness-Guided Mathematical Reasoning**|Kepu Zhang et.al.|[2504.02590v1](http://arxiv.org/abs/2504.02590v1)|null|
-|**2025-04-03**|**Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme**|Yan Ma et.al.|[2504.02587v1](http://arxiv.org/abs/2504.02587v1)|null|
+|**2025-04-03**|**Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme**|Yan Ma et.al.|[2504.02587v2](http://arxiv.org/abs/2504.02587v2)|null|
 |**2025-04-03**|**Reasoning Inconsistencies and How to Mitigate Them in Deep Learning**|Erik Arakelyan et.al.|[2504.02577v1](http://arxiv.org/abs/2504.02577v1)|null|
 |**2025-04-03**|**A smooth multi-group Gaussian Mixture Model for cellwise robust covariance estimation**|Patricia Puchhammer et.al.|[2504.02547v1](http://arxiv.org/abs/2504.02547v1)|null|
 |**2025-04-03**|**GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning**|Xiangxiang Chu et.al.|[2504.02546v1](http://arxiv.org/abs/2504.02546v1)|null|
