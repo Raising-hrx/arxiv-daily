@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-07 21:17:27 Asia/Shanghai
+ Automated deployment @ 2025-04-08 09:39:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -30,13 +30,13 @@
 |**2025-04-04**|**Do Large Language Models Solve the Problems of Agent-Based Modeling? A Critical Review of Generative Social Simulations**|Maik Larooij et.al.|[2504.03274v1](http://arxiv.org/abs/2504.03274v1)|null|
 |**2025-04-04**|**Seeing is Believing: Belief-Space Planning with Foundation Models as Uncertainty Estimators**|Linfeng Zhao et.al.|[2504.03245v1](http://arxiv.org/abs/2504.03245v1)|null|
 |**2025-04-04**|**Think When You Need: Self-Adaptive Chain-of-Thought Learning**|Junjie Yang et.al.|[2504.03234v1](http://arxiv.org/abs/2504.03234v1)|null|
-|**2025-04-04**|**Weak instrumental variables due to nonlinearities in panel data: A Super Learner Control Function estimator**|Monika Avila Marquez et.al.|[2504.03228v1](http://arxiv.org/abs/2504.03228v1)|null|
+|**2025-04-04**|**Weak instrumental variables due to nonlinearities in panel data: A Super Learner Control Function estimator**|Monika Avila Marquez et.al.|[2504.03228v2](http://arxiv.org/abs/2504.03228v2)|null|
 |**2025-04-04**|**Explain with Visual Keypoints Like a Real Mentor! A Benchmark for Multimodal Solution Explanation**|Jaewoo Park et.al.|[2504.03197v1](http://arxiv.org/abs/2504.03197v1)|null|
 |**2025-04-04**|**2026 ESPPU input from the ANUBIS Collaboration**|Oleg Brandt et.al.|[2504.03195v1](http://arxiv.org/abs/2504.03195v1)|null|
 |**2025-04-04**|**Learning Sparse Disentangled Representations for Multimodal Exclusion Retrieval**|Prachi et.al.|[2504.03184v1](http://arxiv.org/abs/2504.03184v1)|null|
 |**2025-04-04**|**Graphiti: Bridging Graph and Relational Database Queries**|Yang He et.al.|[2504.03182v1](http://arxiv.org/abs/2504.03182v1)|null|
 |**2025-04-04**|**Do Developers Depend on Deprecated Library Versions? A Mining Study of Log4j**|Haruhiko Yoshioka et.al.|[2504.03167v1](http://arxiv.org/abs/2504.03167v1)|null|
-|**2025-04-04**|**NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving**|Kexin Tian et.al.|[2504.03164v1](http://arxiv.org/abs/2504.03164v1)|null|
+|**2025-04-04**|**NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving**|Kexin Tian et.al.|[2504.03164v2](http://arxiv.org/abs/2504.03164v2)|null|
 |**2025-04-04**|**Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning (v1)**|Jing Bi et.al.|[2504.03151v1](http://arxiv.org/abs/2504.03151v1)|null|
 |**2025-04-04**|**LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph**|Tu Ao et.al.|[2504.03137v1](http://arxiv.org/abs/2504.03137v1)|null|
 |**2025-04-04**|**Les Dissonances: Cross-Tool Harvesting and Polluting in Multi-Tool Empowered LLM Agents**|Zichuan Li et.al.|[2504.03111v1](http://arxiv.org/abs/2504.03111v1)|null|
