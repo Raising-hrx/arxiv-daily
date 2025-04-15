@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-15 09:42:46 Asia/Shanghai
+ Automated deployment @ 2025-04-15 20:41:00 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,33 +14,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-11**|**ProtoECGNet: Case-Based Interpretable Deep Learning for Multi-Label ECG Classification with Contrastive Learning**|Sahil Sethi et.al.|[2504.08713v1](http://arxiv.org/abs/2504.08713v1)|null|
-|**2025-04-11**|**Large Language Models as Span Annotators**|Zdeněk Kasner et.al.|[2504.08697v1](http://arxiv.org/abs/2504.08697v1)|null|
-|**2025-04-11**|**SeaView: Software Engineering Agent Visual Interface for Enhanced Workflow**|Timothy Bula et.al.|[2504.08696v1](http://arxiv.org/abs/2504.08696v1)|null|
-|**2025-04-11**|**TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for Spatiotemporal-Aware Travel Planning**|Hang Ni et.al.|[2504.08694v1](http://arxiv.org/abs/2504.08694v1)|null|
-|**2025-04-11**|**Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning**|Fangzhi Xu et.al.|[2504.08672v1](http://arxiv.org/abs/2504.08672v1)|null|
-|**2025-04-11**|**TinyCenterSpeed: Efficient Center-Based Object Detection for Autonomous Racing**|Neil Reichlin et.al.|[2504.08655v1](http://arxiv.org/abs/2504.08655v1)|null|
-|**2025-04-11**|**Rational constitutive law for the viscous stress tensor in incompressible two-phase flows: Derivation and tests against a 3D benchmark experiment**|Jacques Magnaudet et.al.|[2504.08648v1](http://arxiv.org/abs/2504.08648v1)|null|
-|**2025-04-11**|**MBE-ARI: A Multimodal Dataset Mapping Bi-directional Engagement in Animal-Robot Interaction**|Ian Noronha et.al.|[2504.08646v1](http://arxiv.org/abs/2504.08646v1)|null|
-|**2025-04-11**|**Constructing Witnesses for Lower Bounds on Behavioural Distances**|Ruben Turkenburg et.al.|[2504.08639v1](http://arxiv.org/abs/2504.08639v1)|null|
-|**2025-04-11**|**Efficient Mixture of Geographical Species for On Device Wildlife Monitoring**|Emmanuel Azuh Mensah et.al.|[2504.08620v1](http://arxiv.org/abs/2504.08620v1)|null|
-|**2025-04-11**|**SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning**|Peixian Ma et.al.|[2504.08600v1](http://arxiv.org/abs/2504.08600v1)|null|
-|**2025-04-11**|**Oscillating scalar field as dark matter through the cosmological epochs**|Vladimir A. Popov et.al.|[2504.08594v1](http://arxiv.org/abs/2504.08594v1)|null|
-|**2025-04-11**|**Playpen: An Environment for Exploring Learning Through Conversational Interaction**|Nicola Horst et.al.|[2504.08590v1](http://arxiv.org/abs/2504.08590v1)|null|
-|**2025-04-11**|**Banana Ripeness Level Classification using a Simple CNN Model Trained with Real and Synthetic Datasets**|Luis Chuquimarca et.al.|[2504.08568v1](http://arxiv.org/abs/2504.08568v1)|null|
-|**2025-04-11**|**Sunward Flows in the Magnetosheath Associated with Magnetic Pressure Gradient and Magnetosheath Expansion**|H. Madanian et.al.|[2504.08521v1](http://arxiv.org/abs/2504.08521v1)|null|
-|**2025-04-11**|**From Radiation Dose to Cellular Dynamics: A Discrete Model for Simulating Cancer Therapy**|Mirko Bagnarol et.al.|[2504.08499v1](http://arxiv.org/abs/2504.08499v1)|null|
-|**2025-04-11**|**Tayler instability as possible reason for the period changes in Ap star 56 Ari**|I. S. Potravnov et.al.|[2504.08447v1](http://arxiv.org/abs/2504.08447v1)|null|
-|**2025-04-11**|**Hadronic emission from the environment of the Crab Pulsar Wind Nebula by re-accelerated particles**|Samuel T. Spencer et.al.|[2504.08432v1](http://arxiv.org/abs/2504.08432v1)|null|
-|**2025-04-11**|**Encoding argumentation frameworks with set attackers to propositional logic systems**|Shuai Tang et.al.|[2504.08370v1](http://arxiv.org/abs/2504.08370v1)|null|
-|**2025-04-11**|**SortBench: Benchmarking LLMs based on their ability to sort lists**|Steffen Herbold et.al.|[2504.08312v1](http://arxiv.org/abs/2504.08312v1)|null|
-|**2025-04-11**|**PNE-SGAN: Probabilistic NDT-Enhanced Semantic Graph Attention Network for LiDAR Loop Closure Detection**|Xiong Li et.al.|[2504.08280v1](http://arxiv.org/abs/2504.08280v1)|null|
-|**2025-04-11**|**VLMT: Vision-Language Multimodal Transformer for Multimodal Multi-hop Question Answering**|Qi Zhi Lim et.al.|[2504.08269v1](http://arxiv.org/abs/2504.08269v1)|null|
-|**2025-04-11**|**Bayesian Reasoning Enabled by Spin-Orbit Torque Magnetic Tunnel Junctions**|Yingqian Xu et.al.|[2504.08257v1](http://arxiv.org/abs/2504.08257v1)|null|
-|**2025-04-11**|**Advancing Autonomous Vehicle Safety: A Combined Fault Tree Analysis and Bayesian Network Approach**|Lansu Dai et.al.|[2504.08206v1](http://arxiv.org/abs/2504.08206v1)|null|
-|**2025-04-11**|**Optimal protection and vaccination against epidemics with reinfection risk**|Urmee Maitra et.al.|[2504.08191v1](http://arxiv.org/abs/2504.08191v1)|null|
-|**2025-04-11**|**Comparative Analysis of Different Methods for Classifying Polychromatic Sketches**|Fahd Baba et.al.|[2504.08186v1](http://arxiv.org/abs/2504.08186v1)|null|
-|**2025-04-10**|**Quantum-assured magnetic navigation achieves positioning accuracy better than a strategic-grade INS in airborne and ground-based field trials**|Murat Muradoglu et.al.|[2504.08167v1](http://arxiv.org/abs/2504.08167v1)|null|
-|**2025-04-10**|**The nature of loops in programming**|Bertrand Meyer et.al.|[2504.08126v1](http://arxiv.org/abs/2504.08126v1)|null|
-|**2025-04-10**|**DeepSeek vs. o3-mini: How Well can Reasoning LLMs Evaluate MT and Summarization?**|Daniil Larionov et.al.|[2504.08120v1](http://arxiv.org/abs/2504.08120v1)|null|
-|**2025-04-10**|**POEM: Precise Object-level Editing via MLLM control**|Marco Schouten et.al.|[2504.08111v1](http://arxiv.org/abs/2504.08111v1)|null|
+|**2025-04-14**|**xVerify: Efficient Answer Verifier for Reasoning Model Evaluations**|Ding Chen et.al.|[2504.10481v1](http://arxiv.org/abs/2504.10481v1)|null|
+|**2025-04-14**|**Weight Ensembling Improves Reasoning in Language Models**|Xingyu Dang et.al.|[2504.10478v1](http://arxiv.org/abs/2504.10478v1)|null|
+|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458v1](http://arxiv.org/abs/2504.10458v1)|null|
+|**2025-04-14**|**M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models**|Junxiong Wang et.al.|[2504.10449v1](http://arxiv.org/abs/2504.10449v1)|null|
+|**2025-04-14**|**RealWebAssist: A Benchmark for Long-Horizon Web Assistance with Real-World Users**|Suyu Ye et.al.|[2504.10445v1](http://arxiv.org/abs/2504.10445v1)|null|
+|**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443v1](http://arxiv.org/abs/2504.10443v1)|null|
+|**2025-04-14**|**Streaming Democratized: Ease Across the Latency Spectrum with Delayed View Semantics and Snowflake Dynamic Tables**|Daniel Sotolongo et.al.|[2504.10438v1](http://arxiv.org/abs/2504.10438v1)|null|
+|**2025-04-14**|**What metric to optimize for suppressing instability in a Vlasov-Poisson system?**|Martin Guerra et.al.|[2504.10435v1](http://arxiv.org/abs/2504.10435v1)|null|
+|**2025-04-14**|**LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models**|Parshin Shojaee et.al.|[2504.10415v1](http://arxiv.org/abs/2504.10415v1)|[link](https://github.com/deep-symbolic-mathematics/llm-srbench)|
+|**2025-04-14**|**Performance of Large Language Models in Supporting Medical Diagnosis and Treatment**|Diogo Sousa et.al.|[2504.10405v1](http://arxiv.org/abs/2504.10405v1)|null|
+|**2025-04-14**|**Satellite Federated Fine-Tuning for Foundation Models in Space Computing Power Networks**|Yan zhu et.al.|[2504.10403v1](http://arxiv.org/abs/2504.10403v1)|null|
+|**2025-04-14**|**SymRTLO: Enhancing RTL Code Optimization with LLMs and Neuron-Inspired Symbolic Reasoning**|Yiting Wang et.al.|[2504.10369v1](http://arxiv.org/abs/2504.10369v1)|null|
+|**2025-04-14**|**S1-Bench: A Simple Benchmark for Evaluating System 1 Thinking Capability of Large Reasoning Models**|Wenyuan Zhang et.al.|[2504.10368v1](http://arxiv.org/abs/2504.10368v1)|null|
+|**2025-04-14**|**Analogical models to introduce high school students to modern physics: an inquiry-based activity on Rutherford's gold foil experiment**|M. Tuveri et.al.|[2504.10366v1](http://arxiv.org/abs/2504.10366v1)|null|
+|**2025-04-14**|**FingER: Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos**|Rui Chen et.al.|[2504.10358v1](http://arxiv.org/abs/2504.10358v1)|null|
+|**2025-04-14**|**VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge**|Yueqi Song et.al.|[2504.10342v1](http://arxiv.org/abs/2504.10342v1)|null|
+|**2025-04-14**|**Heimdall: test-time scaling on the generative verification**|Wenlei Shi et.al.|[2504.10337v1](http://arxiv.org/abs/2504.10337v1)|null|
+|**2025-04-14**|**SlowFastVAD: Video Anomaly Detection via Integrating Simple Detector and RAG-Enhanced Vision-Language Model**|Zongcan Ding et.al.|[2504.10320v1](http://arxiv.org/abs/2504.10320v1)|null|
+|**2025-04-14**|**DiffMOD: Progressive Diffusion Point Denoising for Moving Object Detection in Remote Sensing**|Jinyue Zhang et.al.|[2504.10278v1](http://arxiv.org/abs/2504.10278v1)|null|
+|**2025-04-14**|**PRM-BAS: Enhancing Multimodal Reasoning through PRM-guided Beam Annealing Search**|Pengfei Hu et.al.|[2504.10222v1](http://arxiv.org/abs/2504.10222v1)|null|
+|**2025-04-14**|**Deep Reasoning Translation via Reinforcement Learning**|Jiaan Wang et.al.|[2504.10187v1](http://arxiv.org/abs/2504.10187v1)|null|
+|**2025-04-14**|**The Future of MLLM Prompting is Adaptive: A Comprehensive Experimental Evaluation of Prompt Engineering Methods for Robust Multimodal Performance**|Anwesha Mohanty et.al.|[2504.10179v1](http://arxiv.org/abs/2504.10179v1)|null|
+|**2025-04-14**|**MSCoT: Structured Chain-of-Thought Generation for Multiple Programming Languages**|Naizhu Jin et.al.|[2504.10178v1](http://arxiv.org/abs/2504.10178v1)|null|
+|**2025-04-14**|**MT-R1-Zero: Advancing LLM-based Machine Translation via R1-Zero-like Reinforcement Learning**|Zhaopeng Feng et.al.|[2504.10160v1](http://arxiv.org/abs/2504.10160v1)|null|
+|**2025-04-14**|**GeoUni: A Unified Model for Generating Geometry Diagrams, Problems and Problem Solutions**|Jo-Ku Cheng et.al.|[2504.10146v1](http://arxiv.org/abs/2504.10146v1)|null|
+|**2025-04-14**|**Breaking the Data Barrier -- Building GUI Agents Through Task Generalization**|Junlei Zhang et.al.|[2504.10127v1](http://arxiv.org/abs/2504.10127v1)|null|
+|**2025-04-14**|**Unveiling Contrastive Learning's Capability of Neighborhood Aggregation for Collaborative Filtering**|Yu Zhang et.al.|[2504.10113v1](http://arxiv.org/abs/2504.10113v1)|null|
+|**2025-04-14**|**Enhancing LLM-based Recommendation through Semantic-Aligned Collaborative Knowledge**|Zihan Wang et.al.|[2504.10107v1](http://arxiv.org/abs/2504.10107v1)|null|
+|**2025-04-14**|**CameraBench: Benchmarking Visual Reasoning in MLLMs via Photography**|I-Sheng Fang et.al.|[2504.10090v1](http://arxiv.org/abs/2504.10090v1)|null|
+|**2025-04-14**|**RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability**|Yichi Zhang et.al.|[2504.10081v1](http://arxiv.org/abs/2504.10081v1)|null|
