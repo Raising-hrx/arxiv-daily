@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-17 09:41:05 Asia/Shanghai
+ Automated deployment @ 2025-04-17 20:40:49 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,33 +14,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-15**|**DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**|Zhiwei He et.al.|[2504.11456v1](http://arxiv.org/abs/2504.11456v1)|null|
-|**2025-04-15**|**Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion**|An Zhao et.al.|[2504.11447v2](http://arxiv.org/abs/2504.11447v2)|null|
-|**2025-04-15**|**A Dual-Space Framework for General Knowledge Distillation of Large Language Models**|Xue Zhang et.al.|[2504.11426v1](http://arxiv.org/abs/2504.11426v1)|null|
-|**2025-04-15**|**Embodied World Models Emerge from Navigational Task in Open-Ended Environments**|Li Jin et.al.|[2504.11419v1](http://arxiv.org/abs/2504.11419v1)|null|
-|**2025-04-15**|**Teaching Large Language Models to Reason through Learning and Forgetting**|Tianwei Ni et.al.|[2504.11364v1](http://arxiv.org/abs/2504.11364v1)|null|
-|**2025-04-15**|**Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning**|Haiming Wang et.al.|[2504.11354v1](http://arxiv.org/abs/2504.11354v1)|null|
-|**2025-04-15**|**A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce**|Wei Xiong et.al.|[2504.11343v1](http://arxiv.org/abs/2504.11343v1)|null|
-|**2025-04-15**|**Looking beyond the next token**|Abitha Thankaraj et.al.|[2504.11336v1](http://arxiv.org/abs/2504.11336v1)|null|
-|**2025-04-15**|**Dependency Structure Augmented Contextual Scoping Framework for Multimodal Aspect-Based Sentiment Analysis**|Hao Liu et.al.|[2504.11331v1](http://arxiv.org/abs/2504.11331v1)|null|
-|**2025-04-15**|**Transforming Resonance Fluorescence into Maximally Entangled Photon Pairs Using Minimal Resources**|Xin-Xin Hu et.al.|[2504.11294v1](http://arxiv.org/abs/2504.11294v1)|null|
-|**2025-04-15**|**Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs**|Chang Yang et.al.|[2504.11239v1](http://arxiv.org/abs/2504.11239v1)|null|
-|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming Wei et.al.|[2504.11218v2](http://arxiv.org/abs/2504.11218v2)|null|
-|**2025-04-15**|**Mutual Understanding between People and Systems via Neurosymbolic AI and Knowledge Graphs**|Irene Celino et.al.|[2504.11200v1](http://arxiv.org/abs/2504.11200v1)|null|
-|**2025-04-15**|**Enhancing multimodal analogical reasoning with Logic Augmented Generation**|Anna Sofia Lippolis et.al.|[2504.11190v1](http://arxiv.org/abs/2504.11190v1)|null|
-|**2025-04-15**|**Benchmarking Next-Generation Reasoning-Focused Large Language Models in Ophthalmology: A Head-to-Head Evaluation on 5,888 Items**|Minjie Zou et.al.|[2504.11186v1](http://arxiv.org/abs/2504.11186v1)|null|
-|**2025-04-15**|**Wonderful Blow-Ups of Weighted Building Sets and Configuration Spaces of Filtered Manifolds**|Aaron Gootjes-Dreesbach et.al.|[2504.11176v1](http://arxiv.org/abs/2504.11176v1)|null|
-|**2025-04-15**|**C-SHAP for time series: An approach to high-level temporal explanations**|Annemarie Jutte et.al.|[2504.11159v1](http://arxiv.org/abs/2504.11159v1)|null|
-|**2025-04-15**|**A preliminary cosmological analysis of stellar population synthesis of galaxies released by LAMOST LRS DR11**|Yanhui Chen et.al.|[2504.11156v1](http://arxiv.org/abs/2504.11156v1)|null|
-|**2025-04-15**|**BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play**|Yujia Liu et.al.|[2504.11138v1](http://arxiv.org/abs/2504.11138v1)|null|
-|**2025-04-15**|**What it takes to break a liquid: analysis of the cavitation threshold in various media**|Gianmaria Viciconte et.al.|[2504.11122v1](http://arxiv.org/abs/2504.11122v1)|null|
-|**2025-04-15**|**$B$ meson decays to vector charmonium(like) states and a $K$ meson: the role of final-state interactions**|Qi-Wei Yuan et.al.|[2504.11121v1](http://arxiv.org/abs/2504.11121v1)|null|
-|**2025-04-15**|**Dynamical Measurement of Supermassive Black Hole Masses: QPE Timing Method**|Cong Zhou et.al.|[2504.11078v1](http://arxiv.org/abs/2504.11078v1)|null|
-|**2025-04-15**|**A conceptual synthesis of causal assumptions for causal discovery and inference**|Hannah E. Correia et.al.|[2504.11035v1](http://arxiv.org/abs/2504.11035v1)|null|
-|**2025-04-15**|**MMC: Iterative Refinement of VLM Reasoning via MCTS-based Multimodal Critique**|Shuhang Liu et.al.|[2504.11009v1](http://arxiv.org/abs/2504.11009v1)|null|
-|**2025-04-15**|**MediSee: Reasoning-based Pixel-level Perception in Medical Images**|Qinyue Tong et.al.|[2504.11008v1](http://arxiv.org/abs/2504.11008v1)|null|
-|**2025-04-15**|**ReZero: Enhancing LLM search ability by trying one-more-time**|Alan Dao et.al.|[2504.11001v1](http://arxiv.org/abs/2504.11001v1)|null|
-|**2025-04-15**|**Deep Learning in Concealed Dense Prediction**|Pancheng Zhao et.al.|[2504.10979v1](http://arxiv.org/abs/2504.10979v1)|null|
-|**2025-04-15**|**Can LLMs Leverage Observational Data? Towards Data-Driven Causal Discovery with LLMs**|Yuni Susanti et.al.|[2504.10936v1](http://arxiv.org/abs/2504.10936v1)|null|
-|**2025-04-15**|**LOKA Protocol: A Decentralized Framework for Trustworthy and Ethical AI Agent Ecosystems**|Rajesh Ranjan et.al.|[2504.10915v1](http://arxiv.org/abs/2504.10915v1)|null|
-|**2025-04-15**|**Efficient Reasoning Models: A Survey**|Sicheng Feng et.al.|[2504.10903v1](http://arxiv.org/abs/2504.10903v1)|null|
+|**2025-04-16**|**BitNet b1.58 2B4T Technical Report**|Shuming Ma et.al.|[2504.12285v1](http://arxiv.org/abs/2504.12285v1)|null|
+|**2025-04-16**|**FLIP Reasoning Challenge**|Andreas Plesner et.al.|[2504.12256v1](http://arxiv.org/abs/2504.12256v1)|null|
+|**2025-04-16**|**AnomalyGen: An Automated Semantic Log Sequence Generation Framework with LLM for Anomaly Detection**|Xinyu Li et.al.|[2504.12250v1](http://arxiv.org/abs/2504.12250v1)|null|
+|**2025-04-16**|**MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models**|Hang Yuan et.al.|[2504.12234v1](http://arxiv.org/abs/2504.12234v1)|null|
+|**2025-04-16**|**d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning**|Siyan Zhao et.al.|[2504.12216v1](http://arxiv.org/abs/2504.12216v1)|null|
+|**2025-04-16**|**Global $Λ$ polarization in heavy-ion collisions at high baryon density**|Yu. B. Ivanov et.al.|[2504.12200v1](http://arxiv.org/abs/2504.12200v1)|null|
+|**2025-04-16**|**Feature Selection for Data-driven Explainable Optimization**|Kevin-Martin Aigner et.al.|[2504.12184v1](http://arxiv.org/abs/2504.12184v1)|null|
+|**2025-04-16**|**A Strong-Coupling-Limit Study on the Pairing Mechanism in the Pressurized La$_3$Ni$_2$O$_7$**|Jia-Heng Ji et.al.|[2504.12127v1](http://arxiv.org/abs/2504.12127v1)|null|
+|**2025-04-16**|**Clarifying Ambiguities: on the Role of Ambiguity Types in Prompting Methods for Clarification Generation**|Anfu Tang et.al.|[2504.12113v1](http://arxiv.org/abs/2504.12113v1)|null|
+|**2025-04-16**|**Reasoning-Based AI for Startup Evaluation (R.A.I.S.E.): A Memory-Augmented, Multi-Step Decision Framework**|Jack Preuveneers et.al.|[2504.12090v1](http://arxiv.org/abs/2504.12090v1)|null|
+|**2025-04-16**|**Self-alignment of Large Video Language Models with Refined Regularized Preference Optimization**|Pritam Sarkar et.al.|[2504.12083v1](http://arxiv.org/abs/2504.12083v1)|null|
+|**2025-04-16**|**Combining Declarative and Linear Programming for Application Management in the Cloud-Edge Continuum**|Jacopo Massa et.al.|[2504.12032v1](http://arxiv.org/abs/2504.12032v1)|null|
+|**2025-04-16**|**Generative Recommendation with Continuous-Token Diffusion**|Haohao Qu et.al.|[2504.12007v1](http://arxiv.org/abs/2504.12007v1)|null|
+|**2025-04-16**|**On the Intersection and Composition properties of conditional independence**|Tobias Boege et.al.|[2504.11978v1](http://arxiv.org/abs/2504.11978v1)|null|
+|**2025-04-16**|**Rethinking the Generation of High-Quality CoT Data from the Perspective of LLM-Adaptive Question Difficulty Grading**|Qianjin Yu et.al.|[2504.11919v1](http://arxiv.org/abs/2504.11919v1)|null|
+|**2025-04-16**|**AnomalyR1: A GRPO-based End-to-end MLLM for Industrial Anomaly Detection**|Yuhao Chao et.al.|[2504.11914v1](http://arxiv.org/abs/2504.11914v1)|null|
+|**2025-04-16**|**Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments**|Luca Castri et.al.|[2504.11901v1](http://arxiv.org/abs/2504.11901v1)|null|
+|**2025-04-16**|**Finding Flawed Fictions: Evaluating Complex Reasoning in Language Models via Plot Hole Detection**|Kabir Ahuja et.al.|[2504.11900v1](http://arxiv.org/abs/2504.11900v1)|null|
+|**2025-04-16**|**CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting**|Wei Sun et.al.|[2504.11893v1](http://arxiv.org/abs/2504.11893v1)|null|
+|**2025-04-16**|**FiSMiness: A Finite State Machine Based Paradigm for Emotional Support Conversations**|Yue Zhao et.al.|[2504.11837v1](http://arxiv.org/abs/2504.11837v1)|null|
+|**2025-04-16**|**Could Thinking Multilingually Empower LLM Reasoning?**|Changjiang Gao et.al.|[2504.11833v1](http://arxiv.org/abs/2504.11833v1)|null|
+|**2025-04-16**|**Entropy bounds from quantum thermodynamics**|Massimo Giovannini et.al.|[2504.11807v1](http://arxiv.org/abs/2504.11807v1)|null|
+|**2025-04-16**|**Schemex: Interactive Structural Abstraction from Examples with Contrastive Refinement**|Sitong Wang et.al.|[2504.11795v1](http://arxiv.org/abs/2504.11795v1)|null|
+|**2025-04-16**|**Climbing the Ladder of Reasoning: What LLMs Can-and Still Can't-Solve after SFT?**|Yiyou Sun et.al.|[2504.11741v1](http://arxiv.org/abs/2504.11741v1)|null|
+|**2025-04-16**|**The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by LLMs**|Haonan Li et.al.|[2504.11711v1](http://arxiv.org/abs/2504.11711v1)|null|
+|**2025-04-16**|**A Library of LLM Intrinsics for Retrieval-Augmented Generation**|Marina Danilevsky et.al.|[2504.11704v1](http://arxiv.org/abs/2504.11704v1)|null|
+|**2025-04-16**|**VLM-Fuzz: Vision Language Model Assisted Recursive Depth-first Search Exploration for Effective UI Testing of Android Apps**|Biniam Fisseha Demissie et.al.|[2504.11675v1](http://arxiv.org/abs/2504.11675v1)|null|
+|**2025-04-15**|**Gravitational entropy in black hole transformations**|Alan Alejandro Pánuco Liñán et.al.|[2504.11649v1](http://arxiv.org/abs/2504.11649v1)|null|
+|**2025-04-15**|**GraphicBench: A Planning Benchmark for Graphic Design with Language Agents**|Dayeon Ki et.al.|[2504.11571v1](http://arxiv.org/abs/2504.11571v1)|null|
+|**2025-04-15**|**Tracking the assembly of supermassive black holes: a comparison of diverse models across cosmic time**|Antonio J. Porras-Valverde et.al.|[2504.11566v1](http://arxiv.org/abs/2504.11566v1)|null|
