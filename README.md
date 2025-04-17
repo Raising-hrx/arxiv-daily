@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-16 21:17:43 Asia/Shanghai
+ Automated deployment @ 2025-04-17 09:41:05 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -15,7 +15,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-15**|**DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**|Zhiwei He et.al.|[2504.11456v1](http://arxiv.org/abs/2504.11456v1)|null|
-|**2025-04-15**|**Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion**|An Zhaol et.al.|[2504.11447v1](http://arxiv.org/abs/2504.11447v1)|null|
+|**2025-04-15**|**Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion**|An Zhao et.al.|[2504.11447v2](http://arxiv.org/abs/2504.11447v2)|null|
 |**2025-04-15**|**A Dual-Space Framework for General Knowledge Distillation of Large Language Models**|Xue Zhang et.al.|[2504.11426v1](http://arxiv.org/abs/2504.11426v1)|null|
 |**2025-04-15**|**Embodied World Models Emerge from Navigational Task in Open-Ended Environments**|Li Jin et.al.|[2504.11419v1](http://arxiv.org/abs/2504.11419v1)|null|
 |**2025-04-15**|**Teaching Large Language Models to Reason through Learning and Forgetting**|Tianwei Ni et.al.|[2504.11364v1](http://arxiv.org/abs/2504.11364v1)|null|
@@ -25,7 +25,7 @@
 |**2025-04-15**|**Dependency Structure Augmented Contextual Scoping Framework for Multimodal Aspect-Based Sentiment Analysis**|Hao Liu et.al.|[2504.11331v1](http://arxiv.org/abs/2504.11331v1)|null|
 |**2025-04-15**|**Transforming Resonance Fluorescence into Maximally Entangled Photon Pairs Using Minimal Resources**|Xin-Xin Hu et.al.|[2504.11294v1](http://arxiv.org/abs/2504.11294v1)|null|
 |**2025-04-15**|**Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs**|Chang Yang et.al.|[2504.11239v1](http://arxiv.org/abs/2504.11239v1)|null|
-|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming wei et.al.|[2504.11218v1](http://arxiv.org/abs/2504.11218v1)|null|
+|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming Wei et.al.|[2504.11218v2](http://arxiv.org/abs/2504.11218v2)|null|
 |**2025-04-15**|**Mutual Understanding between People and Systems via Neurosymbolic AI and Knowledge Graphs**|Irene Celino et.al.|[2504.11200v1](http://arxiv.org/abs/2504.11200v1)|null|
 |**2025-04-15**|**Enhancing multimodal analogical reasoning with Logic Augmented Generation**|Anna Sofia Lippolis et.al.|[2504.11190v1](http://arxiv.org/abs/2504.11190v1)|null|
 |**2025-04-15**|**Benchmarking Next-Generation Reasoning-Focused Large Language Models in Ophthalmology: A Head-to-Head Evaluation on 5,888 Items**|Minjie Zou et.al.|[2504.11186v1](http://arxiv.org/abs/2504.11186v1)|null|
