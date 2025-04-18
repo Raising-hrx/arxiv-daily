@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-17 21:16:19 Asia/Shanghai
+ Automated deployment @ 2025-04-18 09:39:16 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -30,7 +30,7 @@
 |**2025-04-16**|**On the Intersection and Composition properties of conditional independence**|Tobias Boege et.al.|[2504.11978v1](http://arxiv.org/abs/2504.11978v1)|null|
 |**2025-04-16**|**Rethinking the Generation of High-Quality CoT Data from the Perspective of LLM-Adaptive Question Difficulty Grading**|Qianjin Yu et.al.|[2504.11919v1](http://arxiv.org/abs/2504.11919v1)|null|
 |**2025-04-16**|**AnomalyR1: A GRPO-based End-to-end MLLM for Industrial Anomaly Detection**|Yuhao Chao et.al.|[2504.11914v1](http://arxiv.org/abs/2504.11914v1)|null|
-|**2025-04-16**|**Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments**|Luca Castri et.al.|[2504.11901v1](http://arxiv.org/abs/2504.11901v1)|null|
+|**2025-04-16**|**Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments**|Luca Castri et.al.|[2504.11901v2](http://arxiv.org/abs/2504.11901v2)|null|
 |**2025-04-16**|**Finding Flawed Fictions: Evaluating Complex Reasoning in Language Models via Plot Hole Detection**|Kabir Ahuja et.al.|[2504.11900v1](http://arxiv.org/abs/2504.11900v1)|null|
 |**2025-04-16**|**CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting**|Wei Sun et.al.|[2504.11893v1](http://arxiv.org/abs/2504.11893v1)|null|
 |**2025-04-16**|**FiSMiness: A Finite State Machine Based Paradigm for Emotional Support Conversations**|Yue Zhao et.al.|[2504.11837v1](http://arxiv.org/abs/2504.11837v1)|null|
@@ -38,7 +38,7 @@
 |**2025-04-16**|**Entropy bounds from quantum thermodynamics**|Massimo Giovannini et.al.|[2504.11807v1](http://arxiv.org/abs/2504.11807v1)|null|
 |**2025-04-16**|**Schemex: Interactive Structural Abstraction from Examples with Contrastive Refinement**|Sitong Wang et.al.|[2504.11795v1](http://arxiv.org/abs/2504.11795v1)|null|
 |**2025-04-16**|**Climbing the Ladder of Reasoning: What LLMs Can-and Still Can't-Solve after SFT?**|Yiyou Sun et.al.|[2504.11741v1](http://arxiv.org/abs/2504.11741v1)|null|
-|**2025-04-16**|**The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by LLMs**|Haonan Li et.al.|[2504.11711v1](http://arxiv.org/abs/2504.11711v1)|null|
+|**2025-04-16**|**The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by LLMs**|Haonan Li et.al.|[2504.11711v2](http://arxiv.org/abs/2504.11711v2)|null|
 |**2025-04-16**|**A Library of LLM Intrinsics for Retrieval-Augmented Generation**|Marina Danilevsky et.al.|[2504.11704v1](http://arxiv.org/abs/2504.11704v1)|null|
 |**2025-04-16**|**VLM-Fuzz: Vision Language Model Assisted Recursive Depth-first Search Exploration for Effective UI Testing of Android Apps**|Biniam Fisseha Demissie et.al.|[2504.11675v1](http://arxiv.org/abs/2504.11675v1)|null|
 |**2025-04-15**|**Gravitational entropy in black hole transformations**|Alan Alejandro Pánuco Liñán et.al.|[2504.11649v1](http://arxiv.org/abs/2504.11649v1)|null|
