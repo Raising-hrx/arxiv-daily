@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-19 21:02:37 Asia/Shanghai
+ Automated deployment @ 2025-04-20 09:47:07 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -17,7 +17,7 @@
 |**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180v1](http://arxiv.org/abs/2504.13180v1)|null|
 |**2025-04-17**|**Aligning Constraint Generation with Design Intent in Parametric CAD**|Evan Casey et.al.|[2504.13178v1](http://arxiv.org/abs/2504.13178v1)|null|
 |**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173v1](http://arxiv.org/abs/2504.13173v1)|null|
-|**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171v1](http://arxiv.org/abs/2504.13171v1)|null|
+|**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171v1](http://arxiv.org/abs/2504.13171v1)|[link](https://github.com/letta-ai/sleep-time-compute)|
 |**2025-04-17**|**AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis**|Khiem Vuong et.al.|[2504.13157v1](http://arxiv.org/abs/2504.13157v1)|null|
 |**2025-04-17**|**Gravitational wave anisotropies from axion inflation**|Sofia P. Corbà et.al.|[2504.13156v1](http://arxiv.org/abs/2504.13156v1)|null|
 |**2025-04-17**|**Antidistillation Sampling**|Yash Savani et.al.|[2504.13146v1](http://arxiv.org/abs/2504.13146v1)|null|
@@ -40,7 +40,7 @@
 |**2025-04-17**|**Integral control of the proximal gradient method for unbiased sparse optimization**|V. Cerone et.al.|[2504.12814v1](http://arxiv.org/abs/2504.12814v1)|null|
 |**2025-04-17**|**Assesing LLMs in Art Contexts: Critique Generation and Theory of Mind Evaluation**|Takaya Arita et.al.|[2504.12805v1](http://arxiv.org/abs/2504.12805v1)|null|
 |**2025-04-17**|**EarthGPT-X: Enabling MLLMs to Flexibly and Comprehensively Understand Multi-Source Remote Sensing Imagery**|Wei Zhang et.al.|[2504.12795v1](http://arxiv.org/abs/2504.12795v1)|null|
-|**2025-04-17**|**Enhancing the Geometric Problem-Solving Ability of Multimodal LLMs via Symbolic-Neural Integration**|Yicheng Pan et.al.|[2504.12773v1](http://arxiv.org/abs/2504.12773v1)|null|
+|**2025-04-17**|**Enhancing the Geometric Problem-Solving Ability of Multimodal LLMs via Symbolic-Neural Integration**|Yicheng Pan et.al.|[2504.12773v1](http://arxiv.org/abs/2504.12773v1)|[link](https://github.com/ycpnotfound/geogen)|
 |**2025-04-17**|**GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks**|Hao Xu et.al.|[2504.12764v1](http://arxiv.org/abs/2504.12764v1)|null|
 |**2025-04-17**|**MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI System**|Sonu Kumar et.al.|[2504.12757v1](http://arxiv.org/abs/2504.12757v1)|null|
 |**2025-04-17**|**LAD-Reasoner: Tiny Multimodal Models are Good Reasoners for Logical Anomaly Detection**|Weijia Li et.al.|[2504.12749v1](http://arxiv.org/abs/2504.12749v1)|null|
