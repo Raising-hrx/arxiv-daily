@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-21 09:46:02 Asia/Shanghai
+ Automated deployment @ 2025-04-21 20:39:58 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,33 +14,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180v1](http://arxiv.org/abs/2504.13180v1)|null|
-|**2025-04-17**|**Aligning Constraint Generation with Design Intent in Parametric CAD**|Evan Casey et.al.|[2504.13178v1](http://arxiv.org/abs/2504.13178v1)|null|
-|**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173v1](http://arxiv.org/abs/2504.13173v1)|null|
-|**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171v1](http://arxiv.org/abs/2504.13171v1)|[link](https://github.com/letta-ai/sleep-time-compute)|
-|**2025-04-17**|**AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis**|Khiem Vuong et.al.|[2504.13157v1](http://arxiv.org/abs/2504.13157v1)|null|
-|**2025-04-17**|**Gravitational wave anisotropies from axion inflation**|Sofia P. Corbà et.al.|[2504.13156v1](http://arxiv.org/abs/2504.13156v1)|null|
-|**2025-04-17**|**Antidistillation Sampling**|Yash Savani et.al.|[2504.13146v1](http://arxiv.org/abs/2504.13146v1)|null|
-|**2025-04-17**|**Exploring Expert Failures Improves LLM Agent Tuning**|Li-Cheng Lan et.al.|[2504.13145v1](http://arxiv.org/abs/2504.13145v1)|null|
-|**2025-04-17**|**PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition**|Jongseo Lee et.al.|[2504.13140v1](http://arxiv.org/abs/2504.13140v1)|null|
-|**2025-04-17**|**EventVAD: Training-Free Event-Aware Video Anomaly Detection**|Yihua Shao et.al.|[2504.13092v1](http://arxiv.org/abs/2504.13092v1)|null|
-|**2025-04-17**|**Covariate balancing estimation and model selection for difference-in-differences approach**|Takamichi Baba et.al.|[2504.13057v1](http://arxiv.org/abs/2504.13057v1)|null|
-|**2025-04-17**|**NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation**|Xiangyan Liu et.al.|[2504.13055v1](http://arxiv.org/abs/2504.13055v1)|null|
-|**2025-04-17**|**Chain-of-Thought Prompting for Out-of-Distribution Samples: A Latent-Variable Study**|Yu Wang et.al.|[2504.12991v1](http://arxiv.org/abs/2504.12991v1)|null|
-|**2025-04-17**|**Sparks of Science: Hypothesis Generation Using Structured Paper Data**|Charles O'Neill et.al.|[2504.12976v1](http://arxiv.org/abs/2504.12976v1)|null|
-|**2025-04-17**|**Estimating Optimal Context Length for Hybrid Retrieval-augmented Multi-document Summarization**|Adithya Pratapa et.al.|[2504.12972v1](http://arxiv.org/abs/2504.12972v1)|[link](https://github.com/adithya7/hybrid-rag)|
-|**2025-04-17**|**Vision and Language Integration for Domain Generalization**|Yanmei Wang et.al.|[2504.12966v1](http://arxiv.org/abs/2504.12966v1)|null|
-|**2025-04-17**|**QLLM: Do We Really Need a Mixing Network for Credit Assignment in Multi-Agent Reinforcement Learning?**|Zhouyang Jiang et.al.|[2504.12961v1](http://arxiv.org/abs/2504.12961v1)|null|
-|**2025-04-17**|**Are Retrials All You Need? Enhancing Large Language Model Reasoning Without Verbalized Feedback**|Nearchos Potamitis et.al.|[2504.12951v1](http://arxiv.org/abs/2504.12951v1)|null|
-|**2025-04-17**|**Hardness of classically sampling quantum chemistry circuits**|Ayoub Hafid et.al.|[2504.12893v1](http://arxiv.org/abs/2504.12893v1)|null|
-|**2025-04-17**|**Can LLMs reason over extended multilingual contexts? Towards long-context evaluation beyond retrieval and haystacks**|Amey Hengle et.al.|[2504.12845v1](http://arxiv.org/abs/2504.12845v1)|null|
-|**2025-04-17**|**Questions: A Taxonomy for Critical Reflection in Machine-Supported Decision-Making**|Simon W. S. Fischer et.al.|[2504.12830v1](http://arxiv.org/abs/2504.12830v1)|null|
-|**2025-04-17**|**Particle-based Simulation of an Air-Breathing Electric Propulsion System**|Pietro Parodi et.al.|[2504.12829v1](http://arxiv.org/abs/2504.12829v1)|null|
-|**2025-04-17**|**Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks**|Nassim Belmecheri et.al.|[2504.12817v1](http://arxiv.org/abs/2504.12817v1)|null|
-|**2025-04-17**|**Integral control of the proximal gradient method for unbiased sparse optimization**|V. Cerone et.al.|[2504.12814v1](http://arxiv.org/abs/2504.12814v1)|null|
-|**2025-04-17**|**Assesing LLMs in Art Contexts: Critique Generation and Theory of Mind Evaluation**|Takaya Arita et.al.|[2504.12805v1](http://arxiv.org/abs/2504.12805v1)|null|
-|**2025-04-17**|**EarthGPT-X: Enabling MLLMs to Flexibly and Comprehensively Understand Multi-Source Remote Sensing Imagery**|Wei Zhang et.al.|[2504.12795v1](http://arxiv.org/abs/2504.12795v1)|null|
-|**2025-04-17**|**Enhancing the Geometric Problem-Solving Ability of Multimodal LLMs via Symbolic-Neural Integration**|Yicheng Pan et.al.|[2504.12773v1](http://arxiv.org/abs/2504.12773v1)|[link](https://github.com/ycpnotfound/geogen)|
-|**2025-04-17**|**GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks**|Hao Xu et.al.|[2504.12764v1](http://arxiv.org/abs/2504.12764v1)|null|
-|**2025-04-17**|**MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI System**|Sonu Kumar et.al.|[2504.12757v1](http://arxiv.org/abs/2504.12757v1)|null|
-|**2025-04-17**|**LAD-Reasoner: Tiny Multimodal Models are Good Reasoners for Logical Anomaly Detection**|Weijia Li et.al.|[2504.12749v1](http://arxiv.org/abs/2504.12749v1)|null|
+|**2025-04-18**|**Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**|Yang Yue et.al.|[2504.13837v1](http://arxiv.org/abs/2504.13837v1)|null|
+|**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828v1](http://arxiv.org/abs/2504.13828v1)|null|
+|**2025-04-18**|**Not All Rollouts are Useful: Down-Sampling Rollouts in LLM Reinforcement Learning**|Yixuan Even Xu et.al.|[2504.13818v1](http://arxiv.org/abs/2504.13818v1)|null|
+|**2025-04-18**|**Learning Through Retrospection: Improving Trajectory Prediction for Automated Driving with Error Feedback**|Steffen Hagedorn et.al.|[2504.13785v1](http://arxiv.org/abs/2504.13785v1)|null|
+|**2025-04-18**|**DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for LLMs**|Tamim Al Mahmud et.al.|[2504.13774v1](http://arxiv.org/abs/2504.13774v1)|null|
+|**2025-04-18**|**Human-aligned Deep Learning: Explainability, Causality, and Biological Inspiration**|Gianluca Carloni et.al.|[2504.13717v1](http://arxiv.org/abs/2504.13717v1)|null|
+|**2025-04-18**|**OpenDeception: Benchmarking and Investigating AI Deceptive Behaviors via Open-ended Interaction Simulation**|Yichen Wu et.al.|[2504.13707v1](http://arxiv.org/abs/2504.13707v1)|null|
+|**2025-04-18**|**Analysing the Robustness of Vision-Language-Models to Common Corruptions**|Muhammad Usama et.al.|[2504.13690v1](http://arxiv.org/abs/2504.13690v1)|null|
+|**2025-04-18**|**Intelligent Interaction Strategies for Context-Aware Cognitive Augmentation**|Xiangrong et.al.|[2504.13684v1](http://arxiv.org/abs/2504.13684v1)|null|
+|**2025-04-18**|**Exploring the Potential for Large Language Models to Demonstrate Rational Probabilistic Beliefs**|Gabriel Freedman et.al.|[2504.13644v1](http://arxiv.org/abs/2504.13644v1)|null|
+|**2025-04-18**|**Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models**|Yule Liu et.al.|[2504.13626v1](http://arxiv.org/abs/2504.13626v1)|null|
+|**2025-04-18**|**Visual Intention Grounding for Egocentric Assistants**|Pengzhan Sun et.al.|[2504.13621v1](http://arxiv.org/abs/2504.13621v1)|null|
+|**2025-04-18**|**Compile Scene Graphs with Reinforcement Learning**|Zuyao Chen et.al.|[2504.13617v1](http://arxiv.org/abs/2504.13617v1)|null|
+|**2025-04-18**|**Long-context Non-factoid Question Answering in Indic Languages**|Ritwik Mishra et.al.|[2504.13615v1](http://arxiv.org/abs/2504.13615v1)|null|
+|**2025-04-18**|**Continual Pre-Training is (not) What You Need in Domain Adaption**|Pin-Er Chen et.al.|[2504.13603v1](http://arxiv.org/abs/2504.13603v1)|null|
+|**2025-04-18**|**CoT-RAG: Integrating Chain of Thought and Retrieval-Augmented Generation to Enhance Reasoning in Large Language Models**|Feiyang Li et.al.|[2504.13534v1](http://arxiv.org/abs/2504.13534v1)|null|
+|**2025-04-18**|**Optimizing Electric Vehicle Charging Station Locations: A Data-driven System with Multi-source Fusion**|Lihuan Li et.al.|[2504.13517v1](http://arxiv.org/abs/2504.13517v1)|null|
+|**2025-04-18**|**Prejudge-Before-Think: Enhancing Large Language Models at Test-Time by Process Prejudge Reasoning**|Jianing Wang et.al.|[2504.13500v1](http://arxiv.org/abs/2504.13500v1)|null|
+|**2025-04-18**|**Block-Weighted Lasso for Joint Optimization of Memory Depth and Kernels in Wideband DPD**|Jinfei Wang et.al.|[2504.13494v1](http://arxiv.org/abs/2504.13494v1)|null|
+|**2025-04-18**|**Creating 'Full-Stack' Hybrid Reasoning Systems that Prioritize and Enhance Human Intelligence**|Sean Koon et.al.|[2504.13477v1](http://arxiv.org/abs/2504.13477v1)|null|
+|**2025-04-18**|**LLM Sensitivity Evaluation Framework for Clinical Diagnosis**|Chenwei Yan et.al.|[2504.13475v1](http://arxiv.org/abs/2504.13475v1)|null|
+|**2025-04-18**|**Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask**|Yue Li et.al.|[2504.13474v1](http://arxiv.org/abs/2504.13474v1)|null|
+|**2025-04-18**|**An Addendum to NeBula: Towards Extending TEAM CoSTAR's Solution to Larger Scale Environments**|Ali Agha et.al.|[2504.13461v1](http://arxiv.org/abs/2504.13461v1)|null|
+|**2025-04-18**|**Chain-of-Thought Textual Reasoning for Few-shot Temporal Action Localization**|Hongwei Ji et.al.|[2504.13460v1](http://arxiv.org/abs/2504.13460v1)|null|
+|**2025-04-18**|**Temporal Propagation of Asymmetric Feature Pyramid for Surgical Scene Segmentation**|Cheng Yuan et.al.|[2504.13440v1](http://arxiv.org/abs/2504.13440v1)|null|
+|**2025-04-18**|**LangCoop: Collaborative Driving with Language**|Xiangbo Gao et.al.|[2504.13406v1](http://arxiv.org/abs/2504.13406v1)|[link](https://github.com/taco-group/LangCoop)|
+|**2025-04-18**|**Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**|Shashank Shriram et.al.|[2504.13399v1](http://arxiv.org/abs/2504.13399v1)|null|
+|**2025-04-17**|**THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models**|Xiao Pu et.al.|[2504.13367v1](http://arxiv.org/abs/2504.13367v1)|null|
+|**2025-04-17**|**Cost-of-Pass: An Economic Framework for Evaluating Language Models**|Mehmet Hamza Erol et.al.|[2504.13359v1](http://arxiv.org/abs/2504.13359v1)|null|
+|**2025-04-17**|**Chain-of-Modality: Learning Manipulation Programs from Multimodal Human Videos with Vision-Language-Models**|Chen Wang et.al.|[2504.13351v1](http://arxiv.org/abs/2504.13351v1)|null|
