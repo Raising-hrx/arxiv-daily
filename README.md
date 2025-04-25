@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-24 21:18:56 Asia/Shanghai
+ Automated deployment @ 2025-04-25 09:42:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -43,4 +43,4 @@
 |**2025-04-23**|**Amplified Vulnerabilities: Structured Jailbreak Attacks on LLM-based Multi-Agent Debate**|Senmao Qi et.al.|[2504.16489v1](http://arxiv.org/abs/2504.16489v1)|null|
 |**2025-04-23**|**On Developers' Self-Declaration of AI-Generated Code: An Analysis of Practices**|Syed Mohammad Kashif et.al.|[2504.16485v1](http://arxiv.org/abs/2504.16485v1)|null|
 |**2025-04-23**|**ERASER: Efficient RTL FAult Simulation Framework with Trimmed Execution Redundancy**|Jiaping Tang et.al.|[2504.16473v1](http://arxiv.org/abs/2504.16473v1)|null|
-|**2025-04-23**|**The effect of decay cascade via an intermediate resonance in the $γ p \to π^0 ηp $ reaction**|Ai-Chao Wang et.al.|[2504.16444v1](http://arxiv.org/abs/2504.16444v1)|null|
+|**2025-04-23**|**The effect of decay cascade via an intermediate resonance in the $γ p \to π^0 ηp $ reaction**|Ai-Chao Wang et.al.|[2504.16444v2](http://arxiv.org/abs/2504.16444v2)|null|
