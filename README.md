@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-28 09:45:51 Asia/Shanghai
+ Automated deployment @ 2025-04-28 20:49:17 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,33 +14,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-24**|**Robotic Task Ambiguity Resolution via Natural Language Interaction**|Eugenio Chisari et.al.|[2504.17748v1](http://arxiv.org/abs/2504.17748v1)|null|
-|**2025-04-24**|**Unsupervised EEG-based decoding of absolute auditory attention with canonical correlation analysis**|Nicolas Heintz et.al.|[2504.17724v1](http://arxiv.org/abs/2504.17724v1)|null|
-|**2025-04-24**|**Multilingual Performance Biases of Large Language Models in Education**|Vansh Gupta et.al.|[2504.17720v1](http://arxiv.org/abs/2504.17720v1)|null|
-|**2025-04-24**|**Safety in Large Reasoning Models: A Survey**|Cheng Wang et.al.|[2504.17704v1](http://arxiv.org/abs/2504.17704v1)|null|
-|**2025-04-24**|**Applied Sheaf Theory For Multi-agent Artificial Intelligence (Reinforcement Learning) Systems: A Prospectus**|Eric Schmid et.al.|[2504.17700v1](http://arxiv.org/abs/2504.17700v1)|null|
-|**2025-04-24**|**Data-Driven Calibration of Prediction Sets in Large Vision-Language Models Based on Inductive Conformal Prediction**|Yuanchang Ye et.al.|[2504.17671v2](http://arxiv.org/abs/2504.17671v2)|null|
-|**2025-04-24**|**Towards a HIPAA Compliant Agentic AI System in Healthcare**|Subash Neupane et.al.|[2504.17669v1](http://arxiv.org/abs/2504.17669v1)|null|
-|**2025-04-24**|**Evaluating Grounded Reasoning by Code-Assisted Large Language Models for Mathematics**|Zena Al-Khalili et.al.|[2504.17665v1](http://arxiv.org/abs/2504.17665v1)|null|
-|**2025-04-24**|**Near-Term Pseudorandom and Pseudoresource Quantum States**|Andrew Tanggara et.al.|[2504.17650v1](http://arxiv.org/abs/2504.17650v1)|null|
-|**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636v1](http://arxiv.org/abs/2504.17636v1)|null|
-|**2025-04-24**|**DeepDistill: Enhancing LLM Reasoning Capabilities via Large-Scale Difficulty-Graded Data Training**|Xiaoyu Tian et.al.|[2504.17565v2](http://arxiv.org/abs/2504.17565v2)|null|
-|**2025-04-24**|**A Comprehensive Survey of Knowledge-Based Vision Question Answering Systems: The Lifecycle of Knowledge in Visual Reasoning Task**|Jiaqi Deng et.al.|[2504.17547v1](http://arxiv.org/abs/2504.17547v1)|null|
-|**2025-04-24**|**Auditing the Ethical Logic of Generative AI Models**|W. Russell Neuman et.al.|[2504.17544v1](http://arxiv.org/abs/2504.17544v1)|null|
-|**2025-04-24**|**Text-to-Image Alignment in Denoising-Based Models through Step Selection**|Paul Grimal et.al.|[2504.17525v1](http://arxiv.org/abs/2504.17525v1)|null|
-|**2025-04-24**|**RefVNLI: Towards Scalable Evaluation of Subject-driven Text-to-image Generation**|Aviv Slobodkin et.al.|[2504.17502v1](http://arxiv.org/abs/2504.17502v1)|null|
-|**2025-04-24**|**Investigation of student and faculty problem solving: An example from quantum mechanics**|Alexandru Maries et.al.|[2504.17487v1](http://arxiv.org/abs/2504.17487v1)|null|
-|**2025-04-24**|**Assessing the Capability of Large Language Models for Domain-Specific Ontology Generation**|Anna Sofia Lippolis et.al.|[2504.17402v1](http://arxiv.org/abs/2504.17402v1)|null|
-|**2025-04-24**|**LiveLongBench: Tackling Long-Context Understanding for Spoken Texts from Live Streams**|Yongxuan Wu et.al.|[2504.17366v1](http://arxiv.org/abs/2504.17366v1)|null|
-|**2025-04-24**|**PatientDx: Merging Large Language Models for Protecting Data-Privacy in Healthcare**|Jose G. Moreno et.al.|[2504.17360v1](http://arxiv.org/abs/2504.17360v1)|null|
-|**2025-04-24**|**Operational Semantics for Crystality: A Smart Contract Language for Parallel EVMs**|Ziyun Xu et.al.|[2504.17336v1](http://arxiv.org/abs/2504.17336v1)|null|
-|**2025-04-24**|**DataScout: Automatic Data Fact Retrieval for Statement Augmentation with an LLM-Based Agent**|Chuer Chen et.al.|[2504.17334v1](http://arxiv.org/abs/2504.17334v1)|null|
-|**2025-04-24**|**Class-Conditional Distribution Balancing for Group Robust Classification**|Miaoyun Zhao et.al.|[2504.17314v2](http://arxiv.org/abs/2504.17314v2)|null|
-|**2025-04-24**|**Does Knowledge Distillation Matter for Large Language Model based Bundle Generation?**|Kaidong Feng et.al.|[2504.17220v1](http://arxiv.org/abs/2504.17220v1)|null|
-|**2025-04-24**|**Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation**|Phillip Y. Lee et.al.|[2504.17207v1](http://arxiv.org/abs/2504.17207v1)|null|
-|**2025-04-24**|**Factually: Exploring Wearable Fact-Checking for Augmented Truth Discernment**|Chitralekha Gupta et.al.|[2504.17204v1](http://arxiv.org/abs/2504.17204v1)|null|
-|**2025-04-24**|**Robust Maximum Likelihood Updating**|Elchin Suleymanov et.al.|[2504.17151v1](http://arxiv.org/abs/2504.17151v1)|null|
-|**2025-04-23**|**Reinforcement learning framework for the mechanical design of microelectronic components under multiphysics constraints**|Siddharth Nair et.al.|[2504.17142v1](http://arxiv.org/abs/2504.17142v1)|null|
-|**2025-04-23**|**Steering the CensorShip: Uncovering Representation Vectors for LLM "Thought" Control**|Hannah Cyberey et.al.|[2504.17130v1](http://arxiv.org/abs/2504.17130v1)|null|
-|**2025-04-23**|**The Rise of Small Language Models in Healthcare: A Comprehensive Survey**|Muskan Garg et.al.|[2504.17119v2](http://arxiv.org/abs/2504.17119v2)|null|
-|**2025-04-23**|**Transactional Cloud Applications: Status Quo, Challenges, and Opportunities**|Rodrigo Laigner et.al.|[2504.17106v1](http://arxiv.org/abs/2504.17106v1)|null|
+|**2025-04-25**|**TRACE Back from the Future: A Probabilistic Reasoning Approach to Controllable Language Generation**|Gwen Yidou Weng et.al.|[2504.18535v1](http://arxiv.org/abs/2504.18535v1)|null|
+|**2025-04-25**|**Fast-Slow Thinking for Large Vision-Language Model Reasoning**|Wenyi Xiao et.al.|[2504.18458v1](http://arxiv.org/abs/2504.18458v1)|null|
+|**2025-04-25**|**Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation**|Peiyuan Jing et.al.|[2504.18453v1](http://arxiv.org/abs/2504.18453v1)|null|
+|**2025-04-25**|**Pseudo-Boolean Proof Logging for Optimal Classical Planning**|Simon Dold et.al.|[2504.18443v1](http://arxiv.org/abs/2504.18443v1)|null|
+|**2025-04-25**|**Expectation-based Analysis of Higher-Order Quantum Programs**|Martin Avanzini et.al.|[2504.18441v1](http://arxiv.org/abs/2504.18441v1)|null|
+|**2025-04-25**|**PolyMath: Evaluating Mathematical Reasoning in Multilingual Contexts**|Yiming Wang et.al.|[2504.18428v1](http://arxiv.org/abs/2504.18428v1)|null|
+|**2025-04-25**|**LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning**|Rui Li et.al.|[2504.18424v1](http://arxiv.org/abs/2504.18424v1)|null|
+|**2025-04-25**|**Expressing stigma and inappropriate responses prevents LLMs from safely replacing mental health providers**|Jared Moore et.al.|[2504.18412v1](http://arxiv.org/abs/2504.18412v1)|[link](https://github.com/jlcmoore/llms-as-therapists)|
+|**2025-04-25**|**Unsupervised Visual Chain-of-Thought Reasoning via Preference Optimization**|Kesen Zhao et.al.|[2504.18397v1](http://arxiv.org/abs/2504.18397v1)|null|
+|**2025-04-25**|**Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation**|Qidong Liu et.al.|[2504.18383v1](http://arxiv.org/abs/2504.18383v1)|null|
+|**2025-04-25**|**Spatial Reasoner: A 3D Inference Pipeline for XR Applications**|Steven Häsler et.al.|[2504.18380v1](http://arxiv.org/abs/2504.18380v1)|null|
+|**2025-04-25**|**Pushing the boundary on Natural Language Inference**|Pablo Miralles-González et.al.|[2504.18376v1](http://arxiv.org/abs/2504.18376v1)|null|
+|**2025-04-25**|**Interpretable Affordance Detection on 3D Point Clouds with Probabilistic Prototypes**|Maximilian Xiling Li et.al.|[2504.18355v1](http://arxiv.org/abs/2504.18355v1)|null|
+|**2025-04-25**|**MAGI: Multi-Agent Guided Interview for Psychiatric Assessment**|Guanqun Bi et.al.|[2504.18260v1](http://arxiv.org/abs/2504.18260v1)|null|
+|**2025-04-25**|**Efficient Single-Pass Training for Multi-Turn Reasoning**|Ritesh Goru et.al.|[2504.18246v1](http://arxiv.org/abs/2504.18246v1)|null|
+|**2025-04-25**|**DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering**|Rong Cheng et.al.|[2504.18243v1](http://arxiv.org/abs/2504.18243v1)|null|
+|**2025-04-25**|**Even Small Reasoners Should Quote Their Sources: Introducing the Pleias-RAG Model Family**|Pierre-Carl Langlais et.al.|[2504.18225v1](http://arxiv.org/abs/2504.18225v1)|null|
+|**2025-04-25**|**A Composable Game-Theoretic Framework for Blockchains**|Zeta Avarikioti et.al.|[2504.18214v1](http://arxiv.org/abs/2504.18214v1)|null|
+|**2025-04-25**|**What Happened in This Pipeline? Diffing Build Logs with CiDiff**|Nicolas Hubner et.al.|[2504.18182v1](http://arxiv.org/abs/2504.18182v1)|null|
+|**2025-04-25**|**Temporal Entailment Pretraining for Clinical Language Models over EHR Data**|Tatsunori Tanaka et.al.|[2504.18128v1](http://arxiv.org/abs/2504.18128v1)|null|
+|**2025-04-25**|**Think, Prune, Train, Improve: Scaling Reasoning without Scaling Models**|Caia Costello et.al.|[2504.18116v1](http://arxiv.org/abs/2504.18116v1)|null|
+|**2025-04-25**|**Temperature Estimation in Induction Motors using Machine Learning**|Dinan Li et.al.|[2504.18105v1](http://arxiv.org/abs/2504.18105v1)|null|
+|**2025-04-25**|**Stabilizing Reasoning in Medical LLMs with Continued Pretraining and Reasoning Preference Optimization**|Wataru Kawakami et.al.|[2504.18080v1](http://arxiv.org/abs/2504.18080v1)|null|
+|**2025-04-25**|**PropRAG: Guiding Retrieval with Beam Search over Proposition Paths**|Jingjin Wang et.al.|[2504.18070v1](http://arxiv.org/abs/2504.18070v1)|null|
+|**2025-04-25**|**Sun Close-Encounter Model of Long-Period Comet and Meteoroid Orbit Stochastic Evolution**|Stuart Pilorz et.al.|[2504.18069v1](http://arxiv.org/abs/2504.18069v1)|null|
+|**2025-04-25**|**DREAM: Disentangling Risks to Enhance Safety Alignment in Multimodal Large Language Models**|Jianyu Liu et.al.|[2504.18053v1](http://arxiv.org/abs/2504.18053v1)|null|
+|**2025-04-25**|**MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind**|Zheng Zhang et.al.|[2504.18039v1](http://arxiv.org/abs/2504.18039v1)|null|
+|**2025-04-25**|**Non-identifiability distinguishes Neural Networks among Parametric Models**|Sourav Chatterjee et.al.|[2504.18017v1](http://arxiv.org/abs/2504.18017v1)|null|
+|**2025-04-25**|**Improving LLM Personas via Rationalization with Psychological Scaffolds**|Brihi Joshi et.al.|[2504.17993v1](http://arxiv.org/abs/2504.17993v1)|null|
+|**2025-04-25**|**RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation**|Zheng Qin et.al.|[2504.17991v1](http://arxiv.org/abs/2504.17991v1)|null|
