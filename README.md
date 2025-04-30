@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-29 21:22:56 Asia/Shanghai
+ Automated deployment @ 2025-04-30 09:42:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -20,11 +20,11 @@
 |**2025-04-28**|**exoALMA XV: Interpreting the height of CO emission layer**|Giovanni P. Rosotti et.al.|[2504.20012v1](http://arxiv.org/abs/2504.20012v1)|null|
 |**2025-04-28**|**Accurate and Diverse LLM Mathematical Reasoning via Automated PRM-Guided GFlowNets**|Adam Younsi et.al.|[2504.19981v1](http://arxiv.org/abs/2504.19981v1)|null|
 |**2025-04-28**|**How Group Lives Go Well**|John Beverley et.al.|[2504.19968v1](http://arxiv.org/abs/2504.19968v1)|null|
-|**2025-04-28**|**Feelbert: A Feedback Linearization-based Embedded Real-Time Quadrupedal Locomotion Framework**|Aristide Emanuele Casucci et.al.|[2504.19965v1](http://arxiv.org/abs/2504.19965v1)|null|
+|**2025-04-28**|**Feelbert: A Feedback Linearization-based Embedded Real-Time Quadrupedal Locomotion Framework**|Aristide Emanuele Casucci et.al.|[2504.19965v2](http://arxiv.org/abs/2504.19965v2)|null|
 |**2025-04-28**|**Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents**|Vineeth Sai Narajala et.al.|[2504.19956v1](http://arxiv.org/abs/2504.19956v1)|null|
 |**2025-04-28**|**Probabilistic and Causal Satisfiability: Constraining the Model**|Markus Bläser et.al.|[2504.19944v1](http://arxiv.org/abs/2504.19944v1)|null|
 |**2025-04-28**|**GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets**|Mingqian He et.al.|[2504.19898v1](http://arxiv.org/abs/2504.19898v1)|null|
-|**2025-04-28**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855v1](http://arxiv.org/abs/2504.19855v1)|null|
+|**2025-04-28**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855v2](http://arxiv.org/abs/2504.19855v2)|null|
 |**2025-04-28**|**NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks**|Chia-Yu Hung et.al.|[2504.19854v1](http://arxiv.org/abs/2504.19854v1)|null|
 |**2025-04-28**|**A Formal Framework for Naturally Specifying and Verifying Sequential Algorithms**|Chengxi Yang et.al.|[2504.19852v1](http://arxiv.org/abs/2504.19852v1)|null|
 |**2025-04-28**|**Test-Negative Designs with Multiple Testing Sources**|Mengxin Yu et.al.|[2504.19778v1](http://arxiv.org/abs/2504.19778v1)|null|
