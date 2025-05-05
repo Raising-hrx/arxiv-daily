@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-04 21:06:04 Asia/Shanghai
+ Automated deployment @ 2025-05-05 09:47:43 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -23,7 +23,7 @@
 |**2025-05-01**|**Can LLMs Help Improve Analogical Reasoning For Strategic Decisions? Experimental Evidence from Humans and GPT-4**|Phanish Puranam et.al.|[2505.00603v1](http://arxiv.org/abs/2505.00603v1)|null|
 |**2025-05-01**|**Triggering Hallucinations in LLMs: A Quantitative Study of Prompt-Induced Hallucination in Large Language Models**|Makoto Sato et.al.|[2505.00557v1](http://arxiv.org/abs/2505.00557v1)|null|
 |**2025-05-01**|**Graph Spectral Filtering with Chebyshev Interpolation for Recommendation**|Chanwoo Kim et.al.|[2505.00552v1](http://arxiv.org/abs/2505.00552v1)|null|
-|**2025-05-01**|**100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models**|Chong Zhang et.al.|[2505.00551v1](http://arxiv.org/abs/2505.00551v1)|null|
+|**2025-05-01**|**100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models**|Chong Zhang et.al.|[2505.00551v2](http://arxiv.org/abs/2505.00551v2)|null|
 |**2025-05-01**|**Discovery of a physically interpretable data-driven wind-turbine wake model**|Kherlen Jigjid et.al.|[2505.00522v1](http://arxiv.org/abs/2505.00522v1)|null|
 |**2025-05-01**|**Rule-based Classifier Models**|Cecilia Di Florio et.al.|[2505.00474v1](http://arxiv.org/abs/2505.00474v1)|null|
 |**2025-05-01**|**UserCentrix: An Agentic Memory-augmented AI Framework for Smart Spaces**|Alaa Saleh et.al.|[2505.00472v1](http://arxiv.org/abs/2505.00472v1)|null|
@@ -35,7 +35,7 @@
 |**2025-05-01**|**Efficient Neural Video Representation with Temporally Coherent Modulation**|Seungjun Shin et.al.|[2505.00335v1](http://arxiv.org/abs/2505.00335v1)|null|
 |**2025-05-01**|**A$_1$-A$_2$ splitting in pure $^3$He in nematic aerogel**|V. V. Dmitriev et.al.|[2505.00313v1](http://arxiv.org/abs/2505.00313v1)|null|
 |**2025-05-01**|**EnronQA: Towards Personalized RAG over Private Documents**|Michael J. Ryan et.al.|[2505.00263v1](http://arxiv.org/abs/2505.00263v1)|null|
-|**2025-05-01**|**Empowering Agentic Video Analytics Systems with Video Language Models**|Yuxuan Yan et.al.|[2505.00254v1](http://arxiv.org/abs/2505.00254v1)|null|
+|**2025-05-01**|**Empowering Agentic Video Analytics Systems with Video Language Models**|Yuxuan Yan et.al.|[2505.00254v2](http://arxiv.org/abs/2505.00254v2)|null|
 |**2025-04-30**|**Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems**|Shaokun Zhang et.al.|[2505.00212v1](http://arxiv.org/abs/2505.00212v1)|null|
 |**2025-04-30**|**First Order Logic with Fuzzy Semantics for Describing and Recognizing Nerves in Medical Images**|Isabelle Bloch et.al.|[2505.00173v1](http://arxiv.org/abs/2505.00173v1)|null|
 |**2025-04-30**|**Audo-Sight: Enabling Ambient Interaction For Blind And Visually Impaired Individuals**|Bhanuja Ainary et.al.|[2505.00153v1](http://arxiv.org/abs/2505.00153v1)|null|
