@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-05 21:18:54 Asia/Shanghai
+ Automated deployment @ 2025-05-06 09:44:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -19,13 +19,13 @@
 |**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Noah Trupin et.al.|[2505.01399v1](http://arxiv.org/abs/2505.01399v1)|null|
 |**2025-05-02**|**Setting free the cosmic time in Quantum Universe**|David Vasak et.al.|[2505.01358v1](http://arxiv.org/abs/2505.01358v1)|null|
 |**2025-05-02**|**TRAVELER: A Benchmark for Evaluating Temporal Reasoning across Vague, Implicit and Explicit References**|Svenja Kenneweg et.al.|[2505.01325v1](http://arxiv.org/abs/2505.01325v1)|null|
-|**2025-05-02**|**Design-Based Inference under Random Potential Outcomes via Riesz Representation**|Yukai Yang et.al.|[2505.01324v1](http://arxiv.org/abs/2505.01324v1)|[link](https://github.com/yukai-yang/RieszRE_Experiments)|
+|**2025-05-02**|**Design-Based Inference under Random Potential Outcomes via Riesz Representation**|Yukai Yang et.al.|[2505.01324v2](http://arxiv.org/abs/2505.01324v2)|[link](https://github.com/yukai-yang/RieszRE_Experiments)|
 |**2025-05-02**|**FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors**|Chenxi Li et.al.|[2505.01322v1](http://arxiv.org/abs/2505.01322v1)|null|
 |**2025-05-02**|**Document Retrieval Augmented Fine-Tuning (DRAFT) for safety-critical software assessments**|Regan Bolton et.al.|[2505.01307v1](http://arxiv.org/abs/2505.01307v1)|null|
 |**2025-05-02**|**Cardiovascular function changes following lung resection: a computational model to compare afterload increase and contractility loss mechanisms**|Shiting Huang et.al.|[2505.01264v1](http://arxiv.org/abs/2505.01264v1)|null|
 |**2025-05-02**|**Bilateral Cognitive Security Games in Networked Control Systems under Stealthy Injection Attacks**|Anh Tung Nguyen et.al.|[2505.01232v1](http://arxiv.org/abs/2505.01232v1)|null|
 |**2025-05-02**|**CaReAQA: A Cardiac and Respiratory Audio Question Answering Model for Open-Ended Diagnostic Reasoning**|Tsai-Ning Wang et.al.|[2505.01199v1](http://arxiv.org/abs/2505.01199v1)|null|
-|**2025-05-02**|**TSTMotion: Training-free Scene-awarenText-to-motion Generation**|Ziyan Guo et.al.|[2505.01182v1](http://arxiv.org/abs/2505.01182v1)|null|
+|**2025-05-02**|**TSTMotion: Training-free Scene-aware Text-to-motion Generation**|Ziyan Guo et.al.|[2505.01182v2](http://arxiv.org/abs/2505.01182v2)|null|
 |**2025-05-02**|**On the Limitations of Steering in Language Model Alignment**|Chebrolu Niranjan et.al.|[2505.01162v1](http://arxiv.org/abs/2505.01162v1)|null|
 |**2025-05-02**|**Connecting afterglow light curves to the GRB central engine**|Muhammed Diyaddin Ilhan et.al.|[2505.01158v1](http://arxiv.org/abs/2505.01158v1)|null|
 |**2025-05-02**|**The Great Data Standoff: Researchers vs. Platforms Under the Digital Services Act**|Catalina Goanta et.al.|[2505.01122v1](http://arxiv.org/abs/2505.01122v1)|null|
