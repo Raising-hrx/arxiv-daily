@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-11 21:05:35 Asia/Shanghai
+ Automated deployment @ 2025-05-12 09:48:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -18,7 +18,7 @@
 |**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Shiqi Chen et.al.|[2505.05464v1](http://arxiv.org/abs/2505.05464v1)|[link](https://github.com/shiqichen17/vlm_merging)|
 |**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Wenqi Wang et.al.|[2505.05456v1](http://arxiv.org/abs/2505.05456v1)|null|
 |**2025-05-08**|**Adaptive Markup Language Generation for Contextually-Grounded Visual Document Understanding**|Han Xiao et.al.|[2505.05446v1](http://arxiv.org/abs/2505.05446v1)|null|
-|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440v1](http://arxiv.org/abs/2505.05440v1)|null|
+|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440v2](http://arxiv.org/abs/2505.05440v2)|null|
 |**2025-05-08**|**Reasoning Models Don't Always Say What They Think**|Yanda Chen et.al.|[2505.05410v1](http://arxiv.org/abs/2505.05410v1)|null|
 |**2025-05-08**|**Crosslingual Reasoning through Test-Time Scaling**|Zheng-Xin Yong et.al.|[2505.05408v1](http://arxiv.org/abs/2505.05408v1)|null|
 |**2025-05-08**|**Efficient Numerical Quantification of Flettner Rotor Installations**|Niklas Kühl et.al.|[2505.05401v1](http://arxiv.org/abs/2505.05401v1)|null|
@@ -35,7 +35,7 @@
 |**2025-05-08**|**A new method for estimating unknown one-order higher QCD corrections to the perturbative series using the linear regression through the origin**|Zhi-Fei Wu et.al.|[2505.05131v1](http://arxiv.org/abs/2505.05131v1)|null|
 |**2025-05-08**|**Multi-agent Embodied AI: Advances and Future Directions**|Zhaohan Feng et.al.|[2505.05108v1](http://arxiv.org/abs/2505.05108v1)|null|
 |**2025-05-08**|**X-Driver: Explainable Autonomous Driving with Vision-Language Models**|Wei Liu et.al.|[2505.05098v1](http://arxiv.org/abs/2505.05098v1)|null|
-|**2025-05-08**|**G-FOCUS: Towards a Robust Method for Assessing UI Design Persuasiveness**|Jaehyun Jeon et.al.|[2505.05026v1](http://arxiv.org/abs/2505.05026v1)|null|
+|**2025-05-08**|**G-FOCUS: Towards a Robust Method for Assessing UI Design Persuasiveness**|Jaehyun Jeon et.al.|[2505.05026v2](http://arxiv.org/abs/2505.05026v2)|null|
 |**2025-05-08**|**LVLM-MPC Collaboration for Autonomous Driving: A Safety-Aware and Task-Scalable Control Architecture**|Kazuki Atsuta et.al.|[2505.04980v1](http://arxiv.org/abs/2505.04980v1)|null|
 |**2025-05-08**|**The candidates of 2$α$ condensate around the 16O nucleus studied by the real-time evolution method**|Y. M. Htet et.al.|[2505.04975v1](http://arxiv.org/abs/2505.04975v1)|null|
 |**2025-05-08**|**Chain-of-Thought Tokens are Computer Program Variables**|Fangwei Zhu et.al.|[2505.04955v1](http://arxiv.org/abs/2505.04955v1)|[link](https://github.com/solitaryzero/cots_are_variables)|
