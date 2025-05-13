@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-12 21:22:15 Asia/Shanghai
+ Automated deployment @ 2025-05-13 09:46:17 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -19,7 +19,7 @@
 |**2025-05-09**|**From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling**|Vahid Rahimzadeh et.al.|[2505.06184v1](http://arxiv.org/abs/2505.06184v1)|null|
 |**2025-05-09**|**MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills**|Niladri Shekhar Dutt et.al.|[2505.06176v1](http://arxiv.org/abs/2505.06176v1)|null|
 |**2025-05-09**|**Constraints to Lorentz violation and ultrahigh-energy electrons in D-foamy space-times**|Chengyi Li et.al.|[2505.06121v1](http://arxiv.org/abs/2505.06121v1)|null|
-|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108v1](http://arxiv.org/abs/2505.06108v1)|null|
+|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108v2](http://arxiv.org/abs/2505.06108v2)|null|
 |**2025-05-09**|**ArtRAG: Retrieval-Augmented Generation with Structured Context for Visual Art Understanding**|Shuai Wang et.al.|[2505.06020v1](http://arxiv.org/abs/2505.06020v1)|null|
 |**2025-05-09**|**Do Not Change Me: On Transferring Entities Without Modification in Neural Machine Translation -- a Multilingual Perspective**|Dawid Wisniewski et.al.|[2505.06010v1](http://arxiv.org/abs/2505.06010v1)|null|
 |**2025-05-09**|**From Pixels to Perception: Interpretable Predictions via Instance-wise Grouped Feature Selection**|Moritz Vandenhirtz et.al.|[2505.06003v1](http://arxiv.org/abs/2505.06003v1)|[link](https://github.com/mvandenhi/p2p)|
@@ -34,7 +34,7 @@
 |**2025-05-09**|**AgentXploit: End-to-End Redteaming of Black-Box AI Agents**|Zhun Wang et.al.|[2505.05849v1](http://arxiv.org/abs/2505.05849v1)|null|
 |**2025-05-09**|**3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks**|Vineet Bhat et.al.|[2505.05800v1](http://arxiv.org/abs/2505.05800v1)|null|
 |**2025-05-09**|**Demystifying Diffusion Policies: Action Memorization and Simple Lookup Table Alternatives**|Chengyang He et.al.|[2505.05787v1](http://arxiv.org/abs/2505.05787v1)|null|
-|**2025-05-09**|**APOLLO: Automated LLM and Lean Collaboration for Advanced Formal Reasoning**|Azim Ospanov et.al.|[2505.05758v1](http://arxiv.org/abs/2505.05758v1)|null|
+|**2025-05-09**|**APOLLO: Automated LLM and Lean Collaboration for Advanced Formal Reasoning**|Azim Ospanov et.al.|[2505.05758v2](http://arxiv.org/abs/2505.05758v2)|null|
 |**2025-05-09**|**Who's at Risk? Effects of Inflation on Unemployment Risk**|Hie Joo Ahn et.al.|[2505.05757v1](http://arxiv.org/abs/2505.05757v1)|null|
 |**2025-05-09**|**Evolutionary thoughts: integration of large language models and evolutionary algorithms**|Antonio Jimeno Yepes et.al.|[2505.05756v1](http://arxiv.org/abs/2505.05756v1)|null|
 |**2025-05-09**|**Harnessing LLMs Explanations to Boost Surrogate Models in Tabular Data Classification**|Ruxue Shi et.al.|[2505.05744v1](http://arxiv.org/abs/2505.05744v1)|null|
