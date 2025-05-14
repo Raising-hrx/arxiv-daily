@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-13 21:22:48 Asia/Shanghai
+ Automated deployment @ 2025-05-14 09:45:10 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -20,11 +20,11 @@
 |**2025-05-12**|**The Value of Disagreement in AI Design, Evaluation, and Alignment**|Sina Fazelpour et.al.|[2505.07772v1](http://arxiv.org/abs/2505.07772v1)|null|
 |**2025-05-12**|**Naturalistic Metaphysics and the Parity Thesis: Why Scientific Realism Doesn't Lead to Realism about Metaphysics**|Raoni Arroyo et.al.|[2505.07751v1](http://arxiv.org/abs/2505.07751v1)|null|
 |**2025-05-12**|**Assessing the Chemical Intelligence of Large Language Models**|Nicholas T. Runcie et.al.|[2505.07735v1](http://arxiv.org/abs/2505.07735v1)|null|
-|**2025-05-12**|**Codifying Character Logic in Role-Playing**|Letian Peng et.al.|[2505.07705v1](http://arxiv.org/abs/2505.07705v1)|null|
+|**2025-05-12**|**Codifying Character Logic in Role-Playing**|Letian Peng et.al.|[2505.07705v2](http://arxiv.org/abs/2505.07705v2)|[link](https://github.com/KomeijiForce/Codified_Profile_Koishiday_2025)|
 |**2025-05-12**|**Belief Injection for Epistemic Control in Linguistic State Space**|Sebastian Dumbrava et.al.|[2505.07693v1](http://arxiv.org/abs/2505.07693v1)|null|
 |**2025-05-12**|**Anatomical Attention Alignment representation for Radiology Report Generation**|Quang Vinh Nguyen et.al.|[2505.07689v1](http://arxiv.org/abs/2505.07689v1)|[link](https://github.com/vinh-ai/a3net)|
 |**2025-05-12**|**S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**|Muzhi Dai et.al.|[2505.07686v1](http://arxiv.org/abs/2505.07686v1)|null|
-|**2025-05-12**|**Chronocept: Instilling a Sense of Time in Machines**|Krish Goel et.al.|[2505.07637v1](http://arxiv.org/abs/2505.07637v1)|null|
+|**2025-05-12**|**Chronocept: Instilling a Sense of Time in Machines**|Krish Goel et.al.|[2505.07637v1](http://arxiv.org/abs/2505.07637v1)|[link](https://github.com/krishgoel/chronocept-baseline-models)|
 |**2025-05-12**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[2505.07634v1](http://arxiv.org/abs/2505.07634v1)|null|
 |**2025-05-12**|**KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation**|Ching Han Chen et.al.|[2505.07618v1](http://arxiv.org/abs/2505.07618v1)|null|
 |**2025-05-12**|**MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining**|Xiaomi LLM-Core Team et.al.|[2505.07608v1](http://arxiv.org/abs/2505.07608v1)|[link](https://github.com/xiaomimimo/mimo)|
