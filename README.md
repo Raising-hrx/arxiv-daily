@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-15 21:18:55 Asia/Shanghai
+ Automated deployment @ 2025-05-16 09:46:45 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -18,7 +18,7 @@
 |**2025-05-14**|**DataMIL: Selecting Data for Robot Imitation Learning with Datamodels**|Shivin Dass et.al.|[2505.09603v1](http://arxiv.org/abs/2505.09603v1)|null|
 |**2025-05-14**|**Learning Long-Context Diffusion Policies via Past-Token Prediction**|Marcel Torne et.al.|[2505.09561v1](http://arxiv.org/abs/2505.09561v1)|null|
 |**2025-05-14**|**WavReward: Spoken Dialogue Models With Generalist Reward Evaluators**|Shengpeng Ji et.al.|[2505.09558v1](http://arxiv.org/abs/2505.09558v1)|[link](https://github.com/jishengpeng/wavreward)|
-|**2025-05-14**|**Einstein, Free Creations, and His Worldly Cloister**|Galina Weinstein et.al.|[2505.09530v1](http://arxiv.org/abs/2505.09530v1)|null|
+|**2025-05-14**|**Einstein, Free Creations, and His Worldly Cloister**|Galina Weinstein et.al.|[2505.09530v2](http://arxiv.org/abs/2505.09530v2)|null|
 |**2025-05-14**|**Scaling Up: Revisiting Mining Android Sandboxes at Scale for Malware Classification**|Francisco Costa et.al.|[2505.09501v1](http://arxiv.org/abs/2505.09501v1)|null|
 |**2025-05-14**|**Deploying Foundation Model-Enabled Air and Ground Robots in the Field: Challenges and Opportunities**|Zachary Ravichandran et.al.|[2505.09477v1](http://arxiv.org/abs/2505.09477v1)|null|
 |**2025-05-14**|**When Dark Matter Heats Up: A Model-Independent Search for Non-Cold Behavior**|Mazaharul Abedin et.al.|[2505.09470v1](http://arxiv.org/abs/2505.09470v1)|null|
@@ -27,7 +27,7 @@
 |**2025-05-14**|**The asymmetry of white dwarf double detonations and the observed scatter around the Phillips relation**|Alexander Holas et.al.|[2505.09445v1](http://arxiv.org/abs/2505.09445v1)|null|
 |**2025-05-14**|**Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM?**|Andrew Rouditchenko et.al.|[2505.09439v1](http://arxiv.org/abs/2505.09439v1)|null|
 |**2025-05-14**|**Evaluating GPT- and Reasoning-based Large Language Models on Physics Olympiad Problems: Surpassing Human Performance and Implications for Educational Assessment**|Paul Tschisgale et.al.|[2505.09438v1](http://arxiv.org/abs/2505.09438v1)|null|
-|**2025-05-14**|**SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation**|Achref Doula et.al.|[2505.09427v1](http://arxiv.org/abs/2505.09427v1)|null|
+|**2025-05-14**|**SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation**|Achref Doula et.al.|[2505.09427v2](http://arxiv.org/abs/2505.09427v2)|null|
 |**2025-05-14**|**Non-expansive Fuzzy ALC**|Stefan Gebhart et.al.|[2505.09416v1](http://arxiv.org/abs/2505.09416v1)|null|
 |**2025-05-14**|**FaceShield: Explainable Face Anti-Spoofing with Multimodal Large Language Models**|Hongyang Wang et.al.|[2505.09415v1](http://arxiv.org/abs/2505.09415v1)|null|
 |**2025-05-14**|**The Influence of Human-inspired Agentic Sophistication in LLM-driven Strategic Reasoners**|Vince Trencsenyi et.al.|[2505.09396v1](http://arxiv.org/abs/2505.09396v1)|null|
