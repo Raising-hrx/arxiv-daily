@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-19 21:22:43 Asia/Shanghai
+ Automated deployment @ 2025-05-20 09:46:51 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -28,19 +28,19 @@
 |**2025-05-16**|**Benchmarking Critical Questions Generation: A Challenging Reasoning Task for Large Language Models**|Banca Calvo Figueras et.al.|[2505.11341v1](http://arxiv.org/abs/2505.11341v1)|null|
 |**2025-05-16**|**Explaining Strategic Decisions in Multi-Agent Reinforcement Learning for Aerial Combat Tactics**|Ardian Selmonaj et.al.|[2505.11311v1](http://arxiv.org/abs/2505.11311v1)|null|
 |**2025-05-16**|**Search and Refine During Think: Autonomous Retrieval-Augmented Reasoning of LLMs**|Yaorui Shi et.al.|[2505.11277v1](http://arxiv.org/abs/2505.11277v1)|null|
-|**2025-05-16**|**TCC-Bench: Benchmarking the Traditional Chinese Culture Understanding Capabilities of MLLMs**|Pengju Xu et.al.|[2505.11275v1](http://arxiv.org/abs/2505.11275v1)|null|
+|**2025-05-16**|**TCC-Bench: Benchmarking the Traditional Chinese Culture Understanding Capabilities of MLLMs**|Pengju Xu et.al.|[2505.11275v2](http://arxiv.org/abs/2505.11275v2)|null|
 |**2025-05-16**|**SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning**|Zheng Li et.al.|[2505.11274v1](http://arxiv.org/abs/2505.11274v1)|null|
 |**2025-05-16**|**Delta Attention: Fast and Accurate Sparse Attention Inference by Delta Correction**|Jeffrey Willette et.al.|[2505.11254v1](http://arxiv.org/abs/2505.11254v1)|null|
 |**2025-05-16**|**Is PRM Necessary? Problem-Solving RL Implicitly Induces PRM Capability in LLMs**|Zhangying Feng et.al.|[2505.11227v1](http://arxiv.org/abs/2505.11227v1)|null|
 |**2025-05-16**|**HAPO: Training Language Models to Reason Concisely via History-Aware Policy Optimization**|Chengyu Huang et.al.|[2505.11225v1](http://arxiv.org/abs/2505.11225v1)|null|
 |**2025-05-16**|**NoPE: The Counting Power of Transformers with No Positional Encodings**|Chris Köcher et.al.|[2505.11199v1](http://arxiv.org/abs/2505.11199v1)|null|
-|**2025-05-16**|**Real-Time Verification of Embodied Reasoning for Generative Skill Acquisition**|Bo Yue et.al.|[2505.11175v1](http://arxiv.org/abs/2505.11175v1)|null|
+|**2025-05-16**|**Real-Time Verification of Embodied Reasoning for Generative Skill Acquisition**|Bo Yue et.al.|[2505.11175v2](http://arxiv.org/abs/2505.11175v2)|null|
 |**2025-05-16**|**Foundation Time-Series AI Model for Realized Volatility Forecasting**|Anubha Goel et.al.|[2505.11163v1](http://arxiv.org/abs/2505.11163v1)|null|
 |**2025-05-16**|**Human-Aligned Bench: Fine-Grained Assessment of Reasoning Ability in MLLMs vs. Humans**|Yansheng Qiu et.al.|[2505.11141v1](http://arxiv.org/abs/2505.11141v1)|null|
 |**2025-05-16**|**Scaling Reasoning can Improve Factuality in Large Language Models**|Mike Zhang et.al.|[2505.11140v1](http://arxiv.org/abs/2505.11140v1)|null|
 |**2025-05-16**|**GraphOracle: A Foundation Model for Knowledge Graph Reasoning**|Enjun Du et.al.|[2505.11125v1](http://arxiv.org/abs/2505.11125v1)|null|
 |**2025-05-16**|**Navigating the Alpha Jungle: An LLM-Powered MCTS Framework for Formulaic Factor Mining**|Yu Shi et.al.|[2505.11122v1](http://arxiv.org/abs/2505.11122v1)|null|
 |**2025-05-16**|**Group Think: Multiple Concurrent Reasoning Agents Collaborating at Token Level Granularity**|Chan-Jan Hsu et.al.|[2505.11107v1](http://arxiv.org/abs/2505.11107v1)|null|
-|**2025-05-16**|**Think Twice Before You Act: Enhancing Agent Behavioral Safety with Thought Correction**|Changyue Jiang et.al.|[2505.11063v1](http://arxiv.org/abs/2505.11063v1)|null|
+|**2025-05-16**|**Think Twice Before You Act: Enhancing Agent Behavioral Safety with Thought Correction**|Changyue Jiang et.al.|[2505.11063v2](http://arxiv.org/abs/2505.11063v2)|null|
 |**2025-05-16**|**GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning**|Yue Liu et.al.|[2505.11049v1](http://arxiv.org/abs/2505.11049v1)|null|
-|**2025-05-16**|**OntoURL: A Benchmark for Evaluating Large Language Models on Symbolic Ontological Understanding, Reasoning and Learning**|Xiao Zhang et.al.|[2505.11031v1](http://arxiv.org/abs/2505.11031v1)|null|
+|**2025-05-16**|**OntoURL: A Benchmark for Evaluating Large Language Models on Symbolic Ontological Understanding, Reasoning and Learning**|Xiao Zhang et.al.|[2505.11031v2](http://arxiv.org/abs/2505.11031v2)|null|
