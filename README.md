@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-29 21:20:22 Asia/Shanghai
+ Automated deployment @ 2025-05-30 09:44:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-05-28**|**AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**|Feng Luo et.al.|[2505.22662v1](http://arxiv.org/abs/2505.22662v1)|null|
 |**2025-05-28**|**GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Reasoning**|Qingchen Yu et.al.|[2505.22661v1](http://arxiv.org/abs/2505.22661v1)|null|
-|**2025-05-28**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660v1](http://arxiv.org/abs/2505.22660v1)|null|
+|**2025-05-28**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660v2](http://arxiv.org/abs/2505.22660v2)|null|
 |**2025-05-28**|**3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model**|Wenbo Hu et.al.|[2505.22657v1](http://arxiv.org/abs/2505.22657v1)|null|
 |**2025-05-28**|**The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason**|Ang Lv et.al.|[2505.22653v1](http://arxiv.org/abs/2505.22653v1)|null|
 |**2025-05-28**|**Sherlock: Self-Correcting Reasoning in Vision-Language Models**|Yi Ding et.al.|[2505.22651v1](http://arxiv.org/abs/2505.22651v1)|null|
@@ -29,7 +29,7 @@
 |**2025-05-28**|**The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models**|Ganqu Cui et.al.|[2505.22617v1](http://arxiv.org/abs/2505.22617v1)|null|
 |**2025-05-28**|**SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning**|Jiaqi Huang et.al.|[2505.22596v1](http://arxiv.org/abs/2505.22596v1)|null|
 |**2025-05-28**|**Self-Error-Instruct: Generalizing from Errors for LLMs Mathematical Reasoning**|Erxin Yu et.al.|[2505.22591v1](http://arxiv.org/abs/2505.22591v1)|null|
-|**2025-05-28**|**Agent-UniRAG: A Trainable Open-Source LLM Agent Framework for Unified Retrieval-Augmented Generation Systems**|Hoang Pham et.al.|[2505.22571v1](http://arxiv.org/abs/2505.22571v1)|null|
+|**2025-05-28**|**Agent-UniRAG: A Trainable Open-Source LLM Agent Framework for Unified Retrieval-Augmented Generation Systems**|Hoang Pham et.al.|[2505.22571v2](http://arxiv.org/abs/2505.22571v2)|null|
 |**2025-05-28**|**Multipath cycleGAN for harmonization of paired and unpaired low-dose lung computed tomography reconstruction kernels**|Aravind R. Krishnan et.al.|[2505.22568v1](http://arxiv.org/abs/2505.22568v1)|null|
 |**2025-05-28**|**Universal Visuo-Tactile Video Understanding for Embodied Interaction**|Yifan Xie et.al.|[2505.22566v1](http://arxiv.org/abs/2505.22566v1)|null|
 |**2025-05-28**|**ClaimPKG: Enhancing Claim Verification via Pseudo-Subgraph Generation with Lightweight Specialized LLM**|Hoang Pham et.al.|[2505.22552v1](http://arxiv.org/abs/2505.22552v1)|null|
