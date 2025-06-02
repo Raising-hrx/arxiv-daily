@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-02 09:52:02 Asia/Shanghai
+ Automated deployment @ 2025-06-02 20:44:42 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,33 +14,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-29**|**Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought**|Yunze Man et.al.|[2505.23766v1](http://arxiv.org/abs/2505.23766v1)|null|
-|**2025-05-29**|**From Chat Logs to Collective Insights: Aggregative Question Answering**|Wentao Zhang et.al.|[2505.23765v1](http://arxiv.org/abs/2505.23765v1)|null|
-|**2025-05-29**|**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**|Sihan Yang et.al.|[2505.23764v1](http://arxiv.org/abs/2505.23764v1)|null|
-|**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|Heekyung Lee et.al.|[2505.23759v1](http://arxiv.org/abs/2505.23759v1)|[link](https://github.com/kyunnilee/visual_puzzles)|
-|**2025-05-29**|**DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning**|Ziyin Zhang et.al.|[2505.23754v1](http://arxiv.org/abs/2505.23754v1)|[link](https://github.com/jiahao004/deeptheorem)|
-|**2025-05-29**|**ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks**|Akashah Shabbir et.al.|[2505.23752v1](http://arxiv.org/abs/2505.23752v1)|[link](https://github.com/mbzuai-oryx/thinkgeo)|
-|**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747v1](http://arxiv.org/abs/2505.23747v1)|null|
-|**2025-05-29**|**On the Convergence Analysis of Muon**|Wei Shen et.al.|[2505.23737v1](http://arxiv.org/abs/2505.23737v1)|null|
-|**2025-05-29**|**ATLAS: Learning to Optimally Memorize the Context at Test Time**|Ali Behrouz et.al.|[2505.23735v1](http://arxiv.org/abs/2505.23735v1)|null|
-|**2025-05-29**|**PixelThink: Towards Efficient Chain-of-Pixel Reasoning**|Song Wang et.al.|[2505.23727v1](http://arxiv.org/abs/2505.23727v1)|null|
-|**2025-05-29**|**Don't Take the Premise for Granted: Evaluating the Premise Critique Ability of Large Language Models**|Jinzhe Li et.al.|[2505.23715v1](http://arxiv.org/abs/2505.23715v1)|[link](https://github.com/mlgroupjlu/premise_critique)|
-|**2025-05-29**|**SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models**|Zixiang Xu et.al.|[2505.23713v1](http://arxiv.org/abs/2505.23713v1)|[link](https://github.com/xzx34/socialmaze)|
-|**2025-05-29**|**Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability**|Ruida Wang et.al.|[2505.23703v1](http://arxiv.org/abs/2505.23703v1)|null|
-|**2025-05-29**|**Can LLMs Reason Abstractly Over Math Word Problems Without CoT? Disentangling Abstract Formulation From Arithmetic Computation**|Ziling Cheng et.al.|[2505.23701v1](http://arxiv.org/abs/2505.23701v1)|null|
-|**2025-05-29**|**Data-to-Dashboard: Multi-Agent LLM Framework for Insightful Visualization in Enterprise Analytics**|Ran Zhang et.al.|[2505.23695v1](http://arxiv.org/abs/2505.23695v1)|[link](https://github.com/77luvc/d2d_data2dashboard)|
-|**2025-05-29**|**VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC Videos**|Tingyu Song et.al.|[2505.23693v1](http://arxiv.org/abs/2505.23693v1)|[link](https://github.com/sighingsnow/vf-eval)|
-|**2025-05-29**|**Learning Compositional Functions with Transformers from Easy-to-Hard Data**|Zixuan Wang et.al.|[2505.23683v1](http://arxiv.org/abs/2505.23683v1)|null|
-|**2025-05-29**|**Grounded Reinforcement Learning for Visual Reasoning**|Gabriel Sarch et.al.|[2505.23678v1](http://arxiv.org/abs/2505.23678v1)|null|
-|**2025-05-29**|**Fortune: Formula-Driven Reinforcement Learning for Symbolic Table Reasoning in Language Models**|Lang Cao et.al.|[2505.23667v1](http://arxiv.org/abs/2505.23667v1)|null|
-|**2025-05-29**|**LoLA: Low-Rank Linear Attention With Sparse Caching**|Luke McDermott et.al.|[2505.23666v1](http://arxiv.org/abs/2505.23666v1)|null|
-|**2025-05-29**|**How does Transformer Learn Implicit Reasoning?**|Jiaran Ye et.al.|[2505.23653v1](http://arxiv.org/abs/2505.23653v1)|[link](https://github.com/jiaran-ye/implicitreasoning)|
-|**2025-05-29**|**Continuous Chain of Thought Enables Parallel Exploration and Reasoning**|Halil Alperen Gozeten et.al.|[2505.23648v1](http://arxiv.org/abs/2505.23648v1)|null|
-|**2025-05-29**|**Are Reasoning Models More Prone to Hallucination?**|Zijun Yao et.al.|[2505.23646v1](http://arxiv.org/abs/2505.23646v1)|null|
-|**2025-05-29**|**Securing AI Agents with Information-Flow Control**|Manuel Costa et.al.|[2505.23643v1](http://arxiv.org/abs/2505.23643v1)|[link](https://github.com/microsoft/fides)|
-|**2025-05-29**|**Table-R1: Inference-Time Scaling for Table Reasoning**|Zheyuan Yang et.al.|[2505.23621v1](http://arxiv.org/abs/2505.23621v1)|[link](https://github.com/table-r1/table-r1)|
-|**2025-05-29**|**Learning Interpretable Differentiable Logic Networks for Tabular Regression**|Chang Yue et.al.|[2505.23615v1](http://arxiv.org/abs/2505.23615v1)|null|
-|**2025-05-29**|**Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model**|Qingyu Shi et.al.|[2505.23606v1](http://arxiv.org/abs/2505.23606v1)|[link](https://github.com/m-e-agi-lab/muddit)|
-|**2025-05-29**|**A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis**|Shengyuan Liu et.al.|[2505.23601v1](http://arxiv.org/abs/2505.23601v1)|null|
-|**2025-05-29**|**LLM Performance for Code Generation on Noisy Tasks**|Radzim Sendyka et.al.|[2505.23598v1](http://arxiv.org/abs/2505.23598v1)|null|
-|**2025-05-29**|**MAPLE: A Mobile Assistant with Persistent Finite State Machines for Recovery Reasoning**|Linqiang Guo et.al.|[2505.23596v1](http://arxiv.org/abs/2505.23596v1)|null|
+|**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878v1](http://arxiv.org/abs/2505.24878v1)|null|
+|**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876v1](http://arxiv.org/abs/2505.24876v1)|null|
+|**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875v1](http://arxiv.org/abs/2505.24875v1)|null|
+|**2025-05-30**|**The Road to Generalizable Neuro-Symbolic Learning Should be Paved with Foundation Models**|Adam Stein et.al.|[2505.24874v1](http://arxiv.org/abs/2505.24874v1)|null|
+|**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872v1](http://arxiv.org/abs/2505.24872v1)|null|
+|**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871v1](http://arxiv.org/abs/2505.24871v1)|null|
+|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869v1](http://arxiv.org/abs/2505.24869v1)|null|
+|**2025-05-30**|**Time Blindness: Why Video-Language Models Can't See What Humans Can?**|Ujjwal Upadhyay et.al.|[2505.24867v1](http://arxiv.org/abs/2505.24867v1)|null|
+|**2025-05-30**|**ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models**|Mingjie Liu et.al.|[2505.24864v1](http://arxiv.org/abs/2505.24864v1)|null|
+|**2025-05-30**|**AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time**|Junyu Zhang et.al.|[2505.24863v1](http://arxiv.org/abs/2505.24863v1)|null|
+|**2025-05-30**|**Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**|Heli Ben-Hamu et.al.|[2505.24857v1](http://arxiv.org/abs/2505.24857v1)|null|
+|**2025-05-30**|**Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning**|Shuyao Xu et.al.|[2505.24850v1](http://arxiv.org/abs/2505.24850v1)|null|
+|**2025-05-30**|**Chameleon: A Flexible Data-mixing Framework for Language Model Pretraining and Finetuning**|Wanyun Xie et.al.|[2505.24844v1](http://arxiv.org/abs/2505.24844v1)|null|
+|**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838v1](http://arxiv.org/abs/2505.24838v1)|null|
+|**2025-05-30**|**LegalEval-Q: A New Benchmark for The Quality Evaluation of LLM-Generated Legal Text**|Li yunhan et.al.|[2505.24826v1](http://arxiv.org/abs/2505.24826v1)|null|
+|**2025-05-30**|**PhySense: Principle-Based Physics Reasoning Benchmarking for Large Language Models**|Yinggan Xu et.al.|[2505.24823v1](http://arxiv.org/abs/2505.24823v1)|null|
+|**2025-05-30**|**RealDrive: Retrieval-Augmented Driving with Diffusion Models**|Wenhao Ding et.al.|[2505.24808v1](http://arxiv.org/abs/2505.24808v1)|null|
+|**2025-05-30**|**REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards**|Zafir Stojanovski et.al.|[2505.24760v1](http://arxiv.org/abs/2505.24760v1)|null|
+|**2025-05-30**|**Circuit Stability Characterizes Language Model Generalization**|Alan Sun et.al.|[2505.24731v1](http://arxiv.org/abs/2505.24731v1)|null|
+|**2025-05-30**|**HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts**|Neil He et.al.|[2505.24722v1](http://arxiv.org/abs/2505.24722v1)|null|
+|**2025-05-30**|**Reinforcing Video Reasoning with Focused Thinking**|Jisheng Dang et.al.|[2505.24718v1](http://arxiv.org/abs/2505.24718v1)|null|
+|**2025-05-30**|**FinMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation**|Junyu Luo et.al.|[2505.24714v1](http://arxiv.org/abs/2505.24714v1)|null|
+|**2025-05-30**|**Causal-aware Large Language Models: Enhancing Decision-Making Through Learning, Adapting and Acting**|Wei Chen et.al.|[2505.24710v1](http://arxiv.org/abs/2505.24710v1)|null|
+|**2025-05-30**|**Soft Reasoning: Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration**|Qinglin Zhu et.al.|[2505.24688v1](http://arxiv.org/abs/2505.24688v1)|null|
+|**2025-05-30**|**The Hallucination Dilemma: Factuality-Aware Reinforcement Learning for Large Reasoning Models**|Junyi Li et.al.|[2505.24630v1](http://arxiv.org/abs/2505.24630v1)|null|
+|**2025-05-30**|**Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors**|Duo Zheng et.al.|[2505.24625v1](http://arxiv.org/abs/2505.24625v1)|null|
+|**2025-05-30**|**Random Rule Forest (RRF): Interpretable Ensembles of LLM-Generated Questions for Predicting Startup Success**|Ben Griffin et.al.|[2505.24622v1](http://arxiv.org/abs/2505.24622v1)|null|
+|**2025-05-30**|**A*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings**|Xiaoang Xu et.al.|[2505.24550v1](http://arxiv.org/abs/2505.24550v1)|null|
+|**2025-05-30**|**DEEPQUESTION: Systematic Generation of Real-World Challenges for Evaluating LLMs Performance**|Ali Khoramfar et.al.|[2505.24532v1](http://arxiv.org/abs/2505.24532v1)|null|
+|**2025-05-30**|**Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting**|Jiahao Wang et.al.|[2505.24511v1](http://arxiv.org/abs/2505.24511v1)|null|
