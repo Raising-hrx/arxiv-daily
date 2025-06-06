@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-05 21:22:37 Asia/Shanghai
+ Automated deployment @ 2025-06-06 09:46:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -20,11 +20,11 @@
 |**2025-06-04**|**EPiC: Towards Lossless Speedup for Reasoning Training through Edge-Preserving CoT Condensation**|Jinghan Jia et.al.|[2506.04205v1](http://arxiv.org/abs/2506.04205v1)|null|
 |**2025-06-04**|**R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning**|Qingfei Zhao et.al.|[2506.04185v1](http://arxiv.org/abs/2506.04185v1)|null|
 |**2025-06-04**|**Long or short CoT? Investigating Instance-level Switch of Large Reasoning Models**|Ruiqi Zhang et.al.|[2506.04182v1](http://arxiv.org/abs/2506.04182v1)|null|
-|**2025-06-04**|**OpenThoughts: Data Recipes for Reasoning Models**|Etash Guha et.al.|[2506.04178v1](http://arxiv.org/abs/2506.04178v1)|null|
+|**2025-06-04**|**OpenThoughts: Data Recipes for Reasoning Models**|Etash Guha et.al.|[2506.04178v2](http://arxiv.org/abs/2506.04178v2)|null|
 |**2025-06-04**|**Global Kinetic Simulations of Monster Shocks and Their Emission**|Dominic Bernardi et.al.|[2506.04175v1](http://arxiv.org/abs/2506.04175v1)|null|
 |**2025-06-04**|**MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos**|Kejian Zhu et.al.|[2506.04141v1](http://arxiv.org/abs/2506.04141v1)|null|
 |**2025-06-04**|**Guided Speculative Inference for Efficient Test-Time Alignment of LLMs**|Jonathan Geuter et.al.|[2506.04118v1](http://arxiv.org/abs/2506.04118v1)|null|
-|**2025-06-04**|**Rectified Sparse Attention**|Yutao Sun et.al.|[2506.04108v1](http://arxiv.org/abs/2506.04108v1)|null|
+|**2025-06-04**|**Rectified Sparse Attention**|Yutao Sun et.al.|[2506.04108v2](http://arxiv.org/abs/2506.04108v2)|null|
 |**2025-06-04**|**TextAtari: 100K Frames Game Playing with Language Agents**|Wenhao Li et.al.|[2506.04098v1](http://arxiv.org/abs/2506.04098v1)|[link](https://github.com/Lww007/Text-Atari-Agents)|
 |**2025-06-04**|**AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment**|Anastasiia Ivanova et.al.|[2506.04089v1](http://arxiv.org/abs/2506.04089v1)|null|
 |**2025-06-04**|**Multimodal Tabular Reasoning with Privileged Structured Information**|Jun-Peng Jiang et.al.|[2506.04088v1](http://arxiv.org/abs/2506.04088v1)|null|
