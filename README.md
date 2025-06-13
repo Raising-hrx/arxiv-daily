@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-12 21:23:19 Asia/Shanghai
+ Automated deployment @ 2025-06-13 09:49:17 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -39,7 +39,7 @@
 |**2025-06-11**|**OctoNav: Towards Generalist Embodied Navigation**|Chen Gao et.al.|[2506.09839v1](http://arxiv.org/abs/2506.09839v1)|null|
 |**2025-06-11**|**ABYSS III: Observing accretion activity in young stars through empirical veiling measurements**|Serat Saad et.al.|[2506.09826v1](http://arxiv.org/abs/2506.09826v1)|null|
 |**2025-06-11**|**Superstudent intelligence in thermodynamics**|Rebecca Loubet et.al.|[2506.09822v1](http://arxiv.org/abs/2506.09822v1)|null|
-|**2025-06-11**|**CoRT: Code-integrated Reasoning within Thinking**|Chengpeng Li et.al.|[2506.09820v1](http://arxiv.org/abs/2506.09820v1)|null|
+|**2025-06-11**|**CoRT: Code-integrated Reasoning within Thinking**|Chengpeng Li et.al.|[2506.09820v2](http://arxiv.org/abs/2506.09820v2)|null|
 |**2025-06-11**|**Is non-zero equation of state of dark matter favored by DESI DR2?**|Tian-Nuo Li et.al.|[2506.09819v1](http://arxiv.org/abs/2506.09819v1)|null|
 |**2025-06-11**|**Metritocracy: Representative Metrics for Lite Benchmarks**|Ariel Procaccia et.al.|[2506.09813v1](http://arxiv.org/abs/2506.09813v1)|null|
 |**2025-06-11**|**ComfyUI-R1: Exploring Reasoning Models for Workflow Generation**|Zhenran Xu et.al.|[2506.09790v1](http://arxiv.org/abs/2506.09790v1)|null|
