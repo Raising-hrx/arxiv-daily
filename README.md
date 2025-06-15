@@ -1,7 +1,13 @@
 # arxiv-daily
- Automated deployment @ 2025-06-15 09:58:57 Asia/Shanghai
+ Automated deployment @ 2025-06-15 20:41:06 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
+
+## Pre-training
+
+### Pre-training
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
 
 ## Reasoning
 
@@ -38,9 +44,3 @@
 |**2025-06-12**|**SlotPi: Physics-informed Object-centric Reasoning Models**|Jian Li et.al.|[2506.10778v1](http://arxiv.org/abs/2506.10778v1)|null|
 |**2025-06-12**|**Different Questions, Different Models: Fine-Grained Evaluation of Uncertainty and Calibration in Clinical QA with LLMs**|Alberto Testoni et.al.|[2506.10769v1](http://arxiv.org/abs/2506.10769v1)|null|
 |**2025-06-12**|**OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems**|Xiaozhe Li et.al.|[2506.10764v1](http://arxiv.org/abs/2506.10764v1)|null|
-
-## Pre-training
-
-### Pre-training
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
