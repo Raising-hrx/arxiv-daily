@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-16 20:46:59 Asia/Shanghai
+ Automated deployment @ 2025-06-16 21:24:46 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -18,7 +18,7 @@
 |**2025-06-13**|**Tracing LLM Reasoning Processes with Strategic Games: A Framework for Planning, Revision, and Resource-Constrained Decision Making**|Xiaopeng Yuan et.al.|[2506.12012v1](http://arxiv.org/abs/2506.12012v1)|null|
 |**2025-06-13**|**A Random Matrix Theory of Pauli Tomography**|Nathan Keenan et.al.|[2506.12010v1](http://arxiv.org/abs/2506.12010v1)|null|
 |**2025-06-13**|**VGR: Visual Grounded Reasoning**|Jiacong Wang et.al.|[2506.11991v1](http://arxiv.org/abs/2506.11991v1)|null|
-|**2025-06-13**|**Simple Radiology VLLM Test-time Scaling with Thought Graph Traversal**|Yue Yao et.al.|[2506.11989v1](http://arxiv.org/abs/2506.11989v1)|null|
+|**2025-06-13**|**Simple Radiology VLLM Test-time Scaling with Thought Graph Traversal**|Yue Yao et.al.|[2506.11989v1](http://arxiv.org/abs/2506.11989v1)|[link](https://github.com/glerium/Thought-Graph-Traversal)|
 |**2025-06-13**|**Schema-R1: A reasoning training approach for schema linking in Text-to-SQL Task**|Wuzhenghong Wen et.al.|[2506.11986v1](http://arxiv.org/abs/2506.11986v1)|null|
 |**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Constantin Venhoff et.al.|[2506.11976v1](http://arxiv.org/abs/2506.11976v1)|null|
 |**2025-06-13**|**Feedback Friction: LLMs Struggle to Fully Incorporate External Feedback**|Dongwei Jiang et.al.|[2506.11930v1](http://arxiv.org/abs/2506.11930v1)|null|
