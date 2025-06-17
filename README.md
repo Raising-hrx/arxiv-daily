@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-17 09:49:51 Asia/Shanghai
+ Automated deployment @ 2025-06-17 20:46:03 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,33 +14,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-13**|**code_transformed: The Influence of Large Language Models on Code**|Yuliang Xu et.al.|[2506.12014v1](http://arxiv.org/abs/2506.12014v1)|null|
-|**2025-06-13**|**Tracing LLM Reasoning Processes with Strategic Games: A Framework for Planning, Revision, and Resource-Constrained Decision Making**|Xiaopeng Yuan et.al.|[2506.12012v1](http://arxiv.org/abs/2506.12012v1)|null|
-|**2025-06-13**|**A Random Matrix Theory of Pauli Tomography**|Nathan Keenan et.al.|[2506.12010v1](http://arxiv.org/abs/2506.12010v1)|null|
-|**2025-06-13**|**VGR: Visual Grounded Reasoning**|Jiacong Wang et.al.|[2506.11991v2](http://arxiv.org/abs/2506.11991v2)|null|
-|**2025-06-13**|**Simple Radiology VLLM Test-time Scaling with Thought Graph Traversal**|Yue Yao et.al.|[2506.11989v1](http://arxiv.org/abs/2506.11989v1)|[link](https://github.com/glerium/Thought-Graph-Traversal)|
-|**2025-06-13**|**Schema-R1: A reasoning training approach for schema linking in Text-to-SQL Task**|Wuzhenghong Wen et.al.|[2506.11986v1](http://arxiv.org/abs/2506.11986v1)|null|
-|**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Constantin Venhoff et.al.|[2506.11976v1](http://arxiv.org/abs/2506.11976v1)|null|
-|**2025-06-13**|**Feedback Friction: LLMs Struggle to Fully Incorporate External Feedback**|Dongwei Jiang et.al.|[2506.11930v1](http://arxiv.org/abs/2506.11930v1)|null|
-|**2025-06-13**|**LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?**|Zihan Zheng et.al.|[2506.11928v1](http://arxiv.org/abs/2506.11928v1)|null|
-|**2025-06-13**|**TreeRL: LLM Reinforcement Learning with On-Policy Tree Search**|Zhenyu Hou et.al.|[2506.11902v1](http://arxiv.org/abs/2506.11902v1)|null|
-|**2025-06-13**|**Attention-based Adversarial Robust Distillation in Radio Signal Classifications for Low-Power IoT Devices**|Lu Zhang et.al.|[2506.11892v1](http://arxiv.org/abs/2506.11892v1)|null|
-|**2025-06-13**|**Enter: Graduated Realism: A Pedagogical Framework for AI-Powered Avatars in Virtual Reality Teacher Training**|Judson Leroy Dean Haynes IV et.al.|[2506.11890v1](http://arxiv.org/abs/2506.11890v1)|null|
-|**2025-06-13**|**Towards a Cascaded LLM Framework for Cost-effective Human-AI Decision-Making**|Claudio Fanconi et.al.|[2506.11887v2](http://arxiv.org/abs/2506.11887v2)|null|
-|**2025-06-13**|**TrustGLM: Evaluating the Robustness of GraphLLMs Against Prompt, Text, and Structure Attacks**|Qihai Zhang et.al.|[2506.11844v1](http://arxiv.org/abs/2506.11844v1)|null|
-|**2025-06-13**|**Your Ride, Your Rules: Psychology and Cognition Enabled Automated Driving Systems**|Zhipeng Bao et.al.|[2506.11842v1](http://arxiv.org/abs/2506.11842v1)|null|
-|**2025-06-13**|**Stellar Velocity Dispersion versus Age: Consistency across Observations and Simulations, with the Milky Way as an Outlier**|Fiona McCluskey et.al.|[2506.11840v1](http://arxiv.org/abs/2506.11840v1)|null|
-|**2025-06-13**|**Rethinking Multilingual Vision-Language Translation: Dataset, Evaluation, and Adaptation**|Xintong Wang et.al.|[2506.11820v1](http://arxiv.org/abs/2506.11820v1)|null|
-|**2025-06-13**|**On the Performance of LLMs for Real Estate Appraisal**|Margot Geerts et.al.|[2506.11812v1](http://arxiv.org/abs/2506.11812v1)|null|
-|**2025-06-13**|**PE-MA: Parameter-Efficient Co-Evolution of Multi-Agent Systems**|Yingfan Deng et.al.|[2506.11803v1](http://arxiv.org/abs/2506.11803v1)|null|
-|**2025-06-13**|**Persona-driven Simulation of Voting Behavior in the European Parliament with Large Language Models**|Maximilian Kreutner et.al.|[2506.11798v1](http://arxiv.org/abs/2506.11798v1)|null|
-|**2025-06-13**|**Conversational AI as a Catalyst for Informal Learning: An Empirical Large-Scale Study on LLM Use in Everyday Learning**|Nađa Terzimehić et.al.|[2506.11789v1](http://arxiv.org/abs/2506.11789v1)|null|
-|**2025-06-13**|**DART: Distilling Autoregressive Reasoning to Silent Thought**|Nan Jiang et.al.|[2506.11752v1](http://arxiv.org/abs/2506.11752v1)|null|
-|**2025-06-13**|**Quizzard@INOVA Challenge 2025 -- Track A: Plug-and-Play Technique in Interleaved Multi-Image Model**|Dinh Viet Cuong et.al.|[2506.11737v1](http://arxiv.org/abs/2506.11737v1)|null|
-|**2025-06-13**|**MTabVQA: Evaluating Multi-Tabular Reasoning of Language Models in Visual Space**|Anshul Singh et.al.|[2506.11684v1](http://arxiv.org/abs/2506.11684v1)|null|
-|**2025-06-13**|**Perspectives on Explanation Formats From Two Stakeholder Groups in Germany: Software Providers and Dairy Farmers**|Mengisti Berihu Girmay et.al.|[2506.11665v1](http://arxiv.org/abs/2506.11665v1)|null|
-|**2025-06-13**|**Expert Insight-Based Modeling of Non-Kinetic Strategic Deterrence of Rare Earth Supply Disruption:A Simulation-Driven Systematic Framework**|Wei Meng et.al.|[2506.11645v1](http://arxiv.org/abs/2506.11645v1)|null|
-|**2025-06-13**|**LoRA-Gen: Specializing Large Language Model via Online LoRA Generation**|Yicheng Xiao et.al.|[2506.11638v1](http://arxiv.org/abs/2506.11638v1)|null|
-|**2025-06-13**|**FAA Framework: A Large Language Model-Based Approach for Credit Card Fraud Investigations**|Shaun Shuster et.al.|[2506.11635v1](http://arxiv.org/abs/2506.11635v1)|null|
-|**2025-06-13**|**Local and global approaches to the thermodynamics of pure decoherence processes in open quantum systems**|Irene Ada Picatoste et.al.|[2506.11633v1](http://arxiv.org/abs/2506.11633v1)|null|
-|**2025-06-13**|**VLM@school -- Evaluation of AI image understanding on German middle school knowledge**|René Peinl et.al.|[2506.11604v1](http://arxiv.org/abs/2506.11604v1)|null|
+|**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762v1](http://arxiv.org/abs/2506.13762v1)|null|
+|**2025-06-16**|**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**|Chuanruo Ning et.al.|[2506.13761v1](http://arxiv.org/abs/2506.13761v1)|null|
+|**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757v1](http://arxiv.org/abs/2506.13757v1)|null|
+|**2025-06-16**|**Steering LLM Thinking with Budget Guidance**|Junyan Li et.al.|[2506.13752v1](http://arxiv.org/abs/2506.13752v1)|null|
+|**2025-06-16**|**Two-neutrino $0^+ \to 0^+$ double beta decay of $^{48}\mathrm{Ca}$ within the DFT-NCCI framework**|Jan Miśkiewicz et.al.|[2506.13747v1](http://arxiv.org/abs/2506.13747v1)|null|
+|**2025-06-16**|**Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability**|Shova Kuikel et.al.|[2506.13746v1](http://arxiv.org/abs/2506.13746v1)|null|
+|**2025-06-16**|**ExtendAttack: Attacking Servers of LRMs via Extending Reasoning**|Zhenhao Zhu et.al.|[2506.13737v1](http://arxiv.org/abs/2506.13737v1)|null|
+|**2025-06-16**|**Weakest Link in the Chain: Security Vulnerabilities in Advanced Reasoning Models**|Arjun Krishna et.al.|[2506.13726v1](http://arxiv.org/abs/2506.13726v1)|null|
+|**2025-06-16**|**TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning**|Junru Zhang et.al.|[2506.13705v1](http://arxiv.org/abs/2506.13705v1)|null|
+|**2025-06-16**|**Balancing Knowledge Delivery and Emotional Comfort in Healthcare Conversational Systems**|Shang-Chi Tsai et.al.|[2506.13692v1](http://arxiv.org/abs/2506.13692v1)|null|
+|**2025-06-16**|**An LLM's Apology: Outsourcing Awkwardness in the Age of AI**|Twm Stone et.al.|[2506.13685v1](http://arxiv.org/abs/2506.13685v1)|null|
+|**2025-06-16**|**Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning**|Shulin Tian et.al.|[2506.13654v1](http://arxiv.org/abs/2506.13654v1)|null|
+|**2025-06-16**|**EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs**|Bohao Yang et.al.|[2506.13641v1](http://arxiv.org/abs/2506.13641v1)|null|
+|**2025-06-16**|**An Empirical Study of LLM-as-a-Judge: How Design Choices Impact Evaluation Reliability**|Yusuke Yamauchi et.al.|[2506.13639v1](http://arxiv.org/abs/2506.13639v1)|null|
+|**2025-06-16**|**FreeQ-Graph: Free-form Querying with Semantic Consistent Scene Graph for 3D Scene Understanding**|Chenlu Zhan et.al.|[2506.13629v1](http://arxiv.org/abs/2506.13629v1)|null|
+|**2025-06-16**|**CAMS: A CityGPT-Powered Agentic Framework for Urban Human Mobility Simulation**|Yuwei Du et.al.|[2506.13599v1](http://arxiv.org/abs/2506.13599v1)|null|
+|**2025-06-16**|**MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention**|MiniMax et.al.|[2506.13585v1](http://arxiv.org/abs/2506.13585v1)|null|
+|**2025-06-16**|**Understand the Implication: Learning to Think for Pragmatic Understanding**|Settaluri Lakshmi Sravanthi et.al.|[2506.13559v1](http://arxiv.org/abs/2506.13559v1)|null|
+|**2025-06-16**|**RelTopo: Enhancing Relational Modeling for Driving Scene Topology Reasoning**|Yueru Luo et.al.|[2506.13553v1](http://arxiv.org/abs/2506.13553v1)|null|
+|**2025-06-16**|**Implicit and Explicit Research Quality Score Probabilities from ChatGPT**|Mike Thelwall et.al.|[2506.13525v1](http://arxiv.org/abs/2506.13525v1)|null|
+|**2025-06-16**|**BOW: Bottlenecked Next Word Exploration**|Ming Shen et.al.|[2506.13502v1](http://arxiv.org/abs/2506.13502v1)|null|
+|**2025-06-16**|**GeoSDF: Plane Geometry Diagram Synthesis via Signed Distance Field**|Chengrui Zhang et.al.|[2506.13492v1](http://arxiv.org/abs/2506.13492v1)|null|
+|**2025-06-16**|**Programming and Reasoning in Partially Observable Probabilistic Environments**|Tobias Gürtler et.al.|[2506.13491v1](http://arxiv.org/abs/2506.13491v1)|null|
+|**2025-06-16**|**Position: Pause Recycling LoRAs and Prioritize Mechanisms to Uncover Limits and Effectiveness**|Mei-Yen Chen et.al.|[2506.13479v1](http://arxiv.org/abs/2506.13479v1)|null|
+|**2025-06-16**|**Abstract, Align, Predict: Zero-Shot Stance Detection via Cognitive Inductive Reasoning**|Jun Ma et.al.|[2506.13470v1](http://arxiv.org/abs/2506.13470v1)|null|
+|**2025-06-16**|**Unveiling the Learning Mind of Language Models: A Cognitive Framework and Empirical Study**|Zhengyu Hu et.al.|[2506.13464v1](http://arxiv.org/abs/2506.13464v1)|null|
+|**2025-06-16**|**Sparse Convolutional Recurrent Learning for Efficient Event-based Neuromorphic Object Detection**|Shenqi Wang et.al.|[2506.13440v1](http://arxiv.org/abs/2506.13440v1)|null|
+|**2025-06-16**|**From Promise to Peril: Rethinking Cybersecurity Red and Blue Teaming in the Age of LLMs**|Alsharif Abuadbba et.al.|[2506.13434v1](http://arxiv.org/abs/2506.13434v1)|null|
+|**2025-06-16**|**RealHiTBench: A Comprehensive Realistic Hierarchical Table Benchmark for Evaluating LLM-Based Table Analysis**|Pengzuo Wu et.al.|[2506.13405v1](http://arxiv.org/abs/2506.13405v1)|null|
+|**2025-06-16**|**A Technical Study into Small Reasoning Language Models**|Xialie Zhuang et.al.|[2506.13404v1](http://arxiv.org/abs/2506.13404v1)|null|
