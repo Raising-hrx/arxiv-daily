@@ -1,46 +1,46 @@
 # arxiv-daily
- Automated deployment @ 2025-06-19 09:50:09 Asia/Shanghai
+ Automated deployment @ 2025-06-19 20:45:07 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
-
-## Reasoning
-
-### Reasoning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-17**|**CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion**|Jiahua Ma et.al.|[2506.14769v1](http://arxiv.org/abs/2506.14769v1)|null|
-|**2025-06-17**|**Reasoning with Exploration: An Entropy Perspective**|Daixuan Cheng et.al.|[2506.14758v1](http://arxiv.org/abs/2506.14758v1)|null|
-|**2025-06-17**|**Optimizing Length Compression in Large Reasoning Models**|Zhengxiang Cheng et.al.|[2506.14755v1](http://arxiv.org/abs/2506.14755v1)|null|
-|**2025-06-17**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ling Team et.al.|[2506.14731v2](http://arxiv.org/abs/2506.14731v2)|null|
-|**2025-06-17**|**Casper: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models**|Huihan Liu et.al.|[2506.14727v1](http://arxiv.org/abs/2506.14727v1)|null|
-|**2025-06-17**|**Procedural Knowledge Libraries: Towards Executable (Research) Memory**|Hamidah Oderinwale et.al.|[2506.14715v1](http://arxiv.org/abs/2506.14715v1)|null|
-|**2025-06-17**|**Unified Software Engineering agent as AI Software Engineer**|Leonhard Applis et.al.|[2506.14683v1](http://arxiv.org/abs/2506.14683v1)|null|
-|**2025-06-17**|**Massive Supervised Fine-tuning Experiments Reveal How Data, Layer, and Training Factors Shape LLM Alignment Quality**|Yuto Harada et.al.|[2506.14681v1](http://arxiv.org/abs/2506.14681v1)|null|
-|**2025-06-17**|**Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models**|Ling Li et.al.|[2506.14674v1](http://arxiv.org/abs/2506.14674v1)|null|
-|**2025-06-17**|**Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot**|Xiang Cheng et.al.|[2506.14641v1](http://arxiv.org/abs/2506.14641v1)|null|
-|**2025-06-17**|**AIn't Nothing But a Survey? Using Large Language Models for Coding German Open-Ended Survey Responses on Survey Motivation**|Leah von der Heyde et.al.|[2506.14634v2](http://arxiv.org/abs/2506.14634v2)|null|
-|**2025-06-17**|**VisText-Mosquito: A Multimodal Dataset and Benchmark for AI-Based Mosquito Breeding Site Detection and Reasoning**|Md. Adnanul Islam et.al.|[2506.14629v1](http://arxiv.org/abs/2506.14629v1)|null|
-|**2025-06-17**|**Probabilistic Aggregation and Targeted Embedding Optimization for Collective Moral Reasoning in Large Language Models**|Chenchen Yuan et.al.|[2506.14625v2](http://arxiv.org/abs/2506.14625v2)|null|
-|**2025-06-17**|**When Does Meaning Backfire? Investigating the Role of AMRs in NLI**|Junghyun Min et.al.|[2506.14613v1](http://arxiv.org/abs/2506.14613v1)|null|
-|**2025-06-17**|**NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving**|Ren Xin et.al.|[2506.14589v1](http://arxiv.org/abs/2506.14589v1)|null|
-|**2025-06-17**|**Object-Centric Neuro-Argumentative Learning**|Abdul Rahman Jacob et.al.|[2506.14577v1](http://arxiv.org/abs/2506.14577v1)|null|
-|**2025-06-17**|**From Points to Places: Towards Human Mobility-Driven Spatiotemporal Foundation Models via Understanding Places**|Mohammad Hashemi et.al.|[2506.14570v1](http://arxiv.org/abs/2506.14570v1)|null|
-|**2025-06-17**|**Enhancing Symbolic Machine Learning by Subsymbolic Representations**|Stephen Roth et.al.|[2506.14569v1](http://arxiv.org/abs/2506.14569v1)|null|
-|**2025-06-17**|**Using BDF schemes in the temporal integration of POD-ROM methods**|Bosco García-Archilla et.al.|[2506.14543v1](http://arxiv.org/abs/2506.14543v1)|null|
-|**2025-06-17**|**Automatic Qiskit Code Refactoring Using Large Language Models**|José Manuel Suárez et.al.|[2506.14535v1](http://arxiv.org/abs/2506.14535v1)|null|
-|**2025-06-17**|**M2BeamLLM: Multimodal Sensing-empowered mmWave Beam Prediction with Large Language Models**|Can Zheng et.al.|[2506.14532v1](http://arxiv.org/abs/2506.14532v1)|null|
-|**2025-06-17**|**Certified randomness from quantum speed limits**|Caroline L. Jones et.al.|[2506.14526v1](http://arxiv.org/abs/2506.14526v1)|null|
-|**2025-06-17**|**SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks**|Zijian Song et.al.|[2506.14512v1](http://arxiv.org/abs/2506.14512v1)|null|
-|**2025-06-17**|**Can Pretrained Vision-Language Embeddings Alone Guide Robot Navigation?**|Nitesh Subedi et.al.|[2506.14507v1](http://arxiv.org/abs/2506.14507v1)|null|
-|**2025-06-17**|**LLM-Powered Swarms: A New Frontier or a Conceptual Stretch?**|Muhammad Atta Ur Rahman et.al.|[2506.14496v1](http://arxiv.org/abs/2506.14496v1)|null|
-|**2025-06-17**|**Chemical Signatures of Population III Stars in Damped Lyman-$α$ Absorption Systems at $z \approx 6$**|Eli Visbal et.al.|[2506.14482v1](http://arxiv.org/abs/2506.14482v1)|null|
-|**2025-06-17**|**Hamiltonian Formalism for Comparing Quantum and Classical Intelligence**|Elija Perrier et.al.|[2506.14456v1](http://arxiv.org/abs/2506.14456v1)|null|
-|**2025-06-17**|**Active Digital Twins via Active Inference**|Matteo Torzoni et.al.|[2506.14453v1](http://arxiv.org/abs/2506.14453v1)|null|
-|**2025-06-17**|**How Far Can LLMs Improve from Experience? Measuring Test-Time Learning Ability in LLMs with Human Comparison**|Jiayin Wang et.al.|[2506.14448v1](http://arxiv.org/abs/2506.14448v1)|null|
-|**2025-06-17**|**ImpliRet: Benchmarking the Implicit Fact Retrieval Challenge**|Zeinab Sadat Taghavi et.al.|[2506.14407v1](http://arxiv.org/abs/2506.14407v1)|null|
 
 ## Pre-training
 
 ### Pre-training
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+
+## Reasoning
+
+### Reasoning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-18**|**Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence**|Yining Hong et.al.|[2506.15677v1](http://arxiv.org/abs/2506.15677v1)|null|
+|**2025-06-18**|**Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers**|Tommaso Green et.al.|[2506.15674v1](http://arxiv.org/abs/2506.15674v1)|null|
+|**2025-06-18**|**SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence**|Yao Zhang et.al.|[2506.15672v1](http://arxiv.org/abs/2506.15672v1)|null|
+|**2025-06-18**|**CC-LEARN: Cohort-based Consistency Learning**|Xiao Ye et.al.|[2506.15662v1](http://arxiv.org/abs/2506.15662v1)|null|
+|**2025-06-18**|**AutoRule: Reasoning Chain-of-thought Extracted Rule-based Rewards Improve Preference Learning**|Tevin Wang et.al.|[2506.15651v1](http://arxiv.org/abs/2506.15651v1)|null|
+|**2025-06-18**|**Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement**|Weixiang Zhao et.al.|[2506.15647v1](http://arxiv.org/abs/2506.15647v1)|null|
+|**2025-06-18**|**Predictions of flow distortions inside a serpentine diffuser from large-eddy simulations**|Rahul Agrawal et.al.|[2506.15646v1](http://arxiv.org/abs/2506.15646v1)|null|
+|**2025-06-18**|**FindingDory: A Benchmark to Evaluate Memory in Embodied Agents**|Karmesh Yadav et.al.|[2506.15635v1](http://arxiv.org/abs/2506.15635v1)|null|
+|**2025-06-18**|**Revisiting Compositional Generalization Capability of Large Language Models Considering Instruction Following Ability**|Yusuke Sakai et.al.|[2506.15629v1](http://arxiv.org/abs/2506.15629v1)|null|
+|**2025-06-18**|**Minding the Politeness Gap in Cross-cultural Communication**|Yuka Machino et.al.|[2506.15623v1](http://arxiv.org/abs/2506.15623v1)|null|
+|**2025-06-18**|**WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts**|Negar Foroutan et.al.|[2506.15594v1](http://arxiv.org/abs/2506.15594v1)|null|
+|**2025-06-18**|**A Unified Graph-based Framework for Scalable 3D Tree Reconstruction and Non-Destructive Biomass Estimation from Point Clouds**|Di Wang et.al.|[2506.15577v1](http://arxiv.org/abs/2506.15577v1)|null|
+|**2025-06-18**|**SciVer: Evaluating Foundation Models for Multimodal Scientific Claim Verification**|Chengye Wang et.al.|[2506.15569v1](http://arxiv.org/abs/2506.15569v1)|null|
+|**2025-06-18**|**Managing Complex Failure Analysis Workflows with LLM-based Reasoning and Acting Agents**|Aline Dobrovsky et.al.|[2506.15567v1](http://arxiv.org/abs/2506.15567v1)|null|
+|**2025-06-18**|**Task-Agnostic Experts Composition for Continual Learning**|Luigi Quarantiello et.al.|[2506.15566v1](http://arxiv.org/abs/2506.15566v1)|null|
+|**2025-06-18**|**Towards Explainable Indoor Localization: Interpreting Neural Network Learning on Wi-Fi Fingerprints Using Logic Gates**|Danish Gufran et.al.|[2506.15559v1](http://arxiv.org/abs/2506.15559v1)|null|
+|**2025-06-18**|**Lessons from Training Grounded LLMs with Verifiable Rewards**|Shang Hong Sim et.al.|[2506.15522v1](http://arxiv.org/abs/2506.15522v1)|null|
+|**2025-06-18**|**Optimizing Web-Based AI Query Retrieval with GPT Integration in LangChain A CoT-Enhanced Prompt Engineering Approach**|Wenqi Guan et.al.|[2506.15512v1](http://arxiv.org/abs/2506.15512v1)|null|
+|**2025-06-18**|**SPARE: Single-Pass Annotation with Reference-Guided Evaluation for Automatic Process Supervision and Reward Modelling**|Md Imbesat Hassan Rizvi et.al.|[2506.15498v1](http://arxiv.org/abs/2506.15498v1)|null|
+|**2025-06-18**|**RE-IMAGINE: Symbolic Benchmark Synthesis for Reasoning Evaluation**|Xinnuo Xu et.al.|[2506.15455v1](http://arxiv.org/abs/2506.15455v1)|null|
+|**2025-06-18**|**AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent System Need**|Zhouhong Gu et.al.|[2506.15451v1](http://arxiv.org/abs/2506.15451v1)|null|
+|**2025-06-18**|**MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System**|Miaoxin Pan et.al.|[2506.15402v1](http://arxiv.org/abs/2506.15402v1)|null|
+|**2025-06-18**|**DeVisE: Behavioral Testing of Medical Large Language Models**|Camila Zurdo Tagliabue et.al.|[2506.15339v1](http://arxiv.org/abs/2506.15339v1)|null|
+|**2025-06-18**|**Cohort Discovery: A Survey on LLM-Assisted Clinical Trial Recruitment**|Shrestha Ghosh et.al.|[2506.15301v1](http://arxiv.org/abs/2506.15301v1)|null|
+|**2025-06-18**|**MEGC2025: Micro-Expression Grand Challenge on Spot Then Recognize and Visual Question Answering**|Xinqi Fan et.al.|[2506.15298v1](http://arxiv.org/abs/2506.15298v1)|null|
+|**2025-06-18**|**UXR Point of View on Product Feature Prioritization Prior To Multi-Million Engineering Commitments**|Jonas Lau et.al.|[2506.15294v1](http://arxiv.org/abs/2506.15294v1)|null|
+|**2025-06-18**|**AI-driven visual monitoring of industrial assembly tasks**|Mattia Nardon et.al.|[2506.15285v1](http://arxiv.org/abs/2506.15285v1)|null|
+|**2025-06-18**|**Singular Value Decomposition on Kronecker Adaptation for Large Language Model**|Yee Hin Chong et.al.|[2506.15251v1](http://arxiv.org/abs/2506.15251v1)|null|
+|**2025-06-18**|**MinosEval: Distinguishing Factoid and Non-Factoid for Tailored Open-Ended QA Evaluation with LLMs**|Yongqi Fan et.al.|[2506.15215v1](http://arxiv.org/abs/2506.15215v1)|null|
+|**2025-06-18**|**ProtoReasoning: Prototypes as the Foundation for Generalizable Reasoning in LLMs**|Feng He et.al.|[2506.15211v1](http://arxiv.org/abs/2506.15211v1)|null|
