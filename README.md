@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-22 21:14:25 Asia/Shanghai
+ Automated deployment @ 2025-06-23 09:56:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,7 +14,7 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-18**|**Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence**|Yining Hong et.al.|[2506.15677v1](http://arxiv.org/abs/2506.15677v1)|null|
+|**2025-06-18**|**Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence**|Yining Hong et.al.|[2506.15677v2](http://arxiv.org/abs/2506.15677v2)|null|
 |**2025-06-18**|**Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers**|Tommaso Green et.al.|[2506.15674v1](http://arxiv.org/abs/2506.15674v1)|[link](https://github.com/parameterlab/leaky_thoughts)|
 |**2025-06-18**|**SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence**|Yao Zhang et.al.|[2506.15672v1](http://arxiv.org/abs/2506.15672v1)|null|
 |**2025-06-18**|**CC-LEARN: Cohort-based Consistency Learning**|Xiao Ye et.al.|[2506.15662v1](http://arxiv.org/abs/2506.15662v1)|null|
