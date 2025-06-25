@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-24 21:24:47 Asia/Shanghai
+ Automated deployment @ 2025-06-25 09:50:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -20,7 +20,7 @@
 |**2025-06-23**|**LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning**|Yuhao Wu et.al.|[2506.18841v1](http://arxiv.org/abs/2506.18841v1)|null|
 |**2025-06-23**|**STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning**|Aryasomayajula Ram Bharadwaj et.al.|[2506.18831v1](http://arxiv.org/abs/2506.18831v1)|null|
 |**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824v1](http://arxiv.org/abs/2506.18824v1)|null|
-|**2025-06-23**|**ConciseHint: Boosting Efficient Reasoning via Continuous Concise Hints during Generation**|Siao Tang et.al.|[2506.18810v1](http://arxiv.org/abs/2506.18810v1)|[link](https://github.com/tsa18/ConciseHint)|
+|**2025-06-23**|**ConciseHint: Boosting Efficient Reasoning via Continuous Concise Hints during Generation**|Siao Tang et.al.|[2506.18810v2](http://arxiv.org/abs/2506.18810v2)|[link](https://github.com/tsa18/ConciseHint)|
 |**2025-06-23**|**Context-Aware CodeLLM Eviction for AI-assisted Coding**|Kishanthan Thangarajah et.al.|[2506.18796v1](http://arxiv.org/abs/2506.18796v1)|null|
 |**2025-06-23**|**Existing LLMs Are Not Self-Consistent For Simple Tasks**|Zhenru Lin et.al.|[2506.18781v1](http://arxiv.org/abs/2506.18781v1)|null|
 |**2025-06-23**|**Programming by Backprop: LLMs Acquire Reusable Algorithmic Abstractions During Code Training**|Jonathan Cook et.al.|[2506.18777v1](http://arxiv.org/abs/2506.18777v1)|null|
@@ -29,7 +29,7 @@
 |**2025-06-23**|**MedSeg-R: Medical Image Segmentation with Clinical Reasoning**|Hao Shao et.al.|[2506.18669v1](http://arxiv.org/abs/2506.18669v1)|null|
 |**2025-06-23**|**Three-phase contact line dynamics on moving fibers measured by X-ray holography**|Louisa E. Kraft et.al.|[2506.18665v1](http://arxiv.org/abs/2506.18665v1)|null|
 |**2025-06-23**|**Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation**|Ling Zhang et.al.|[2506.18658v1](http://arxiv.org/abs/2506.18658v1)|null|
-|**2025-06-23**|**ReDit: Reward Dithering for Improved LLM Policy Optimization**|Chenxing Wei et.al.|[2506.18631v1](http://arxiv.org/abs/2506.18631v1)|null|
+|**2025-06-23**|**ReDit: Reward Dithering for Improved LLM Policy Optimization**|Chenxing Wei et.al.|[2506.18631v2](http://arxiv.org/abs/2506.18631v2)|null|
 |**2025-06-23**|**New Power Decoupling Method for Grid Forming Inverter Based on Adaptive Virtual-Synchronous Machine in Weak Grids**|Waleed Breesam et.al.|[2506.18619v1](http://arxiv.org/abs/2506.18619v1)|null|
 |**2025-06-23**|**Double-hybrid density-functional theory with density-based basis-set correction**|Aurore Znaïda et.al.|[2506.18612v1](http://arxiv.org/abs/2506.18612v1)|null|
 |**2025-06-23**|**Parallel Continuous Chain-of-Thought with Jacobi Iteration**|Haoyi Wu et.al.|[2506.18582v1](http://arxiv.org/abs/2506.18582v1)|null|
