@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-26 21:24:03 Asia/Shanghai
+ Automated deployment @ 2025-06-27 09:50:50 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -29,7 +29,7 @@
 |**2025-06-25**|**Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions**|Shuo Yang et.al.|[2506.20488v1](http://arxiv.org/abs/2506.20488v1)|null|
 |**2025-06-25**|**Resolving the joint ergodicity problem for Hardy sequences**|Sebastián Donoso et.al.|[2506.20459v1](http://arxiv.org/abs/2506.20459v1)|null|
 |**2025-06-25**|**Automatic Demonstration Selection for LLM-based Tabular Data Classification**|Shuchu Han et.al.|[2506.20451v1](http://arxiv.org/abs/2506.20451v1)|null|
-|**2025-06-25**|**That's Not the Feedback I Need! -- Student Engagement with GenAI Feedback in the Tutor Kai**|Sven Jacobs et.al.|[2506.20433v1](http://arxiv.org/abs/2506.20433v1)|null|
+|**2025-06-25**|**That's Not the Feedback I Need! -- Student Engagement with GenAI Feedback in the Tutor Kai**|Sven Jacobs et.al.|[2506.20433v2](http://arxiv.org/abs/2506.20433v2)|null|
 |**2025-06-25**|**An Agentic System for Rare Disease Diagnosis with Traceable Reasoning**|Weike Zhao et.al.|[2506.20430v1](http://arxiv.org/abs/2506.20430v1)|null|
 |**2025-06-25**|**SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models**|Dipayan Saha et.al.|[2506.20415v1](http://arxiv.org/abs/2506.20415v1)|null|
 |**2025-06-25**|**Paladin-mini: A Compact and Efficient Grounding Model Excelling in Real-World Scenarios**|Dror Ivry et.al.|[2506.20384v1](http://arxiv.org/abs/2506.20384v1)|null|
