@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-30 21:23:58 Asia/Shanghai
+ Automated deployment @ 2025-07-01 10:01:15 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -29,7 +29,7 @@
 |**2025-06-27**|**Translating Bell Non-Locality to Prepare-and-Measure Scenarios under Dimensional Constraints**|Matilde Baroni et.al.|[2506.22282v1](http://arxiv.org/abs/2506.22282v1)|null|
 |**2025-06-27**|**Two types of compressible isotropic neo-Hookean material models**|Sergey N. Korobeynikov et.al.|[2506.22244v1](http://arxiv.org/abs/2506.22244v1)|null|
 |**2025-06-27**|**4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration**|Jiahui Zhang et.al.|[2506.22242v1](http://arxiv.org/abs/2506.22242v1)|null|
-|**2025-06-27**|**EFRame: Deeper Reasoning via Exploration-Filtering-Replay Reinforcement Learning Framework**|Chen Wang et.al.|[2506.22200v1](http://arxiv.org/abs/2506.22200v1)|null|
+|**2025-06-27**|**EFRame: Deeper Reasoning via Exploration-Filter-Replay Reinforcement Learning Framework**|Chen Wang et.al.|[2506.22200v2](http://arxiv.org/abs/2506.22200v2)|null|
 |**2025-06-27**|**KnotDLO: Toward Interpretable Knot Tying**|Holly Dinkel et.al.|[2506.22176v1](http://arxiv.org/abs/2506.22176v1)|null|
 |**2025-06-27**|**Training Language Model to Critique for Better Refinement**|Tianshu Yu et.al.|[2506.22157v1](http://arxiv.org/abs/2506.22157v1)|null|
 |**2025-06-27**|**Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs**|Amirmohammad Izadi et.al.|[2506.22146v1](http://arxiv.org/abs/2506.22146v1)|null|
