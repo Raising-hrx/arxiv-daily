@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-03 21:21:14 Asia/Shanghai
+ Automated deployment @ 2025-07-04 09:50:12 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -18,7 +18,7 @@
 |**2025-07-02**|**Test-Time Scaling with Reflective Generative Model**|Zixiao Wang et.al.|[2507.01951v1](http://arxiv.org/abs/2507.01951v1)|null|
 |**2025-07-02**|**Kwai Keye-VL Technical Report**|Kwai Keye Team et.al.|[2507.01949v1](http://arxiv.org/abs/2507.01949v1)|null|
 |**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936v1](http://arxiv.org/abs/2507.01936v1)|null|
-|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930v1](http://arxiv.org/abs/2507.01930v1)|null|
+|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930v2](http://arxiv.org/abs/2507.01930v2)|null|
 |**2025-07-02**|**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**|Yifan Zhong et.al.|[2507.01925v1](http://arxiv.org/abs/2507.01925v1)|null|
 |**2025-07-02**|**NaturalThoughts: Selecting and Distilling Reasoning Traces for General Reasoning Tasks**|Yang Li et.al.|[2507.01921v1](http://arxiv.org/abs/2507.01921v1)|null|
 |**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908v1](http://arxiv.org/abs/2507.01908v1)|null|
@@ -38,7 +38,7 @@
 |**2025-07-02**|**Data Agent: A Holistic Architecture for Orchestrating Data+AI Ecosystems**|Zhaoyan Sun et.al.|[2507.01599v1](http://arxiv.org/abs/2507.01599v1)|null|
 |**2025-07-02**|**T3DM: Test-Time Training-Guided Distribution Shift Modelling for Temporal Knowledge Graph Reasoning**|Yuehang Si et.al.|[2507.01597v1](http://arxiv.org/abs/2507.01597v1)|null|
 |**2025-07-02**|**Interpolation with Automated First-Order Reasoning**|Christoph Wernhard et.al.|[2507.01577v1](http://arxiv.org/abs/2507.01577v1)|null|
-|**2025-07-02**|**Self-Guided Process Reward Optimization with Masked Step Advantage for Process Reinforcement Learning**|Wu Fei et.al.|[2507.01551v1](http://arxiv.org/abs/2507.01551v1)|null|
+|**2025-07-02**|**Self-Guided Process Reward Optimization with Redefined Step-wise Advantage for Process Reinforcement Learning**|Wu Fei et.al.|[2507.01551v2](http://arxiv.org/abs/2507.01551v2)|null|
 |**2025-07-02**|**MARVIS: Modality Adaptive Reasoning over VISualizations**|Benjamin Feuer et.al.|[2507.01544v1](http://arxiv.org/abs/2507.01544v1)|null|
 |**2025-07-02**|**Is External Information Useful for Stance Detection with LLMs?**|Quang Minh Nguyen et.al.|[2507.01543v1](http://arxiv.org/abs/2507.01543v1)|null|
 |**2025-07-02**|**SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism**|Beitao Chen et.al.|[2507.01513v1](http://arxiv.org/abs/2507.01513v1)|null|
