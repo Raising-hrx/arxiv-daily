@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-09 09:52:21 Asia/Shanghai
+ Automated deployment @ 2025-07-09 20:46:16 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,33 +14,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259v1](http://arxiv.org/abs/2507.05259v1)|null|
-|**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258v1](http://arxiv.org/abs/2507.05258v1)|null|
-|**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257v1](http://arxiv.org/abs/2507.05257v1)|null|
-|**2025-07-07**|**Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning**|Yana Wei et.al.|[2507.05255v1](http://arxiv.org/abs/2507.05255v1)|null|
-|**2025-07-07**|**When Chain of Thought is Necessary, Language Models Struggle to Evade Monitors**|Scott Emmons et.al.|[2507.05246v1](http://arxiv.org/abs/2507.05246v1)|null|
-|**2025-07-07**|**SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?**|Jingyi Chai et.al.|[2507.05241v2](http://arxiv.org/abs/2507.05241v2)|null|
-|**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240v1](http://arxiv.org/abs/2507.05240v1)|null|
-|**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Qucheng Peng et.al.|[2507.05227v1](http://arxiv.org/abs/2507.05227v1)|null|
-|**2025-07-07**|**Interleaving Logic and Counting**|Johan van Benthem et.al.|[2507.05219v1](http://arxiv.org/abs/2507.05219v1)|null|
-|**2025-07-07**|**Testing the ubiquitous presence of very high energy emission in gamma-ray bursts with the MAGIC telescopes**|S. Abe et.al.|[2507.05215v1](http://arxiv.org/abs/2507.05215v1)|null|
-|**2025-07-07**|**MedGemma Technical Report**|Andrew Sellergren et.al.|[2507.05201v2](http://arxiv.org/abs/2507.05201v2)|null|
-|**2025-07-07**|**From Fragments to Facts: A Curriculum-Driven DPO Approach for Generating Hindi News Veracity Explanations**|Pulkit Bansal et.al.|[2507.05179v1](http://arxiv.org/abs/2507.05179v1)|null|
-|**2025-07-07**|**CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale**|Jonathan Hyun et.al.|[2507.05178v1](http://arxiv.org/abs/2507.05178v1)|null|
-|**2025-07-07**|**Critiques of World Models**|Eric Xing et.al.|[2507.05169v1](http://arxiv.org/abs/2507.05169v1)|null|
-|**2025-07-07**|**VERITAS: Verification and Explanation of Realness in Images for Transparency in AI Systems**|Aadi Srivastava et.al.|[2507.05146v1](http://arxiv.org/abs/2507.05146v1)|null|
-|**2025-07-07**|**Hardware-efficient tractable probabilistic inference for TinyML Neurosymbolic AI applications**|Jelin Leslin et.al.|[2507.05141v1](http://arxiv.org/abs/2507.05141v1)|null|
-|**2025-07-07**|**VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots**|Danil S. Grigorev et.al.|[2507.05118v1](http://arxiv.org/abs/2507.05118v1)|null|
-|**2025-07-07**|**Rule Learning for Knowledge Graph Reasoning under Agnostic Distribution Shift**|Shixuan Liu et.al.|[2507.05110v2](http://arxiv.org/abs/2507.05110v2)|null|
-|**2025-07-07**|**How Rules Represent Causal Knowledge: Causal Modeling with Abductive Logic Programs**|Kilian Rückschloß et.al.|[2507.05088v1](http://arxiv.org/abs/2507.05088v1)|null|
-|**2025-07-07**|**Replacing thinking with tool usage enables reasoning in small language models**|Corrado Rainone et.al.|[2507.05065v1](http://arxiv.org/abs/2507.05065v1)|null|
-|**2025-07-07**|**Sharp estimates of the Schrödinger type propagators on modulation spaces**|Weichao Guo et.al.|[2507.05039v1](http://arxiv.org/abs/2507.05039v1)|null|
-|**2025-07-07**|**Verified Language Processing with Hybrid Explainability: A Technical Report**|Oliver Robert Fox et.al.|[2507.05017v1](http://arxiv.org/abs/2507.05017v1)|null|
-|**2025-07-07**|**From Autonomy to Agency: Agentic Vehicles for Human-Centered Mobility Systems**|Jiangbo Yu et.al.|[2507.04996v1](http://arxiv.org/abs/2507.04996v1)|null|
-|**2025-07-07**|**Supported Abstract Argumentation for Case-Based Reasoning**|Adam Gould et.al.|[2507.04994v1](http://arxiv.org/abs/2507.04994v1)|null|
-|**2025-07-07**|**Boosting Temporal Sentence Grounding via Causal Inference**|Kefan Tang et.al.|[2507.04958v1](http://arxiv.org/abs/2507.04958v1)|null|
-|**2025-07-07**|**Object-centric Denoising Diffusion Models for Physical Reasoning**|Moritz Lange et.al.|[2507.04920v1](http://arxiv.org/abs/2507.04920v1)|null|
-|**2025-07-07**|**HV-MMBench: Benchmarking MLLMs for Human-Centric Video Understanding**|Yuxuan Cai et.al.|[2507.04909v1](http://arxiv.org/abs/2507.04909v1)|null|
-|**2025-07-07**|**MARBLE: A Multi-Agent Rule-Based LLM Reasoning Engine for Accident Severity Prediction**|Kaleem Ullah Qasim et.al.|[2507.04893v1](http://arxiv.org/abs/2507.04893v1)|null|
-|**2025-07-07**|**Emergent Semantics Beyond Token Embeddings: Transformer LMs with Frozen Visual Unicode Representations**|A. Bochkov et.al.|[2507.04886v1](http://arxiv.org/abs/2507.04886v1)|null|
-|**2025-07-07**|**A novel parallelizable convergence accelerating method: Pointwise Frequency Damping**|Zikun Liu et.al.|[2507.04873v1](http://arxiv.org/abs/2507.04873v1)|null|
+|**2025-07-08**|**RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models**|Keyan Chen et.al.|[2507.06231v1](http://arxiv.org/abs/2507.06231v1)|null|
+|**2025-07-08**|**Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**|Xiangru Tang et.al.|[2507.06229v1](http://arxiv.org/abs/2507.06229v1)|null|
+|**2025-07-08**|**Identifiability in Causal Abstractions: A Hierarchy of Criteria**|Clément Yvernes et.al.|[2507.06213v1](http://arxiv.org/abs/2507.06213v1)|null|
+|**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203v1](http://arxiv.org/abs/2507.06203v1)|null|
+|**2025-07-08**|**Investigating the imprint of quintessence in cosmic magnification**|Didam Duniya et.al.|[2507.06200v1](http://arxiv.org/abs/2507.06200v1)|null|
+|**2025-07-08**|**DS@GT at CheckThat! 2025: Evaluating Context and Tokenization Strategies for Numerical Fact Verification**|Maximilian Heil et.al.|[2507.06195v1](http://arxiv.org/abs/2507.06195v1)|null|
+|**2025-07-08**|**Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling**|Prahitha Movva et.al.|[2507.06183v1](http://arxiv.org/abs/2507.06183v1)|null|
+|**2025-07-08**|**CriticLean: Critic-Guided Reinforcement Learning for Mathematical Formalization**|Zhongyuan Peng et.al.|[2507.06181v1](http://arxiv.org/abs/2507.06181v1)|null|
+|**2025-07-08**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167v1](http://arxiv.org/abs/2507.06167v1)|null|
+|**2025-07-08**|**Evaluation of Habitat Robotics using Large Language Models**|William Li et.al.|[2507.06157v1](http://arxiv.org/abs/2507.06157v1)|null|
+|**2025-07-08**|**Coding Triangle: How Does Large Language Model Understand Code?**|Taolin Zhang et.al.|[2507.06138v1](http://arxiv.org/abs/2507.06138v1)|null|
+|**2025-07-08**|**PrefixAgent: An LLM-Powered Design Framework for Efficient Prefix Adder Optimization**|Dongsheng Zuo et.al.|[2507.06127v1](http://arxiv.org/abs/2507.06127v1)|null|
+|**2025-07-08**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119v1](http://arxiv.org/abs/2507.06119v1)|null|
+|**2025-07-08**|**CoRE: Enhancing Metacognition with Label-free Self-evaluation in LRMs**|Haoxi Li et.al.|[2507.06087v1](http://arxiv.org/abs/2507.06087v1)|null|
+|**2025-07-08**|**MCAM: Multimodal Causal Analysis Model for Ego-Vehicle-Level Driving Video Understanding**|Tongtong Cheng et.al.|[2507.06072v1](http://arxiv.org/abs/2507.06072v1)|null|
+|**2025-07-08**|**FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models**|Bo Pang et.al.|[2507.06057v1](http://arxiv.org/abs/2507.06057v1)|null|
+|**2025-07-08**|**Hierarchical Interaction Summarization and Contrastive Prompting for Explainable Recommendations**|Yibin Liu et.al.|[2507.06044v1](http://arxiv.org/abs/2507.06044v1)|null|
+|**2025-07-08**|**Conditional Multi-Stage Failure Recovery for Embodied Agents**|Youmna Farag et.al.|[2507.06016v1](http://arxiv.org/abs/2507.06016v1)|null|
+|**2025-07-08**|**CogniSQL-R1-Zero: Lightweight Reinforced Reasoning for Efficient SQL Generation**|Kushal Gajjar et.al.|[2507.06013v1](http://arxiv.org/abs/2507.06013v1)|null|
+|**2025-07-08**|**DocIE@XLLM25: In-Context Learning for Information Extraction using Fully Synthetic Demonstrations**|Nicholas Popovič et.al.|[2507.05997v1](http://arxiv.org/abs/2507.05997v1)|null|
+|**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970v1](http://arxiv.org/abs/2507.05970v1)|null|
+|**2025-07-08**|**Improving AI-Based Canine Heart Disease Diagnosis with Expert-Consensus Auscultation Labeling**|Pinar Bisgin et.al.|[2507.05950v1](http://arxiv.org/abs/2507.05950v1)|null|
+|**2025-07-08**|**BlueLM-2.5-3B Technical Report**|Baojiao Xiong et.al.|[2507.05934v1](http://arxiv.org/abs/2507.05934v1)|null|
+|**2025-07-08**|**High-Resolution Visual Reasoning via Multi-Turn Grounding-Based Reinforcement Learning**|Xinyu Huang et.al.|[2507.05920v1](http://arxiv.org/abs/2507.05920v1)|null|
+|**2025-07-08**|**Survey of Surveys. II. Stellar parameters for 23 millions of stars**|A. Turchi et.al.|[2507.05901v1](http://arxiv.org/abs/2507.05901v1)|null|
+|**2025-07-08**|**Current Practices for Building LLM-Powered Reasoning Tools Are Ad Hoc -- and We Can Do Better**|Aaron Bembenek et.al.|[2507.05886v1](http://arxiv.org/abs/2507.05886v1)|null|
+|**2025-07-08**|**KERAG_R: Knowledge-Enhanced Retrieval-Augmented Generation for Recommendation**|Zeyuan Meng et.al.|[2507.05863v1](http://arxiv.org/abs/2507.05863v1)|null|
+|**2025-07-08**|**Video Event Reasoning and Prediction by Fusing World Knowledge from LLMs with Vision Foundation Models**|L'ea Dubois et.al.|[2507.05822v1](http://arxiv.org/abs/2507.05822v1)|null|
+|**2025-07-08**|**SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning**|Xin Hu et.al.|[2507.05798v1](http://arxiv.org/abs/2507.05798v1)|null|
+|**2025-07-08**|**Creating a customisable freely-accessible Socratic AI physics tutor**|Eugenio Tufino et.al.|[2507.05795v1](http://arxiv.org/abs/2507.05795v1)|null|
