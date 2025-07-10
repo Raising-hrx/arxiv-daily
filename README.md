@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-09 21:24:57 Asia/Shanghai
+ Automated deployment @ 2025-07-10 09:52:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -22,14 +22,14 @@
 |**2025-07-08**|**DS@GT at CheckThat! 2025: Evaluating Context and Tokenization Strategies for Numerical Fact Verification**|Maximilian Heil et.al.|[2507.06195v1](http://arxiv.org/abs/2507.06195v1)|null|
 |**2025-07-08**|**Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling**|Prahitha Movva et.al.|[2507.06183v1](http://arxiv.org/abs/2507.06183v1)|null|
 |**2025-07-08**|**CriticLean: Critic-Guided Reinforcement Learning for Mathematical Formalization**|Zhongyuan Peng et.al.|[2507.06181v1](http://arxiv.org/abs/2507.06181v1)|null|
-|**2025-07-08**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167v1](http://arxiv.org/abs/2507.06167v1)|null|
+|**2025-07-08**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167v2](http://arxiv.org/abs/2507.06167v2)|null|
 |**2025-07-08**|**Evaluation of Habitat Robotics using Large Language Models**|William Li et.al.|[2507.06157v1](http://arxiv.org/abs/2507.06157v1)|null|
 |**2025-07-08**|**Coding Triangle: How Does Large Language Model Understand Code?**|Taolin Zhang et.al.|[2507.06138v1](http://arxiv.org/abs/2507.06138v1)|null|
 |**2025-07-08**|**PrefixAgent: An LLM-Powered Design Framework for Efficient Prefix Adder Optimization**|Dongsheng Zuo et.al.|[2507.06127v1](http://arxiv.org/abs/2507.06127v1)|null|
-|**2025-07-08**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119v1](http://arxiv.org/abs/2507.06119v1)|null|
+|**2025-07-08**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119v2](http://arxiv.org/abs/2507.06119v2)|null|
 |**2025-07-08**|**CoRE: Enhancing Metacognition with Label-free Self-evaluation in LRMs**|Haoxi Li et.al.|[2507.06087v1](http://arxiv.org/abs/2507.06087v1)|null|
 |**2025-07-08**|**MCAM: Multimodal Causal Analysis Model for Ego-Vehicle-Level Driving Video Understanding**|Tongtong Cheng et.al.|[2507.06072v1](http://arxiv.org/abs/2507.06072v1)|null|
-|**2025-07-08**|**FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models**|Bo Pang et.al.|[2507.06057v1](http://arxiv.org/abs/2507.06057v1)|null|
+|**2025-07-08**|**FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models**|Bo Pang et.al.|[2507.06057v2](http://arxiv.org/abs/2507.06057v2)|null|
 |**2025-07-08**|**Hierarchical Interaction Summarization and Contrastive Prompting for Explainable Recommendations**|Yibin Liu et.al.|[2507.06044v1](http://arxiv.org/abs/2507.06044v1)|null|
 |**2025-07-08**|**Conditional Multi-Stage Failure Recovery for Embodied Agents**|Youmna Farag et.al.|[2507.06016v1](http://arxiv.org/abs/2507.06016v1)|null|
 |**2025-07-08**|**CogniSQL-R1-Zero: Lightweight Reinforced Reasoning for Efficient SQL Generation**|Kushal Gajjar et.al.|[2507.06013v1](http://arxiv.org/abs/2507.06013v1)|null|
