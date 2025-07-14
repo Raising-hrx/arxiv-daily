@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-14 09:58:57 Asia/Shanghai
+ Automated deployment @ 2025-07-14 20:48:42 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,33 +14,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-10**|**Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology**|Haochen Wang et.al.|[2507.07999v1](http://arxiv.org/abs/2507.07999v1)|null|
-|**2025-07-10**|**PyVision: Agentic Vision with Dynamic Tooling**|Shitian Zhao et.al.|[2507.07998v1](http://arxiv.org/abs/2507.07998v1)|null|
-|**2025-07-10**|**Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs**|Ziyue Li et.al.|[2507.07996v1](http://arxiv.org/abs/2507.07996v1)|null|
-|**2025-07-10**|**Automating Expert-Level Medical Reasoning Evaluation of Large Language Models**|Shuang Zhou et.al.|[2507.07988v1](http://arxiv.org/abs/2507.07988v1)|null|
-|**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|JingLi Lin et.al.|[2507.07984v1](http://arxiv.org/abs/2507.07984v1)|null|
-|**2025-07-10**|**Constraints from CMB lensing tomography with projected bispectra**|Lea Harscouet et.al.|[2507.07968v1](http://arxiv.org/abs/2507.07968v1)|null|
-|**2025-07-10**|**Scaling RL to Long Videos**|Yukang Chen et.al.|[2507.07966v1](http://arxiv.org/abs/2507.07966v1)|null|
-|**2025-07-10**|**MIRIX: Multi-Agent Memory System for LLM-Based Agents**|Yu Wang et.al.|[2507.07957v1](http://arxiv.org/abs/2507.07957v1)|null|
-|**2025-07-10**|**SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment**|Guoxin Zang et.al.|[2507.07939v1](http://arxiv.org/abs/2507.07939v1)|null|
-|**2025-07-10**|**Meek Models Shall Inherit the Earth**|Hans Gundlach et.al.|[2507.07931v1](http://arxiv.org/abs/2507.07931v1)|null|
-|**2025-07-10**|**MIRA: A Novel Framework for Fusing Modalities in Medical RAG**|Jinhong Wang et.al.|[2507.07902v1](http://arxiv.org/abs/2507.07902v1)|null|
-|**2025-07-10**|**An Integrated Framework of Prompt Engineering and Multidimensional Knowledge Graphs for Legal Dispute Analysis**|Mingda Zhang et.al.|[2507.07893v1](http://arxiv.org/abs/2507.07893v1)|null|
-|**2025-07-10**|**DocCHA: Towards LLM-Augmented Interactive Online diagnosis System**|Xinyi Liu et.al.|[2507.07870v1](http://arxiv.org/abs/2507.07870v1)|null|
-|**2025-07-10**|**Alpay Algebra V: Multi-Layered Semantic Games and Transfinite Fixed-Point Simulation**|Bugra Kilictas et.al.|[2507.07868v1](http://arxiv.org/abs/2507.07868v1)|null|
-|**2025-07-10**|**THUNDER: Tile-level Histopathology image UNDERstanding benchmark**|Pierre Marza et.al.|[2507.07860v1](http://arxiv.org/abs/2507.07860v1)|null|
-|**2025-07-10**|**"So, Tell Me About Your Policy...": Distillation of interpretable policies from Deep Reinforcement Learning agents**|Giovanni Dispoto et.al.|[2507.07848v1](http://arxiv.org/abs/2507.07848v1)|null|
-|**2025-07-10**|**MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**|Lu Xu et.al.|[2507.07818v1](http://arxiv.org/abs/2507.07818v1)|null|
-|**2025-07-10**|**Synergistic Prompting for Robust Visual Recognition with Missing Modalities**|Zhihui Zhang et.al.|[2507.07802v2](http://arxiv.org/abs/2507.07802v2)|null|
-|**2025-07-10**|**Towards an Efficient Shifted Cholesky QR for Applications in Model Order Reduction using pyMOR**|Maximilian Bindhak et.al.|[2507.07788v1](http://arxiv.org/abs/2507.07788v1)|null|
-|**2025-07-10**|**SURPRISE3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes**|Jiaxin Huang et.al.|[2507.07781v1](http://arxiv.org/abs/2507.07781v1)|null|
-|**2025-07-10**|**BEAVER: Building Environments with Assessable Variation for Evaluating Multi-Objective Reinforcement Learning**|Ruohong Liu et.al.|[2507.07769v1](http://arxiv.org/abs/2507.07769v1)|null|
-|**2025-07-10**|**When Large Language Models Meet Law: Dual-Lens Taxonomy, Technical Advances, and Ethical Governance**|Peizhang Shao et.al.|[2507.07748v1](http://arxiv.org/abs/2507.07748v1)|null|
-|**2025-07-10**|**Stable Preference Optimization for LLMs: A Bilevel Approach Beyond Direct Preference Optimization**|Chengtao Jian et.al.|[2507.07723v1](http://arxiv.org/abs/2507.07723v1)|null|
-|**2025-07-10**|**QCD-inspired description of multiplicity distributions in jets**|Yu. L. Dokshitzer et.al.|[2507.07691v1](http://arxiv.org/abs/2507.07691v1)|null|
-|**2025-07-10**|**Rationale-Enhanced Decoding for Multi-modal Chain-of-Thought**|Shin'ya Yamaguchi et.al.|[2507.07685v1](http://arxiv.org/abs/2507.07685v1)|null|
-|**2025-07-10**|**PlanQA: A Benchmark for Spatial Reasoning in LLMs using Structured Representations**|Fedor Rodionov et.al.|[2507.07644v1](http://arxiv.org/abs/2507.07644v1)|null|
-|**2025-07-10**|**FrugalRAG: Learning to retrieve and reason for multi-hop QA**|Abhinav Java et.al.|[2507.07634v1](http://arxiv.org/abs/2507.07634v1)|null|
-|**2025-07-10**|**SpatialViz-Bench: Automatically Generated Spatial Visualization Reasoning Tasks for MLLMs**|Siting Wang et.al.|[2507.07610v1](http://arxiv.org/abs/2507.07610v1)|null|
-|**2025-07-10**|**Beyond the Linear Separability Ceiling**|Enrico Vompa et.al.|[2507.07574v1](http://arxiv.org/abs/2507.07574v1)|null|
-|**2025-07-10**|**The Synergy Dilemma of Long-CoT SFT and RL: Investigating Post-Training Techniques for Reasoning VLMs**|Jierun Chen et.al.|[2507.07562v1](http://arxiv.org/abs/2507.07562v1)|null|
+|**2025-07-11**|**The Non-Linear Representation Dilemma: Is Causal Abstraction Enough for Mechanistic Interpretability?**|Denis Sutter et.al.|[2507.08802v1](http://arxiv.org/abs/2507.08802v1)|null|
+|**2025-07-11**|**KV Cache Steering for Inducing Reasoning in Small Language Models**|Max Belitsky et.al.|[2507.08799v1](http://arxiv.org/abs/2507.08799v1)|null|
+|**2025-07-11**|**One Token to Fool LLM-as-a-Judge**|Yulai Zhao et.al.|[2507.08794v1](http://arxiv.org/abs/2507.08794v1)|null|
+|**2025-07-11**|**Multiplier algebras and local units**|Alfons Van Daele et.al.|[2507.08769v1](http://arxiv.org/abs/2507.08769v1)|null|
+|**2025-07-11**|**Dually Hierarchical Drift Adaptation for Online Configuration Performance Learning**|Zezhen Xiang et.al.|[2507.08730v1](http://arxiv.org/abs/2507.08730v1)|null|
+|**2025-07-11**|**A Personalised Formal Verification Framework for Monitoring Activities of Daily Living of Older Adults Living Independently in Their Homes**|Ricardo Contreras et.al.|[2507.08701v1](http://arxiv.org/abs/2507.08701v1)|null|
+|**2025-07-11**|**ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way**|Rajarshi Roy et.al.|[2507.08679v1](http://arxiv.org/abs/2507.08679v1)|null|
+|**2025-07-11**|**Introspection of Thought Helps AI Agents**|Haoran Sun et.al.|[2507.08664v1](http://arxiv.org/abs/2507.08664v1)|null|
+|**2025-07-11**|**Leanabell-Prover-V2: Verifier-integrated Reasoning for Formal Theorem Proving via Reinforcement Learning**|Xingguang Ji et.al.|[2507.08649v1](http://arxiv.org/abs/2507.08649v1)|null|
+|**2025-07-11**|**DatasetAgent: A Novel Multi-Agent System for Auto-Constructing Datasets from Real-World Images**|Haoran Sun et.al.|[2507.08648v1](http://arxiv.org/abs/2507.08648v1)|null|
+|**2025-07-11**|**Scaling Attention to Very Long Sequences in Linear Time with Wavelet-Enhanced Random Spectral Attention (WERSA)**|Vincenzo Dentamaro et.al.|[2507.08637v1](http://arxiv.org/abs/2507.08637v1)|null|
+|**2025-07-11**|**Entangled Threats: A Unified Kill Chain Model for Quantum Machine Learning Security**|Pascal Debus et.al.|[2507.08623v1](http://arxiv.org/abs/2507.08623v1)|null|
+|**2025-07-11**|**A comprehensive study of LLM-based argument classification: from LLAMA through GPT-4o to Deepseek-R1**|Marcin Pietroń et.al.|[2507.08621v1](http://arxiv.org/abs/2507.08621v1)|null|
+|**2025-07-11**|**Agentic Large Language Models for Conceptual Systems Engineering and Design**|Soheyl Massoudi et.al.|[2507.08619v1](http://arxiv.org/abs/2507.08619v1)|null|
+|**2025-07-11**|**Neutron-induced opalescence in silica glass**|S. A. Vasiliev et.al.|[2507.08618v1](http://arxiv.org/abs/2507.08618v1)|null|
+|**2025-07-11**|**AgentsNet: Coordination and Collaborative Reasoning in Multi-Agent LLMs**|Florian Grötschla et.al.|[2507.08616v1](http://arxiv.org/abs/2507.08616v1)|null|
+|**2025-07-11**|**Learning to Transmit Over Unknown Erasure Channels with Empirical Erasure Rate Feedback**|Haricharan Balasundaram et.al.|[2507.08599v1](http://arxiv.org/abs/2507.08599v1)|null|
+|**2025-07-11**|**Heterogeneous Dynamic Logic: Provability Modulo Program Theories**|Samuel Teuber et.al.|[2507.08581v1](http://arxiv.org/abs/2507.08581v1)|null|
+|**2025-07-11**|**AbbIE: Autoregressive Block-Based Iterative Encoder for Efficient Sequence Modeling**|Preslav Aleksandrov et.al.|[2507.08567v1](http://arxiv.org/abs/2507.08567v1)|null|
+|**2025-07-11**|**The AI Language Proficiency Monitor -- Tracking the Progress of LLMs on Multilingual Benchmarks**|David Pomerenke et.al.|[2507.08538v1](http://arxiv.org/abs/2507.08538v1)|null|
+|**2025-07-11**|**A Multi-granularity Concept Sparse Activation and Hierarchical Knowledge Graph Fusion Framework for Rare Disease Diagnosis**|Mingda Zhang et.al.|[2507.08529v1](http://arxiv.org/abs/2507.08529v1)|null|
+|**2025-07-11**|**From Language to Logic: A Bi-Level Framework for Structured Reasoning**|Keying Yang et.al.|[2507.08501v1](http://arxiv.org/abs/2507.08501v1)|null|
+|**2025-07-11**|**LLaPa: A Vision-Language Model Framework for Counterfactual-Aware Procedural Planning**|Shibo Sun et.al.|[2507.08496v1](http://arxiv.org/abs/2507.08496v1)|null|
+|**2025-07-11**|**Using Large Language Models for Legal Decision-Making in Austrian Value-Added Tax Law: An Experimental Study**|Marina Luketina et.al.|[2507.08468v1](http://arxiv.org/abs/2507.08468v1)|null|
+|**2025-07-11**|**Spectroscopic and femtoscopic insights into vector-baryon interactions in the strangeness $-1$ sector**|P. Encarnación et.al.|[2507.08466v1](http://arxiv.org/abs/2507.08466v1)|null|
+|**2025-07-11**|**KGRAG-Ex: Explainable Retrieval-Augmented Generation with Knowledge Graph-based Perturbations**|Georgios Balanos et.al.|[2507.08443v1](http://arxiv.org/abs/2507.08443v1)|null|
+|**2025-07-11**|**ChainEdit: Propagating Ripple Effects in LLM Knowledge Editing through Logical Rule-Guided Chains**|Zilu Dong et.al.|[2507.08427v1](http://arxiv.org/abs/2507.08427v1)|null|
+|**2025-07-11**|**Generative artificial intelligence and hybrid models to accelerate LES in reactive flows: Application to hydrogen/methane combustion**|Xiangrui Zou et.al.|[2507.08426v1](http://arxiv.org/abs/2507.08426v1)|null|
+|**2025-07-11**|**How a Klein-Nishina Modified Eddington limited accretion explains rapid black hole growth in the early universe**|Jackson Frangos et.al.|[2507.08405v1](http://arxiv.org/abs/2507.08405v1)|null|
+|**2025-07-11**|**A Generalized Stability Analysis Method with Dynamic Phasors for LV AC Microgrids**|Bülent Dağ et.al.|[2507.08383v1](http://arxiv.org/abs/2507.08383v1)|null|
