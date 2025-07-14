@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-13 21:18:19 Asia/Shanghai
+ Automated deployment @ 2025-07-14 09:58:57 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -31,7 +31,7 @@
 |**2025-07-10**|**THUNDER: Tile-level Histopathology image UNDERstanding benchmark**|Pierre Marza et.al.|[2507.07860v1](http://arxiv.org/abs/2507.07860v1)|null|
 |**2025-07-10**|**"So, Tell Me About Your Policy...": Distillation of interpretable policies from Deep Reinforcement Learning agents**|Giovanni Dispoto et.al.|[2507.07848v1](http://arxiv.org/abs/2507.07848v1)|null|
 |**2025-07-10**|**MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**|Lu Xu et.al.|[2507.07818v1](http://arxiv.org/abs/2507.07818v1)|null|
-|**2025-07-10**|**Synergistic Prompting for Robust Visual Recognition with Missing Modalities**|Zhihui Zhang et.al.|[2507.07802v1](http://arxiv.org/abs/2507.07802v1)|null|
+|**2025-07-10**|**Synergistic Prompting for Robust Visual Recognition with Missing Modalities**|Zhihui Zhang et.al.|[2507.07802v2](http://arxiv.org/abs/2507.07802v2)|null|
 |**2025-07-10**|**Towards an Efficient Shifted Cholesky QR for Applications in Model Order Reduction using pyMOR**|Maximilian Bindhak et.al.|[2507.07788v1](http://arxiv.org/abs/2507.07788v1)|null|
 |**2025-07-10**|**SURPRISE3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes**|Jiaxin Huang et.al.|[2507.07781v1](http://arxiv.org/abs/2507.07781v1)|null|
 |**2025-07-10**|**BEAVER: Building Environments with Assessable Variation for Evaluating Multi-Objective Reinforcement Learning**|Ruohong Liu et.al.|[2507.07769v1](http://arxiv.org/abs/2507.07769v1)|null|
