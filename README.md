@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-14 21:27:42 Asia/Shanghai
+ Automated deployment @ 2025-07-15 09:58:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -18,7 +18,7 @@
 |**2025-07-11**|**KV Cache Steering for Inducing Reasoning in Small Language Models**|Max Belitsky et.al.|[2507.08799v1](http://arxiv.org/abs/2507.08799v1)|null|
 |**2025-07-11**|**One Token to Fool LLM-as-a-Judge**|Yulai Zhao et.al.|[2507.08794v1](http://arxiv.org/abs/2507.08794v1)|null|
 |**2025-07-11**|**Multiplier algebras and local units**|Alfons Van Daele et.al.|[2507.08769v1](http://arxiv.org/abs/2507.08769v1)|null|
-|**2025-07-11**|**Dually Hierarchical Drift Adaptation for Online Configuration Performance Learning**|Zezhen Xiang et.al.|[2507.08730v1](http://arxiv.org/abs/2507.08730v1)|null|
+|**2025-07-11**|**Dually Hierarchical Drift Adaptation for Online Configuration Performance Learning**|Zezhen Xiang et.al.|[2507.08730v2](http://arxiv.org/abs/2507.08730v2)|null|
 |**2025-07-11**|**A Personalised Formal Verification Framework for Monitoring Activities of Daily Living of Older Adults Living Independently in Their Homes**|Ricardo Contreras et.al.|[2507.08701v1](http://arxiv.org/abs/2507.08701v1)|null|
 |**2025-07-11**|**ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way**|Rajarshi Roy et.al.|[2507.08679v1](http://arxiv.org/abs/2507.08679v1)|null|
 |**2025-07-11**|**Introspection of Thought Helps AI Agents**|Haoran Sun et.al.|[2507.08664v1](http://arxiv.org/abs/2507.08664v1)|null|
