@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-16 09:56:04 Asia/Shanghai
+ Automated deployment @ 2025-07-16 20:49:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,33 +14,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548v1](http://arxiv.org/abs/2507.10548v1)|null|
-|**2025-07-14**|**REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once**|Zhuoshi Pan et.al.|[2507.10541v2](http://arxiv.org/abs/2507.10541v2)|null|
-|**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540v1](http://arxiv.org/abs/2507.10540v1)|null|
-|**2025-07-14**|**Resolving Degeneracies in Complex $\mathbb{R}\times S^3$ and $θ$-KSW**|Manishankar Ailiga et.al.|[2507.10537v1](http://arxiv.org/abs/2507.10537v1)|null|
-|**2025-07-14**|**CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks**|Hongchao Jiang et.al.|[2507.10535v1](http://arxiv.org/abs/2507.10535v1)|null|
-|**2025-07-14**|**Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination**|Mingqi Wu et.al.|[2507.10532v1](http://arxiv.org/abs/2507.10532v1)|null|
-|**2025-07-14**|**DeepResearch$^{\text{Eco}}$: A Recursive Agentic Workflow for Complex Scientific Question Answering in Ecology**|Jennifer D'Souza et.al.|[2507.10522v1](http://arxiv.org/abs/2507.10522v1)|null|
-|**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500v1](http://arxiv.org/abs/2507.10500v1)|null|
-|**2025-07-14**|**CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding**|Hongyong Han et.al.|[2507.10449v1](http://arxiv.org/abs/2507.10449v1)|null|
-|**2025-07-14**|**Referential ambiguity and clarification requests: comparing human and LLM behaviour**|Chris Madge et.al.|[2507.10445v1](http://arxiv.org/abs/2507.10445v1)|null|
-|**2025-07-14**|**Consensus, Inconsistency, Emergence: what's paraconsistency got to do with it?**|Gabriel Rocha et.al.|[2507.10413v1](http://arxiv.org/abs/2507.10413v1)|null|
-|**2025-07-14**|**Am I on the Right Track? What Can Predicted Query Performance Tell Us about the Search Behaviour of Agentic RAG**|Fangzheng Tian et.al.|[2507.10411v1](http://arxiv.org/abs/2507.10411v1)|null|
-|**2025-07-14**|**Extracting Important Tokens in E-Commerce Queries with a Tag Interaction-Aware Transformer Model**|Md. Ahsanul Kabir et.al.|[2507.10385v1](http://arxiv.org/abs/2507.10385v1)|null|
-|**2025-07-14**|**Meanings are like Onions: a Layered Approach to Metaphor Processing**|Silvia Cappa et.al.|[2507.10354v1](http://arxiv.org/abs/2507.10354v1)|null|
-|**2025-07-14**|**Quark model of nucleon based on an analogy with polaron**|S. S. Afonin et.al.|[2507.10350v1](http://arxiv.org/abs/2507.10350v1)|null|
-|**2025-07-14**|**Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning**|Yichen Li et.al.|[2507.10348v1](http://arxiv.org/abs/2507.10348v1)|null|
-|**2025-07-14**|**FaceLLM: A Multimodal Large Language Model for Face Understanding**|Hatef Otroshi Shahreza et.al.|[2507.10300v1](http://arxiv.org/abs/2507.10300v1)|null|
-|**2025-07-14**|**Prompt Informed Reinforcement Learning for Visual Coverage Path Planning**|Venkat Margapuri et.al.|[2507.10284v1](http://arxiv.org/abs/2507.10284v1)|null|
-|**2025-07-14**|**Toward Real-World Table Agents: Capabilities, Workflows, and Design Principles for LLM-based Table Intelligence**|Jiaming Tian et.al.|[2507.10281v1](http://arxiv.org/abs/2507.10281v1)|null|
-|**2025-07-14**|**A Training-Free, Task-Agnostic Framework for Enhancing MLLM Performance on High-Resolution Images**|Jaeseong Lee et.al.|[2507.10202v1](http://arxiv.org/abs/2507.10202v1)|null|
-|**2025-07-14**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Alireza Dizaji et.al.|[2507.10183v1](http://arxiv.org/abs/2507.10183v1)|null|
-|**2025-07-14**|**Breaking the Myth: Can Small Models Infer Postconditions Too?**|Gehao Zhang et.al.|[2507.10182v1](http://arxiv.org/abs/2507.10182v1)|null|
-|**2025-07-14**|**Quasi-periodic variation during a fast X-ray outburst of a high-mass X-ray binary MAXI 0709-159 / LY CMa observed by NICER**|Mutsumi Sugizaki et.al.|[2507.10180v1](http://arxiv.org/abs/2507.10180v1)|null|
-|**2025-07-14**|**Optimal Battery Placement in Power Grid**|Ruotong Sun et.al.|[2507.10123v1](http://arxiv.org/abs/2507.10123v1)|null|
-|**2025-07-14**|**Young's double-slit experiment with anisotropic GHz surface acoustic waves on gallium arsenide**|Thomas Steenbergen et.al.|[2507.10117v1](http://arxiv.org/abs/2507.10117v1)|null|
-|**2025-07-14**|**Fusing Large Language Models with Temporal Transformers for Time Series Forecasting**|Chen Su et.al.|[2507.10098v1](http://arxiv.org/abs/2507.10098v1)|null|
-|**2025-07-14**|**Foundation Model Driven Robotics: A Comprehensive Review**|Muhammad Tayyab Khan et.al.|[2507.10087v1](http://arxiv.org/abs/2507.10087v1)|null|
-|**2025-07-14**|**Enhancing Chain-of-Thought Reasoning with Critical Representation Fine-tuning**|Chenxi Huang et.al.|[2507.10085v1](http://arxiv.org/abs/2507.10085v1)|null|
-|**2025-07-14**|**LayLens: Improving Deepfake Understanding through Simplified Explanations**|Abhijeet Narang et.al.|[2507.10066v1](http://arxiv.org/abs/2507.10066v1)|null|
-|**2025-07-14**|**LLMShot: Reducing snapshot testing maintenance via LLMs**|Ergün Batuhan Kaynak et.al.|[2507.10062v1](http://arxiv.org/abs/2507.10062v1)|null|
+|**2025-07-15**|**How Many Instructions Can LLMs Follow at Once?**|Daniel Jaroslawicz et.al.|[2507.11538v1](http://arxiv.org/abs/2507.11538v1)|null|
+|**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527v1](http://arxiv.org/abs/2507.11527v1)|null|
+|**2025-07-15**|**Modeling Code: Is Text All You Need?**|Daniel Nichols et.al.|[2507.11467v1](http://arxiv.org/abs/2507.11467v1)|null|
+|**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457v1](http://arxiv.org/abs/2507.11457v1)|null|
+|**2025-07-15**|**Second Quantization for the Kepler Problem**|John C. Baez et.al.|[2507.11428v1](http://arxiv.org/abs/2507.11428v1)|null|
+|**2025-07-15**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423v1](http://arxiv.org/abs/2507.11423v1)|null|
+|**2025-07-15**|**KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?**|Soumadeep Saha et.al.|[2507.11408v1](http://arxiv.org/abs/2507.11408v1)|null|
+|**2025-07-15**|**EXAONE 4.0: Unified Large Language Models Integrating Non-reasoning and Reasoning Modes**|LG AI Research et.al.|[2507.11407v1](http://arxiv.org/abs/2507.11407v1)|null|
+|**2025-07-15**|**DCR: Quantifying Data Contamination in LLMs Evaluation**|Cheng Xu et.al.|[2507.11405v1](http://arxiv.org/abs/2507.11405v1)|null|
+|**2025-07-15**|**Step-wise Policy for Rare-tool Knowledge (SPaRK): Offline RL that Drives Diverse Tool Use in LLMs**|Gabriel Bo et.al.|[2507.11371v1](http://arxiv.org/abs/2507.11371v1)|null|
+|**2025-07-15**|**Neurosymbolic Reasoning Shortcuts under the Independence Assumption**|Emile van Krieken et.al.|[2507.11357v1](http://arxiv.org/abs/2507.11357v1)|null|
+|**2025-07-15**|**Guiding LLM Decision-Making with Fairness Reward Models**|Zara Hall et.al.|[2507.11344v1](http://arxiv.org/abs/2507.11344v1)|null|
+|**2025-07-15**|**CogDDN: A Cognitive Demand-Driven Navigation with Decision Optimization and Dual-Process Thinking**|Yuehao Huang et.al.|[2507.11334v1](http://arxiv.org/abs/2507.11334v1)|null|
+|**2025-07-15**|**LRCTI: A Large Language Model-Based Framework for Multi-Step Evidence Retrieval and Reasoning in Cyber Threat Intelligence Credibility Verification**|Fengxiao Tang et.al.|[2507.11310v1](http://arxiv.org/abs/2507.11310v1)|null|
+|**2025-07-15**|**Task-Oriented Human Grasp Synthesis via Context- and Task-Aware Diffusers**|An-Lun Liu et.al.|[2507.11287v1](http://arxiv.org/abs/2507.11287v1)|null|
+|**2025-07-15**|**Taming Uncertainty via Automation: Observing, Analyzing, and Optimizing Agentic AI Systems**|Dany Moshkovich et.al.|[2507.11277v1](http://arxiv.org/abs/2507.11277v1)|null|
+|**2025-07-15**|**FMC: Formalization of Natural Language Mathematical Competition Problems**|Jiaxuan Xie et.al.|[2507.11275v1](http://arxiv.org/abs/2507.11275v1)|null|
+|**2025-07-15**|**ViewSRD: 3D Visual Grounding via Structured Multi-View Decomposition**|Ronggang Huang et.al.|[2507.11261v1](http://arxiv.org/abs/2507.11261v1)|null|
+|**2025-07-15**|**MFGDiffusion: Mask-Guided Smoke Synthesis for Enhanced Forest Fire Detection**|Guanghao Wu et.al.|[2507.11252v1](http://arxiv.org/abs/2507.11252v1)|null|
+|**2025-07-15**|**DuetGraph: Coarse-to-Fine Knowledge Graph Reasoning with Dual-Pathway Global-Local Fusion**|Jin Li et.al.|[2507.11229v1](http://arxiv.org/abs/2507.11229v1)|null|
+|**2025-07-15**|**An Agentic Flow for Finite State Machine Extraction using Prompt Chaining**|Fares Wael et.al.|[2507.11222v1](http://arxiv.org/abs/2507.11222v1)|null|
+|**2025-07-15**|**Fair Contracts**|Matteo Castiglioni et.al.|[2507.11214v1](http://arxiv.org/abs/2507.11214v1)|null|
+|**2025-07-15**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Che Liu et.al.|[2507.11200v1](http://arxiv.org/abs/2507.11200v1)|null|
+|**2025-07-15**|**Dipole-Induced Transition in 3-Dimensions**|Itamar Procaccia et.al.|[2507.11179v1](http://arxiv.org/abs/2507.11179v1)|null|
+|**2025-07-15**|**Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities**|Yiting Qu et.al.|[2507.11155v1](http://arxiv.org/abs/2507.11155v1)|null|
+|**2025-07-15**|**Collaborative Trustworthiness for Good Decision Making in Autonomous Systems**|Selma Saidi et.al.|[2507.11135v1](http://arxiv.org/abs/2507.11135v1)|null|
+|**2025-07-15**|**Defining neurosymbolic AI**|Lennert De Smet et.al.|[2507.11127v1](http://arxiv.org/abs/2507.11127v1)|null|
+|**2025-07-15**|**MSA at ImageCLEF 2025 Multimodal Reasoning: Multilingual Multimodal Reasoning With Ensemble Vision Language Models**|Seif Ahmed et.al.|[2507.11114v1](http://arxiv.org/abs/2507.11114v1)|null|
+|**2025-07-15**|**KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**|Jie Yang et.al.|[2507.11102v1](http://arxiv.org/abs/2507.11102v1)|null|
+|**2025-07-15**|**Tactical Decision for Multi-UGV Confrontation with a Vision-Language Model-Based Commander**|Li Wang et.al.|[2507.11079v1](http://arxiv.org/abs/2507.11079v1)|null|
