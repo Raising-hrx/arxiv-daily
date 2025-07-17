@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-16 21:29:30 Asia/Shanghai
+ Automated deployment @ 2025-07-17 09:56:11 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -19,7 +19,7 @@
 |**2025-07-15**|**Modeling Code: Is Text All You Need?**|Daniel Nichols et.al.|[2507.11467v1](http://arxiv.org/abs/2507.11467v1)|null|
 |**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457v1](http://arxiv.org/abs/2507.11457v1)|null|
 |**2025-07-15**|**Second Quantization for the Kepler Problem**|John C. Baez et.al.|[2507.11428v1](http://arxiv.org/abs/2507.11428v1)|null|
-|**2025-07-15**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423v1](http://arxiv.org/abs/2507.11423v1)|null|
+|**2025-07-15**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423v2](http://arxiv.org/abs/2507.11423v2)|null|
 |**2025-07-15**|**KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?**|Soumadeep Saha et.al.|[2507.11408v1](http://arxiv.org/abs/2507.11408v1)|null|
 |**2025-07-15**|**EXAONE 4.0: Unified Large Language Models Integrating Non-reasoning and Reasoning Modes**|LG AI Research et.al.|[2507.11407v1](http://arxiv.org/abs/2507.11407v1)|null|
 |**2025-07-15**|**DCR: Quantifying Data Contamination in LLMs Evaluation**|Cheng Xu et.al.|[2507.11405v1](http://arxiv.org/abs/2507.11405v1)|null|
