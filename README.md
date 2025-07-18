@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-17 21:28:57 Asia/Shanghai
+ Automated deployment @ 2025-07-18 09:58:13 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -23,7 +23,7 @@
 |**2025-07-16**|**Rethinking the confidential cloud through a unified low-level abstraction for composable isolation**|Adrien Ghosn et.al.|[2507.12364v1](http://arxiv.org/abs/2507.12364v1)|null|
 |**2025-07-16**|**A modal approach towards substitutions**|Yaxin Tu et.al.|[2507.12320v1](http://arxiv.org/abs/2507.12320v1)|null|
 |**2025-07-16**|**Thought Purity: Defense Paradigm For Chain-of-Thought Attack**|Zihao Xue et.al.|[2507.12314v1](http://arxiv.org/abs/2507.12314v1)|null|
-|**2025-07-16**|**MERA Code: A Unified Framework for Evaluating Code Generation Across Tasks**|Artem Chervyakov et.al.|[2507.12284v1](http://arxiv.org/abs/2507.12284v1)|null|
+|**2025-07-16**|**MERA Code: A Unified Framework for Evaluating Code Generation Across Tasks**|Artem Chervyakov et.al.|[2507.12284v2](http://arxiv.org/abs/2507.12284v2)|null|
 |**2025-07-16**|**Surrogate Quantum Circuit Design for the Lattice Boltzmann Collision Operator**|Monica Lăcătuş et.al.|[2507.12256v1](http://arxiv.org/abs/2507.12256v1)|null|
 |**2025-07-16**|**Towards few-shot isolated word reading assessment**|Reuben Smit et.al.|[2507.12217v1](http://arxiv.org/abs/2507.12217v1)|null|
 |**2025-07-16**|**Xiangqi-R1: Enhancing Spatial Strategic Reasoning in LLMs for Chinese Chess via Reinforcement Learning**|Yuhao Chen et.al.|[2507.12215v1](http://arxiv.org/abs/2507.12215v1)|null|
@@ -35,7 +35,7 @@
 |**2025-07-16**|**Stereo Sound Event Localization and Detection with Onscreen/offscreen Classification**|Kazuki Shimada et.al.|[2507.12042v1](http://arxiv.org/abs/2507.12042v1)|null|
 |**2025-07-16**|**M1 dipole strength from projected generator coordinate method calculations in the sd-shell valence space**|Stavros Bofos et.al.|[2507.12037v1](http://arxiv.org/abs/2507.12037v1)|null|
 |**2025-07-16**|**3D-MoRe: Unified Modal-Contextual Reasoning for Embodied Question Answering**|Rongtao Xu et.al.|[2507.12026v1](http://arxiv.org/abs/2507.12026v1)|null|
-|**2025-07-16**|**Aime: Towards Fully-Autonomous Multi-Agent Framework**|Yexuan Shi et.al.|[2507.11988v1](http://arxiv.org/abs/2507.11988v1)|null|
+|**2025-07-16**|**Aime: Towards Fully-Autonomous Multi-Agent Framework**|Yexuan Shi et.al.|[2507.11988v2](http://arxiv.org/abs/2507.11988v2)|null|
 |**2025-07-16**|**Watch, Listen, Understand, Mislead: Tri-modal Adversarial Attacks on Short Videos for Content Appropriateness Evaluation**|Sahid Hossain Mustakim et.al.|[2507.11968v1](http://arxiv.org/abs/2507.11968v1)|null|
 |**2025-07-16**|**Approximation Fixpoint Theory as a Unifying Framework for Fuzzy Logic Programming Semantics (Extended Version)**|Pascal Kettmann et.al.|[2507.11961v1](http://arxiv.org/abs/2507.11961v1)|null|
 |**2025-07-16**|**d-DQIVAR: Data-centric Visual Analytics and Reasoning for Data Quality Improvement**|Hyein Hong et.al.|[2507.11960v1](http://arxiv.org/abs/2507.11960v1)|null|
