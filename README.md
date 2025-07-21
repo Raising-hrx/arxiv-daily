@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-21 10:02:42 Asia/Shanghai
+ Automated deployment @ 2025-07-21 20:50:08 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,33 +14,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353v1](http://arxiv.org/abs/2507.13353v1)|null|
-|**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Senqiao Yang et.al.|[2507.13348v1](http://arxiv.org/abs/2507.13348v1)|null|
-|**2025-07-17**|**FormulaOne: Measuring the Depth of Algorithmic Reasoning Beyond Competitive Programming**|Gal Beniamini et.al.|[2507.13337v1](http://arxiv.org/abs/2507.13337v1)|null|
-|**2025-07-17**|**Comparing Apples to Oranges: A Dataset & Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes**|Tyler Loakman et.al.|[2507.13335v1](http://arxiv.org/abs/2507.13335v1)|null|
-|**2025-07-17**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334v1](http://arxiv.org/abs/2507.13334v1)|null|
-|**2025-07-17**|**The Imitation Game: Turing Machine Imitator is Length Generalizable Reasoner**|Zhouqi Hua et.al.|[2507.13332v1](http://arxiv.org/abs/2507.13332v1)|null|
-|**2025-07-17**|**Revisiting Reliability in the Reasoning-based Pose Estimation Benchmark**|Junsu Kim et.al.|[2507.13314v1](http://arxiv.org/abs/2507.13314v1)|null|
-|**2025-07-17**|**QuestA: Expanding Reasoning Capacity in LLMs via Question Augmentation**|Jiazheng Li et.al.|[2507.13266v1](http://arxiv.org/abs/2507.13266v1)|null|
-|**2025-07-17**|**Automating Steering for Safe Multimodal Large Language Models**|Lyucheng Wu et.al.|[2507.13255v1](http://arxiv.org/abs/2507.13255v1)|null|
-|**2025-07-17**|**HATS: Hindi Analogy Test Set for Evaluating Reasoning in Large Language Models**|Ashray Gupta et.al.|[2507.13238v1](http://arxiv.org/abs/2507.13238v1)|null|
-|**2025-07-17**|**Robust and efficient estimation of global quantum properties under realistic noise**|Qingyue Zhang et.al.|[2507.13237v1](http://arxiv.org/abs/2507.13237v1)|null|
-|**2025-07-17**|**Higher-Order Pattern Unification Modulo Similarity Relations**|Besik Dundua et.al.|[2507.13208v1](http://arxiv.org/abs/2507.13208v1)|null|
-|**2025-07-17**|**GEMMAS: Graph-based Evaluation Metrics for Multi Agent Systems**|Jisoo Lee et.al.|[2507.13190v1](http://arxiv.org/abs/2507.13190v1)|null|
-|**2025-07-17**|**Inverse Reinforcement Learning Meets Large Language Model Post-Training: Basics, Advances, and Opportunities**|Hao Sun et.al.|[2507.13158v1](http://arxiv.org/abs/2507.13158v1)|null|
-|**2025-07-17**|**SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models**|Xiangyu Dong et.al.|[2507.13152v1](http://arxiv.org/abs/2507.13152v1)|null|
-|**2025-07-17**|**From Roots to Rewards: Dynamic Tree Reasoning with RL**|Ahmed Bahloul et.al.|[2507.13142v2](http://arxiv.org/abs/2507.13142v2)|null|
-|**2025-07-17**|**MAD-Spear: A Conformity-Driven Prompt Injection Attack on Multi-Agent Debate Systems**|Yu Cui et.al.|[2507.13038v1](http://arxiv.org/abs/2507.13038v1)|null|
-|**2025-07-17**|**From Paranoia to Compliance: The Bumpy Road of System Hardening Practices on Stack Exchange**|Niklas Busch et.al.|[2507.13028v1](http://arxiv.org/abs/2507.13028v1)|null|
-|**2025-07-17**|**Exploiting Constraint Reasoning to Build Graphical Explanations for Mixed-Integer Linear Programming**|Roger Xavier Lera-Leri et.al.|[2507.13007v1](http://arxiv.org/abs/2507.13007v1)|null|
-|**2025-07-17**|**A Translation of Probabilistic Event Calculus into Markov Decision Processes**|Lyris Xu et.al.|[2507.12989v1](http://arxiv.org/abs/2507.12989v1)|null|
-|**2025-07-17**|**The Goldilocks zone of governing technology: Leveraging uncertainty for responsible quantum practices**|Miriam Meckel et.al.|[2507.12957v1](http://arxiv.org/abs/2507.12957v1)|null|
-|**2025-07-17**|**Probabilistic Soundness Guarantees in LLM Reasoning Chains**|Weiqiu You et.al.|[2507.12948v1](http://arxiv.org/abs/2507.12948v1)|null|
-|**2025-07-17**|**Making Language Model a Hierarchical Classifier and Generator**|Yihong Wang et.al.|[2507.12930v1](http://arxiv.org/abs/2507.12930v1)|null|
-|**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[2507.12911v1](http://arxiv.org/abs/2507.12911v1)|null|
-|**2025-07-17**|**Agentar-DeepFinance-300K: A Large-Scale Financial Dataset via Systematic Chain-of-Thought Synthesis Optimization**|Xiaoke Zhao et.al.|[2507.12901v1](http://arxiv.org/abs/2507.12901v1)|null|
-|**2025-07-17**|**Learning to Reject Low-Quality Explanations via User Feedback**|Luca Stradiotti et.al.|[2507.12900v2](http://arxiv.org/abs/2507.12900v2)|null|
-|**2025-07-17**|**Generalist Bimanual Manipulation via Foundation Video Diffusion Models**|Yao Feng et.al.|[2507.12898v1](http://arxiv.org/abs/2507.12898v1)|null|
-|**2025-07-17**|**VAR-MATH: Probing True Mathematical Reasoning in Large Language Models via Symbolic Multi-Instance Benchmarks**|Jian Yao et.al.|[2507.12885v1](http://arxiv.org/abs/2507.12885v1)|null|
-|**2025-07-17**|**HRSeg: High-Resolution Visual Perception and Enhancement for Reasoning Segmentation**|Weihuang Lin et.al.|[2507.12883v1](http://arxiv.org/abs/2507.12883v1)|null|
-|**2025-07-17**|**DEMONSTRATE: Zero-shot Language to Robotic Control via Multi-task Demonstration Learning**|Rahel Rickenbach et.al.|[2507.12855v1](http://arxiv.org/abs/2507.12855v1)|null|
+|**2025-07-18**|**OpenBEATs: A Fully Open-Source General-Purpose Audio Encoder**|Shikhar Bharadwaj et.al.|[2507.14129v1](http://arxiv.org/abs/2507.14129v1)|null|
+|**2025-07-18**|**Quantum Boltzmann Machines using Parallel Annealing for Medical Image Classification**|Daniëlle Schuman et.al.|[2507.14116v1](http://arxiv.org/abs/2507.14116v1)|null|
+|**2025-07-18**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111v1](http://arxiv.org/abs/2507.14111v1)|null|
+|**2025-07-18**|**DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration**|Xiyun Li et.al.|[2507.14088v1](http://arxiv.org/abs/2507.14088v1)|null|
+|**2025-07-18**|**Shipwright: Proving liveness of distributed systems with Byzantine participants**|Derek Leung et.al.|[2507.14080v1](http://arxiv.org/abs/2507.14080v1)|null|
+|**2025-07-18**|**Collaborative Rational Speech Act: Pragmatic Reasoning for Multi-Turn Dialog**|Lautaro Estienne et.al.|[2507.14063v1](http://arxiv.org/abs/2507.14063v1)|null|
+|**2025-07-18**|**Online MMS Allocation for Chores**|Jiaxin Song et.al.|[2507.14039v1](http://arxiv.org/abs/2507.14039v1)|null|
+|**2025-07-18**|**Efficient Temporal Tokenization for Mobility Prediction with Large Language Models**|Haoyu He et.al.|[2507.14017v1](http://arxiv.org/abs/2507.14017v1)|null|
+|**2025-07-18**|**Bottom-up Domain-specific Superintelligence: A Reliable Knowledge Graph is What We Need**|Bhishma Dedhia et.al.|[2507.13966v1](http://arxiv.org/abs/2507.13966v1)|null|
+|**2025-07-18**|**Towards Constraint Temporal Answer Set Programming**|Pedro Cabalar et.al.|[2507.13958v1](http://arxiv.org/abs/2507.13958v1)|null|
+|**2025-07-18**|**DUALRec: A Hybrid Sequential and Language Model Framework for Context-Aware Movie Recommendation**|Yitong Li et.al.|[2507.13957v1](http://arxiv.org/abs/2507.13957v1)|null|
+|**2025-07-18**|**Cross-modal Causal Intervention for Alzheimer's Disease Prediction**|Yutao Jin et.al.|[2507.13956v1](http://arxiv.org/abs/2507.13956v1)|null|
+|**2025-07-18**|**Device-Free Localization Using Commercial UWB Transceivers**|Hyun Seok Lee et.al.|[2507.13938v1](http://arxiv.org/abs/2507.13938v1)|null|
+|**2025-07-18**|**The spin-orbit alignment hypothesis in millisecond pulsars**|Alexandra Lorange et.al.|[2507.13893v1](http://arxiv.org/abs/2507.13893v1)|null|
+|**2025-07-18**|**InTraVisTo: Inside Transformer Visualisation Tool**|Nicolò Brunello et.al.|[2507.13858v1](http://arxiv.org/abs/2507.13858v1)|null|
+|**2025-07-18**|**Complexity of Abduction in Łukasiewicz Logic**|Katsumi Inoue et.al.|[2507.13847v1](http://arxiv.org/abs/2507.13847v1)|null|
+|**2025-07-18**|**Principles and Reasons Behind Automated Vehicle Decisions in Ethically Ambiguous Everyday Scenarios**|Lucas Elbert Suryana et.al.|[2507.13837v1](http://arxiv.org/abs/2507.13837v1)|null|
+|**2025-07-18**|**DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training**|Zhixin Wang et.al.|[2507.13833v1](http://arxiv.org/abs/2507.13833v1)|null|
+|**2025-07-18**|**Team of One: Cracking Complex Video QA with Model Synergy**|Jun Xie et.al.|[2507.13820v1](http://arxiv.org/abs/2507.13820v1)|null|
+|**2025-07-18**|**One Step Closer: Creating the Future to Boost Monocular Semantic Scene Completion**|Haoang Lu et.al.|[2507.13801v1](http://arxiv.org/abs/2507.13801v1)|null|
+|**2025-07-18**|**Don't exhaust, don't waste**|Riccardo Bianchini et.al.|[2507.13792v1](http://arxiv.org/abs/2507.13792v1)|null|
+|**2025-07-18**|**From Extraction to Synthesis: Entangled Heuristics for Agent-Augmented Strategic Reasoning**|Renato Ghisellini et.al.|[2507.13768v1](http://arxiv.org/abs/2507.13768v1)|null|
+|**2025-07-18**|**OntView: What you See is What you Meant**|Carlos Bobed et.al.|[2507.13759v1](http://arxiv.org/abs/2507.13759v1)|null|
+|**2025-07-18**|**The Emperor's New Chain-of-Thought: Probing Reasoning Theater Bias in Large Reasoning Models**|Qian Wang et.al.|[2507.13758v1](http://arxiv.org/abs/2507.13758v1)|null|
+|**2025-07-18**|**Revisiting the $Λ_c^+\to Ληπ^+$ and the roles of intermediate resonances**|En Wang et.al.|[2507.13738v1](http://arxiv.org/abs/2507.13738v1)|null|
+|**2025-07-18**|**Graph-Structured Data Analysis of Component Failure in Autonomous Cargo Ships Based on Feature Fusion**|Zizhao Zhang et.al.|[2507.13721v1](http://arxiv.org/abs/2507.13721v1)|null|
+|**2025-07-18**|**SAQR-QC: A Logic for Scalable but Approximate Quantitative Reasoning about Quantum Circuits**|Nengkun Yu et.al.|[2507.13635v1](http://arxiv.org/abs/2507.13635v1)|null|
+|**2025-07-18**|**Large Language Models in Cybersecurity: Applications, Vulnerabilities, and Defense Techniques**|Niveen O. Jaffal et.al.|[2507.13629v1](http://arxiv.org/abs/2507.13629v1)|null|
+|**2025-07-18**|**BifrostRAG: Bridging Dual Knowledge Graphs for Multi-Hop Question Answering in Construction Safety**|Yuxin Zhang et.al.|[2507.13625v1](http://arxiv.org/abs/2507.13625v1)|null|
+|**2025-07-18**|**Seed-X: Building Strong Multilingual Translation LLM with 7B Parameters**|Shanbo Cheng et.al.|[2507.13618v1](http://arxiv.org/abs/2507.13618v1)|null|
