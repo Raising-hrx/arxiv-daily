@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-20 21:20:50 Asia/Shanghai
+ Automated deployment @ 2025-07-21 10:02:42 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -29,7 +29,7 @@
 |**2025-07-17**|**GEMMAS: Graph-based Evaluation Metrics for Multi Agent Systems**|Jisoo Lee et.al.|[2507.13190v1](http://arxiv.org/abs/2507.13190v1)|null|
 |**2025-07-17**|**Inverse Reinforcement Learning Meets Large Language Model Post-Training: Basics, Advances, and Opportunities**|Hao Sun et.al.|[2507.13158v1](http://arxiv.org/abs/2507.13158v1)|null|
 |**2025-07-17**|**SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models**|Xiangyu Dong et.al.|[2507.13152v1](http://arxiv.org/abs/2507.13152v1)|null|
-|**2025-07-17**|**From Roots to Rewards: Dynamic Tree Reasoning with RL**|Ahmed Bahloul et.al.|[2507.13142v1](http://arxiv.org/abs/2507.13142v1)|null|
+|**2025-07-17**|**From Roots to Rewards: Dynamic Tree Reasoning with RL**|Ahmed Bahloul et.al.|[2507.13142v2](http://arxiv.org/abs/2507.13142v2)|null|
 |**2025-07-17**|**MAD-Spear: A Conformity-Driven Prompt Injection Attack on Multi-Agent Debate Systems**|Yu Cui et.al.|[2507.13038v1](http://arxiv.org/abs/2507.13038v1)|null|
 |**2025-07-17**|**From Paranoia to Compliance: The Bumpy Road of System Hardening Practices on Stack Exchange**|Niklas Busch et.al.|[2507.13028v1](http://arxiv.org/abs/2507.13028v1)|null|
 |**2025-07-17**|**Exploiting Constraint Reasoning to Build Graphical Explanations for Mixed-Integer Linear Programming**|Roger Xavier Lera-Leri et.al.|[2507.13007v1](http://arxiv.org/abs/2507.13007v1)|null|
@@ -39,7 +39,7 @@
 |**2025-07-17**|**Making Language Model a Hierarchical Classifier and Generator**|Yihong Wang et.al.|[2507.12930v1](http://arxiv.org/abs/2507.12930v1)|null|
 |**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[2507.12911v1](http://arxiv.org/abs/2507.12911v1)|null|
 |**2025-07-17**|**Agentar-DeepFinance-300K: A Large-Scale Financial Dataset via Systematic Chain-of-Thought Synthesis Optimization**|Xiaoke Zhao et.al.|[2507.12901v1](http://arxiv.org/abs/2507.12901v1)|null|
-|**2025-07-17**|**Learning to Reject Low-Quality Explanations via User Feedback**|Luca Stradiotti et.al.|[2507.12900v1](http://arxiv.org/abs/2507.12900v1)|null|
+|**2025-07-17**|**Learning to Reject Low-Quality Explanations via User Feedback**|Luca Stradiotti et.al.|[2507.12900v2](http://arxiv.org/abs/2507.12900v2)|null|
 |**2025-07-17**|**Generalist Bimanual Manipulation via Foundation Video Diffusion Models**|Yao Feng et.al.|[2507.12898v1](http://arxiv.org/abs/2507.12898v1)|null|
 |**2025-07-17**|**VAR-MATH: Probing True Mathematical Reasoning in Large Language Models via Symbolic Multi-Instance Benchmarks**|Jian Yao et.al.|[2507.12885v1](http://arxiv.org/abs/2507.12885v1)|null|
 |**2025-07-17**|**HRSeg: High-Resolution Visual Perception and Enhancement for Reasoning Segmentation**|Weihuang Lin et.al.|[2507.12883v1](http://arxiv.org/abs/2507.12883v1)|null|
