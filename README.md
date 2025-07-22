@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-21 21:31:39 Asia/Shanghai
+ Automated deployment @ 2025-07-22 09:56:58 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-07-18**|**OpenBEATs: A Fully Open-Source General-Purpose Audio Encoder**|Shikhar Bharadwaj et.al.|[2507.14129v1](http://arxiv.org/abs/2507.14129v1)|null|
 |**2025-07-18**|**Quantum Boltzmann Machines using Parallel Annealing for Medical Image Classification**|Daniëlle Schuman et.al.|[2507.14116v1](http://arxiv.org/abs/2507.14116v1)|null|
-|**2025-07-18**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111v1](http://arxiv.org/abs/2507.14111v1)|null|
+|**2025-07-18**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111v2](http://arxiv.org/abs/2507.14111v2)|null|
 |**2025-07-18**|**DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration**|Xiyun Li et.al.|[2507.14088v1](http://arxiv.org/abs/2507.14088v1)|null|
 |**2025-07-18**|**Shipwright: Proving liveness of distributed systems with Byzantine participants**|Derek Leung et.al.|[2507.14080v1](http://arxiv.org/abs/2507.14080v1)|null|
 |**2025-07-18**|**Collaborative Rational Speech Act: Pragmatic Reasoning for Multi-Turn Dialog**|Lautaro Estienne et.al.|[2507.14063v1](http://arxiv.org/abs/2507.14063v1)|null|
@@ -34,7 +34,7 @@
 |**2025-07-18**|**DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training**|Zhixin Wang et.al.|[2507.13833v1](http://arxiv.org/abs/2507.13833v1)|null|
 |**2025-07-18**|**Team of One: Cracking Complex Video QA with Model Synergy**|Jun Xie et.al.|[2507.13820v1](http://arxiv.org/abs/2507.13820v1)|null|
 |**2025-07-18**|**One Step Closer: Creating the Future to Boost Monocular Semantic Scene Completion**|Haoang Lu et.al.|[2507.13801v1](http://arxiv.org/abs/2507.13801v1)|null|
-|**2025-07-18**|**Don't exhaust, don't waste**|Riccardo Bianchini et.al.|[2507.13792v1](http://arxiv.org/abs/2507.13792v1)|null|
+|**2025-07-18**|**Don't exhaust, don't waste**|Riccardo Bianchini et.al.|[2507.13792v2](http://arxiv.org/abs/2507.13792v2)|null|
 |**2025-07-18**|**From Extraction to Synthesis: Entangled Heuristics for Agent-Augmented Strategic Reasoning**|Renato Ghisellini et.al.|[2507.13768v1](http://arxiv.org/abs/2507.13768v1)|null|
 |**2025-07-18**|**OntView: What you See is What you Meant**|Carlos Bobed et.al.|[2507.13759v1](http://arxiv.org/abs/2507.13759v1)|null|
 |**2025-07-18**|**The Emperor's New Chain-of-Thought: Probing Reasoning Theater Bias in Large Reasoning Models**|Qian Wang et.al.|[2507.13758v1](http://arxiv.org/abs/2507.13758v1)|null|
