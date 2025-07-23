@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-23 09:57:49 Asia/Shanghai
+ Automated deployment @ 2025-07-23 20:50:21 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -14,33 +14,33 @@
 ### Reasoning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-21**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855v2](http://arxiv.org/abs/2507.15855v2)|null|
-|**2025-07-21**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852v2](http://arxiv.org/abs/2507.15852v2)|null|
-|**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849v1](http://arxiv.org/abs/2507.15849v1)|null|
-|**2025-07-21**|**GUI-G$^2$: Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846v2](http://arxiv.org/abs/2507.15846v2)|null|
-|**2025-07-21**|**Hierarchical Budget Policy Optimization for Adaptive Reasoning**|Shangke Lyu et.al.|[2507.15844v2](http://arxiv.org/abs/2507.15844v2)|null|
-|**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Enes Sanli et.al.|[2507.15824v1](http://arxiv.org/abs/2507.15824v1)|null|
-|**2025-07-21**|**Small LLMs Do Not Learn a Generalizable Theory of Mind via Reinforcement Learning**|Sneheel Sarangi et.al.|[2507.15788v1](http://arxiv.org/abs/2507.15788v1)|null|
-|**2025-07-21**|**Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR**|Jiakang Wang et.al.|[2507.15778v1](http://arxiv.org/abs/2507.15778v1)|null|
-|**2025-07-21**|**A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining**|Yifan Shen et.al.|[2507.15770v1](http://arxiv.org/abs/2507.15770v1)|null|
-|**2025-07-21**|**Interaction as Intelligence: Deep Research With Human-AI Partnership**|Lyumanshan Ye et.al.|[2507.15759v1](http://arxiv.org/abs/2507.15759v1)|null|
-|**2025-07-21**|**LAPO: Internalizing Reasoning Efficiency via Length-Adaptive Policy Optimization**|Xingyu Wu et.al.|[2507.15758v1](http://arxiv.org/abs/2507.15758v1)|null|
-|**2025-07-21**|**The Probable Direct-Imaging Detection of the Stellar Companion to Betelgeuse**|Steve B. Howell et.al.|[2507.15749v1](http://arxiv.org/abs/2507.15749v1)|null|
-|**2025-07-21**|**Understanding Large Language Models' Ability on Interdisciplinary Research**|Yuanhao Shen et.al.|[2507.15736v1](http://arxiv.org/abs/2507.15736v1)|null|
-|**2025-07-21**|**BEnchmarking LLMs for Ophthalmology (BELO) for Ophthalmological Knowledge and Reasoning**|Sahana Srinivasan et.al.|[2507.15717v1](http://arxiv.org/abs/2507.15717v1)|null|
-|**2025-07-21**|**Chinchunmei at SemEval-2025 Task 11: Boosting the Large Language Model's Capability of Emotion Perception using Contrastive Learning**|Tian Li et.al.|[2507.15714v1](http://arxiv.org/abs/2507.15714v1)|null|
-|**2025-07-21**|**Is Large Language Model Performance on Reasoning Tasks Impacted by Different Ways Questions Are Asked?**|Seok Hwan Song et.al.|[2507.15707v1](http://arxiv.org/abs/2507.15707v1)|null|
-|**2025-07-21**|**CoLD: Counterfactually-Guided Length Debiasing for Process Reward Models**|Congmin Zheng et.al.|[2507.15698v1](http://arxiv.org/abs/2507.15698v1)|null|
-|**2025-07-21**|**Online survival analysis with quantile regression**|Yi Deng et.al.|[2507.15696v1](http://arxiv.org/abs/2507.15696v1)|null|
-|**2025-07-21**|**P3: Prompts Promote Prompting**|Xinyu Zhang et.al.|[2507.15675v1](http://arxiv.org/abs/2507.15675v1)|null|
-|**2025-07-21**|**BugScope: Learn to Find Bugs Like Human**|Jinyao Guo et.al.|[2507.15671v1](http://arxiv.org/abs/2507.15671v1)|null|
-|**2025-07-21**|**Modeling CubeSat Storage Battery Discharge: Equivalent Circuit Versus Machine Learning Approaches**|Igor Turkin et.al.|[2507.15666v1](http://arxiv.org/abs/2507.15666v1)|null|
-|**2025-07-21**|**Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training**|Kailai Yang et.al.|[2507.15640v1](http://arxiv.org/abs/2507.15640v1)|null|
-|**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Hao Luo et.al.|[2507.15597v1](http://arxiv.org/abs/2507.15597v1)|null|
-|**2025-07-21**|**Learning to Extract Rational Evidence via Reinforcement Learning for Retrieval-Augmented Generation**|Xinping Zhao et.al.|[2507.15586v1](http://arxiv.org/abs/2507.15586v1)|null|
-|**2025-07-21**|**Configurational-force-driven adaptive refinement and coarsening in topology optimization**|Gabriel Stankiewicz et.al.|[2507.15570v1](http://arxiv.org/abs/2507.15570v1)|null|
-|**2025-07-21**|**PhysGym: Benchmarking LLMs in Interactive Physics Discovery with Controlled Priors**|Yimeng Chen et.al.|[2507.15550v1](http://arxiv.org/abs/2507.15550v1)|null|
-|**2025-07-21**|**Bayesian Separation Logic**|Shing Hin Ho et.al.|[2507.15530v1](http://arxiv.org/abs/2507.15530v1)|null|
-|**2025-07-21**|**LLM world models are mental: Output layer evidence of brittle world model use in LLM mechanical reasoning**|Cole Robertson et.al.|[2507.15521v1](http://arxiv.org/abs/2507.15521v1)|null|
-|**2025-07-21**|**Step-level Verifier-guided Hybrid Test-Time Scaling for Large Language Models**|Kaiyan Chang et.al.|[2507.15512v1](http://arxiv.org/abs/2507.15512v1)|null|
-|**2025-07-21**|**Chart-R1: Chain-of-Thought Supervision and Reinforcement for Advanced Chart Reasoner**|Lei Chen et.al.|[2507.15509v1](http://arxiv.org/abs/2507.15509v1)|null|
+|**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815v1](http://arxiv.org/abs/2507.16815v1)|null|
+|**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Junhao Shen et.al.|[2507.16814v1](http://arxiv.org/abs/2507.16814v1)|null|
+|**2025-07-22**|**MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning**|Run-Ze Fan et.al.|[2507.16812v1](http://arxiv.org/abs/2507.16812v1)|null|
+|**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809v1](http://arxiv.org/abs/2507.16809v1)|null|
+|**2025-07-22**|**Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty**|Mehul Damani et.al.|[2507.16806v1](http://arxiv.org/abs/2507.16806v1)|null|
+|**2025-07-22**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802v1](http://arxiv.org/abs/2507.16802v1)|null|
+|**2025-07-22**|**Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning**|Hongyin Luo et.al.|[2507.16784v1](http://arxiv.org/abs/2507.16784v1)|null|
+|**2025-07-22**|**When LLMs Copy to Think: Uncovering Copy-Guided Attacks in Reasoning LLMs**|Yue Li et.al.|[2507.16773v1](http://arxiv.org/abs/2507.16773v1)|null|
+|**2025-07-22**|**Multi-RIS-Empowered Communication Systems: Capacity Analysis and Optimization**|Aris L. Moustakas et.al.|[2507.16767v1](http://arxiv.org/abs/2507.16767v1)|null|
+|**2025-07-22**|**Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning**|Ang Li et.al.|[2507.16746v1](http://arxiv.org/abs/2507.16746v1)|null|
+|**2025-07-22**|**Temporally-Constrained Video Reasoning Segmentation and Automated Benchmark Construction**|Yiqing Shen et.al.|[2507.16718v1](http://arxiv.org/abs/2507.16718v1)|null|
+|**2025-07-22**|**P-CoT: A Pedagogically-motivated Participatory Chain-of-Thought Prompting for Phonological Reasoning in LLMs**|Dongjun Jang et.al.|[2507.16656v1](http://arxiv.org/abs/2507.16656v1)|null|
+|**2025-07-22**|**Step-Audio 2 Technical Report**|Boyong Wu et.al.|[2507.16632v1](http://arxiv.org/abs/2507.16632v1)|null|
+|**2025-07-22**|**Some classes of finite-dimensional ladder operators**|Fabio Bagarello et.al.|[2507.16629v1](http://arxiv.org/abs/2507.16629v1)|null|
+|**2025-07-22**|**Augmenting Von Neumann's Architecture for an Intelligent Future**|Rajpreet Singh et.al.|[2507.16628v1](http://arxiv.org/abs/2507.16628v1)|null|
+|**2025-07-22**|**Transordinal Fixed-Point Operators and Self-Referential Games: A Categorical Framework for Reflective Semantic Convergence**|Faruk Alpay et.al.|[2507.16620v1](http://arxiv.org/abs/2507.16620v1)|null|
+|**2025-07-22**|**The gravitational potential of spiral perturbations. I the 2D (razor-thin) case**|Walter Dehnen et.al.|[2507.16615v1](http://arxiv.org/abs/2507.16615v1)|null|
+|**2025-07-22**|**Scaling Linear Attention with Sparse State Expansion**|Yuqi Pan et.al.|[2507.16577v1](http://arxiv.org/abs/2507.16577v1)|null|
+|**2025-07-22**|**Pixels to Principles: Probing Intuitive Physics Understanding in Multimodal Language Models**|Mohamad Ballout et.al.|[2507.16572v1](http://arxiv.org/abs/2507.16572v1)|null|
+|**2025-07-22**|**Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report**|Shanghai AI Lab et.al.|[2507.16534v1](http://arxiv.org/abs/2507.16534v1)|null|
+|**2025-07-22**|**C2-Evo: Co-Evolving Multimodal Data and Model for Self-Improving Reasoning**|Xiuwei Chen et.al.|[2507.16518v1](http://arxiv.org/abs/2507.16518v1)|null|
+|**2025-07-22**|**Agentic RAG with Knowledge Graphs for Complex Multi-Hop Reasoning in Real-World Applications**|Jean Lelong et.al.|[2507.16507v1](http://arxiv.org/abs/2507.16507v1)|null|
+|**2025-07-22**|**Learning Temporal Abstractions via Variational Homomorphisms in Option-Induced Abstract MDPs**|Chang Li et.al.|[2507.16473v1](http://arxiv.org/abs/2507.16473v1)|null|
+|**2025-07-22**|**SceneLoom: Communicating Data with Scene Context**|Lin Gao et.al.|[2507.16466v1](http://arxiv.org/abs/2507.16466v1)|null|
+|**2025-07-22**|**An effective physics-informed neural operator framework for predicting wavefields**|Xiao Ma et.al.|[2507.16431v1](http://arxiv.org/abs/2507.16431v1)|null|
+|**2025-07-22**|**ReasonVQA: A Multi-hop Reasoning Benchmark with Structural Knowledge for Visual Question Answering**|Thuy-Duong Tran et.al.|[2507.16403v1](http://arxiv.org/abs/2507.16403v1)|null|
+|**2025-07-22**|**LLM-Driven Collaborative Model for Untangling Commits via Explicit and Implicit Dependency Reasoning**|Bo Hou et.al.|[2507.16395v1](http://arxiv.org/abs/2507.16395v1)|null|
+|**2025-07-22**|**Canonical Representations of Markovian Structural Causal Models: A Framework for Counterfactual Reasoning**|Lucas de Lara et.al.|[2507.16370v1](http://arxiv.org/abs/2507.16370v1)|null|
+|**2025-07-22**|**Re:Form -- Reducing Human Priors in Scalable Formal Software Verification with RL in LLMs: A Preliminary Study on Dafny**|Chuanhao Yan et.al.|[2507.16331v1](http://arxiv.org/abs/2507.16331v1)|null|
+|**2025-07-22**|**Mind the Gap: Evaluating the Representativeness of Quantitative Medical Language Reasoning LLM Benchmarks for African Disease Burdens**|Fred Mutisya et.al.|[2507.16322v1](http://arxiv.org/abs/2507.16322v1)|null|
